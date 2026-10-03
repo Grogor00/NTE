@@ -1,0 +1,7 @@
+pandoc.exe : [WARNING] Missing character: There is no ß┤║ (U+1D3A) in font Libertinus Serif Regular/OT:script=lat
+At C:\Users\gregw\Desktop\NTE_ZENODO_CLEAN\Book\paper-build\render-book-updates.ps1:67 char:17
++ ... andocOut = (& $pandoc $scratch --defaults $defaults -o $out 2>&1 | Ou ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([WARNING] Missi...r/OT:script=lat:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

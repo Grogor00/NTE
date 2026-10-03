@@ -1,0 +1,615 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+\documentclass[
+  11pt,
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+  \setmainfont[]{Libertinus Serif}
+  \setmathfont[]{Libertinus Math}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{longtable,booktabs,array}
+\usepackage{ragged2e}
+\usepackage{makecell}
+\AtBeginEnvironment{longtable}{\small}
+
+\usepackage{amsmath,amssymb,mathtools}
+\usepackage{microtype}
+\usepackage[none]{hyphenat}
+\emergencystretch=3em
+
+% Centered publication title block (Pandoc \maketitle)
+\usepackage{titling}
+\pretitle{\begin{center}\LARGE\bfseries}
+\posttitle{\par\end{center}\vskip 0.5em}
+\preauthor{\begin{center}\large}
+\postauthor{\par\end{center}}
+\predate{\begin{center}\large}
+\postdate{\par\end{center}\vskip 1.5em}
+
+% Allow breaks in pandoc inline-code paths (Appendix B filenames)
+\usepackage{xurl}
+\makeatletter
+\def\UrlBreaks{%
+  \do\-\do\.\do\_\do\/\do\=\do\?\do\&\do\ \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z%
+  \do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do\0\do\1\do\2\do\3\do\4\do\5\do\6\do\7\do\8\do\9}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{The Shape of Time}\label{the-shape-of-time}
+
+\section{Appendix A --- Popular Paper, Reader Edition (NTE v10.8
+v7)}\label{appendix-a-popular-paper-reader-edition-nte-v10.8-v7}
+
+\emph{Non-Temporal Emergence (NTE): the Null-Time Extension to the
+Standard Model}
+
+G. White
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+This appendix is \textbf{not} the full corpus Popular Paper. It
+reproduces the \textbf{Reader Edition} only:
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.4286}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.2857}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.2857}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Edition
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+File
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Role
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Reader Edition (this appendix)} &
+\texttt{Paper\_\textbackslash{}allowbreak\{\}Popular\_\textbackslash{}allowbreak\{\}v10\_\textbackslash{}allowbreak\{\}8\_\textbackslash{}allowbreak\{\}v7.md}
+& \textasciitilde4,800 words; recap after the chapters \\
+\textbf{Full Edition (corpus)} &
+\texttt{Paper\_\textbackslash{}allowbreak\{\}Popular\_\textbackslash{}allowbreak\{\}v10\_\textbackslash{}allowbreak\{\}8\_\textbackslash{}allowbreak\{\}v6.md}
+& \textasciitilde13,000 words; complete corpus lay paper \\
+\end{longtable}
+}
+
+Same framework and predictions; different length and purpose. Technical
+proofs and companion papers: \textbf{Appendix B}.
+
+\textbf{Source of truth for this appendix:}
+\texttt{NTE\ v10\_\textbackslash{}allowbreak\{\}6/Papers/Paper\_\textbackslash{}allowbreak\{\}Popular\_\textbackslash{}allowbreak\{\}v10\_\textbackslash{}allowbreak\{\}8\_\textbackslash{}allowbreak\{\}v7.md}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{What If Time Is Made of
+Something?}\label{what-if-time-is-made-of-something}
+
+\subsection{The Null-Time Extension to the Standard Model, Explained
+From First
+Principles}\label{the-null-time-extension-to-the-standard-model-explained-from-first-principles}
+
+\textbf{G. White}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{quote}
+\textbf{NTE Popular Paper --- v10.8 v7 · Reader Edition (book
+appendix)}\\
+\textasciitilde4,800 words. Compressed lay recap for readers of
+\emph{The Shape of Time}; canonical source for \textbf{Appendix A}
+(\texttt{Appendix\_\textbackslash{}allowbreak\{\}A\_\textbackslash{}allowbreak\{\}NTE\_\textbackslash{}allowbreak\{\}Popular\_\textbackslash{}allowbreak\{\}Paper\_\textbackslash{}allowbreak\{\}v10\_\textbackslash{}allowbreak\{\}8\_\textbackslash{}allowbreak\{\}v7.md}).\\
+\textbf{This is not the full corpus paper.} The companion document is
+\textbf{\texttt{Paper\_\textbackslash{}allowbreak\{\}Popular\_\textbackslash{}allowbreak\{\}v10\_\textbackslash{}allowbreak\{\}8\_\textbackslash{}allowbreak\{\}v6.md}
+--- Full Edition} (\textasciitilde13,000 words): the complete corpus lay
+paper for standalone distribution. Same framework; different length and
+purpose. Do not treat v6 and v7 as interchangeable filenames.
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+There is a fact buried in your physics textbook that nobody has fully
+followed to its conclusion.
+
+A photon of light --- any photon, ever --- experiences zero time between
+the moment it's created and the moment it's absorbed. Not very little
+time. Zero. From the photon's perspective (to the extent that word means
+anything for an object with no clock), emission and absorption are the
+same instant. The entire journey from a star four hundred light-years
+away to your eye happens, for the photon, in no time at all.
+
+Every physicist knows this. It follows directly from Einstein's special
+relativity, one of the most tested theories in all of science. And then,
+almost universally, physicists set it aside and get on with their
+calculations.
+
+This paper is what happens when you don't set it aside.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{A Note on Method}\label{a-note-on-method}
+
+This paper is not a claim that NTE is the correct theory of fundamental
+physics. It's a working bet --- the kind of bet Feynman described in
+\emph{QED} when he asked why all theories of physics look so similar in
+structure. He named three possibilities: that physicists are limited in
+imagination; that Nature has only one way of doing things and repeats
+her story; or that apparent similarities are fingers of the same hand.
+
+NTE bets on the second and third --- that when multiple mathematical
+descriptions agree on a phenomenon, the agreement is evidence of common
+structure, and that unification means finding the structure rather than
+choosing between descriptions.
+
+This is a bet, not a law. It can be wrong. Success or failure will be
+measured the way any framework is measured: predictions that hold,
+derivations that survive scrutiny, and whether the structure keeps
+simplifying as observations arrive. Beauty is a guide to which path to
+try first, not a shortcut past empirical test.
+
+The rest of this paper is what the bet has produced so far.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{The Clue Nobody Followed
+Up}\label{the-clue-nobody-followed-up}
+
+Photons are massless. Every massless entity in the universe experiences
+exactly zero proper time. Every massive entity accumulates proper time.
+The correlation is exact: zero exceptions.
+
+The Standard Model explains mass through the Higgs field at CERN. NTE
+reads the mass--time correlation as a \emph{surface signature} of
+something deeper: two coordinated roles set at the same cosmic moment,
+not one mechanism doing both jobs.
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3056}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.4444}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+What you observe
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Standard Model Higgs
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Boundary expansion field (NTE)
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Mass & Yukawa couplings to fermions & Not its job \\
+Proper time & Not its job & How fast expansion becomes experienced
+time \\
+Photon & Zero Higgs coupling & Zero engagement with expansion field \\
+Heavy quark & Large Yukawa & Deep engagement with expansion field \\
+\end{longtable}
+}
+
+\textbf{Non-Temporal Emergence (NTE)} --- the \textbf{Null-Time
+Extension to the Standard Model} --- adds one geometric scalar, written
+\textbar Φ\_NTE\textbar, on the universe's expanding boundary. It does
+not replace the Standard Model. The SM Higgs still gives mass;
+\textbar Φ\_NTE\textbar{} governs how cosmic expansion accumulates
+proper time for matter on the surface. Both identities were assigned in
+one coordinated cascade at \emph{gauge birth}: the moment gauge symmetry
+and clocks switched on. The photon landed at the zero-coupling place on
+both sides.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{The Universe as an Expanding
+Surface}\label{the-universe-as-an-expanding-surface}
+
+Forget a universe exploding into pre-existing void. In NTE, our
+three-dimensional cosmos is the \emph{surface} of a four-dimensional
+sphere --- like an ant on an inflating balloon who cannot leave the
+rubber. Unlike a balloon, there is no ``inside'' to visit: only the
+surface and its expansion history exist as places.
+
+Expansion is not measured first in seconds. It's measured in a
+dimensionless count \emph{N} --- how many times the universe has doubled
+in size. That count plays the role time plays in standard cosmology,
+without presupposing clocks.
+
+The local expansion rate ties to the boundary field: \textbf{H =
+α\textbar Φ\_NTE\textbar²}. Deeper engagement with
+\textbar Φ\_NTE\textbar{} means deeper embedding in time ---
+gravitational time dilation in everyday language.
+
+\textbf{Why are we not moving at the speed of light?} Because photons
+ride the expansion wavefront at \emph{c} with zero field engagement,
+while massive matter is embedded slightly behind the wavefront. \emph{c}
+is the manifold's expansion rate per unit accumulated time, not merely a
+photon property. Distant galaxies beyond the Hubble radius recede faster
+than \emph{c} without violating relativity: that is geometry on an
+expanding surface, not objects outrunning light through space.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{One Manifold, Two
+Orientations}\label{one-manifold-two-orientations}
+
+At the Janus boundary, the universe acquired bilateral structure: one
+manifold with \emph{thickness} along the e-fold direction, not two
+separate bubbles. We occupy one orientation; the conjugate orientation
+is CPN-reversed (matter, parity, and e-fold direction flipped). Neither
+side is privileged. Gravitational time dilation is how that thickness
+varies where \textbar Φ\_NTE\textbar{} is weaker in potential wells.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Entanglement: the Photon's Trick on a Larger
+Scale}\label{entanglement-the-photons-trick-on-a-larger-scale}
+
+If emission and absorption can be the same event for a photon on the
+wavefront, the same geometry may explain entanglement.
+
+Two entangled particles are not two objects needing a hidden signal.
+They are endpoints of one zero-proper-time structure on the surface ---
+like a photon's path, but with internal structure. Correlations are
+properties of the shape, not messages sent between separated things.
+
+Bell's bound (2) and quantum mechanics' Tsirelson ceiling (2√2) are
+often treated as unexplained constants. Here 2√2 is read as angular
+overlap on the three-sphere through the Hopf fibration --- consistent
+with saturating experiments, not proof by itself.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{The Neutrino That Bridges Both
+Sides}\label{the-neutrino-that-bridges-both-sides}
+
+The neutrino is the Standard Model's odd particle: tiny mass, feeble
+interactions, passes through Earth untouched.
+
+In NTE, every other massive species completed \emph{Hopf-projection} at
+gauge birth --- a topological lock to one orientation. The neutrino's
+lock did not finish because the Majorana particle--antiparticle binary
+is still unresolved topologically (not because the Yukawa coupling is
+``too small''). What survives is a chirality superposition spanning both
+orientations of the manifold's thickness.
+
+Why do weak experiments see only left-handed neutrinos? Each orientation
+samples the same underlying rhythm at opposite phase; our weak force
+catches the left-handed phase. Parity violation in the weak sector
+becomes a sampling asymmetry, not a brute fact.
+
+That bilateral support makes the neutrino the backbone for
+cross-thickness gravity.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Dark Matter as Cross-Thickness
+Gravity}\label{dark-matter-as-cross-thickness-gravity}
+
+Matter in the conjugate orientation is invisible electromagnetically but
+should gravitate into ours through the neutrino bridge. \textbf{Dark
+matter is that gravitational signature}, not a new particle hiding in
+underground tanks.
+
+\textbf{κ ≈ 5.50} --- the dark-to-ordinary matter ratio --- comes from
+one structural derivation in two steps: a bare coupling κ₀ = 3/√(4π)
+from the unresolved neutrino's geometry on the three-sphere, then a
+self-consistent resummation κ = κ₀/(1 − κ₀). Planck measures 5.38 ± 0.15
+(within \textasciitilde0.8σ). Direct-detection null results are
+predicted, not embarrassing failures. Dwarf galaxies should show scatter
+in dark-matter fractions; large clusters should converge to 5.50 --- set
+by neutrino free-streaming coherence (\textasciitilde40 Mpc).
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{The Arrow of Time}\label{the-arrow-of-time}
+
+Fundamental equations are time-symmetric; experience is not. Boltzmann's
+entropy story explains direction only after assuming an extraordinarily
+special initial state.
+
+NTE locates the arrow in geometry: at \textbf{N\_lock}, when gauge
+symmetry switched on, massive matter committed irreversibly to one
+orientation of the manifold's thickness. The past is expanded e-fold
+structure; the future is what has not yet expanded. Entropy still rises,
+but the deeper asymmetry is geometric commitment at birth --- closer to
+Pratchett's \emph{Thief of Time} (\emph{everything that happens, stays
+happened}) than to statistics alone.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Why Quantum Mechanics Is
+Geometry}\label{why-quantum-mechanics-is-geometry}
+
+Quantum states live on a three-sphere with unobservable global phase.
+Quotienting phase via the Hopf fibration leaves probabilities on a
+two-sphere. The Born rule \(P = \left|\langle\psi|\phi\rangle\right|^2\)
+is then the unique smooth, symmetric, normalised choice on that geometry
+--- not an extra postulate smuggled in.
+
+The exponent is 2 because the defining constraint on complex amplitudes
+is quadratic. Recent technical work sharpens this once gauge birth
+activates the U(1) fibre; deriving complex structure from pre-birth real
+data without assuming \(\mathbb{C}\) upfront remains open work.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{The Moment Physics Came Into
+Being}\label{the-moment-physics-came-into-being}
+
+Before \textbf{N\_lock}, there was no well-defined dt/dN and no Standard
+Model Higgs as we know it --- no photons, no atoms, no us. The dominant
+pre-birth dynamics live in a \textbf{bulk} geometry; our universe
+\textbf{crystallises on the boundary} at gauge birth when the constraint
+H = α\textbar Φ\_NTE\textbar² activates. That transition releases
+\textasciitilde10³² K --- the Big Bang as physics switching on, not an
+explosion into pre-existing space.
+
+Pre-birth content: topological spinor modes on S³ --- seeds without
+mass, charge, or interactions.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{The Algebra of Creation}\label{the-algebra-of-creation}
+
+Pure mathematics (Hurwitz) gives exactly four division algebras usable
+for quantum amplitudes: \(\mathbb{R}\), \(\mathbb{C}\), \(\mathbb{H}\),
+\(\mathbb{O}\). Pre-temporal physics is octonionic (non-associative ---
+no ordering of operations without time). When time orders operations,
+associativity forces a drop to quaternions; the residual symmetry is
+\textbf{SU(3) × SU(2) × U(1)} --- the Standard Model gauge group. The
+detailed steps live in the technical corpus; the popular claim is
+structural: the SM group is what time \emph{forces}, not an arbitrary
+dial.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Hubble Tension and Dark Energy as One
+Phenomenon}\label{hubble-tension-and-dark-energy-as-one-phenomenon}
+
+Local supernova surveys (\textasciitilde73 km/s/Mpc) disagree with CMB
+back-calculation (\textasciitilde67). DESI hints dark energy's equation
+of state \emph{w} may sit slightly above −1 at low redshift.
+
+NTE reads both as \textbf{void bias}: most cosmic volume is empty;
+\textbar Φ\_NTE\textbar{} is higher in voids, so lines of sight through
+voids see slightly faster local expansion. CMB integrates the cosmic
+mean; local candles prefer voids. True \emph{w} = −1 exactly; apparent
+evolution is a measurement bias from spatial variation of
+\textbar Φ\_NTE\textbar², not new dynamical dark energy.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Prediction Scorecard}\label{prediction-scorecard}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1892}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1351}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.5135}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1622}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Claim
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+NTE
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Observation / test
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Tier
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Dark matter ratio κ & 5.50 & 5.38 ± 0.15 (Planck) & Clean
+zero-parameter \\
+Direct DM detection & Null forever & XENON, LUX, PandaX nulls &
+Falsifiable \\
+Neutrino nature & Majorana (no completed Hopf lock) & Neutrinoless
+double beta decay & Falsifiable \\
+Neutrino generations & Exactly 3 & No sterile fourth & Structural \\
+m\_\{ν₂\} & \textasciitilde0.00860 eV & √(Δm²\_solar)
+\textasciitilde0.00866 eV & Clean zero-parameter \\
+n\_s & 0.9685 & 0.9649 ± 0.0042 & Clean zero-parameter \\
+r (hilltop) & \textasciitilde4×10⁻³ & CMB-S4 / LiteBIRD & Future \\
+Λ & \textasciitilde1.05× observed & Precision cosmology & Real test (α
+anchoring caveat) \\
+H₀ cosmic mean & 67.6 km/s/Mpc & CMB 67.4; local \textasciitilde73
+void-biased & Structural \\
+w & −1 exactly & DESI apparent w \textgreater{} −1 at low z & Structural
+bias \\
+θ₂₃ & 45° & 45.0° ± 1.0° & Clean \\
+sin²θ₁₂ & 1/3 leading & \textasciitilde0.307 & Partial \\
+Baryon asymmetry & Exists; matter sign fixed & η \textasciitilde{}
+6.1×10⁻¹⁰ magnitude open & Mixed \\
+W\_R boson & None & LHC nulls continue & Distinguishing \\
+Quark/lepton mass ratios & Not derived & Inherited like SM & Open \\
+\end{longtable}
+}
+
+\textbf{Six-from-one-chord:} One heat-kernel reading on the
+universe-instrument's spectral triple lands six slots: κ₀
+-\textgreater{} κ, gauge-birth temperature, inflation tilt (n\_s and r
+on the hilltop reading), Majorana and leptogenesis scales, Λ ≈ 1.05×
+observed, and the comoving-volume audit. Chapter 12 develops the chord;
+Appendix B carries the technical derivations.
+
+For the Λ note in lay terms: the framework first removes the
+catastrophic vacuum term by the volume constraint, then keeps the small
+spectral leftover, then renormalises that leftover over the comoving
+volume at gauge birth using the same long e-fold depth as n\_s (not the
+short lock width). That is where the \textasciitilde1.05× value comes
+from.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Two Registers Before Physics Switched
+On}\label{two-registers-before-physics-switched-on}
+
+The CMB tilt \textbf{n\_s ≈ 0.9685} comes from a long pre-birth count
+(\textasciitilde63 e-folds) in the \emph{ripple register}. The lock to
+gauge birth uses a separate \emph{constraint register} connecting
+Planck-scale configuration to field strength at locking. The
+\emph{holographic width} at birth (\textasciitilde0.1 e-fold) is a third
+coordinate --- horizon entropy at the transition, not the same as either
+count above.
+
+The universe counted its earliest ripples in one register and locked its
+physics in another --- conflating the two was where the apparent tension
+came from.
+
+At birth itself, three clocks must not be mixed: thermal Friedmann scale
+at \textasciitilde10³² K; slow constraint Hubble at locking; and
+inflation-depth N\_e for the CMB. Same event, different projections.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{What Is Closed (and What Is
+Not)}\label{what-is-closed-and-what-is-not}
+
+Several foundations have tightened without withdrawing the headline
+predictions:
+
+\begin{itemize}
+\tightlist
+\item
+  Cross-thickness gravity now follows from a single action (Janus
+  action), reproducing κ = κ₀/(1 − κ₀).
+\item
+  Six chord slots read from one heat-kernel computation on the same
+  geometric object.
+\item
+  Λ lands near 1.05× observed from the same e-fold depth as n\_s: loud
+  vacuum term removed by the volume constraint, quiet residual
+  renormalised at gauge birth. Caveat unchanged: α is partly anchored
+  through present-day dark-energy data.
+\item
+  m\_\{ν₂\} is derived to \textasciitilde0.7\% of the solar mass scale
+  with no observational input in the chain.
+\item
+  Two routes to n\_s are now one identity, read two ways.
+\end{itemize}
+
+Still open: the full SM mass hierarchy, first-generation neutrino
+Yukawa, M\_R on the heat-kernel route, strong-field gravity near
+horizons, and deriving α without observational anchoring.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{What We Do Not Yet Know}\label{what-we-do-not-yet-know}
+
+\begin{itemize}
+\tightlist
+\item
+  Specific quark and charged-lepton masses (ontology at gauge birth,
+  numbers still inherited).
+\item
+  Full neutrino mass matrix beyond m\_\{ν₂\}.
+\item
+  Leptogenesis scale M₁ for η magnitude (existence and sign of asymmetry
+  are geometric).
+\item
+  Residual lithium-7 factor (\textasciitilde1.58× after cross-thickness
+  correction, not fully closed).
+\item
+  Strong-field gravity and horizons beyond static weak-field sign-off.
+\end{itemize}
+
+The list is shorter than a year ago; it's not empty.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{The Short Version}\label{the-short-version}
+
+Photons experience zero proper time; massive particles do not. NTE reads
+that correlation through a \textbf{boundary expansion field}
+\textbar Φ\_NTE\textbar{} distinct from the SM Higgs, both set at
+\textbf{gauge birth}. The universe is an expanding S³ boundary; \emph{c}
+is expansion rate; we are embedded behind the photon wavefront.
+Bilateral structure is two orientations of one thickened manifold.
+Incomplete neutrino locking bridges orientations; \textbf{dark matter is
+their cross-thickness gravity} with \textbf{κ ≈ 5.50}. Time's arrow is
+geometric commitment at locking. Quantum probabilities are sphere
+geometry after Hopf quotient. Octonions without time become quaternions
+with time -\textgreater{} \textbf{SU(3)×SU(2)×U(1)}. Hubble tension and
+DESI \emph{w} bias share void enhancement of \textbar Φ\_NTE\textbar².
+Core predictions: no direct DM; Majorana neutrinos; three generations;
+m\_\{ν₂\}, n\_s, θ₂₃ at structural precision; Λ and H₀ with stated
+anchoring caveats.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{Non-Temporal Emergence (NTE) --- the Null-Time Extension to the
+Standard Model (G. White). \textbf{Popular Paper v10.8 v7 --- Reader
+Edition.} Full Edition:
+\texttt{Paper\_\textbackslash{}allowbreak\{\}Popular\_\textbackslash{}allowbreak\{\}v10\_\textbackslash{}allowbreak\{\}8\_\textbackslash{}allowbreak\{\}v6.md}.
+Technical derivations: book Appendix B. Correspondence welcome.}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

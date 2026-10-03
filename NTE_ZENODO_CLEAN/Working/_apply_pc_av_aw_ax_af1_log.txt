@@ -1,0 +1,12 @@
+OK AF1
+WROTE Appendix_C_The_Open_Ledger_v1_6_DRAFT_PC_20260925.md
+OK AN4 -> Ch3 v9; OLD=after sixty e-folds, it's e⁶⁰ ≈ 10²⁶ times larger.
+OK AV3
+OK AV1/2/5/6/7 block
+WROTE Ch6 v7
+OK AW1
+OK AW2
+WROTE Ch8 v6
+OK AX1
+OK AX2
+WROTE Ch7 v5

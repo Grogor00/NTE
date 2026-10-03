@@ -1,0 +1,22 @@
+{
+  "task_id": "CONSOLIDATED-DISPOSITION-BCD",
+  "executed_at": "2026-06-25T23:26:00+12:00",
+  "executor": "Cursor Main",
+  "grep_gates": "all PASS (mojibake, a4, eta, kphi, kappa — 0 hits)",
+  "archive_folder": "Working/Archive/2026-06-25_consolidated_disposition_bcd",
+  "pedagogical_folder": "Papers/Pedagogical_Explanatory_For_Curious_Readers",
+  "archived": [
+    "Paper_HeatKernel_S3xS1_SpectralTriple_a4_Vanishing_kappa0_Confluence_Clean_Standalone_v0_1_20260622.md",
+    "Paper_Octonionic_Origin_SM_GaugeGroup_SpeciesCount_Associativity_Transition_Clean_Standalone_v0_1_20260622.md",
+    "Paper_P4_CLFV_Amplitude_Ratio_tan2theta23_R_Matrix_Freezing_Z2_Majorana_Clean_Standalone_v0_1_20260622.md",
+    "Paper_S2_v1_0_Consolidation_20260525.md",
+    "Paper_OctonionExtension_v10_9.md",
+    "Paper_Kappa_AB_v10_17_2.md",
+    "Paper_P4_Theta23_Z2_Chirality_Superposed_Majorana_v0_2_20260526.md"
+  ],
+  "pedagogical_populated": [
+    "Paper_S1_Pedagogical_Pivot_v1_0_20260530.md",
+    "Paper_F1_Trace_Anomaly_S3xS1_Uniqueness_Clean_Standalone_v0_3_20260622.md"
+  ],
+  "notes": "§B demote-not-delete; §C F1 fold; §D initial pedagogical population per consolidated queue v0.2"
+}

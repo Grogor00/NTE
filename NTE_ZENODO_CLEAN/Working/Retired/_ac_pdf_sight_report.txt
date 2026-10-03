@@ -1,0 +1,108 @@
+AC PDF SIGHT REPORT (Cursor Main)
+method: pdftotext -enc UTF-8 -layout
+
+========================================================================
+## S2: C:\Users\gregw\OneDrive\Desktop\NTE v10_6\paper-build\pdf-out\Paper_S2_v1_0_Consolidation_20260525.pdf
+mtime=1781729200.674183 size=129138
+extracted_chars=53313
+bad_pattern_lines=0
+good_glyph '𝕆' count=29
+good_glyph 'β' count=1
+good_glyph 'κ' count=14
+good_glyph '§' count=174
+good_glyph 'Φ' count=40
+locus title CPN octonion: 1 matching line(s)
+  L3: Heat-Kernel Spectral Action on Hopf-S³ × S¹ × (𝕆 ⊕ 𝕆)
+locus §2.3 octonion: 3 matching line(s)
+  L66: OctonionExtension v10.9); 𝐷 given by the standard product-manifold Dirac with finite-algebra extension.
+  L113: CPN structure — are inherited from Paper S1, the OctonionExtension paper, and the corpus. We do not
+  L119: substrate. The emergence of the SM gauge group from G₂ (§2.3) is a structural/algebraic statement, not a
+locus κ₀ 4.3: 1 matching line(s)
+  L333: Pathway B v10.6 (Paper Kappa) derives 𝜅0 = 3/√4𝜋 from the Hopf-monopole projection route directly
+locus K(Φ) 6.2: 3 matching line(s)
+  L454: §6. K(Φ) inflation-sector closure
+  L464: §6.2 K(Φ) — open (BREAK-1)
+  L726: D7           K(Φ)                                           open (routed, Route E)
+--- first 15 nonblank lines ---
+  L1: Paper S2
+  L3: Heat-Kernel Spectral Action on Hopf-S³ × S¹ × (𝕆 ⊕ 𝕆)
+  L4: G. White
+  L5: 2026-06-01 (v1.0 consolidation; CR-H1/H2 patch)
+  L10: A Single-Computation Closure for Five Programme Predictions
+  L12: Abstract
+  L13: We carry out the heat-kernel computation that underwrites Connes Programme Paper S2 on the canonical
+  L14: NTE spectral triple
+  L17: 𝑀full = ( 𝑆 3 × 𝑆𝛽1GB ; 𝐴𝐹 = 𝕆 ⊕ 𝕆 ; 𝐷 ),
+  L19: obtaining closed-form expressions for the Seeley–DeWitt coefficients 𝑎0 , 𝑎2 , 𝑎4 and extracting five
+  L20: independent Programme predictions from this single computation. The base manifold carries scalar
+  L21: curvature 𝑅 = 6 concentrated entirely in 𝑆 3 ; the temporal circle has circumference 𝛽GB = √2𝜋/𝑀Pl,nr ,
+  L22: fixed by the Hopf fibre modulus identification at gauge birth. The finite algebra 𝐴𝐹 = 𝕆 ⊕ 𝕆 supplies
+  L23: 𝑁𝐹 = 180 degrees of freedom (90 Weyl species per CPN sector × 2 sectors).
+  L24: We find: 1. Bare coupling confluence: 𝜅0 = 3/√4𝜋 extracted from the heat-kernel coincides with the
+
+========================================================================
+## Part3: C:\Users\gregw\OneDrive\Desktop\NTE v10_6\paper-build\pdf-out\NTE_v10_17_Part3_Accounting.pdf
+mtime=1781699034.2528718 size=237648
+extracted_chars=147301
+bad_pattern_lines=0
+good_glyph '𝕆' count=38
+good_glyph '𝒦' count=2
+good_glyph 'β' count=146
+good_glyph 'κ' count=80
+good_glyph '§' count=340
+good_glyph 'Φ' count=203
+locus §22.17 S_bridge: 3 matching line(s)
+  L204: + 1PN/2PN/shell/unification done — see §22.16. (Cross-thickness coupling action closed-at-S1 at §22.17 /
+  L255: v10.8 at S1 — the Janus action of §22.17 reproduces Pathway A’s field equations with Bianchi consistency
+  L726: Open: Λ_NTE M1+M2; P-dS1 Dirac spectrum scaffold; Hassan–Rosen bimetric embed (§22.17 S2
+locus Conclusion octonion: 3 matching line(s)
+  L19: from octonionic associativity transition - Three generations and 90 species from 𝐽3 (𝕆) + Majorana
+  L667: line). Supersedes Pathway α S3 M₂ = M_R reading. Cross-ref: OctonionExtension §5 (species roster);
+  L936: candidate: radiative generation from the octonionic associator. The associator [A,B,C] = A(BC) − (AB)C
+--- first 15 nonblank lines ---
+  L1: NTE Master Corpus
+  L6: Part 3 of 3 · Accounting + Open Work + Appendices
+  L7: G. White
+  L8: April 2026
+  L11: Non-Temporal Emergence (NTE) — Master Corpus
+  L13: XVII. PARAMETER ACCOUNTING
+  L14: Honest accounting of the framework’s epistemic status.
+  L15: Independently Measured Inputs (Standard Model + Cosmology): SM parameters (particle masses, coupling
+  L16: constants, mixing angles), Ω_m, Ω_Λ, Ω_r, Ω_b, T_CMB.
+  L17: Fundamental Constants (Not Derivable): β_NTE = 2.38 × 10⁻⁴⁷ GeV⁻¹.
+  L18: Derived Within Framework (Zero Additional Parameters): - Gauge group SU(3)_C × SU(2)_L × U(1)_Y
+  L19: from octonionic associativity transition - Three generations and 90 species from 𝐽3 (𝕆) + Majorana
+  L20: condition (v10.4; explicit reduction to SM physical fermionic d.o.f. closed by enumeration v10.9, §17.5.10)
+  L21: - κ_predicted = 5.50 ± 0 from Hopf fibration + bilateral neutrino temporal extent (zero theoretical
+  L22: uncertainty, v10.4) - 𝑚𝜈2 = (8𝜋)−2/3 𝑣EW  2 /𝑀 ; 𝑌 = (8𝜋)−1/3 on 𝜎 /𝜎 sector — 0.993× Δ𝑚2
+
+========================================================================
+## Popular: C:\Users\gregw\OneDrive\Desktop\NTE v10_6\paper-build\pdf-out\Paper_Popular_v10_8_Full_Edition.pdf
+mtime=1781729193.5617628 size=122217
+extracted_chars=77602
+bad_pattern_lines=0
+good_glyph '𝕆' count=1
+good_glyph 'β' count=16
+good_glyph 'κ' count=21
+good_glyph '§' count=1
+good_glyph 'Φ' count=31
+locus J3 Jordan: 1 matching line(s)
+  L831: the 𝐽3 (𝕆) Jordan algebra structure) but not yet completed.
+--- first 15 nonblank lines ---
+  L1: What If Time Is Made of Something?
+  L2: G. White
+  L3: 2026-05-26 (v10.8 Full Edition)
+  L8: The Null-Time Extension to the Standard Model, Explained From First Principles
+  L9: There is a fact buried in your physics textbook that nobody has fully followed to its conclusion.
+  L10: A photon of light — any photon, ever — experiences zero time between the moment it’s created and the
+  L11: moment it’s absorbed. Not very little time. Zero. From the photon’s perspective (to the extent that word
+  L12: means anything for an object with no clock), emission and absorption are the same instant. The entire
+  L13: journey from a star four hundred light-years away to your eye happens, for the photon, in no time at all.
+  L14: Every physicist knows this. It follows directly from Einstein’s special relativity, one of the most tested
+  L15: theories in all of science. And then, almost universally, physicists set it aside and get on with their
+  L16: calculations.
+  L17: This paper is what happens when you don’t set it aside.
+  L21: A Note on Method
+  L22: This paper is not a claim that NTE is the correct theory of fundamental physics. It’s a working bet —
+
+VERDICT: PROVISIONAL PASS — no BAD patterns in text layer; AC human sight still required

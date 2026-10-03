@@ -1,0 +1,66 @@
+PDF mojibake scan — C:\Users\gregw\OneDrive\Desktop\NTE v10_6\paper-build\pdf-out
+Files scanned: 41
+Clean: 40
+Flagged: 1
+Failed extraction: 0
+
+========================================================================
+FLAGGED PDFs
+========================================================================
+
+## Paper_S1_v0_4.pdf (17789 chars extracted)
+  substring counts: (none)
+  suspect lines (15):
+    L84: The standard a₄ Seeley-DeWitt coefficient for the Dirac Laplacian — 5R² − 8R_�� R^�� − 7R_���� R^����
+    L88: • R_�� R^�� = d(d−1)²
+    L89: • R_���� R^���� = 2d(d−1)
+    L91: 5R² − 8R²_�� − 7R²_���� = d(d−1)[5d(d−1) − 8(d−1) − 14]
+    L172: reading: the heat-kernel a₄ curvature combination 5R² − 8R_�� R^�� − 7R_���� R^����
+    L188: �� = (R_{S³}/2) × Y��(S²) = (6/2) × (1/√(4�)) = 3/√(4�)
+    L196: should produce (R_{S³}/2) × Y��(S²) at leading order, since: - The (R_{S³}/2) factor is what the spectral
+    L214: Cancellation does not hold (5R² − 8R²_�� − 7R²_���� = 6216 � 0).
+    ... +7 more
+
+========================================================================
+CLEAN PDFs
+========================================================================
+  OK  Companion_10_Gap1_M1_Pathways_v10_17_2.pdf
+  OK  Companion_11_Lambda_Unimodular_Closure_v10_17_2.pdf
+  OK  Companion_12_Spectral_Chord_Closure_v10_17_2.pdf
+  OK  Companion_13_Yukawa_Nu2_D5_Inverse_v10_17_2.pdf
+  OK  Companion_1_Entanglement_v10_6.pdf
+  OK  Companion_2_BornRule_Hopf_v10_6_v2.pdf
+  OK  Companion_3_Quantisation_Compactness_v10_6.pdf
+  OK  Companion_4_Hierarchy_Resonance_v10_6.pdf
+  OK  Companion_5_StateSpace_Surface_v10_8.pdf
+  OK  Companion_6_Gap5_BornRule_GaugeBirth_v10_6_v2.pdf
+  OK  Companion_7_Neutrino_v10_17_2.pdf
+  OK  Companion_8_VNTE_Trajectory_v10_8.pdf
+  OK  Companion_9_VNTE_Stage3_v10_8.pdf
+  OK  NTE_Corpus_Papers_Index.pdf
+  OK  NTE_Reader_Glossary_Companion_v1_0.pdf
+  OK  NTE_v10_17_Part1_Foundations.pdf
+  OK  NTE_v10_17_Part2_Structure.pdf
+  OK  NTE_v10_17_Part3_Accounting.pdf
+  OK  Paper_External_Empirical_Surface_Clean_Gates_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_External_Empirical_Surface_Clean_Gates_v0_1_20260530.pdf
+  OK  Paper_F1_Trace_Anomaly_S3xS1_Uniqueness_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_F1_Trace_Anomaly_S3xS1_Uniqueness_v0_2_20260526.pdf
+  OK  Paper_Hopf_Bundle_Bare_Coupling_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_Hopf_Bundle_Bare_Coupling_v0_1_20260526.pdf
+  OK  Paper_Kappa_AB_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_Kappa_AB_v10_17_2.pdf
+  OK  Paper_OctonionExtension_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_OctonionExtension_v10_9.pdf
+  OK  Paper_P4_Theta23_Z2_Chirality_Superposed_Majorana_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_P4_Theta23_Z2_Chirality_Superposed_Majorana_v0_2_20260526.pdf
+  OK  Paper_Popular_v10_8_Full_Edition.pdf
+  OK  Paper_Popular_v10_8_Reader_Edition.pdf
+  OK  Paper_S1_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_S2_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_S2_v1_0_Consolidation_20260525.pdf
+  OK  Paper_S6_M_R_Heat_Kernel_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_S6_M_R_Heat_Kernel_v1_0.pdf
+  OK  Paper_Solar_Neutrino_Mass_Yukawa_Duality_Pedagogical_Pivot_v1_0_20260530.pdf
+  OK  Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_2_arxiv_20260526.pdf
+  OK  Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_3_zenodo_20260601.pdf

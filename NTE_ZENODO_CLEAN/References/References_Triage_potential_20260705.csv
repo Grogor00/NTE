@@ -1,0 +1,131 @@
+idx,disp,cluster,dup,title,note,id
+0,REF,EMERGE-COSMO,,Emergent spacetime from spatial energy potentiality.pdf,"3D spatial config primary, time emerges via phase transition, singularity-free — strong NTE relative",1w-osppmxHG05Yx3LYe2xov8Xmqwg-k5_
+1,REF,THERMAL-TIME,,THERMAL TIME AS AN UNSHARP OBSERVABLE .pdf,Connes–Rovelli thermal time as POVM — core NTE positioning family,1W34pFfTZk4Iyh7enJiFoK8eILfSRlXWA
+2,REF,RELATIONAL,,Page–Wootters formalism.pdf,Page–Wootters (GFT impl.) — NTE positioning family (note: not the original PW1983),10fahx16fGG7XL1xBOfG11nghOPCZ2nMV
+3,REF,RELATIONAL,DUP of #2,Relational dynamics and Page-Wootters formalism.pdf,Page–Wootters (published version of #2),13AlAWfr_uxxSf9SzDJdfu6XwAwDr0eN-
+4,REF,EMERGE-PHIL,,The (A)temporal Emergence of Spacetime.pdf,"Huggett–Wüthrich, (a)temporal emergence of spacetime — conceptual frame for NTE emergence",1bssqe_ltdWviE-bJSXaF5vcm8RKpuuX7
+5,REF,EMERGE-PHIL,,Spacetime is as spacetime does.pdf,"Lam–Wüthrich, functional emergence of spacetime — conceptual frame",1146fx16h7h53KgerbthGB7ejUjL2g_0f
+6,REV,INFLATION,,Higgs-modular inflation.pdf,Higgs-modular inflation — different (modular-forms) approach; Higgs-as-scalar only tangential,1YXOW9Fj5GImWSi7E79HtDg30Zxt6cIHo
+7,DEL,OFF,,PracticalRecipes.pdf,Open-quantum-systems numerical model reduction — off-framework,1EdzOLFSvWGt2mJX264PjvVwHXMXoTUyM
+8,DEL,OFF,,Lie Groups and Lie Algebras.pdf,String T-duality (Lie group/algebra) — off-framework,1twOgmKNN_zfCiPwpdELbqfHTAnC6fcyH
+9,REV,TOPO-4MFD,,exoticsmooth.pdf,Exotic smoothness & spacetime — NTE is boundary-only (no 4D interior); tangential,1fIPgGdZ1H72UBF0w6swVCGBy9l0SG_7j
+10,REV,MATH-TOOL,,Lee Introduction to Riemannian Manifolds.pdf,"Lee, Riemannian Manifolds — standard textbook; keep only as a math-tool shelf",16z5aP0nOZdZrrw_r7YvBTh4OuPPyjqTh
+11,DEL,MATH-TOOL,,Riemannian Concircular Structure Manifolds.pdf,"Concircular structure manifolds — niche diff-geo, not NTE",1LkD7NE2vp4Z5r9IvnoHroObc9_msXdQa
+12,DEL,MATH-TOOL,,CANONICAL RIEMANNIAN METRICS.pdf,Canonical Riemannian metrics / Ricci solitons — niche diff-geo,1Ls1oUWusA697bEBqg1tacFZJeWSumVhZ
+13,REF,OCT-JORDAN,,Spectral Geometry with Exceptional.pdf,"Farnsworth, exceptional-symmetry spectral geometry (G2×G2) — core NTE octonionic NCG",1eQ9TcncUTZ5mamVk6JHkxI2fwG0q9T5j
+14,DEL,MATH-TOOL,,Curvature and geometric equations.pdf,"Curvature in smooth metric-measure spaces — math monograph, not NTE",1hWGe5O3Rv9yaJpFswcpdTNQemzmL5AaM
+15,REF,EMERGE-NUCLEATION,,A CLASSICAL PHASE-BOUNDARY UNIVERSE.pdf,"Grady, classical phase-boundary universe: nucleation/Euclidean → strong NTE crystallisation relative",1fsFLY3A5ICPngTL66nFnTLv1WFsW0dY7
+16,REV,BORNRULE-MEAS,,Spontaneous Symmetry Breaking.pdf,"Grady, SSB-as-measurement — rhymes with NTE gauge-birth crystallisation; lean keep",12rTqRX7xIhfBfHJNU9rYXr2RSFKUAI5q
+17,REF,SIG-CHANGE,,the magnon BEC.pdf,"Volovik, magnon-BEC Mink→Eucl signature change — analog of NTE gauge birth",1xRfb3lnj6E22w1n-nJ0TamnxS8tFMfdK
+18,REV,BORNRULE-MEAS,,a small symmetry breaking measurement device.pdf,Small SSB measurement device (cond-mat) — tangential to measurement/crystallisation; lean delete,1bK7slLPiDy0e_pU6uzC1ShQcQKJ711GD
+19,REF,HH-NOBOUND,,Real_tunneling_geometries_and_the_large.pdf,"Gibbons–Hartle, real tunneling / no-boundary — NTE Companion 9 Hartle–Hawking saddle",1zyPoLVwrIqpTWvNDh7H2x8X5CiuytYGt
+20,REF,ANTISPACE,,Two roads to antispacetime .pdf,"Volovik, two roads to antispacetime — antispacetime ≈ NTE CPN mirror; strong",1K6gDjSUzSKLTDdmEOJ-N383t9ikCYy-s
+21,REF,SIG-CHANGE,,Cosmological transitions with changes in the signature of the metric.pdf,"Sakharov, signature-change cosmology / universe-antiuniverse — strong NTE relative",1VLXwq6dsmyJ-yhEn4fbvGv9YJKf3Ag1y
+22,REF,SIG-CHANGE,,Signature change in matrix model solutions.pdf,Signature change in IKKT matrix-model solutions — compatible,1eA2IwV6upU-JxrE_HqqTgzUrDkZVN9K7
+23,REV,SIG-CHANGE,,Negative temperature for negative lapse function.pdf,"Volovik, negative temperature / negative lapse — tetrad/lapse-sign; fits sig-change cluster",18Cnx486wGZ0JoBVsFNk04_uFgnluSJGC
+24,REF,CPN-PARITY,,DiscreteSymmetries inCovariantLQG.pdf,"Rovelli–Wilson-Ewing, discrete symmetries in covariant LQG — T/P in QG ↔ NTE CPN/C5",1ftU2DA4LrgWkmxIBlbrXcBOgYJdUovWm
+25,REV,QG-SPINOR,,Phase transitions in spinor quantum gravity on a lattice.pdf,"Vladimirov–Diakonov, spinor QG on a lattice — SM-like d.o.f.; tangential",1FPxi3bk_4ZuMMNS5k4CmxDKh8AId5BIN
+26,REF,ANTISPACE,,Transitions to anti-spacetime.pdf,"Volovik, transitions to anti-spacetime — antispacetime ≈ CPN mirror",1nurvjACDKGjMpmEA5C6eEDY7xTGvvwsA
+27,REF,CPN-JANUS,,PhysRevLett.121.251301.pdf,"Boyle–Finn–Turok, CPT-Symmetric Universe — universe-antiuniverse = NTE Janus/CPN; likely cite",1bNl4sABqhhYl8yMRoVWaTRHxxKgYOlR8
+28,REF,EMERGE-PHIL,,Out_of_Nowhere_The_emergence_of_spacetim.pdf,"Huggett–Wüthrich, 'Out of Nowhere' emergence of spacetime — conceptual frame",1ERAhHb8dSlRvriozSjs3VNUh8bwFvnwE
+29,REF,NULL-BOUNDARY,,s10052-016-3979-y.pdf,"Parattu–Chakraborty–Padmanabhan, null+non-null boundary GR — CFL-null / NTE-boundary adjacent",1ing3IYJ1biT85y80EPde4sLtqPKVVJue
+30,REV,EMERGE-PHIL,,s11229-023-04305-0.pdf,"Lam–Wüthrich, laws beyond spacetime — emergence philosophy; lean keep",13Cygl1yu-0Wtja8KElCDMkbQeOjx3uxN
+31,REV,TIME-ALT,,Kletetschka_2025_Three_Dimensional_Time_Primary.pdf,"Kletetschka, three-dimensional time — NTE is 1D emergent imaginary time; contrast not compat",19lLUuic7UuRRfyS4h1o95mAVYNM1uu0z
+32,REV,TIME-REVERSAL,,Breaking of Time Reversal in ADS.pdf,"Susskind, breaking T-reversal in de Sitter — dS observer/T; lean review",1wJcNcOCrx5K4cfJxBvjeucjQwpPI4ZTe
+33,REF,HOLOGRAPHY,,The World as a Hologram.pdf,"Susskind, World as a Hologram — holographic principle; NTE holography positioning",1NqVtuJg2Ma-HsyFIy3MqhOkdwn0NNErB
+34,DEL,TEXTBOOK,,susskind.pdf,"Susskind–Friedman, QM 'Theoretical Minimum' — pedagogical textbook, not a comparison paper",1I75ucAQqv0s7VVVLZHCcSRVQ6jXYkQad
+35,REV,HOLO-COSMO,,4d Holographic Cosmology.pdf,"Cravo–Nastase, 4d holographic cosmology — holo-cosmo; lean keep",1Z264K2GEO74jSEh-zbvspCh9pxgrXvZ7
+36,REV,THERMAL-TIME,,thermal time on the deformed Minkowski spacetime.pdf,"Hersent, thermal time of NC Minkowski — bridges Connes–Rovelli to NC; lean keep",1TBFqRrySKQ6Fml0xcgVvrAY6NmImdU7h
+37,REV,NCG-QG,,Applications to quantum gravity C bundles.pdf,"Martins, QG from C*-bundles — inner automorphisms↔time (Connes–Rovelli flavour); lean keep",1bSodcU4iAC69-8vwSfIYRnlrKLobBcf-
+38,REF,MODULAR,,Tomita–Takesaki Modular Theory.pdf,"Summers, Tomita–Takesaki modular theory — underpins thermal time",1iCUPgxJsEDMLJskFOpjiqURUvgeSmPhV
+39,REV,NC-KAPPA,,κ-deformed Poincar´e quantum algebra.pdf,"Majid–Ruegg κ-Poincaré — κ-deformation programme, NOT NTE's Connes NCG; lean delete",1rKAOyvnDoWTMSYpwDbmxUjR4CVSo1f6U
+40,REF,HOLO-MODULAR,,Spacetime Fluctuations in AdS_CFT.pdf,"Verlinde–Zurek, spacetime fluctuations in AdS/CFT — modular-energy fluct.; CFL-adjacent; NTE area",1offzsxqNtwm3tsrjNOkGioEzPci4Exss
+41,DEL,NC-KAPPA,,Generalized Weyl Systems and κ-Minkowski space.pdf,"Generalized Weyl systems / κ-Minkowski — κ-deformation, not NTE NCG",177U4mUFRl87a5ucz-d9lncU_lxXjXUWe
+42,DEL,NC-KAPPA,,T-Minkowskinoncommutativespacetimes.pdf,"T-Minkowski NC spacetimes — κ-deformation, not NTE NCG",1bijsIAxQsnFrF2wOH3cY4K8zUfC1-y2P
+43,REF,MODULAR,,Tomita's Modular Theory.pdf,"Borchers, Tomita modular theory in QFT — modular/thermal-time support",13KMQ1yH2D-SB5v54Pk7ErhnQJr2F-byT
+44,REF,THERMAL-TIME,,General relativistic statistical mechanics.pdf,"Rovelli, general-relativistic statistical mechanics — thermal time, core",1gSk9SU-8SxW3AXoOUtmgkmoaOZwPMwYz
+45,REF,THERMAL-TIME,,Thermodynamics without Time.pdf,"Vidotto, thermodynamics without time — arrow-of-time (Rovelli school), core",1RFL7o1CsB0ihylPx5xoH56wO0Bn-U2xe
+46,REV,RELATIONAL,,General Relativity and Shape.pdf,"Koslowski, GR & shape dynamics — relational/GR-equivalent; lean review",1TALZbJztEAIA6bROQUnh3eeMXSwASh4b
+47,DEL,NC-KAPPA,,Lie algebra-type noncommutatitive ϕ4-theories.pdf,"Hersent, UV/IR mixing Lie-algebra NC phi4 — NC field theory, not NTE",1SEPtkG9Od07dpLG8JH5yhV7ACSLGh05C
+48,REV,THERMAL-QFT,,PhysRep.pdf,"Landsman–van Weert, imaginary-time finite-T field theory — Euclidean tool; lean review",1aAXa_iavZKQvaVYZGsrt9SGq2swYgqNd
+49,DEL,NC-KAPPA,,Gaugetheoriesonquantumspaces.pdf,"Hersent–Mathieu–Wallet, gauge theories on quantum spaces — NC-spacetime, not NTE",1g3vqaEYhvvG0cC-fdLTmdJNfkXsd408u
+50,REF,PROBLEM-OF-TIME,,TIME IN QUANTUM GRAVITY.pdf,"Anderson, problem of time in QG — directly NTE emergent-time positioning",1h3ifQAmzsfROzakvWYC3jVGT3ObSioMm
+51,DEL,NC-KAPPA,,Noncommutative field theory from angular twist.pdf,"NC field theory from angular twist — NC-spacetime, not NTE",1Tx-GjHKsqGx_fF3Ji5L667M7IcAShvFW
+52,DEL,NC-KAPPA,,Gauge theories on κ-Minkowski spaces.pdf,"Gauge theories on κ-Minkowski (twist/modular) — NC-spacetime, not NTE",1srDLyOzxWllYlYadpwQBFl2YdhUe9pfC
+53,DEL,THERMAL-QFT,,Perturbative Thermal QCD.pdf,Perturbative thermal QCD — off-framework,1pHC1LfNdpH_d4vpOSVxBvX361V-pPsEP
+54,REF,EMERGE-MATRIX,,Emergent Metric Space-Time from Matrix Theory.pdf,"Brahma–Brandenberger–Laliberté, emergent metric from IKKT — emergent-spacetime, compatible",1EH3qIC1qHaR9uZyYvZPugj6I3v7eSW-7
+55,DEL,THERMAL-QFT,,Introduction to Thermal Field Theory.pdf,"Salvio, intro to thermal field theory — review/textbook, off",16mOYAKrnhpCUfESYMSvZox4YwKqzYsme
+56,DEL,OPERAD-TQFT,,Topological recursion.pdf,"Eynard, topological recursion — math, off",17HjPUsUnMRUOGWnpS9CTOCJHRJvtiaU_
+57,REV,LQG-SPINFOAM,,The Spinfoam Framework.pdf,"Livine, spinfoam framework — NTE positions vs LQG; lean review/delete",1U57IHTqTRympmjoe-Dztj5rGHvlfQwOs
+58,DEL,OPERAD-TQFT,,"Batalin-Vilkovisky Algebras, Operads,.pdf","BV algebras/operads/Hopf algebroids (Oberwolfach) — math, off",1Y2H5OzsJx1XGuidEWhXJpYj49y9UWpS8
+59,DEL,P-ADIC,,On p-Adic Mathematical Physics.pdf,p-adic mathematical physics — off-framework,1C3CFtBoQBcWiBUT8vcpJf8Po689A-QYv
+60,DEL,OPERAD-TQFT,,SalvatoreWahl.pdf,"Framed-discs operads & BV — math, off",1wTtF7wBRPMebZiwhTTmU_LY0-1zAXHNH
+61,DEL,OPERAD-TQFT,,OnAtiyah-Segal axioms for Witten-type TQFTs.pdf,"Atiyah–Segal axioms for Witten TQFT — math, off",1KmUdd9-5VgfTaUP4zB4YOkZZD9SzywFK
+62,DEL,TWISTOR-MATH,,GEOMETRY OF THE DONALDSON-FRIEDMAN PUSHOUT.pdf,"Donaldson–Friedman pushout / twistor degenerations — math, off",1Kcr01JIGdrCIlNI3phNq2ZBzg-nMoIkW
+63,REV,HOPF-QUAT,,DIFFERENTIAL AND TWISTOR GEOMETRY.pdf,"Brain–Landi, quantum Hopf fibration S⁷→S⁴ — touches NTE S⁷/quaternionic Hopf; lean keep",1FiOVEt2_zvqo2XjeA9jjvVDgyO7vXask
+64,REV,LQG-SPINFOAM,,The Spin-Foam Approach to Quantum Gravity.pdf,"Perez, spin-foam approach to QG — NTE positions vs LQG; lean review/delete",1_8gSTQ6MZhIKCqefhw_o1MKeZkEJisqd
+65,DEL,OPERAD-TQFT,,OPERADIC FORMULATION OF TOPOLOGICAL VERTEX.pdf,"Operadic topological vertex / BV — math, off",1xcAvE9atu6KcGI0aE1bMEpumyfX1QlcJ
+66,DEL,OFF,,Electric-Magnetic Duality.pdf,"Kapustin–Witten, electric-magnetic duality / geometric Langlands — off",1LP8WBMjZoZSS76X4wXQg1amNAhOpmE2k
+67,REF,NCG-S3,,NONCOMMUTATIVE FINITE-DIMENSIONAL MANIFOLDS.pdf,"Connes–Dubois-Violette, NC finite-dim manifolds / NC 3-spheres — NC S³, NTE-author family",14_bG55wX3DeLgA2pEsKUFwiUBnXVNpuI
+68,REF,FINITE-TRIPLE,,randomNCGs.pdf,"Barrett–Glaser, Monte-Carlo random NCG — finite spectral triples, NTE A_F",1U_nAu-_PRohLLXyBOw4ISRXklj0W5KWp
+69,REV,TWISTOR,,Twistor sigma models for quaternionic geometry.pdf,"Adamo–Mason–Sharma, twistor sigma models quaternionic geometry — quaternionic; lean review",13Tws_9F4YvG7fWK2wPVM9s1SY-S2zR7G
+70,REV,NCG-SPHERE,,Noncommutative-sphere.pdf,"Omori et al, noncommutative sphere / contact algebra — NC sphere; lean review",1VTFCrpQJ1z8dlo3wJofGpfE3i051gd-_
+71,REF,THERMAL-TIME,,Von Neumann algebra automorphisms.pdf,"Connes–Rovelli, VN-algebra automorphisms & time-thermodynamics — THE thermal-time paper; core-cited",1G8Xv_CnDNPf7E6QnTsbdPaa6QPdG9jHk
+72,DEL,TWISTOR,,Twistorial Methods in General Relativity.pdf,Twistorial methods in GR (student thesis) — peripheral,1veoGWZDqBCUmtQDT4ftVNoF8A77ImDFb
+73,REF,FINITE-TRIPLE,,finite sprctral triples.pdf,"Barrett, matrix geometries / fuzzy spaces as finite spectral triples — NTE A_F",1rXASb9N-ALCPLmEakmX_5LOThhMoq53o
+74,REV,TWISTOR,,twistors-for-new-spaces.pdf,"Penrose, twistor geometric programme — Hopf/S⁷ adjacent but not NTE machinery; lean review",1KBrfXLDyO9GyJYLhprfifUykV4eMzIog
+75,REV,COMPENDIUM,,new-spaces-in-physics-formal-and-conceptual-reflections-9781108490627-9781108854399-2020006655-2020006656-9781108854429-9781108854368-9781108490634_compress.pdf,"'New Spaces in Physics' (ed. vol.) — broad, incl. NCG; lean keep as reference shelf",1QiHdxPlsH1txT_KODkkwVwuFwMOZX0yB
+76,REF,NULL-CARROLL,,Carrollian representation.pdf,Carrollian Lw1+ from twistor space — Carrollian/null ↔ CFL / NTE boundary,1WSBce5duh_D-u26zGDIi2I-kAnSOL1D6
+77,DEL,TWISTOR,,The holographic dual of the Penrose transform.pdf,"Neiman, holographic dual of Penrose transform (higher-spin) — peripheral",1vzA-dX7FLa_rDR9EQkTxZEat9kAGqf2V
+78,DEL,TWISTOR,,SciPostPhys_13_4_099.pdf,"K.Farnsworth–Graesser–Herczeg, twistor Newman–Penrose map (double copy) — off (diff. Farnsworth)",1QjxYR34_zH7wOpIWeNTWtmDfdOah3pCj
+79,REV,CELESTIAL,,Atul-Good_Cut_Lectures.pdf,"Sharma, advances in flat holography (Good-Cut) — celestial/Carrollian; CFL-adjacent; lean review",1p0iHLfqZNB8pYAGZLx5ki5naj8thYdKz
+80,REV,TWISTOR-QUANT,,TWISTORS CFT AND HOLOGRAPHY.pdf,"Krasnov, twistors/CFT/holography (quantizing twistor space) — lean review",1gCoKMLlE7CIfO_W6MH3KdFsF9tQhaEsy
+81,DEL,NEWS,,Holography and Twistor Theory.pdf,"'Holography and Twistor Theory' — news-clipping compilation, not a paper",1qFsw3FLafhzMr7rn2bPV_GalF9PZM0Fe
+82,DEL,TWISTOR,,further-advances-in-twistor-theory-volume-i-the-penrose-transform-and-its-applications-0582004667-9780582004665-0470216557-9780470216552_compress.pdf,"Mason–Hughston, further advances in twistor theory (book) — off",1WjKQltw3odWmcFvrJjmn8Ym6K9vJ9YKn
+83,REV,TWISTOR,,TwistorTheory-Penrose_MacCallum.pdf,"Penrose–MacCallum, twistor theory / quantisation of fields — foundational twistor; lean delete",1zup5FbYxpEhnF4t3HAbbtWtgyy5uysNT
+84,DEL,TWISTOR,,twistor_transform.pdf,"Moy, intro to Penrose transform (student notes) — peripheral",1Q2nISvsa6hZjOdBJrlygg3USasu2zG3b
+85,REV,TWISTOR,,Lectures on twistor theory.pdf,"Adamo, lectures on twistor theory — lean delete",1zSVhhAOA-dyLI3VBE6Zp_kpnJBpyLkRP
+86,REV,SPINOR-HOPF,,PYTHAGOREAN SPINORS.pdf,"Trautman, Pythagorean spinors & Penrose twistors — spinors/Hopf ↔ NTE; lean review",1ifD6nQ06_Cv2LRsYRU2tOlSwnZlfLrbh
+87,DEL,NC-TWISTOR,,GLUING NON-COMMUTATIVE TWISTOR SPACES.pdf,"Marcolli–Penrose, gluing NC twistor spaces — peripheral",195vK11krRwn8HH-m9hzckD2UegNFy59m
+88,REF,OCT-JORDAN,,The n-point Exceptional Universe.pdf,"Farnsworth, n-point Exceptional Universe (exceptional-Jordan spectral geom.) — core NTE octonionic",14cJ1Lkyii-P2z3D9gCNoEEC_luIA5Sxf
+89,REF,JORDAN-PATISALAM,,the Pati-Salam model.pdf,"Boyle–Farnsworth, SM / Pati–Salam / Jordan geometry — core NTE octonionic-Jordan; likely cite",1COvNOf5kpqdnYTCKvnDqkzeeaP-TzHus
+90,REF,JORDAN-PATISALAM,DUP of #89,"The standard model, the Pati-Salam model, and Jordan geometry.pdf",Boyle–Farnsworth Jordan geometry (copy of #89),1ibBCwdOkq5yxmWWY0GzqcPu98EQdAfF8
+91,REF,NCG-SA,,The Uncanny Precision of the Spectral Action.pdf,"Chamseddine–Connes, Uncanny Precision of the Spectral Action (2008) — core; likely a4/spectral-action cite",10C7cVYoTaEkCid9S_ZOmC6ZkO1TN5G3c
+92,REV,MONOPOLE-BPS,,Non-Abelian Berry Phases and BPS Monopoles.pdf,"Sonner–Tong, non-Abelian Berry phases & BPS monopoles — Hopf-monopole/BPS ↔ NTE κ0/M_BPS; lean keep",1BcAjJGVGTB43HeWytaatobLfe9NcTVHY
+93,REF,NCG-SA,,Hamseddine.pdf,"Chamseddine, NCG as key to space-time — core NCG-SM summary",1FpSUp1xbRIqp7wFKiaDeh4Umwbx5BEJ4
+94,REF,NCG-SA,,Spectral action approach to higher derivative gravity.pdf,"Mistry–Pinzul–Rachwał, spectral-action higher-derivative gravity — compatible",1xohIERMhWk7bS6cP7aUZQtt5h0RNqwtx
+95,REF,OCT-JORDAN,,Non-Associative Geometry and the Spectral Action Principle.pdf,"Farnsworth–Boyle, non-associative geometry & spectral action — core NTE nonassociative NCG",1sdaFagjRa2nqF6akeoWh4cZFcQx3NTR6
+96,REF,NCG-SA,,The Spectral Action Principle.pdf,"Chamseddine–Connes, Spectral Action Principle (1996) — THE spectral-action paper; core-cited",1zuZRAHftEX8O1vEMMBeBSILIXuesPysJ
+97,REF,OCT-JORDAN,DUP of #13,Spectral Geometry with Exceptional Symmetry and Charged Higgs Fields.pdf,"Farnsworth, exceptional-symmetry spectral geometry (copy of #13)",11nPotTOBjMDbxovDDQhs1TrF7VkiMc00
+98,REF,NCG-HIGGS,,JimenezFredy_2021_HiggsNoncommutativeGeometry.pdf,"Jiménez, extended Higgs on NCG / nonassociative lepton (thesis) — compatible",1pCVpZnqon1jw-EGzc1QT60wDDyxvkg5k
+99,REF,NCG-COSMO,,Inﬂation mechanism in asymptotic noncommutative geometry.pdf,"Nelson–Sakellariadou, inflation in NCG — NTE inflation sector, compatible",1bfXgiM5es9JNcmfGJQCDsxAKkrtUPJSE
+100,REV,INFLATION,,Mairi_Sakellariadou_Lecture3.pdf,"Sakellariadou, lecture III (generic perturbation theory) — pedagogical; lean delete",1jStMUCLvbDuRZlCOVdo8bTsy_MEtc4AJ
+101,REF,NCG-COSMO,,the-coupling-of-topology-and-inflation-in-noncommutative-3hgc0rdim3.pdf,"Marcolli–Pierpaoli–Teh, topology–inflation coupling in NC cosmology — strong NCG-cosmo",1-hqNjnAlPr3hGAC_ezq4tSQXGHCGFWD2
+102,REF,NCG-COSMO,,Matilde Marcolli.pdf,"Marcolli, NCG & cosmology (talk) — compatible",1E8OjyE-Zwbh2eNhzcGdhyHgtsvo5viPE
+103,REF,NCG-SM,,Farnsworth_Shane.pdf,"Farnsworth, SM from NCG (thesis) — compatible",13ZU0NlR8qb4jZQjQb4PF1l9DbgIL7Vk8
+104,REF,NCG-COSMO,,NCGcosmoSurvey.pdf,"Marcolli, building cosmological models via NCG (survey) — compatible",1x8AI5Q2tIQxIrhdl3WjEsc_X23kybWXz
+105,REV,NCG-MATH,,NCG_Matilde Marcolli.pdf,"Marcolli, arithmetic NCG (lectures) — tangential; lean delete",12I9g-wb7DkPDp3LdB3MnDSeYLON5x4ny
+106,REF,NCG-SM,,DANIEL KOLODRUBETZ AND MATILDE MARCOLL.pdf,"Kolodrubetz–Marcolli, RGE boundary conditions in NCG — compatible",1lex_ykdSY2IyyHobS33oO68xxRPun-AO
+107,REF,NCG-SM,,"Fabien Besnard, Christian Brouder.pdf","Besnard–Brouder, Lorentzian SM NCG + B–L — strong (Lorentzian NCG, B–L ↔ NTE Majorana)",10CVpuJ90gARSXNTO4Xugr-dMbxBeOBx0
+108,REF,NCG-SM,,Shane Farnsworth and Latham Boyle.pdf,"Farnsworth–Boyle, rethinking Connes' NCG SM — core",1DMMly-9lsuwk_iO9gE2ms9znQRB6NPBc
+109,REF,NCG-COSMO,,Mairi Sakellariadou.pdf,"Sakellariadou, cosmology from NC spectral geometry — compatible",12BSM-ZRMWmCA3iI83EueOygz-4hUa2Bm
+110,REV,ENTANGLE-ESSAY,,An_entanglement_of_space_and_time_17_02_17.pdf,'An entanglement of space and time' (informal essay) — echoes Companion 1; lean review/delete,1UZGs2quUINGoG2sqL98ZcJAWFxffThH_
+111,REF,HOLO-COSMO,,Bubbles2.pdf,"Sahu–Simidzija–Van Raamsdonk, bubbles of cosmology in AdS/CFT — holo-cosmo cluster",1nud3odCBizqITzJJPEo_HPOCmwP5jyhk
+112,REF,HOLO-COSMO,,HolographicCFT.pdf,"Van Raamsdonk–Waddell, holographic decreasing dark energy — NTE w=-1/DE adjacent",1b0HtuceLrFeLjiZZT59SJjvAawf2jSaV
+113,REF,QUANTUM-FIRST,,QuantumFirstGravity.pdf,"Giddings, quantum-first gravity — Hilbert-space-first ↔ NTE 'state space is the surface'",13xofXmbmqDrm3rTP97utBeVVSoReZsX6
+114,REF,HOLO-COSMO,,fromVacuum.pdf,"Antonini et al, cosmology from the vacuum — holo-cosmo",1lYJqsNGZHW96pjulxrOiHld7khgbhdUJ
+115,REV,HOLO-ENT,,simons-proposal.pdf,'It from Qubit' Simons proposal — programme doc (spacetime from entanglement); lean keep,1WuLHOAEExaEAytug_oMCv_MUfZjqw5yb
+116,REF,HOLO-ENT,,Spacetime.pdf,"Van Raamsdonk, building up spacetime II (BC-bit) — spacetime-from-entanglement",1bf-fXU16RF4ZgCKy2ZnOd1r-8ab8YL8e
+117,REF,HOLO-ENT,,Space_time.pdf,"Van Raamsdonk, building up spacetime with entanglement (essay) — foundational; NTE RT/holography",1BlSEBk-oxpAvVjLfc6AprA5Yl0naMiGc
+118,REF,HOLO-COSMO,,cosmology.pdf,"Van Raamsdonk–Zibakhsh, cosmology w/ non-conformal holographic matter — holo-cosmo",1WOOIDFY98aeirfDnbC-u7UXgCLd5aur6
+119,REF,HOLO-COSMO,,Cosmology from confinement.pdf,"Van Raamsdonk, cosmology from confinement — holo-cosmo",10OrT7p8OsL3Z2bjAcr0Tk1g2kNvk_n5g
+120,REV,HOLO-REALTIME,,GuageGravityDuality.pdf,"Skenderis–van Rees, real-time gauge/gravity (Eucl–Lor contour) ↔ NTE Wick; lean keep",19ciTUC3RBtAYxa5BaKuCqmC5Eg8gwSzP
+121,REV,HOLO-ENTROPY,,QFT.pdf,"Van Raamsdonk, finite entropy sums in QFT — entropy cancellations; lean keep",1nMMqWcUOtyt6BByhv-kYOemCpuXrMjkh
+122,REF,HOLO-COSMO,DUP of #111,Bubbles.pdf,Bubbles of cosmology in AdS/CFT (JHEP version of #111),1K15Kcf3BEr1F8wnVVEPm0FLm784heYOz
+123,REV,BELL,,The Non-Signalling theorem of Bells Inequality.pdf,Non-signalling theorem in Bell generalisations — ↔ Companion 1; lean keep,1Tf1d8ZBlCHpPNIIzWJJ4ATFZiY-zKkMV
+124,DEL,NEWS,,Fractals.pdf,Quanta: fractals/asymptotic safety — news article,15P-gChWaYQw7jKaRS3rdNJQoD__l3HZM
+125,DEL,NEWS,,AI in math.pdf,Quanta: AI in math — news article,1Z56wiu-RBY-dvLfWQ6khv30i4WQVRKyY
+126,DEL,NEWS,,neutrinos.pdf,Quanta: sterile neutrinos death knell — news article,1b6xCzADUek5ZlV3zPcxVfvf7SLagKTKp
+127,DEL,NEWS,,QM.pdf,Quanta: decoherence/QM — news article,1g-ejKSemW5nlg6dYRp_5vLvMzwfiDOU0
+128,DEL,NEWS,,DeSitter.pdf,Quanta: de Sitter space — news article,1tQeV1wYR8WnPALNduCCa1cfebRRjb1mv
+129,DEL,NEWS,,Strings.pdf,Quanta: strings theory-of-everything — news article,1JXDG6Lu5tcWn-en_4_wrtEnqEbrhB68_

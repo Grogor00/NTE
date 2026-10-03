@@ -1,0 +1,441 @@
+ A structural prediction for the neutrino mass-ratio m(ν₃)/m(ν₂) on the Hopf
+          flux line: the (flux)^(2/3) form and its two flux branches
+                                        Gregory Lyndon White
+                                                  2026-06-21
+
+
+
+
+Independent Researcher, Auckland, New Zealand
+Email: gregwhite00@gmail.com — ORCID 0009-0003-3680-2363
+Abstract
+The seesaw mechanism for Majorana light neutrinos links observed sub-eV masses to a heavy right-handed
+Majorana scale 𝑀𝑅 through 𝑚𝜈 = 𝑌 2 𝑣 2 /𝑀𝑅 , with 𝑌 the Dirac Yukawa coupling and 𝑣 = 246 GeV the
+electroweak vacuum expectation value. In most extensions of the Standard Model the values of {𝑌𝑖 } and
+𝑀𝑅 are independent inputs constrained by observation. We present a structural prediction for the form
+of the second-generation neutrino Yukawa on a Hopf-bundle three-sphere geometry: 𝑌𝜈2 = (flux)−1/3 ,
+the inverse cube-root of a characteristic Hopf flux. The flux prefactor admits two branches distinguished
+by a real-structure question — whether the Dirac coupling inherits the Majorana doubling of the heavy
+sector. The heaviest Majorana mass scale 𝑀1 carries (8𝜋)1/3 unambiguously (the doubling is structural).
+The Dirac Yukawa carries either the same normalisation, 𝑌𝜈2 = (8𝜋)−1/3 ≈ 0.341 (the 8π / Majorana-dual
+branch), or the single un-doubled Hopf flux, 𝑌𝜈2 = (4𝜋)−1/3 ≈ 0.430 (the 4π / single-flux branch). An
+operator-theoretic analysis of the Connes real structure favours the 4π branch for the Dirac coupling,
+because the Dirac entry connects left- and right-handed neutrinos within the particle sector and does not
+pass through the antiparticle (J) block that produces the Majorana doubling. We do not, however, claim the
+magnitude is fixed by a Lagrangian term; it remains a structural confluence-tier input, and both branches
+are presented.
+The branch-independent commitment is the shape of the mass-ratio:
+                                             𝑚𝜈3
+                                                    = (flux)2/3 .
+                                             𝑚𝜈2
+
+With the right-handed Cartan mass scale 𝑀𝑅 = 8.2 × 1014 GeV (set independently by the heaviest
+light-neutrino mass), the two branches give:
+
+Branch            𝑌𝜈2               𝑚𝜈2 (solar)            solar fit    𝑚𝜈3 /𝑚𝜈2          ratio fit
+8π                (8𝜋)−1/3 =        0.00860 eV             0.993×       (8𝜋)2/3 = 8.57    1.47×
+                  0.341
+4π                (4𝜋)−1/3 =        0.01365 eV             1.58×        (4𝜋)2/3 = 5.40    0.93×
+                  0.430
+
+
+                                                       1
+No single 𝑀𝑅 fits both the solar level and the atmospheric ratio at once: the 8π branch fits the solar
+level tightly while the ratio overshoots by ≈ 1.5×; the 4π branch fits the ratio tightly while the solar
+level overshoots by ≈ 1.5×. This is not a zero-parameter prediction, and neither branch is dialled to
+the data. The genuine, fallible content is the (flux)2/3 form and the trade-off it forces. No observational
+input from the cosmological-constant sector enters the derivation. The first-generation Yukawa 𝑌𝜈1 , the
+charged-lepton Yukawas, the full Dirac mass matrix from the finite algebra, and a first-principles fixing of
+the flux branch all remain open. We give the geometric derivation, the seesaw arithmetic for both branches,
+the cross-check with its honest tension, and five falsifiers.
+Keywords: neutrino mass; seesaw mechanism; Yukawa couplings; Hopf bundle; spectral geometry; real
+structure; precision neutrino physics
+
+
+
+1. Introduction
+The seesaw mechanism remains the most economical explanation of the observed sub-eV neutrino mass
+scale: a Standard Model singlet right-handed neutrino with Majorana mass 𝑀𝑅 at high scale, coupled to
+the left-handed neutrino through a Dirac Yukawa 𝑌 , generates light-neutrino mass
+                                                2
+                                           𝑌 2 𝑣EW
+                                    𝑚𝜈 =           ,       𝑣EW = 246 GeV,
+                                             𝑀𝑅
+
+through the standard type-I integration of the heavy right-handed mode [1–4]. The mechanism is
+structurally elegant; the values {𝑌𝑖 , 𝑀𝑅 } are not. In the Standard Model with right-handed neutrinos added,
+both the Yukawa entries and the Majorana scale are free parameters, fit to the observed mass splittings
+Δ𝑚212 and Δ𝑚2 [5,6].
+              31
+
+This paper reports a structural prediction for the form of the second-generation neutrino Yukawa 𝑌𝜈2
+from a framework in which the universe’s three-dimensional spatial topology is a closed three-sphere 𝑆 3
+carrying a Hopf-bundle structure, and in which the Standard Model gauge group emerges at a “gauge birth”
+transition from an algebraic reduction at the geometric scale of the 𝑆 3 boundary. The framework’s heaviest
+Majorana mass scale 𝑀1 is fixed structurally by a BPS-saturating tree-level closure with a characteristic
+cube-root prefactor (8𝜋)1/3 , derived from the geometry of the 𝑆 3 Hopf fibration and a spectral-action
+computation on the product manifold 𝑀 = Hopf-𝑆 3 × 𝑆 1 × 𝐴𝐹 , where 𝐴𝐹 is the finite (algebraic) sector.
+The new content of this paper is twofold. First, the Yukawa coupling on the same Hopf flux line carries
+the inverse cube-root exponent of the Majorana scale: 𝑌𝜈2 = (flux)−1/3 . The Majorana mass scales as
+(flux/𝑉 )1/3 (volumetric cube root on the flux line); the dimensionless Dirac Yukawa scales as (flux/𝑉 )−1/3 ,
+the dual exponent, with the Higgs vacuum expectation value supplying the mass dimension downstream.
+Second, and the focus of this revision, the flux prefactor itself is not unambiguous for the Dirac coupling:
+it depends on whether the Dirac Yukawa inherits the factor-of-2 Majorana doubling that the heavy sector
+carries. This produces two branches, set out in §3, with distinct observational signatures.
+Scope, stated plainly at the outset. This is not a zero-parameter prediction and we do not present it as
+one. 𝑀𝑅 is a structural confluence-tier input, not a derived output. The magnitude of 𝑌𝜈2 is not fixed
+by a Lagrangian term in either branch; what the geometry fixes is the form (flux)−1/3 and the (flux)2/3
+mass-ratio shape. The test this paper offers — the thing a reader should try to break — is that ratio shape,
+and the trade-off that no single 𝑀𝑅 fits both the solar level and the atmospheric ratio simultaneously. No
+observational input from the cosmological-constant sector enters at any step.
+
+
+                                                       2
+A companion paper [14] establishes that on closed product-of-spheres 4-manifolds 𝑆 𝑝 ×𝐹 𝑞 with a flat factor
+(𝑝 ∈ {2, 3, 4}), the Weyl–Euler trace-anomaly combination 𝐹1 = −18𝐶 2 + 11𝐸4 vanishes identically only at
+𝑝 = 3 — i.e. on 𝑀 = 𝑆 3 × 𝑆 1 within that family (Lafontaine 1988; Chang–Gursky–Yang 2003). Uniqueness
+is not claimed among all closed 4-manifolds: flat 𝑇 4 and closed-hyperbolic 𝑁 3 × 𝑆 1 lie outside this family.
+The companion establishes the possibility space within the product-of-spheres family; the present paper
+establishes the empirical signature on that geometry.
+Section 2 defines the neutrino mass-eigenmode ontology. Section 3 reviews the cube-root Majorana
+prefactor, presents its Dirac dual, and sets out the two flux branches with the real-structure argument
+that favours 4π. Section 4 gives the seesaw arithmetic and the solar mass scale for both branches. Section
+5 cross-checks 𝑚𝜈3 and states the atmospheric tension honestly. Section 6 places the result in a tier register
+and lists five falsifiers. Section 7 lays out the remaining open programme, including the first-principles
+fixing of the flux branch.
+
+2. The neutrino mass-eigenmode ontology
+The framework treats the three light neutrinos as eigenmodes of the unresolved su(2) Cartan decomposition
+of the right-handed neutrino sector relative to the direction set by the Higgs vacuum expectation value.
+In the generator basis {𝜎1 , 𝜎2 , 𝜎3 } with 𝜎3 aligned to the Higgs VEV direction, the three eigenmodes carry
+distinct geometric structure on the 𝑆 3 Hopf bundle. The restricted product-of-spheres trace-anomaly result
+for 𝑀 = 𝑆 3 × 𝑆 1 (𝑝 = 3; companion [14]) is the substrate selection this paper builds on.
+     • The 𝜎1 and 𝜎2 modes carry the Hopf flux quantisation, lying transverse to the Cartan direction and
+       sourcing the heaviest and second-heaviest Majorana masses through the BPS-saturating geometric
+       closure.
+     • The 𝜎3 mode is the Cartan direction itself, decoupled from the Hopf flux line, carrying the
+       right-handed Cartan mass scale 𝑀𝑅 that anchors the heaviest light-neutrino seesaw.
+The assignment of light-neutrino mass eigenstates to these structural modes is:
+
+                                                                                    Light-neutrino mass
+Eigenmode                   Pauli direction               Right-handed scale        route
+𝜈1                          𝜎1                            𝑀1 from Hopf-flux BPS     First-generation
+                                                          closure                   Yukawa bracket (open)
+𝜈2                          𝜎2                            𝑀2 = 𝑀1 (1 + sin2 𝜃13 )   This paper
+                                                          from 𝑍2 split
+𝜈3                          𝜎3 (Cartan)                   𝑀3 = 𝑀𝑅 from heaviest            2 /𝑀 (cross-
+                                                                                    𝑚𝜈3 = 𝑣EW  𝑅
+                                                          light-neutrino            check)
+                                                          consistency
+
+
+The 𝑍2 split between 𝑀1 and 𝑀2 is the same 𝜎1 ↔ 𝜎2 exchange that underwrites the framework’s prediction
+of maximal atmospheric mixing 𝜃23 = 𝜋/4 at leading order. Both predictions share the same 𝑍2 generator
+at the Cartan structure level.
+The seesaw reading is non-standard in one respect: the coupling line for the second-generation light
+neutrino is on 𝜎1 /𝜎2 (carrying the inverse Hopf-flux normalisation), but the seesaw denominator is the
+Cartan-sector scale 𝑀𝑅 , not the Majorana scale 𝑀2 . This distinction is load-bearing; we address it in §4.2.
+
+
+
+
+                                                      3
+3. The cube-root prefactor, its dual, and the two flux branches
+3.1 The Majorana scale (8π, unambiguous)
+The heaviest Majorana mass scale is set by a BPS-saturating tree-level closure on the Hopf-bundle flux line
+at the gauge-birth temperature:
+
+                                        2 𝐻 )       1/3
+                         𝑀1 = (8𝜋)1/3 (𝑀Pl GB             ⋅ (1 + 𝑐 (𝜇/𝑀)2 ),   𝑐 ≈ 0.97,
+
+with 𝑀Pl the reduced Planck mass and 𝐻GB the Hubble parameter at gauge birth. The closure gives 𝑀1 ≈
+5.42 × 109 GeV at central values. The (8𝜋) structure combines Majorana doubling (a factor of 2 from the
+Weyl-pair-to-Majorana identification) with a three-dimensional volumetric prefactor (a factor of 4𝜋 from
+the unit-three-sphere volume), giving 8𝜋 as the tree-level combination. The factor of 2 is structural: it is
+the operator-theoretic content that makes a Majorana mass term possible at all, and it cannot be removed
+without removing the lepton-number violation that defines the Majorana sector. 𝑀1 carries (8𝜋)1/3 in all
+branches considered below.
+
+3.2 The Dirac dual and the branch question
+On the same Hopf flux line that gives the Majorana mass, the Dirac Yukawa coupling scales with the
+inverse cube-root exponent. The reason is dimensional: the Majorana mass has mass dimension 1,
+requiring a flux-cube-root normalisation; the Yukawa coupling is dimensionless, with the Higgs vacuum
+expectation value 𝑣EW supplying the mass dimension downstream. The Hopf-Killing-spinor flux supports
+a Majorana–Dirac relation at the cube-root level:
+
+                                                𝑌𝜈2 = (flux)−1/3 .
+
+The open question is which flux the Dirac coupling sees — the doubled 8𝜋 of the Majorana sector, or the
+single un-doubled 4𝜋 Hopf flux:
+    • 8π / Majorana-dual branch: the Dirac Yukawa inherits the same 8𝜋 normalisation as the Majorana
+      scale, as its exact cube-root inverse:
+
+                                                𝑌𝜈2 = (8𝜋)−1/3 ≈ 0.341.
+
+      This is the reading in which the Dirac prefactor is the dual of the Majorana prefactor on a shared
+      normalisation.
+    • 4π / single-flux branch: the Dirac Yukawa sees only the single Hopf flux 4𝜋, without the Majorana
+      factor-of-2 doubling:
+                                            𝑌𝜈2 = (4𝜋)−1/3 ≈ 0.430.
+
+3.3 The real-structure argument (favours 4π)
+The distinction between the branches is decided, in principle, by where the two couplings sit in the Connes
+real structure (𝐴, 𝐻 , 𝐷, 𝐽 ) with antilinear 𝐽 . The Hilbert space decomposes as 𝐻particle ⊕ 𝐻antiparticle , with
+𝐽 exchanging the two summands.
+    • The Majorana mass 𝑀𝑅 connects 𝜈𝑅 to its charge conjugate 𝐽 𝜈𝑅 — it lives in the particle↔antiparticle
+      (J) block, violates fermion number by two, and inherits the reality doubling. This is the structural
+      source of the factor of 2 -> 8𝜋.
+
+
+                                                          4
+     • The Dirac Yukawa 𝑌𝜈2 connects 𝜈𝐿 to 𝜈𝑅 within the particle sector via the Higgs scalar — no 𝐽 ,
+       conserves fermion number, and does not pass through the antiparticle block. It therefore does not
+       inherit the doubling, and sees the single Hopf flux -> 4𝜋.
+This assignment is not a basis choice: it follows from the standard identification of charge conjugation
+with the 𝐽 operation and from fermion-number conservation, which is structural rather than conventional.
+An operator-theoretic analysis of the octonionic bimodule, including the non-associative associator on
+the relevant Killing-spinor overlap, finds that the off-diagonal Dirac overlap activates a single sector (the
+antiparticle-block sector is inactive for the Dirac coupling) and that the associator does not relabel the
+particle/antiparticle sectors at this vertex. On this analysis the 4π / single-flux branch is favoured for
+the Dirac coupling.
+
+3.4 Honest scope on the branch
+We nonetheless present both branches, for two reasons. First, the magnitude of 𝑌𝜈2 is not fixed by a
+first-principles Lagrangian term in either branch; whether a Lagrangian derivation on the Hopf flux line
+ultimately fixes the flux prefactor, or leaves it as a confluence-tier structural input, is an explicit open item
+(§7). Second, the two branches make sharply different and individually falsifiable predictions (§4–§5), so
+naming both — rather than committing prematurely — is the honest presentation while the first-principles
+question is open. Neither branch is dialled to the data; each is reported with the leg it fits and the leg it
+misses.
+
+4. The seesaw formula and the solar mass scale
+4.1 Canonical seesaw formula (confluence-tier 𝑀𝑅 )
+Combining the dual Yukawa from §3 with the right-handed Cartan mass scale 𝑀𝑅 from the heaviest
+light-neutrino consistency (§5), the canonical seesaw expression for the second-generation light-neutrino
+mass is
+                                                              2
+                                                  (flux)−2/3 𝑣EW
+                                           𝑚𝜈2 =
+                                                        𝑀𝑅
+with 𝑀𝑅 = 8.2 × 1014 GeV and 𝑣EW = 246 GeV. Evaluating both branches:
+
+Branch                       𝑚𝜈2                                        2
+                                                            Observed √Δ𝑚21              Ratio
+8π                           (8𝜋)−2/3 𝑣 2 /𝑀𝑅 =             0.00866 eV                  0.993×
+                             0.00860 eV
+4π                           (4𝜋)−2/3 𝑣 2 /𝑀𝑅 =             0.00866 eV                  1.58×
+                             0.01365 eV
+
+
+The mass-value comparison is the directly meaningful figure (the prediction is a mass scale, not a squared
+splitting). In the 8π branch the solar level is reproduced tightly (0.993×, within current 1𝜎). In the 4π
+branch the solar level overshoots by 1.58× (and, in squared-splitting terms, Δ𝑚21      2 overshoots by ≈ 2.5× —
+
+the solar leg is not fit in this branch). In neither branch is the mass scale fitted to the solar splitting: 𝑣EW is
+the electroweak scale, 𝑀𝑅 is anchored by the heaviest light-neutrino mass (§5), and the cube-root prefactor
+is structural.
+
+
+
+
+                                                        5
+4.2 Critical seesaw denominator discipline (branch-independent)
+A naive misreading — applying the dual Yukawa in the seesaw formula with the second-generation
+Majorana scale 𝑀2 ≈ 6.18 × 109 GeV in the denominator — would give, in the 8π branch,
+                                                            2
+                                                  (8𝜋)−2/3 𝑣EW
+                                      𝑚𝜈naive =                ≈ 1142 eV,
+                                         2
+                                                       𝑀2
+
+approximately 1.3 × 105 times the observed solar mass scale and ruled out at ∼ 105 𝜎. The
+discipline-preserving formula requires the right-handed Cartan-sector denominator 𝑀𝑅 , not the
+Majorana-sector denominator 𝑀2 , for the light second-generation neutrino, in both branches. The
+Hopf-Killing-spinor coupling supports the Yukawa on the 𝜎1 /𝜎2 sector with inverse normalisation, but
+the seesaw integration runs through the Cartan-sector right-handed scale 𝑀𝑅 . The mechanism by which
+𝑀𝑅 enters the denominator for both 𝜈2 and 𝜈3 is PMNS mixing through the 𝜎3 Cartan — an open item we
+discuss in §7.
+
+5. Cross-check: the atmospheric mass scale and the ratio (honest scope)
+The assignment of 𝑀𝑅 is anchored by the heaviest light-neutrino mass through the Cartan-sector Yukawa
+𝑌3 = 1 (no Hopf-flux normalisation; the 𝜎3 mode is Cartan-aligned, so the flux branch does not affect it):
+                                                          2
+                                                     𝑌32 𝑣EW    2
+                                                               𝑣EW
+                                             𝑚𝜈3 =           =     .
+                                                       𝑀𝑅      𝑀𝑅
+
+With 𝑀𝑅 = 8.2 × 1014 GeV this gives 𝑚𝜈3 = 0.0738 eV in both branches. The comparison uses
+                                         2
+the normal-ordering atmospheric scale √Δ𝑚31                                     2 — also
+                                            ≈ 0.0495 eV, giving 𝑚𝜈3 ≈ 1.49 × √Δ𝑚31
+branch-independent.
+The branch-dependent quantity is the mass-ratio. The framework predicts 𝑚𝜈3 /𝑚𝜈2 = (flux)2/3 ; the
+                     2 /Δ𝑚2 ≈ 5.82:
+observed ratio is √Δ𝑚31   21
+
+
+Branch                 𝑚𝜈2                    𝑚𝜈3                      𝑚𝜈3 /𝑚𝜈2             Observed 5.82
+8π                     0.00860 eV (0.993×     0.0738 eV (1.49×         (8𝜋)2/3 = 8.57       1.47×
+                       solar)                 atm)
+4π                     0.01365 eV (1.58×      0.0738 eV (1.49×         (4𝜋)2/3 = 5.40       0.93×
+                       solar)                 atm)
+
+
+Two structural readings follow, and we state both without dialling either:
+     • 8π branch: the solar level is the tight leg (0.993×); the mass-ratio overshoots by ≈ 1.47×. A single 𝑀𝑅
+       cannot anchor both at sub-1%.
+     • 4π branch: the mass-ratio is the tight leg (0.93×); the solar level overshoots by ≈ 1.58×. Note that in
+       this branch both absolute scales sit ≈ 1.5× high (𝑚𝜈2 at 1.58×, 𝑚𝜈3 at 1.49×), so the overshoot is largely
+       common and cancels in the ratio — pointing at a single ≈ 1.5× normalisation offset in 𝑀𝑅 , with the
+       (4𝜋)2/3 ratio shape surviving as the clean structural prediction.
+In neither branch is this a simultaneous sub-1% fit of both legs. The branch-independent commitment is
+the (flux)2/3 shape; the specific value (8.57 or 5.40) and which leg is tight are the flux-branch outputs.
+
+
+                                                        6
+6. Tier register and falsifiers
+6.1 Tier register
+We distinguish tiers of prediction by the degree of upstream observational anchoring in the derivation
+chain:
+    • Structural consistency (confluence-tier 𝑀𝑅 ): the derivation uses the electroweak vacuum
+      expectation value 𝑣EW and the geometric Hopf sector; 𝑀𝑅 is a structural confluence input, not a
+      zero-parameter output; no observational input from the cosmological-constant sector enters.
+    • Framework-dependent identification: the prediction is structural but the identification with the
+      observable requires a framework-specific reading.
+The present result sits in structural consistency on a confluence-tier 𝑀𝑅 . We are explicit that this is not
+a zero-parameter prediction. The genuine, fallible content of the paper is the forced (flux)2/3 mass-ratio
+and the trade-off it carries; the magnitude of 𝑌𝜈2 and the choice of flux branch are not claimed as derived.
+
+6.2 Falsifiers
+   1. Solar mass splitting precision (8π branch). In the 8π branch the prediction Δ𝑚21   2 = 7.40 × 10−5 eV2
+
+      sits at ∼ 0.5𝜎 from current central values. If future precision data (JUNO, KamLAND-Zen, Hyper-K)
+      shift Δ𝑚212 outside 7.40 ± 0.55 × 10−5 eV2 , the 8π Dirac branch fails at > 3𝜎 with 𝑀 fixed.
+                                                                                           𝑅
+
+   2. Mass-ratio coherence (the primary test, both branches). The framework predicts 𝑚𝜈3 /𝑚𝜈2 =
+      (flux)2/3 — 8.57 (8π) or 5.40 (4π). The observed ratio is ≈ 5.82. The 4π branch fits this at 0.93×; the
+      8π branch is in ≈ 1.47× tension. If future precision drives √Δ𝑚31  2 /Δ𝑚2 away from both 8.57 and
+                                                                                21
+      5.40 at > 3𝜎 , the single-𝑀𝑅 𝜎3 -Cartan assignment fails outright. This is the strongest test the paper
+      offers.
+   3. Inverted hierarchy resolution. The mode assignment requires normal ordering (𝑚𝜈1 < 𝑚𝜈2 < 𝑚𝜈3 ).
+      If JUNO confirms inverted ordering at > 3𝜎 , the 𝜎3 → 𝑀𝑅 assignment for the heaviest light neutrino
+      fails, and the present derivation fails with it.
+   4. 𝑀2 -only seesaw. Any reading that places the dual Yukawa against 𝑀2 alone (without the canonical
+      𝑀𝑅 denominator) gives ∼ 1142 eV and is dead at ∼ 105 𝜎. The 𝑀𝑅 denominator is load-bearing
+      discipline, not interpretive choice — branch-independent.
+   5. Direct 𝑌𝜈2 measurement / branch discrimination. Any measurement of the leading-order Dirac
+      neutrino Yukawa away from both (8𝜋)−1/3 = 0.341 and (4𝜋)−1/3 = 0.430 at > 3𝜎 , absent
+      higher-loop corrections, falsifies the construction; a measurement consistent with one and not the
+      other discriminates the branch. Direct measurement at this precision is not currently accessible; the
+      falsifier is included for completeness, with indirect testability via the mass splittings and the ratio.
+
+7. The remaining programme
+This paper closes the form of the second-generation entry in the neutrino Yukawa programme and isolates
+the flux-branch question. What remains open:
+    • First-principles fixing of the flux branch. Whether a Lagrangian term on the Hopf flux line fixes the
+      Dirac prefactor to 4𝜋 (favoured by the real-structure analysis of §3.3) or 8𝜋, or leaves the magnitude
+      as a confluence-tier structural input, is an explicit open item — not assumed closed here. The
+      real-structure analysis favours 4π; a complete Lagrangian derivation is the natural next step.
+
+
+                                                      7
+    • First-generation Yukawa 𝑌𝜈1 : an illustrative bracket using the 𝑍2 split and the observed sin 𝜃13 gives
+      𝑌𝜈1 ∼ 1.4 × 10−4 , consistent with the cosmological sum bound 𝑚𝜈1 ≲ 0.037 eV. The bracket is not
+      zero-parameter; full closure requires the embedding-depth structure on the finite algebra 𝐴𝐹 .
+    • Charged-lepton Yukawas 𝑌𝑒 , 𝑌𝜇 , 𝑌𝜏 : mass-ratio closure is at high precision; the absolute
+      charged-lepton scale is at working closure with a partial flag on the Dirac prefactor. Full
+      closure remains open.
+    • Full neutrino Dirac mass matrix from the finite algebra 𝐷𝐹 : closing the full {𝑌𝜈𝑖 } from the Dirac
+      operator on 𝐴𝐹 at the gauge-birth boundary ab initio is open — the natural extension of the present
+      second-generation result.
+    • PMNS mixing and the 𝑀𝑅 denominator mechanism: the load-bearing discipline of §4.2 requires
+      the 𝑀𝑅 Cartan-sector denominator for the light 𝜈2 , mechanistically through PMNS mixing on the 𝜎3
+      Cartan. Ab initio derivation of that mechanism is open.
+The present prediction stands or falls collectively with the cube-root Majorana prefactor it dualises and
+with the flux branch eventually fixed. If the tree-level 𝑀1 closure holds and the 4π branch is confirmed,
+the (4𝜋)2/3 mass-ratio becomes the live, fallible prediction, fit at 0.93×, with both absolute scales sharing
+a common 𝑀𝑅 normalisation offset. If the 8π branch is instead fixed, the solar level becomes the tight leg
+at 0.993× and the ratio carries the tension. Either way the (flux)2/3 shape is the structural commitment.
+
+8. Conclusion
+The second-generation neutrino Yukawa coupling takes the structural form 𝑌𝜈2 = (flux)−1/3 on the
+Hopf-Killing-spinor flux line of the 𝑆 3 Hopf-bundle geometry, dual to the cube-root prefactor (8𝜋)1/3 that
+fixes the heaviest right-handed Majorana mass scale. The Majorana scale carries (8𝜋)1/3 unambiguously;
+the Dirac coupling carries either the same normalisation (𝑌𝜈2 = (8𝜋)−1/3 ≈ 0.341, the Majorana-dual
+branch) or the single un-doubled Hopf flux (𝑌𝜈2 = (4𝜋)−1/3 ≈ 0.430, the single-flux branch), with
+the real-structure analysis favouring the latter because the Dirac coupling does not pass through the
+antiparticle block that doubles the Majorana sector.
+Combined with the right-handed Cartan mass scale 𝑀𝑅 = 8.2 × 1014 GeV — independently anchored by
+the heaviest light-neutrino mass 𝑚𝜈3 = 𝑣EW  2 /𝑀 = 0.0738 eV — the seesaw formula gives 𝑚 = 0.00860 eV
+                                                   𝑅                                            𝜈2
+(0.993× the solar scale) in the 8π branch and 𝑚𝜈2 = 0.01365 eV (1.58×) in the 4π branch. The mass-ratio is
+𝑚𝜈3 /𝑚𝜈2 = (flux)2/3 : 8.57 (8π) or 5.40 (4π) against the observed ≈ 5.82. No single 𝑀𝑅 fits both the solar level
+and the atmospheric ratio simultaneously in either branch; the flux choice selects which leg is tight. This
+is not a zero-parameter result, and neither branch is dialled to the data. In the 4π branch both absolute
+scales sit ≈ 1.5× high, so the offset largely cancels in the ratio, leaving the (4𝜋)2/3 shape as the clean
+prediction. No cosmological-constant-sector dependency enters the derivation. Five falsifiers tighten the
+test; the strongest is mass-ratio coherence. The first-generation Yukawa, the charged-lepton Yukawas, the
+full Dirac mass matrix from the finite algebra, and the first-principles fixing of the flux branch remain
+open.
+A companion paper [14] establishes the restricted product-of-spheres trace-anomaly result for 𝑀 = 𝑆 3 ×
+𝑆 1 (𝑝 = 3 in 𝑆 𝑝 × 𝐹 𝑞 ; not a general closed-4-manifold uniqueness theorem). The pair points at one
+structural substrate from two directions: the selected geometry within that family under the Weyl–Euler
+trace-anomaly constraint (companion), and the empirical signature of a structural neutrino mass-ratio on
+that geometry (this paper).
+
+
+
+
+                                                       8
+Acknowledgements
+The author thanks adversarial-review collaborators for scrutiny at the Majorana–Dirac duality
+identification, the real-structure branch analysis, and the seesaw denominator discipline.
+
+Data availability
+This work uses publicly available observational data from the Particle Data Group [5], the NuFIT global
+analysis [6], and Planck 2018 + BAO [19]. No new experimental data is reported.
+
+
+
+References
+[1] P. Minkowski, μ -> eγ at a rate of one out of 10⁹ muon decays?, Phys. Lett. B 67 (1977) 421.
+[2] M. Gell-Mann, P. Ramond, R. Slansky, in Supergravity, eds. P. van Nieuwenhuizen and D. Z. Freedman,
+North Holland (1979).
+[3] T. Yanagida, in Workshop on the Unified Theory of Baryon Number in the Universe, eds. A. Sawada and
+A. Sugamoto, KEK (1979).
+[4] R. N. Mohapatra and G. Senjanović, Neutrino mass and spontaneous parity nonconservation, Phys.
+Rev. Lett. 44 (1980) 912.
+[5] S. Navas et al. (Particle Data Group), Review of Particle Physics, Phys. Rev. D 110 (2024) 030001.
+[6] I. Esteban, M. C. Gonzalez-Garcia, M. Maltoni, T. Schwetz, A. Zhou, The fate of hints: updated global
+analysis of three-flavor neutrino oscillations, JHEP 09 (2020) 178; NuFIT global analysis, www.nu-fit.org.
+[7] C. Bär, Real Killing spinors and holonomy, Commun. Math. Phys. 154 (1993) 509.
+[8] A. H. Chamseddine and A. Connes, The Spectral Action Principle, Commun. Math. Phys. 186 (1997)
+731.
+[9] J. Lafontaine, Sur la géométrie d’une généralisation de l’équation différentielle d’Obata, J. Math. Pures
+Appl. 62 (1983) 63; and conformal trace-anomaly results on product manifolds (1988).
+[10] S.-Y. A. Chang, M. J. Gursky, P. C. Yang, A conformally invariant sphere theorem in four dimensions,
+Publ. Math. IHÉS 98 (2003) 105.
+[11] D. V. Vassilevich, Heat kernel expansion: user’s manual, Phys. Rep. 388 (2003) 279.
+[14] G. White, F₁ = −18 C² + 11 E₄ and the vanishing of the trace-anomaly combination on S³ × S¹ among
+product-of-spheres 4-manifolds, companion preprint (2026).
+[16] F. P. An et al. (JUNO Collaboration), Neutrino Physics with JUNO, J. Phys. G 43 (2016) 030401.
+[17] S. Abe et al. (KamLAND-Zen Collaboration), Search for Majorana Neutrinos with the Complete
+KamLAND-Zen Dataset, Phys. Rev. Lett. 130 (2023) 051801.
+[18] K. Abe et al. (Hyper-Kamiokande Collaboration), Hyper-Kamiokande Design Report, arXiv:1805.04163
+(2018).
+[19] N. Aghanim et al. (Planck Collaboration), Planck 2018 results. VI. Cosmological parameters, Astron.
+Astrophys. 641 (2020) A6.
+
+
+
+                                                      9
+Corresponding author: Gregory Lyndon White, gregwhite00@gmail.com, ORCID 0009-0003-3680-2363.
+
+
+
+
+                                                10
+

@@ -1,0 +1,55 @@
+# Handoff — PC → Greg (ratify) → Cursor (apply): Ch 10 v9 coherence residual, Ch 16 v3 first pass
+
+**From:** PC
+**To:** Greg (ratification), then Cursor (byte-exact apply)
+**Date:** 2026-09-25
+**Arising from:** `Handoffs\Handoff_Cursor_to_PC_AC_40Mpc_Origin_and_Apply_Complete_20260925.md` §3, and PC's first reading of Chapter 16
+**Status:** PROPOSED — not ratified
+
+Series **AC** → `Book\Chapter_10_The_Silvered_Boundary_v8.md` → v9. Series **AD** → `Book\Chapter_16_Stranger_and_Stranger_v2.md` → v3.
+
+---
+
+## 0. First: a pattern in PC's own work that needs stating
+
+Cursor's residual report is the fourth time this campaign that a PC patch set has fixed the prominent instances of a retired term and left the quiet ones standing in the same document:
+
+| Set | Missed |
+|---|---|
+| Ch 1 v9 (P-series) | refrain replaced at 2 of 6 joints; "Revisited" section untouched |
+| Ch 4 (C-series) | five emergence-lexicon survivors |
+| Ch 5 (D10) | two V_NTE references |
+| Ch 10 (Z-series) | **six "coherence length" / "forty megaparsecs" in §5–§6 mid-section prose** |
+
+Each time the mechanism is identical. PC finds the term where the argument turns on it, writes the patch against that passage, and does not re-scan the whole document for the term before filing. Three of the four were caught by someone else — Greg, the reviewer, Cursor.
+
+**The working correction, from this handoff forward:** after authoring any patch set that retires a term, PC re-reads the full target for every instance of that term and lists the count in the handoff, including zero. That is a cheap step and it would have caught all four. It is applied below — AC1–AC3 are the result of doing it to Chapter 10, and §3's counts are the result of doing it to Chapter 16.
+
+---
+
+## 1. The 40 Mpc origin, and what it changes
+
+Cursor located the formula in the historical archive, stable from v10.5 through the superseded v10.17 Part 2 §9.4:
+
+> *R_c ~ 40 Mpc × (0.1 eV / m_ν), giving coherence mass M_c ~ 4.4 × 10¹⁴ M_☉*
+
+So **the length was the input and the mass was derived from it** — the reverse of what PC assumed when flagging AB1. The live corpus kept the mass and dropped the length; the Popular editions kept the length shorthand without the formula, and that is the path by which it reached the Book.
+
+That resolves AB1's arithmetic puzzle: PC's ~13 Mpc radius was a ball of mass M_c at mean cosmic density, which is not what the corpus computed. No contradiction. **PC's envelope was answering a question the corpus never asked.**
+
+But the origin makes the Book's usage worse, not better, in one specific way that is worth recording: **the 40 Mpc figure is mass-dependent, and the Book quotes only the instance.** R_c scales as 1/m_ν, so 40 Mpc is the value *at the reference m_ν = 0.1 eV* and nowhere else. Chapter 15 carries the framework's own second-generation neutrino mass at 0.0086 eV. A reader who took the Book's 40 Mpc as a framework output, and then met 0.0086 eV two chapters earlier, would be holding two numbers that do not sit together without the scaling law neither chapter prints.
+
+Quoting the deposited mass, as Z2 and AA1 now do, sidesteps this entirely. **The patches below finish the job rather than changing its direction.**
+
+---
+
+## 2. Chapter 10 — AC series (v8 → v9)
+
+Cursor reports the load-bearing openers now read *coherence mass* while the mid-section still reads *coherence length*, which is worse than either alone: a reader meets a mass, then six paragraphs of a length, with no statement that they are the same scale. Full count from PC's re-read of the unpatched passages: **six instances across three paragraphs.**
+
+### AC1 — §5, the physics paragraph (3 instances)
+
+**OLD**
+
+```
+What this means physically: below the coherence length, the cross-thickness coupling fluctuates significantly. The bilateral wavefunction is intact at small scales, but the coupling's contribution to the gravitational signal varies from place to place, depending on local conditions of the unresolved neut

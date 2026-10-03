@@ -1,0 +1,113 @@
+{
+  "tier2_files": 1003,
+  "tier2_modified": 213,
+  "tier2_subs": 702,
+  "tier1_ambiguity_buckets": {
+    "R7_PC_REVIEW": 291,
+    "R5_APPLY_BETA": 146,
+    "R4_LEAVE": 15,
+    "R7_LEAVE": 10,
+    "R8_LEAVE": 4,
+    "R9_LEAVE": 2
+  },
+  "tier1_ambiguity_samples": {
+    "R7_PC_REVIEW": [
+      {
+        "file": "17.5.4_Audit_NLock_Derivation.md",
+        "line": 75,
+        "context": ") \u00d7 \u03c1_\u03a6(y), with V\u2083(y) = 2\u03c0\u00b2 R\u2080\u00b3 e^(3y) (the FRW boundary 3-volume) and \u03c1_\u03a6 = (3\u03b1\u00b2/(8\u03c0G))A\u00b2y\u00b2 (energy density on traject"
+      },
+      {
+        "file": "17.5.4_Audit_NLock_Derivation.md",
+        "line": 79,
+        "context": "> S_E = (\u03c0 R\u2080\u00b3 \u03b1 \u03a6\u2080\u00b2)/(12G) \u00d7 (1/N_lock) \u00d7 [(3N_lock \u2212 1) e^(2N_lock) + e^(\u2212N_lock)]"
+      },
+      {
+        "file": "17.5.4_Audit_NLock_Derivation.md",
+        "line": 93,
+        "context": "**Setup:** Companion 8 v2 finding F3 gives V_NTE^pre(\u03a6) = (3\u03b1\u00b2/(8\u03c0G))\u03a6\u2074 \u2212 (\u03b1\u00b2A\u00b2/8)\u03a6\u00b2 on the pre-temporal trajectory. Thi"
+      }
+    ],
+    "R5_APPLY_BETA": [
+      {
+        "file": "Companion_10_Gap1_M1_Pathways_v10_17_2.md",
+        "line": 231,
+        "context": "ent triplet (\u03b3-1 from v1 \u00a75) gives the same (M_Pl\u00b2 \u00d7 H_GB)^(1/3) cube root that \u03b1 produces. The structural reading: J\u2083(\ud835\udd46"
+      },
+      {
+        "file": "Companion_11_Lambda_Unimodular_Closure_v10_17_2.md",
+        "line": 9,
+        "context": "nter the closure formula. This puts \u039b in the same epistemic family as H_0 (also \u03b1-characterisation-construction), distin"
+      },
+      {
+        "file": "Companion_11_Lambda_Unimodular_Closure_v10_17_2.md",
+        "line": 25,
+        "context": "E-chain caveat.** The four-input prediction (\u039b_{a_4} from heat-kernel; N_e from \u03b1 and M_Pl,nr; 2\u03c0\u00b2 from S\u00b3 geometry; mea"
+      }
+    ],
+    "R4_LEAVE": [
+      {
+        "file": "Companion_4_Hierarchy_Resonance_v10_6.md",
+        "line": 210,
+        "context": "ntial, extrapolated to high energies using the measured values of m_H, m_t, and \u03b1_s, lies near the boundary between abso"
+      },
+      {
+        "file": "NTE_v10_17_Part3_Accounting.md",
+        "line": 880,
+        "context": "APPENDIX C: RUNNING OF \u03b1_s TO THE PLANCK SCALE"
+      },
+      {
+        "file": "NTE_v10_17_Part3_Accounting.md",
+        "line": 884,
+        "context": "\u03b1_s(\u03bc) = \u03b1_s(\u03bc\u2080) / [1 + (b\u2080 \u03b1_s(\u03bc\u2080))/(2\u03c0) \u00d7 ln(\u03bc\u00b2/\u03bc\u00b2\u2080)]"
+      }
+    ],
+    "R7_LEAVE": [
+      {
+        "file": "NTE_v10_17_Part2_Structure.md",
+        "line": 88,
+        "context": "\u03c1_int ~ \u03a3_i \u03b1_i(E_F) \u00b7 \u03c1_Fermi"
+      },
+      {
+        "file": "NTE_v10_17_Part2_Structure.md",
+        "line": 90,
+        "context": "where \u03b1_i(E_F) is the running coupling of gauge group i evaluated at the Fermi energy ("
+      },
+      {
+        "file": "NTE_v10_17_Part2_Structure.md",
+        "line": 96,
+        "context": "\u03b1\u2081(M_Pl) \u2248 0.017, \u03b1\u2082(M_Pl) \u2248 0.034, \u03b1\u2083(M_Pl) \u2248 0.065 (one-loop, Appendix C), giving \u03a3\u03b1_i \u2248 0.116."
+      }
+    ],
+    "R8_LEAVE": [
+      {
+        "file": "NTE_v10_17_Part3_Accounting.md",
+        "line": 754,
+        "context": "**S_bridge:** \u03ba\u2080 \u222b\u222b \u221a(-g_+)\u221a(-g_-) \ud835\udca6(x,y) g_+^{\u03b1\u03b2}g_-^{\u03c1\u03c3} T_{\u03b1\u03b2}^{(b,+)} T_{\u03c1\u03c3}^{(b,-)} with \u03ba\u2080 = 3/\u221a(4\u03c0) and \ud835\udca6 = Y\u2080\u2080\u00b7\u0398"
+      },
+      {
+        "file": "NTE_v10_17_Part3_Accounting.md",
+        "line": 754,
+        "context": "**S_bridge:** \u03ba\u2080 \u222b\u222b \u221a(-g_+)\u221a(-g_-) \ud835\udca6(x,y) g_+^{\u03b1\u03b2}g_-^{\u03c1\u03c3} T_{\u03b1\u03b2}^{(b,+)} T_{\u03c1\u03c3}^{(b,-)} with \u03ba\u2080 = 3/\u221a(4\u03c0) and \ud835\udca6 = Y\u2080\u2080\u00b7\u0398"
+      },
+      {
+        "file": "NTE_v10_17_Part3_Accounting.md",
+        "line": 754,
+        "context": "**S_bridge:** \u03ba\u2080 \u222b\u222b \u221a(-g_+)\u221a(-g_-) \ud835\udca6(x,y) g_+^{\u03b1\u03b2}g_-^{\u03c1\u03c3} T_{\u03b1\u03b2}^{(b,+)} T_{\u03c1\u03c3}^{(b,-)} with \u03ba\u2080 = 3/\u221a(4\u03c0) and \ud835\udca6 = Y\u2080\u2080\u00b7\u0398"
+      }
+    ],
+    "R9_LEAVE": [
+      {
+        "file": "NTE_v10_17_Part3_Accounting.md",
+        "line": 951,
+        "context": "age 3 (or beyond): pinning V_NTE uniquely requires committing to one of (option \u03b1) a specific dynamical reading replacin"
+      },
+      {
+        "file": "NTE_v10_17_Part3_Accounting.md",
+        "line": 951,
+        "context": "age 3 (or beyond): pinning V_NTE uniquely requires committing to one of (option \u03b1) a specific dynamical reading replacin"
+      }
+    ]
+  },
+  "tier1_ambiguity_total": 468
+}

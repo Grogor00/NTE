@@ -1,0 +1,132 @@
+{
+  "task_id": "FARNSWORTH-S4FULL-ASSOCIATOR-STREAM1",
+  "stage": "4-full",
+  "author": "Cursor Jammer",
+  "vol_S3": 19.739208802178716,
+  "Y00": 0.28209479177387814,
+  "killing_spinor_amplitude": 0.22507907903927651,
+  "hopf_monopole_projection": 0.06349363593424097,
+  "decisive_criterion": "Off-diagonal Dirac overlap: both epsilon'=\u00b11 -> 8pi; one -> 4pi",
+  "sigma2_octonion_index": 2,
+  "sigma2_triples_count": 34,
+  "sigma2_triples_sample": [
+    {
+      "triple": [
+        2,
+        1,
+        3
+      ],
+      "associator_coeff": -1.0,
+      "associator_basis": 0,
+      "cross_summand_norm": 0.0
+    },
+    {
+      "triple": [
+        2,
+        1,
+        4
+      ],
+      "associator_coeff": -1.0,
+      "associator_basis": 2,
+      "cross_summand_norm": 0.0
+    },
+    {
+      "triple": [
+        2,
+        1,
+        5
+      ],
+      "associator_coeff": -1.0,
+      "associator_basis": 6,
+      "cross_summand_norm": 0.0
+    },
+    {
+      "triple": [
+        2,
+        1,
+        6
+      ],
+      "associator_coeff": -2.0,
+      "associator_basis": 7,
+      "cross_summand_norm": 0.0
+    },
+    {
+      "triple": [
+        2,
+        1,
+        7
+      ],
+      "associator_coeff": -1.0,
+      "associator_basis": 1,
+      "cross_summand_norm": 0.0
+    },
+    {
+      "triple": [
+        2,
+        2,
+        1
+      ],
+      "associator_coeff": 2.0,
+      "associator_basis": 1,
+      "cross_summand_norm": 0.0
+    },
+    {
+      "triple": [
+        2,
+        2,
+        3
+      ],
+      "associator_coeff": 2.0,
+      "associator_basis": 3,
+      "cross_summand_norm": 0.0
+    },
+    {
+      "triple": [
+        2,
+        2,
+        4
+      ],
+      "associator_coeff": 1.0,
+      "associator_basis": 4,
+      "cross_summand_norm": 0.0
+    }
+  ],
+  "max_associator_coeff": 2.0,
+  "max_cross_summand_mixing": 0.0,
+  "envelope_factor": 3.0,
+  "relabel_factor": 1.0,
+  "epsilon_prime_sectors": [
+    {
+      "epsilon_prime": 1,
+      "label": "D+",
+      "overlap_amplitude": 0.13333663546190602,
+      "active": true
+    },
+    {
+      "epsilon_prime": -1,
+      "label": "D-",
+      "overlap_amplitude": 0.0,
+      "active": false
+    }
+  ],
+  "active_sector_count": 1,
+  "sector_verdict": "one",
+  "flux_prefactor": "4pi",
+  "flux_value": 12.566370614359172,
+  "yukawa_scale_inv3": 0.4301270069140498,
+  "g2xG2_relabeling_detected": false,
+  "particle_antiparticle_labels_preserved": true,
+  "stream2_convergence": "CONVERGENT",
+  "real_structure_expectation": "4pi (one sector; Dirac not in J-block)",
+  "associator_caveat": "Non-associativity could reintroduce factor 2 via both epsilon' sectors or G2xG2 relabeling",
+  "honest_scope": {
+    "dirac_only": true,
+    "M1_majorana_8pi_untouched": true,
+    "sunshine_not_fix": "If 4pi: m_nu2 shifts ~1.59x (worsens solar); ratio improves",
+    "magnitude_still_free": true
+  },
+  "result_files": {
+    "json": "farnsworth_stage4full_associator_report.json",
+    "memo": "Farnsworth_Stage4Full_Associator_Envelope_Cursor_Jammer_20260621.md"
+  }
+}

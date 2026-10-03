@@ -1,0 +1,4 @@
+ASTRAL MOJIBAKE REPAIR
+
+files_changed=1 total_fixes=1
+NTE v10_6\Papers\Paper_Popular_v10_8_Full_Edition.md: 1 fix(es)

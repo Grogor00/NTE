@@ -1,0 +1,23 @@
+{
+  "stage": 2,
+  "algebra": "O+O",
+  "dim_AF": 16,
+  "cpn_conjugate_summands": true,
+  "G2_factors": 2,
+  "S_fixed": 0.5,
+  "epsilon_prime_branch": 1,
+  "free_M_IJ": {
+    "1,2": 1.0,
+    "3,4": 0.5
+  },
+  "free_kappa": {
+    "1,2": 1.0,
+    "2,3": 1.0
+  },
+  "D_F_hermitian": true,
+  "checks": {
+    "summand_blocks_built": true,
+    "charged_higgs_sector_identified": true
+  },
+  "gate": "OPEN \u2014 magnitudes FREE (Stage 0); Stage 3 neutrino block extraction next"
+}

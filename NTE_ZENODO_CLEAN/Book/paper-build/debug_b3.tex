@@ -1,0 +1,349 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+\documentclass[
+  11pt,
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+  \setmainfont[]{Libertinus Serif}
+  \setmathfont[]{Libertinus Math}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{multirow}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{longtable,booktabs,array,tabularx}
+\usepackage{ragged2e}
+\usepackage{makecell}
+\AtBeginEnvironment{longtable}{\small}
+\AtBeginEnvironment{tabular}{\small}
+
+\usepackage{amsmath,amssymb,mathtools}
+\usepackage{microtype}
+\usepackage[none]{hyphenat}
+\emergencystretch=3em
+
+% Centered publication title block (Pandoc \maketitle)
+\usepackage{titling}
+\pretitle{\begin{center}\LARGE\bfseries}
+\posttitle{\par\end{center}\vskip 0.5em}
+\preauthor{\begin{center}\large}
+\postauthor{\par\end{center}}
+\predate{\begin{center}\large}
+\postdate{\par\end{center}\vskip 1.5em}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{The Shape of Time}\label{the-shape-of-time}
+
+\section{Appendix B --- NTE Corpus
+Links}\label{appendix-b-nte-corpus-links}
+
+\emph{Non-Temporal Emergence (NTE): the Null-Time Extension to the
+Standard Model}
+
+G. White
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+This appendix points to the \textbf{technical corpus} behind \emph{The
+Shape of Time}. Paths are relative to this book folder on the author's
+OneDrive tree (Desktop/Book/ -\textgreater{} Desktop/NTE v10\_6/). A web
+or DOI link table may be added when papers are on arXiv or a project
+site.
+
+\textbf{Greg-ratified structure (2026-05-26):} the Popular Paper ships
+as \textbf{Appendix A}; the rest of the corpus is linked here, not
+embedded in the chapter files.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Reader map}\label{reader-map}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3529}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.6235}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.0118}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+You want\ldots{}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Start here
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Same story as the book, shorter (Reader Edition only) & \textbf{Appendix
+A} --- Appendix\_A\_NTE\_Popular\_Paper\_ v10\_8\_v7.md & \\
+Full lay paper (\textasciitilde13k words), not the book appendix &
+Paper\_Popular\_v10\_8\_v6.md --- \textbf{Full Edition} & \\
+Full technical foundations &
+\multicolumn{2}{>{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.6353} + 2\tabcolsep}@{}}{%
+Master \textbf{Part 1--3} (canonical \textbf{v10.17.6} in \textbar{}
+Papers/; companions \textbf{v10.17.2})} \\
+Proof behind a single chapter & \textbf{Companion} for that topic (index
+below) & \\
+One prediction in journal form &
+\multicolumn{2}{>{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.6353} + 2\tabcolsep}@{}}{%
+\textbf{Standalone papers} (\(\kappa\), P4 \(\theta_{23}\), P5
+\(m_{\nu_2}\), F1, S2, \ldots) \textbar{}} \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Master corpus (trilogy)}\label{master-corpus-trilogy}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.1944}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.7917}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Part
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+File (under NTE v10\_6/Papers/)
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Foundations & NTE\_v10\_17\_Part1\_Foundations.md (header v10.17.1; body
+v10.17.6) \\
+Structure & NTE\_v10\_17\_Part2\_Structure.md \\
+Accounting & NTE\_v10\_17\_Part3\_Accounting.md \\
+Live register & NTE
+v10\_6/Workflow/NTE\_Live\_Register\_v10\_17\_3.md \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Companion papers
+(chapter-aligned)}\label{companion-papers-chapter-aligned}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.3750}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.6250}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Topic
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Companion \textbar{} Book chapters
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Entanglement / one object, two readings & \\
+Born rule / Hopf & Companion\_2\_BornRule\_Hopf\_v10\_6\_v2.md
+\textbar{} Ch 6 \\
+State space / surface & Companion\_5\_StateSpace\_Surface\_v10\_8.md
+\textbar{} Ch 3--6 \\
+Gauge birth / Born at birth & Companion\_6\_Gap5\_ \textbar{} Ch 7
+\textbar{} BornRule\_GaugeBirth\_v10\_6\_v2.md \textbar{} \\
+Neutrino / chirality & Companion\_7\_Neutrino\_v10\_17\_2.md; \textbar{}
+Ch 7--8 Companion\_7a\_* (if present) \textbar{} \\
+\(\kappa\) / dark matter & Paper\_Kappa\_AB\_v10\_17\_2.md \textbar{} Ch
+9--10 \\
+Spectral chord & Companion\_12\_Spectral\_Chord\_Closure\_ \textbar{} Ch
+12 \textbar{} v10\_17\_2.md \textbar{} \\
+\(\Lambda\) / unimodular & Companion\_11\_Lambda\_Unimodular\_Closure\_
+\textbar{} Ch 13 v10\_17\_2.md \textbar{} \\
+\(m_{\nu_2}\) / Yukawa & Companion\_13\_Yukawa\_Nu2\_D5\_Inverse\_
+\textbar{} Ch 8, 15 v10\_17\_2.md \textbar{} \\
+\end{longtable}
+}
+
+\textbf{Full companion index:} NTE
+v10\_6/Papers/COMPANION\_CANONICAL\_INDEX.md
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{NTE Popular Paper --- two editions (do not
+conflate)}\label{nte-popular-paper-two-editions-do-not-conflate}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 0\tabcolsep) * \real{1.0094}}@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Edition \textbar{} File \textbar{} Use \textbar{}
+==========+==========================================+==========================================+
+\textbf{Reader Edition} \textbar{} Paper\_Popular\_v10\_8\_v7.md
+\textbar{} After reading \emph{The Shape of Time}; \textbar{}
+-\textgreater{} Appendix\_A\_NTE\_Popular\_Paper\_v10\_8\_v7 \textbar{}
+\textasciitilde4,800 words \textbar{} .md \textbar{} \\
+\textbf{Full \textbar{} Paper\_Popular\_v10\_8\_v6.md \textbar{} Corpus
+/ AC / standalone; \textasciitilde13,000 words; \textbar{} Edition}
+\textbar{} \textbar{} \textbf{not} Appendix A \textbar{} \\
+\end{longtable}
+}
+
+Same v10.8 generation; \textbf{different documents}. Rebuild Appendix A
+only from v7 (build\_book\_appendix\_a.py).
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Standalone \& programme
+papers}\label{standalone-programme-papers}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1528}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.5972}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1528}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.0278}}@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\multirow{2}{=}{\begin{minipage}[t]{\linewidth}\raggedright
+\section{Paper}\label{paper}
+
+\(\kappa\) pathways
+\end{minipage}} &
+\multirow{2}{=}{\begin{minipage}[t]{\linewidth}\raggedright
+\section{File}\label{file}
+
+Paper\_Kappa\_AB\_v10\_17\_2.md
+\end{minipage}} &
+\multirow{2}{=}{\begin{minipage}[t]{\linewidth}\raggedright
+\section{Register}\label{register}
+
+Tier 2
+\end{minipage}} & \\
+& & & \\
+\multicolumn{2}{@{}>{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.7500} + 2\tabcolsep}}{%
+Spectral \textbar{} Popular\_Paper\_Spectral\_Action\_v1.md action
+\textbar{} (popular \textbar{} programme)\textbar{}} &
+\multicolumn{2}{>{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1806} + 2\tabcolsep}@{}}{%
+Popular\_Paper\_Spectral\_Action\_v1.md \textbar{} Tier 3 \textbar{}
+\textbar{} \textbar{} \textbar{} \textbar{} \textbar{} \textbar{}
+\textbar{}} \\
+F1 / S³×S¹ & Paper\_F1\_Trace\_Anomaly\_S3xS1\_Uniqueness\_
+v0\_2\_20260526.md & P1 & \\
+\multicolumn{2}{@{}>{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.7500} + 2\tabcolsep}}{%
+S2 \textbar{} Paper\_S2\_v1\_0\_Consolidation\_20260525.md consolidation
+\textbar{}} &
+\multicolumn{2}{>{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1806} + 2\tabcolsep}@{}}{%
+Paper\_S2\_v1\_0\_Consolidation\_20260525.md \textbar{} P2 \textbar{}
+ion \textbar{} \textbar{} \textbar{}} \\
+\multicolumn{4}{@{}>{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.9306} + 6\tabcolsep}@{}}{%
+\(\theta_{23}\) \textbar{} Paper\_P4\_Theta23\_Z2\_Chirality\_
+\textbar{} P4 / Majorana \textbar{}
+Superposed\_Majorana\_v0\_2\_20260526.md \textbar{} \textbar{}} \\
+\multicolumn{2}{@{}>{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.7500} + 2\tabcolsep}}{%
+\(m_{\nu_2}\) \textbar{} Paper\_P5\_m\_nu2\_v0\_2\_arxiv\_20260526.md} &
+\multicolumn{2}{>{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1806} + 2\tabcolsep}@{}}{%
+\$ \textbar{} Paper\_P5\_m\_nu2\_v0\_2\_arxiv\_20260526.md \textbar{} P5
+\textbar{}} \\
+Hopf bare coupling & Paper\_Hopf\_Bundle\_Bare\_Coupling\_
+v0\_1\_20260526.md & --- & \\
+\end{longtable}
+}
+
+\textbf{Portfolio register:} NTE
+v10\_6/Papers/NTE\_Standalone\_Papers\_Register\_v0\_4\_draft\_20260526.md
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Workflow \& discipline (corpus
+maintenance)}\label{workflow-discipline-corpus-maintenance}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.2692}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.7308}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Document
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Path
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Book title / Pratchett & NTE
+v10\_6/Working/NTE\_Book\_Title\_and\_Pratchett\_
+Discipline\_v0\_1\_20260526.md \\
+NTE naming & NTE v10\_6/Working/NTE\_Acronym\_Naming\_Discipline\_
+v0\_1\_20260526.md \\
+Appendix build (Popular -\textgreater{} A) & NTE
+v10\_6/Working/build\_book\_appendix\_a.py \\
+Chapter state ledger & NTE
+v10\_6/Workflow/MB/NTE\_Chapter\_State\_Ledger (2).md \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{When publishing: replace relative paths with stable URLs (arXiv,
+project site, or DOI list). Re-run build\_book\_appendix\_a.py after any
+Popular Paper revision before printing.}
+
+\end{document}

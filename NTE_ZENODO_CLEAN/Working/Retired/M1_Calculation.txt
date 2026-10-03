@@ -1,0 +1,55 @@
+======================================================================
+Scale inventory:
+  M_Pl     = 1.220e+19 GeV  (Planck mass)
+  v_EW     = 2.460e+02 GeV  (electroweak VEV)
+  T_GB     = 4.880e+18 GeV  (≈ 0.4 M_Pl, corpus line 683)        
+  H_GB     = 3.542e-09 GeV  (= α·M_Pl²)
+  α·M_Pl   = 2.904e-28    (dimensionless)
+  N_e      = 63.41            (= -ln(α·M_Pl))
+  M₁ target = 6.060e+09 GeV (Davidson-Ibarra → η_obs)
+======================================================================
+
+Candidates within factor 3 of M₁ (6.06e+09 GeV):
+  a (M_Pl)   b (v_EW)   c (T_GB)   d (H_GB)      value (GeV)      ratio  #nonzero
+------------------------------------------------------------------------------------------
+     0.333      0.000      0.333      0.333        5.952e+09      0.982         3
+     0.667      0.000      0.000      0.333        8.079e+09      1.333         2
+     0.000      0.000      0.667      0.333        4.386e+09      0.724         2
+     1.000      0.000     -0.333      0.333        1.096e+10      1.809         3
+    -0.333      0.000      1.000      0.333        3.231e+09      0.533         3
+    -1.000      0.500      1.500      0.000        1.386e+10      2.287         3
+     1.333      0.000     -0.667      0.333        1.488e+10      2.456         3
+    -0.667      0.000      1.333      0.333        2.381e+09      0.393         3
+     1.500     -0.500     -0.667      0.667        2.194e+09      0.362         4
+
+Filtered: 2 nonzero exponents only:
+  a (M_Pl)   b (v_EW)   c (T_GB)   d (H_GB)      value (GeV)      ratio
+--------------------------------------------------------------------------------
+     0.667      0.000      0.000      0.333        8.079e+09      1.333
+     0.000      0.000      0.667      0.333        4.386e+09      0.724
+
+======================================================================
+Structural candidate spotlight: (M_Pl² · H_GB)^(1/3)
+======================================================================
+  Formula: (M_Pl² · H_GB)^(1/3) = α^(1/3) · M_Pl^(4/3)
+  Value: 8.079e+09 GeV
+  Ratio to M₁ target: 1.333
+  Equivalent forms:
+    M_Pl · (α·M_Pl)^(1/3)  = 8.079e+09  ✓
+    M_Pl · e^(-N_e/3)      = 8.079e+09  ✓
+    (H_HH² · H_GB)^(1/3)   = 8.079e+09  ✓ (same as above)        
+
+Alternative: (T_GB² · H_GB)^(1/3) — using T_GB as the upper scale
+  Value: 4.386e+09 GeV
+  Ratio to M₁ target: 0.724
+
+Probe: how special is the 1/3-rule? Try other geometric means:   
+  (M_Pl · H_GB)^(1/2)        = 2.079e+05  ratio 0.000
+  (M_Pl² · H_GB)^(1/3)       = 8.079e+09  ratio 1.333  ★
+  (M_Pl³ · H_GB)^(1/4)       = 1.593e+12  ratio 262.798
+  (M_Pl · H_GB²)^(1/3)       = 5.350e+00  ratio 0.000
+
+For comparison, eta v2 §17.5.15 excluded candidates (M_Pl^a · v_EW^b only):
+  M_Pl^(1/2) · v_EW^(1/2)    = 5.478e+10  ratio 9.040
+  M_Pl^(1/3) · v_EW^(2/3)    = 9.038e+07  ratio 0.015
+  M_Pl^(2/3) · v_EW^(1/3)    = 3.321e+13  ratio 5479.559

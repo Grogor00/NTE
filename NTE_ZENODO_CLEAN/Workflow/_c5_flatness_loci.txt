@@ -1,0 +1,6 @@
+--- 0 ---
+tric constraint between two properties of the same surface. Flatness (Ω_k = 0) is required by the Euler closure condition on S³. The CPN symmetry of the Janus boundary is the antipodal map on S³, with the parity rule (−1)^l governing cross-boundary coupling. D
+--- 1 ---
+ undefined — there is no manifold ahead of the boundary.
+
+**Flatness.** The Euler identity e^{iπ} + 1 = 0 encodes the zero-sum energy constraint at the Janus boundary: the total energy of the manifold must vanish, and zero total energy requires zero spatial cu

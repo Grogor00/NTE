@@ -1,0 +1,691 @@
+{
+  "changed": [
+    {
+      "path": "Book\\Book_with_TP\\Appendix_A_NTE_Popular_Paper_Reader_Edition.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_10_The_Silvered_Boundary_v5.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_11_What_the_Universe_Sounds_Like_v3_1.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_12_The_Chord_v3_1.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_13_The_Strange_Silence_of_the_Cosmological_Constant_v5.md",
+      "changed": true,
+      "subs": 4,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_15_The_Score_v2.md",
+      "changed": true,
+      "subs": 5,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_17_The_Working_Bet_v2.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_1_The_Photons_Journey_v7_3.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_4_Time_as_Expansion_v7_2.md",
+      "changed": true,
+      "subs": 9,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Chapter_5_The_Eighth_Colour_v6_1.md",
+      "changed": true,
+      "subs": 4,
+      "residual": []
+    },
+    {
+      "path": "Book\\Book_with_TP\\Prelude_The_Forty_Million_Year_Instant_v5.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Outreach\\Distribution_Campaign_v1_20260530.md",
+      "changed": true,
+      "subs": 4,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\Companion_11_Lambda_Unimodular_Closure_v10_17.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\Companion_11_Lambda_Unimodular_Closure_v10_17_2.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\NTE_Standalone_Papers_Register_v0_5.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\NTE_v10_17_Part2_Structure.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\Paper_S2_Pedagogical_Pivot_v1_0_20260530.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\Paper_S2_v1_0_Consolidation_20260525.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\Paper_S6_M_R_Heat_Kernel_Pedagogical_Pivot_v1_0_20260530.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\Paper_S6_M_R_Heat_Kernel_v1_0.md",
+      "changed": true,
+      "subs": 8,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_2_arxiv_20260526.md",
+      "changed": true,
+      "subs": 12,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Papers\\Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_3_zenodo_20260601.md",
+      "changed": true,
+      "subs": 12,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\20260504_1921_MB.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\20260506_1145_MB.md",
+      "changed": true,
+      "subs": 12,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\20260510_2030_MB.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\20260510_2300_MB.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\20260524_0335_MB.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\Continuation_Prompt_PC_Ch5_Resume_20260520.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\Continuation_Prompt_PC_post_Ch13_v4_P5_v02_20260526.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\Continuation_Prompt_PC_post_Ch3_v4_20260520.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\Continuation_Prompt_PC_post_Ch3_v5_20260522.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\Continuation_Prompt_PC_post_PopularPaper_v6_20260525.md",
+      "changed": true,
+      "subs": 7,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\MB_Stamp_AC_v10_8_master_SHIPPED_COMPLETE_2026_05_17.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\MB\\NTE_Chapter_State_Ledger.md",
+      "changed": true,
+      "subs": 5,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Live_Register_v10_17_1.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Live_Register_v10_17_2.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Live_Register_v10_17_3.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Live_Register_v10_17_4_20260527.md",
+      "changed": true,
+      "subs": 5,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Live_Register_v10_8_v2.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Project_State_v10_17_1_20260524.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Project_State_v10_17_3_20260525.md",
+      "changed": true,
+      "subs": 5,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Ship_Plan_v10_6.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Stream_Notes_Cursor.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Workflow\\NTE_Stream_Notes_PC.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\AC_Wagenveld_Sprint_Architectural_Scoping_v0_1_20260528.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Archive\\NTE_Novel_Concepts_and_Predictions_v10_6.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Archive\\NTE_Novel_Concepts_and_Predictions_v10_6_from_root_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Archive\\trial.txt",
+      "changed": true,
+      "subs": 38,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\BH_Nthickness_Shell_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Corpus_Gap_Tension_Report_v0_2_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\CR2_PhiNTE_AsymptoticSafety_RelevantDirection_Verification_Scratch_20260604.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\CR2_PhiNTE_JPhi5_Pathway_Exhaustion_H_alpha_PhiSq_Scratch_20260603.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\CR2_PhiNTE_JPhi7_Competing_Cosmologies_Survey_Scratch_20260604.md",
+      "changed": true,
+      "subs": 5,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\CR2_PhiNTE_Necessity_Audit_Pass1_Scratch_20260603.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Exploration_Graviton_vs_PhiNTE_v2.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\H_GB_Bridge_Attack_Route_v0_1_20260523.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\J6_HH_Saddle_Scope_Memo_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_BR2d_J3_Action_Derive_v1_0_20260523.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_Bulk_No_Boundary_PreTemporal_v0_1_20260523.md",
+      "changed": true,
+      "subs": 6,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_D1_VNTE_Projection_Memo_v0_1_20260524.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_J1_G4_PaperS2_Unified_Action_Derive_v0_1_20260524.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_J2_P0_10c_Full_Algebra_Spec_v0_1_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_J4_BH_g_ell_Derive_v0_1_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_J6_D1_D2_Bulk_ODE_Derive_v0_1_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_J6_HH_Saddle_First_Pass_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_J6_n1_E3_Saddle_Numerics_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_J6_n3_Hessian_TGB_Derivation_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_J6_n4_BR2d_Locking_Junction_Memo_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_Lambda_Hopf_Janus_Derive_v0_1_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_LB1_Exhaustive_Resolution_v0_1_20260523.md",
+      "changed": true,
+      "subs": 4,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_R4_Z2_Projection_Lemma_v1_0_20260523.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_S22_1i_Bulk_Surface_Embedding_Depth_Sunshine_v0_1_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_S3_f3_dmu_V_from_PhiN_v0_1_20260523.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_S3_f3_dmu_V_Refinement_v0_2_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Jammer_VNTE_Session5_D1_Bulk_Boundary_Derive_v0_1_20260524.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\LB6_Part1_2_1_3_Bulk_Boundary_Prose_Patch_v0_1_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\LCDM_VNTE_Rho_Eff_Genuine_Test_Worksheet_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Load_Bearing_Blocks_Attack_Index_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Master_v10_17_1_Tier2g_Patch_Instructions_R6_LB6_C13_S22_1_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\n_s_Wick_Rotation_Recalculation_Bprime.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\NTE_Connes_Programme_P0_9_Marcolli_VE_Convention_v1.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\NTE_PP_Audit_AppendixA_PC_20260603.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\NTE_Reader_Glossary_Companion_v1_0.md",
+      "changed": true,
+      "subs": 4,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\NTE_Standalone_Claims_Inventory_v0_3_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Open_Gaps_Derivation_Pathways_Sunshine_Map_v0_1_20260524.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Paper_PhiNTE_Necessity_and_Irreducibility_v0_2_ACcalibrated_Scratch_20260604.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Paper_S1_v1_0_section_2_v2_Scratch.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Paper_S1_v1_0_section_2_Wick_Invariance_draft_v1.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Paper_S3_Lambda_M1_M2_Worksheet_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Paper_S3_Structural_f_Attack_Route_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Phi_N_Trajectory_BR2_v0_1_20260523.md",
+      "changed": true,
+      "subs": 4,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Phi_N_Trajectory_BR2c_Attack_Route_v0_1_20260523.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Programme_S_Paper_S6_v1_0_Canonical_Synthesis_Post_Cursor_20260526.md",
+      "changed": true,
+      "subs": 8,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Proposal_Future_Pretemporal_Bulk_Boundary_Ontology_Deferred_20260524.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\R3_Phase_B_BF2020_NTE_Identification_Map_under_Track2_Jammer_v1.md",
+      "changed": true,
+      "subs": 0,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Sigma_PhiNTE_Confluence_Verdict_v1.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Sigma_t_Phi_NTE_Investigation_Direction_1_TopDown_Scratch_v1.md",
+      "changed": true,
+      "subs": 3,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Sqrt2Pi_Traceability_Hopf_Fibre_v1.md",
+      "changed": true,
+      "subs": 2,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\V_NTE_Session5_D1_rho_eff_Trajectory_Check_Jammer_v0_1_20260526.md",
+      "changed": true,
+      "subs": 4,
+      "residual": []
+    },
+    {
+      "path": "NTE v10_6\\Working\\Working_FalsifierSearch_Unitary_CPN_TwoLayer_Opening_Scoping_Claude_Jammer_20260610.md",
+      "changed": true,
+      "subs": 1,
+      "residual": []
+    }
+  ],
+  "residual": [
+    {
+      "path": "NTE v10_6\\Papers\\Companion_7_Neutrino_v10_17_2.md",
+      "changed": false,
+      "subs": 0,
+      "residual": [
+        {
+          "line": 313,
+          "issue": "\u03b2_NTE with EM value",
+          "excerpt": "[^c7-amp]: **\u03b1** and **\u03b2** here are two complex amplitudes for the chirality superposition; not to be confused with the fine-structure constant **\u03b1_em** or the framework coefficient **\u03b2_NTE**."
+        }
+      ]
+    },
+    {
+      "path": "NTE v10_6\\Papers\\NTE_v10_17_Part1_Foundations.md",
+      "changed": false,
+      "subs": 0,
+      "residual": [
+        {
+          "line": 316,
+          "issue": "\u03b2_NTE with EM value",
+          "excerpt": "This is not a derivation \u2014 it is an empirical characterisation. Its structure reveals that \u03b2_NTE encodes information about the particle content (g_eff = 106.75), electromagnetic coupling (\u03b1_em = 1/137"
+        }
+      ]
+    },
+    {
+      "path": "NTE v10_6\\Papers\\NTE_v10_17_Part3_Accounting.md",
+      "changed": false,
+      "subs": 0,
+      "residual": [
+        {
+          "line": 133,
+          "issue": "\u03b2_NTE with EM value",
+          "excerpt": "The empirical \u03b2_NTE characterisation uses g_eff = 106.75 (the SM-complete count of relativistic degrees of freedom at T > T_EW) combined with \u03b1_em = 1/137.036 (the low-energy fine structure constant)."
+        }
+      ]
+    },
+    {
+      "path": "NTE v10_6\\Working\\AC_Readable_Splits\\NTE_v10_17_Part3_Accounting__A_S17_5.md",
+      "changed": false,
+      "subs": 0,
+      "residual": [
+        {
+          "line": 133,
+          "issue": "\u03b2_NTE with EM value",
+          "excerpt": "The empirical \u03b2_NTE characterisation uses g_eff = 106.75 (the SM-complete count of relativistic degrees of freedom at T > T_EW) combined with \u03b1_em = 1/137.036 (the low-energy fine structure constant)."
+        }
+      ]
+    },
+    {
+      "path": "NTE v10_6\\Working\\Paper_PhiNTE_Necessity_and_Irreducibility_v0_3_betaNTE_Scratch_20260610.md",
+      "changed": false,
+      "subs": 0,
+      "residual": [
+        {
+          "line": 12,
+          "issue": "\u03b2_NTE with EM value",
+          "excerpt": "> **Notation (post-rename).** The proportionality constant in H = \u03b2_NTE|\u03a6_NTE|\u00b2 is written **\u03b2_NTE** (\u2248 2.38\u00d710\u207b\u2074\u2077 GeV\u207b\u00b9), renamed corpus-wide from the former \"\u03b1\" to avoid collision with the fine-stru"
+        }
+      ]
+    },
+    {
+      "path": "NTE v10_6\\Working\\Paper_PhiNTE_Necessity_PedagogicalPivot_v0_1_PC_20260604.md",
+      "changed": false,
+      "subs": 0,
+      "residual": [
+        {
+          "line": 49,
+          "issue": "\u03b2_NTE with EM value",
+          "excerpt": "[^beta-nte]: **\u03b2_NTE** denotes the framework's cosmological coupling in **H = \u03b2_NTE |\u03a6_NTE|\u00b2** (\u2248 2.38\u00d710\u207b\u2074\u2077 GeV\u207b\u00b9). It is **not** the fine-structure constant **\u03b1_em** \u2248 1/137."
+        }
+      ]
+    },
+    {
+      "path": "NTE v10_6\\Working\\Paper_PhiNTE_Necessity_PedagogicalPivot_v0_2_PC_20260604.md",
+      "changed": false,
+      "subs": 0,
+      "residual": [
+        {
+          "line": 49,
+          "issue": "\u03b2_NTE with EM value",
+          "excerpt": "[^beta-nte]: **\u03b2_NTE** denotes the framework's cosmological coupling in **H = \u03b2_NTE |\u03a6_NTE|\u00b2** (\u2248 2.38\u00d710\u207b\u2074\u2077 GeV\u207b\u00b9). It is **not** the fine-structure constant **\u03b1_em** \u2248 1/137."
+        }
+      ]
+    }
+  ],
+  "total": 632
+}

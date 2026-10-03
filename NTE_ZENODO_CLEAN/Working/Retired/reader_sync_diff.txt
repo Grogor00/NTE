@@ -1,0 +1,50 @@
+--- book
++++ corpus
+@@ -1,8 +1 @@
+----
+-title: "What If Time Is Made of Something?"
+-author: "G. White"
+-date: "2026-05-26 (v10.8 Reader Edition)"
+----
+-
+-*The Null-Time Extension to the Standard Model, Explained From First Principles*
+ 
+@@ -13,2 +6,4 @@
+ > **This is not the full corpus paper.** The companion document is **`Paper_Popular_v10_8_Full_Edition.md` — Full Edition** (~13,000 words): the complete corpus lay paper for standalone distribution. Same framework; different length and purpose. Do not treat Full Edition and Reader Edition as interchangeable filenames.
++
++> **CR-H1/H2 sync (Cursor Main, 2026-06-01):** Λ **structural quietness stands**; prior ~~1.05×~~ numeric closure **reroute-or-retire** with $a_4=0$ on the canonical operator. Companion 11 and Book Ch 13 carry the technical labels.
+ 
+@@ -152,5 +147,5 @@
+ | m_{ν₂} | ~0.00860 eV | √(Δm²_solar) ~0.00866 eV | Clean zero-parameter |
+-| n_s | 0.9685 | 0.9649 ± 0.0042 | Clean zero-parameter |
+-| r (hilltop) | ~4×10⁻³ | CMB-S4 / LiteBIRD | Future |
+-| Λ | Structural quietness; specific numerical calculation open | Precision cosmology | Open structural calculation |
++| n_s | 0.9685 | 0.9649 ± 0.0042 | Genuine with caveats |
++| r (reading (iii)) | ~4×10⁻³ | CMB-S4 / LiteBIRD | Conditional survivor |
++| Λ | Structural quietness **stands** | Precision cosmology | ~~1.05×~~ numeric **reroute-or-retire** (CR-H1/H2) |
+ | H₀ cosmic mean | 67.6 km/s/Mpc | CMB 67.4; local ~73 void-biased | Structural |
+@@ -163,5 +158,5 @@
+ 
+-**Six-from-one-chord:** One heat-kernel reading on the universe-instrument's spectral triple lands six slots: κ₀ → κ, gauge-birth temperature, inflation tilt (n_s and r on the hilltop reading), Majorana and leptogenesis scales, Λ (structural quietness; specific numerical calculation open), and the comoving-volume audit. Chapter 12 develops the chord; Appendix B carries the technical derivations.
+-
+-For the Λ note in lay terms: the framework first removes the catastrophic vacuum term by the volume constraint, then keeps the small spectral leftover. The structural-quietness account — the catastrophe is forbidden by the instrument's geometry — is what the framework holds. A specific numerical value for the residual at independent precision is open work; the calculation requires deriving the framework's coupling β_NTE from geometry alone, and that derivation is among the framework's open structural items.
++**Five clean notes from one chord:** One heat-kernel reading on the universe-instrument's spectral triple lands five clean notes — κ₀ → κ, gauge-birth temperature, Majorana and leptogenesis scales, and the comoving-volume audit — with Notes 3 (n_s, r) and 5 (Λ numeric) at **reroute-or-retire** (CR-H1/H2). Chapter 12 develops the chord; Appendix B carries the technical derivations. Structural unimodular Λ quietness **stands**; prior ~~1.05×~~ **retires**.
++
++For the Λ note in lay terms: the framework removes the catastrophic vacuum term by the volume constraint — empty space is structurally quiet, not deafeningly loud. That structural account **stands**. The prior chain that renormalised a small spectral leftover at gauge birth and landed near ~~1.05×~~ observed **retires** with $a_4=0$ on the canonical operator; do not cite that ratio as a live prediction pending genuine reroute.
+ 
+@@ -185,5 +180,5 @@
+ - Six chord slots read from one heat-kernel computation on the same geometric object.
+-- Λ's structural quietness stands: the loud vacuum term is removed by the volume constraint, and the universe-instrument's geometry forbids the catastrophe at the structural level. A specific numerical value for the residual is open work — the calculation requires deriving the framework's coupling β_NTE from geometry alone.
++- Λ **structural quietness stands**; prior ~~1.05×~~ numeric route **reroute-or-retire** (CR-H1/H2): loud vacuum term removed by the volume constraint. Do not cite the ratio as a live prediction pending genuine reroute.
+ - m_{ν₂} is derived to ~0.7% of the solar mass scale with no observational input in the chain.
+-- Two routes to n_s are now one identity, read two ways.
++- Two routes to n_s are now one identity, read two ways (genuine with caveats).
+ 
+@@ -207,3 +202,3 @@
+ 
+-Photons experience zero proper time; massive particles do not. NTE reads that correlation through a **boundary expansion field** |Φ_NTE| distinct from the SM Higgs, both set at **gauge birth**. The universe is an expanding S³ boundary; *c* is expansion rate; we are embedded behind the photon wavefront. Bilateral structure is two orientations of one thickened manifold. Incomplete neutrino locking bridges orientations; **dark matter is their cross-thickness gravity** with **κ ≈ 5.50**. Time's arrow is geometric commitment at locking. Quantum probabilities are sphere geometry after Hopf quotient. Octonions without time become quaternions with time → **SU(3)×SU(2)×U(1)**. Hubble tension and DESI *w* bias share void enhancement of |Φ_NTE|². Core predictions: no direct DM; Majorana neutrinos; three generations; m_{ν₂}, n_s, θ₂₃ at structural precision; H₀ as cosmic mean with void-enhancement reading; Λ as structural quietness with the specific numerical calculation open.
++Photons experience zero proper time; massive particles do not. NTE reads that correlation through a **boundary expansion field** |Φ_NTE| distinct from the SM Higgs, both set at **gauge birth**. The universe is an expanding S³ boundary; *c* is expansion rate; we are embedded behind the photon wavefront. Bilateral structure is two orientations of one thickened manifold. Incomplete neutrino locking bridges orientations; **dark matter is their cross-thickness gravity** with **κ ≈ 5.50**. Time's arrow is geometric commitment at locking. Quantum probabilities are sphere geometry after Hopf quotient. Octonions without time become quaternions with time → **SU(3)×SU(2)×U(1)**. Hubble tension and DESI *w* bias share void enhancement of |Φ_NTE|². Core predictions: no direct DM; Majorana neutrinos; three generations; m_{ν₂}, n_s, θ₂₃ at structural precision; Λ structural quietness (~~1.05×~~ numeric reroute-or-retire); H₀ with stated anchoring caveats.
+ 
+@@ -214 +209,2 @@
+ ---
++

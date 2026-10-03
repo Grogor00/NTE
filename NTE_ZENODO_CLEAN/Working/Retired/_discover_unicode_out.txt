@@ -1,0 +1,50 @@
+﻿27 \xe2\u2030\u02c6 
+17 \xcf\u20ac
+15 \xe2\u201a\u201a}
+14 \xe2\u02c6\u0161(
+12 \xe2\u201a\u20ac 
+11 \xce\u203a
+6 \xe2\u201a\u201a 
+6 \xe2\u02c6\u20191
+5 \xe2\x81\xbb\xb9
+4 \xe2\u02c6\u01612
+3 \xe2\u201a\u20ac/
+3 \xe2\u02c6\u2019 
+3 \xe2\u201a\u20ac)
+3 \xe2\u2020\u2019 
+3 \xe2\u2030\u02c61
+3 \xe2\x81\xb0 
+2 \xe2\x81\xbb\xb3
+2 \xe2\x81\xbb 
+2 \xe2\x81\xb9 
+2 \xe2\u201a\u201a\u2083
+1 \xe2\u02c6\u2019N
+1 \xe2\u0178\xa8\xcf
+1 \xcf\u2020
+1 \xe2\u0178\xa9|
+1 \xe2\u201a\u201a|
+1 \xc3\xa4
+1 \xe2\u201e\u201a.
+1 \xc2\xa7
+1 \xe2\u201a\u20ac,
+1 \xe2\u201a\u201a\u2081
+1 \xe2\u201a\u20ac.
+1 \xe2\x81\xb0)
+1 \xe2\u02c6\u2019\u03ba
+1 \xe2\u201a\u201a.
+--- byte snippets for top ---
+\xe2\u2030\u02c6  bytes 6865206c6f776573
+\xcf\u20ac bytes 2d6d656368
+\xe2\u201a\u201a} bytes 726520686173206578
+\xe2\u02c6\u0161( bytes 616e74756d2d6d
+\xe2\u201a\u20ac  bytes 7269766564293b20c3
+\xce\u203a bytes 2b206e6f74
+\xe2\u201a\u201a  bytes ceba20616e64206d5f
+\xe2\u02c6\u20191 bytes 6172676520737973
+\xe2\x81\xbb\xb9 bytes 6f66206e6f6e2d63
+\xe2\u02c6\u01612 bytes 64206f6e207468
+\xe2\u201a\u20ac/ bytes 2062696c6174657261
+\xe2\u02c6\u2019  bytes 72616c2073747275
+\xe2\u201a\u20ac) bytes 747275637475726520
+\xe2\u2020\u2019  bytes 747572616c20717569
+\xe2\u2030\u02c61 bytes 676e69747564653b

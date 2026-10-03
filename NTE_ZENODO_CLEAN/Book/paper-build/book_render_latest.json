@@ -1,0 +1,62 @@
+﻿{
+    "at":  "2026-09-25T18:40:13.9655109+12:00",
+    "rendered":  8,
+    "skipped":  0,
+    "failed":  0,
+    "rendered_rows":  [
+                          {
+                              "md":  "Appendix_C_The_Open_Ledger_v1_4_DRAFT_PC_20260924.md",
+                              "pdf":  "Appendix_C_The_Open_Ledger_v1_4_DRAFT_PC_20260924.pdf",
+                              "kb":  56.2,
+                              "reason":  "new md"
+                          },
+                          {
+                              "md":  "Chapter_01_The_Photons_Journey_v11.md",
+                              "pdf":  "Chapter_01_The_Photons_Journey_v11.pdf",
+                              "kb":  66.3,
+                              "reason":  "new md"
+                          },
+                          {
+                              "md":  "Chapter_02_Entanglement_as_Geometry_v8.md",
+                              "pdf":  "Chapter_02_Entanglement_as_Geometry_v8.pdf",
+                              "kb":  45.9,
+                              "reason":  "new md"
+                          },
+                          {
+                              "md":  "Chapter_03_A_Closed_Universe_v7.md",
+                              "pdf":  "Chapter_03_A_Closed_Universe_v7.pdf",
+                              "kb":  51.3,
+                              "reason":  "new md"
+                          },
+                          {
+                              "md":  "Chapter_04_Time_and_Expansion_v9.md",
+                              "pdf":  "Chapter_04_Time_and_Expansion_v9.pdf",
+                              "kb":  62.3,
+                              "reason":  "new md"
+                          },
+                          {
+                              "md":  "Chapter_05_The_Eighth_Colour_v8.md",
+                              "pdf":  "Chapter_05_The_Eighth_Colour_v8.pdf",
+                              "kb":  54.9,
+                              "reason":  "new md"
+                          },
+                          {
+                              "md":  "Chapter_15_The_Score_v4.md",
+                              "pdf":  "Chapter_15_The_Score_v4.pdf",
+                              "kb":  60.9,
+                              "reason":  "new md"
+                          },
+                          {
+                              "md":  "Prelude_The_Forty_Million_Year_Instant_v8.md",
+                              "pdf":  "Prelude_The_Forty_Million_Year_Instant_v8.pdf",
+                              "kb":  30.4,
+                              "reason":  "new md"
+                          }
+                      ],
+    "skipped_rows":  [
+
+                     ],
+    "failed_rows":  [
+
+                    ]
+}

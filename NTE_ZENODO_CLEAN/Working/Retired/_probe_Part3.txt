@@ -1,0 +1,1898 @@
+NTE Master Corpus
+
+
+
+
+                  Part 3 of 3 · Accounting + Open Work + Appendices
+                                                 G. White
+                                                April 2026
+
+
+                           Non-Temporal Emergence (NTE) — Master Corpus
+
+XVII. PARAMETER ACCOUNTING
+Honest accounting of the framework’s epistemic status.
+Independently Measured Inputs (Standard Model + Cosmology): SM parameters (particle masses, coupling
+constants, mixing angles), Ω_m, Ω_Λ, Ω_r, Ω_b, T_CMB.
+Fundamental Constants (Not Derivable): β_NTE = 2.38 × 10⁻⁴⁷ GeV⁻¹.
+ Derived Within Framework (Zero Additional Parameters): - Gauge group SU(3)_C × SU(2)_L × U(1)_Y
+ from octonionic associativity transition - Three generations and 90 species from 𝐽3 (𝕆) + Majorana
+ condition (v10.4; explicit reduction to SM physical fermionic d.o.f. closed by enumeration v10.9, §17.5.10)
+- κ_predicted = 5.50 ± 0 from Hopf fibration + bilateral neutrino temporal extent (zero theoretical
+uncertainty, v10.4) - 𝑚𝜈2 = (8𝜋)−2/3 𝑣EW  2 /𝑀 ; 𝑌 = (8𝜋)−1/3 on 𝜎 /𝜎 sector — 0.993× Δ𝑚2
+                                               𝑅 𝜈2                 1 2                   √ solar - δ_J =
+π/2 from Janus geometry - Flatness (Ω_k = 0) from boundary-only ontology - w = −1 from geometric
+unloading - n_s = 0.9685 from N_e = −ln(β_NTE·M_Pl) — genuine with caveats (β_NTE-chain + HH
+slow-roll import; Einstein-frame deferred; §17.5.20) - r ≈ 4×10⁻³ — conditional survivor reading (iii),
+§18.4 (readings (i),(ii) falsified; K(Φ) undetermined; reduced predictive credit per CR2 WP-TIER); legacy
+Mechanism-B r = 0.0030 route superseded - θ₂₃ = π/4 from su(2) Z₂ symmetry - sin²θ₁₂ = 1/3 leading order
+from Hopf geometry - σ(κ; M) ∝ M^{−1/2} from two-sector equations + CLT - Gravitational time dilation
+from H(x,N) = β_NTE|Φ(x,N)|² - GUT relations m_τ/m_b -> 1 from G₂ rep 7 = 1 ⊕ 3 ⊕ 3̄ - Standard BBN:
+N_eff = 3.044, Y_p = 0.2470 - Li/H = 2.53 × 10⁻¹⁰ from κ bridge enhancement 1 + κ₀ - C_coherence = 1
+from topological non-resolution - CPN selection from Pin⁻ structure on Z₂ orbifold - Majorana condition
+forced by orbifold convergence - S³ as S⁷/Z₂ fixed locus: geometric origin of SM on S³ - Cabibbo angle
+mechanism: θ_C = arcsin√(m_d/m_s) from isotropic Killing spinor texture zero
+Candidate structural derivation (pending rigorous closure): N_lock = 45/(4 g_eff) ≈ 0.105; T_GB =
+M_Pl/√(2π) ≈ 0.399 M_Pl_red — see §17.5.4, Companion 9 Session 3.
+Constrained by Observation (Not Yet Derived): M_R (Majorana mass scale, pathway identified). M₁
+closed-at-S1 v10.10 (O(1) residue ~1.12 vs obs) — see §XXI Closed Gaps; Companion 10.
+Predictions Status — Triaged. The framework’s claims fall into distinct epistemic categories:
+  (A) Genuine Zero-Parameter Predictions (testable on observables not used as inputs):
+    • κ = 5.50 ± 0 vs observed DM:baryon = 5.38 ± 0.15 (0.83σ) — passed (κ derivation in §9.3 and
+      Companion Papers)
+
+
+
+                                                     1
+NTE Master Corpus
+
+
+   • δ_J = π/2 (maximal CP violation, derived from Janus geometry; observable through CP-violating
+     processes)
+   • θ₂₃ = π/4 in the limit δ_CP -> 0 vs observed 45.0° ± 1.0° — consistent
+ (B) Tested Predictions With Caveats:
+   • n_s = 0.9685 vs observed 0.9649 ± 0.0042 (0.85σ) — genuine with caveats (β_NTE-calibrated
+     N_e + imported HH slow-roll formula; Einstein-frame verification deferred per S2 §6.4; not clean
+     zero-parameter)
+   • r ≈ 4×10⁻³ — conditional survivor reading (iii), §18.4 (readings (i),(ii) falsified; derivation depends
+     on undetermined K(Φ); falsification commitments per §17.5.12 Category A)
+   • σ(M) ∝ M^(−1/2) in DM:baryon ratios. The CLT scaling argument is generic to any model with
+     spatially uncorrelated DM lumps; the NTE-specific content is the combination with κ ≈ 5.50 and the
+     coherence scale M_c set by neutrino free-streaming.
+   • Void-enhanced local H₀: specific spatial-correlation prediction (overdense lines of sight -> lower
+     H₀, underdense -> higher H₀, σ(H₀) ~ 2–4 km/s/Mpc). Falsifiable by directional analysis of SNe Ia
+     catalogues.
+ (C) Partial Predictions / Work in Progress:
+   • ⁷Li/H = 2.53 × 10⁻¹⁰ vs observed (1.6 ± 0.3) × 10⁻¹⁰: factor 1.58 residual remains. Honest as
+     work-in-progress, not as successful prediction.
+   • sin²θ₁₂ = 1/3 (leading order) vs observed: 2.9σ discrepancy at leading order. Cabibbo correction
+     expected to close this; not yet demonstrated.
+   • θ₁₃ ≈ arcsin√(m_μ/(3m_τ)) = 8.07° vs observed 8.57° ± 0.12° (1.5σ). The formula uses observed mass
+     inputs (m_μ, m_τ) combined with the colour factor 3 = N_c from G₂ -> SU(3); structurally similar to
+     the β_NTE empirical characterisation in §2.4.2 (observed inputs + interpretive coefficient -> target
+     observable). Honest as suggestive work-in-progress (the corpus at §19.6 explicitly says “not derived
+     from first principles”); requires the full 𝐽3 (𝕆) calculation to upgrade to genuine derivation.
+ (D) Tautological Consequences of Construction (not predictions):
+   • H₀ = 67.6 km/s/Mpc: follows from the empirical β_NTE characterisation that uses Planck-era
+     observables as inputs. The 0.3% closeness to observed H₀ is structural to construction, not a
+     successful test.
+   • Y_p = 0.247 (Standard BBN result, recovered by NTE assuming standard radiation content; not
+     NTE-distinguishing).
+   • N_eff = 3.044 (Standard BBN result).
+  (E) Postdictions (consistent with prior knowledge):
+   • Three generations from dim su(2) — three generations are observed; the framework provides
+     structural derivation but not forward-looking prediction.
+   • 90 species from 𝐽3 (𝕆) + Majorana — derivation chain (𝐽3 (𝕆) -> 16/gen -> Majorana -> 15/gen
+     × 3 = 45; helicity doubling -> 90) and identification with SM content (72 Dirac quarks + 12
+     Dirac charged leptons + 6 Majorana neutrinos = 90) both complete v10.9 (§17.5.10), with g_eff
+     = 106.75 cross-check tying species count and β_NTE characterisation (§2.4.2) into one mutually
+     self-consistent enumeration.
+   • Neutrinos are Majorana (this is a corpus claim with cosmological implications; experimental status
+     — neutrinoless double beta decay — is currently null).
+  (F) Postulates (Not Predictions):
+
+
+                                                    2
+NTE Master Corpus
+
+
+    • Closed S³ universe (Ω_K = 0): postulated by the framework; observation gives Ω_K = -0.001 ± 0.002,
+      consistent with flat. The framework requires sufficiently large S³ curvature radius such that current
+      measurements bound rather than refute it.
+ (G) Structural Commitments With Falsifiability Footprints:
+    • w_true = −1 exactly with apparent deviations from the void-enhancement mechanism. The framing
+      is falsifiable via the spatial-correlation prediction (low-z bias should grow with structure formation;
+      high-z should approach −1). A constant deviation from w = −1 across all z would falsify the
+      framework’s reading.
+17.5 Known Vulnerabilities and Open Structural Questions
+This section catalogues the framework’s known structural vulnerabilities — places where NTE’s
+commitments are sharp enough to formulate questions but where the answers remain open work. Each
+vulnerability is named so that critical review can engage with what is actually open rather than with what
+the framework has not yet thought to disclose. Each is framed as a research target: the framework has
+provided enough structure to ask the question precisely; the next round of development will close them
+or surface their consequences. Their openness is not a weakness of the framework but a measure of its
+reach (cf. §22 closing remark).
+17.5.1 Cosmological Self-Consistency of H = β_NTE|Φ|² (Connects to §2.3.1)
+The framework’s central equation H(N) = β_NTE|Φ_NTE(N)|² is ratified as a proportionality constraint.
+Verified locally (Schwarzschild to 1PN, §2.3) and at H = H₀ today. Tier 2c numerics (2026-05-23):
+on trajectory |Φ_NTE|² = v_EW²(H/H₀), β_NTE²|Φ|⁴ = H² at every homogeneous epoch — magnitude
+tautology, not independent empirical test Genuine layer (P1b / V_NTE D1): global V(Φ) candidates
+match ρ magnitude but fail thermal w-scaling (w_scalar ≈ −1 vs w = 1/3 at BBN, w = 0 in matter); Ω_r,
+Ω_m, Ω_Λ carry pressure hierarchy as SM+Λ bookkeeping (Gate #2; §17.5.19). n_s = 0.9685 (§2.4.3) is an
+independent test; it does not close V_NTE off-trajectory uniqueness.
+Note on the field involved (cf. §2.3.0): |Φ(N)| in §2.3.1 is |Φ_NTE|, distinct from the SM Higgs (Path
+B). Verification targets: (i) V_NTE role discipline (§17.5.19); (ii) no gravitational signatures beyond H =
+β_NTE|Φ_NTE|² constraint; (iii) off-trajectory V(Φ) + K(Φ) from Connes programme (Session 5 D1). SM Higgs
+phenomenology unchanged under Path B.
+Status update (v10.6–v10.8, V_NTE Stage 2): on-trajectory V_NTE^{post/pre} determinate from Friedmann
+inversion; off-trajectory under-constrained under Appendix B Lagrange multiplier — see §17.5.19 for canonical
+three-role card. (V1’-min) vs natural quartic minimum at v_EW remains open; (V1’-crit) + constraint
+trajectory is corpus default.
+17.5.2 The Two-Field Distinction Between the SM Higgs and NTE’s Boundary Expansion Field (Clarified
+in v10.5.9, Path B)
+NTE’s framework was previously framed as using “the Higgs field” to denote two operationally
+distinct objects (SM Higgs and boundary expansion field) with their consistency presented as an open
+commitment. CR audit (against v10.5.7) established that the consistency cannot be Path A (one field,
+SM Higgs as late-time face): the §2.3.1 trajectory forces |Φ_NTE| ~ 10^{8.5} × v_EW at BBN, which
+under Path A would give catastrophically wrong fermion masses at BBN, contradicting the framework’s
+standard-BBN-recovery commitment. Path B is therefore adopted: NTE’s added scalar |Φ_NTE| is distinct
+from the SM Higgs as a quantum field. The SM Higgs continues to do everything it does in the SM
+(Yukawa couplings, fermion mass generation, BBN, CERN phenomenology — unchanged); |Φ_NTE|
+sources H via H = β_NTE|Φ_NTE|² without coupling to fermions. The two fields’ values coincide at
+
+                                                     3
+NTE Master Corpus
+
+
+N_today (|Φ_NTE(N_today)| = v_EW) as a structural property of the §2.3.1 trajectory at the present cosmic
+epoch. §2.3.0 (rewritten in v10.5.9) discloses Path B explicitly. Open structural work: derive V_NTE
+from the boundary action; derive the structural origin of the value-coincidence at gauge birth; verify the
+cosmological self-consistency relation across cosmic history under V_NTE-driven dynamics for |Φ_NTE|.
+Status: closed in v10.5.9.
+17.5.3 Gravitational Time Dilation Mechanism (Connects to §2.3)
+NTE’s account of gravitational time dilation requires |Φ_NTE(x,N)|² = v_EW² × (1 + Φ_N/c²) under the
+pointwise constraint H = β_NTE|Φ_NTE|² (§2.3, post–Session 1 audit). Solar-system recovery of the
+Schwarzschild factor to first post-Newtonian order is preserved numerically. The structural-identity
+reading (§6.2; abstract language note) treats gravitational time dilation, |Φ_NTE| thinning, and N-thickness
+variation as three descriptions of one geometric fact under the constraint applied pointwise — not as a
+dynamical response driven by ξR|Φ_NTE|² in vacuum Schwarzschild regions where R ≈ 0 outside source
+masses. Propagation gap closed (v10.8, T1-CORPUS-8/9). closed-at-S1 @ 1PN (§22.16). Strong-field /
+second-post-Newtonian work open (P-BH4).
+*Status update (v10.8, post-Session-1-audit + post-Mechanism-B-supersession): the §2.3 mechanism’s
+prior stated reading (‘the local Higgs VEV responds via the non-minimal coupling’) faces two structural
+problems, identified by the §17.5.3 Session 1 audit (2026-05-06):
+(i) Appendix B Fork B closure (cosmological). The corpus has already established at Appendix B.2 that the
+non-minimal coupling cannot drive |Φ|‘s cosmological evolution:’(Φ’)² ≈ −10⁸⁸, physically impossible.’ The
+surviving cosmological pathway is the Lagrange-multiplier action of Appendix B.3, where μ(N) enforces
+the constraint H = β_NTE|Φ_NTE|² and V_NTE is consistent rather than driving (V_NTE Stage 1 finding
+S1.1). T1-CORPUS-1’s ξ = 1/6 commitment at v10.8 does not reopen Fork B — the conformal coupling at ξ
+= 1/6 is in the bare action for the Wick-invariance and σ↔Φ_NTE confluence reasons recorded at §17.5.15
+and §22.14, not as the driver of |Φ_NTE|’s trajectory.
+(ii) Vacuum-R=0 (local).      In vacuum Schwarzschild solutions where solar-system gravitational
+time-dilation tests operate, R = 0 (or R = 4Λ ≈ 10⁻⁸⁴ GeV², negligibly small), so ξR|Φ_NTE|² provides
+no driver for |Φ_NTE| variation outside source masses, regardless of ξ’s value. The vacuum-R issue is
+independent of T1-CORPUS-1’s specific ξ = 1/6 commitment (the value of ξ doesn’t help when R itself
+vanishes). The non-minimal coupling reading is therefore broken at both cosmological and local levels
+under any ξ commitment.
+The clean resolution is the structural-identity reading already committed to in §6.2 and the abstract’s
+language note: gravitational time dilation, |Φ_NTE| thinning, and N-thickness variation are three structural
+descriptions of one geometric fact under the H = β_NTE|Φ_NTE|² constraint applied pointwise, with μ(x,N)
+extending Appendix B.3’s Lagrange-multiplier reading locally. §2.3 prose at v10.8 (T1-CORPUS-8) applies
+this reading consistently. No ‘driver’ coupling is required; the response is structural under the constraint,
+not dynamical under a coupling.
+Relationship to v10.8’s bare-action conformal coupling. T1-CORPUS-1’s ξ = 1/6 commitment,
+the Wick-invariant action form, T1-CORPUS-2’s Mechanism B supersession (n_s derivation route via
+Hartle-Hawking Gaussian saddle, not large-ξ Higgs-inflation), and T1-CORPUS-4’s σ↔Φ_NTE confluence
+catalogue all live at the level of the bare action’s form and the cosmological-trajectory dynamics. The
+§17.5.3 structural-identity reading lives at the level of the local gravitational time-dilation response.
+The two operate at different scales and address different physics; they do not compete. The conformal
+coupling −(1/12)R Φ_NTE² in the bare action does not drive the local response (vacuum R = 0); the
+structural identity under the H = β_NTE|Φ_NTE|² constraint applied pointwise does.
+
+
+                                                     4
+NTE Master Corpus
+
+
+Ghost scan: 𝜇 PASS; ΦNTE + 𝜉 = 61 PASS on constraint surface + |Φ| ∼ 𝑣EW + vacuum 𝑅 = 0; unconstrained
+dS toy shows ghost mode ⇒ holonomic 𝜇 structurally required. MONITOR: |Φ| ≳ 𝑀Pl /√6; Hassan–Rosen
+bimetric polish. Closed 2026-05-24: Session 5 D1 𝑉NTE bulk→boundary projection S1–S4 covariant action
++ 1PN/2PN/shell/unification done — see §22.16. (Cross-thickness coupling action closed-at-S1 at §22.17 /
+Gap 4b v10.8.) Paper S2 six-note chord closed-at-S1 at heat-kernel register (§22.20; Companion 12).
+17.5.4 The N_lock Value (Connects to §2.1.2 and §VII)
+Status (v10.13, Tier 2b): closed at candidate-derivation level. The temporal locking e-fold N_lock ≈ 0.105
+(rounded N_lock ≈ 0.1 in prose) is used throughout the corpus — §VII (gauge birth), §XVIII (n_s via N_e =
+−ln(β_NTE·M_Pl)), surface-ontology programme (Appendix E).
+Candidate structural derivation.      Under two structural commitments (both open to upgrade via
+Programme S / holographic work):
+      N_lock = S_dS/4 = π M_Pl²/(4 H_GB^(F)²) = 45/(4 g_eff)
+where S_dS is de Sitter horizon entropy at gauge birth (Bekenstein–Hawking units) and H_GB^(F) is the
+Friedmann Hubble parameter at T_GB = M_Pl/√(2π) with g_eff relativistic species (audit §3.4). For g_eff
+= 106.75 (§17.5.10): N_lock = 45/427 ≈ 0.1054, matching corpus N_lock ≈ 0.1.
+H_GB notation (v10.17.1, P-dS1 cross-check). The corpus uses two distinct Hubble scales at gauge birth;
+conflating them breaks the N_lock identity. H_GB^(F) (~10¹⁹ GeV): Friedmann H at T_GB for horizon
+entropy and (C1)+(C2) above. H_GB^(β) (~10⁻⁹ GeV): constraint H = β_NTE M_Pl² at temporal locking
+(§18.2 N_e, M₁ Pathway α, §18.1). They are not equal with corpus β_NTE; bridge is three-epoch timeline
+(thermal vs inflation vs locking) — §22.18–§22.19.
+BR5: N_lock (holographic) and N_e (inflation depth) are different coordinates
+(C1) T_GB = M_Pl/√(2π). Hartle-Hawking Gaussian saddle temperature; corpus “T_GB ~ 0.4 M_Pl” is
+1/√(2π) ≈ 0.399 M_Pl_red. Derived at coupled S_E register; temperature block from Paper S2 β_GB, not
+homogeneous (H,Φ) Hessian soft axis. Cross-ref: §22.18.
+(C2) N_lock = S_dS/4. Pre-temporal e-fold count equals one-quarter of horizon entropy at gauge birth
+— holographic identity tying locking transition to thermodynamic horizon formation. Derived at 𝒮cryst
+register : 𝑁lock = 45/(4𝑔eff ) with 𝑔eff = 106.75 at 𝑇GB .
+Parameter accounting. Under (C1)+(C2), N_lock is not an independent calibration; it is fixed by g_eff (SM
+relativistic d.o.f. count, §17.5.10). T_GB moves from opaque calibration to candidate structural derivation
+alongside N_lock. No empirical predictions change.
+Still open for rigorous closure: full path-integral polish of (C2) from Appendix B.3 alone. HH saddle +
+(C1): derived (J6-HESS). (C2): derived (§22.19). See §22.18–§22.19.
+17.5.5 The κ Derivation Structure: Pathway Independence Audit (Closed in v10.5.8) and Gap 4b Action
+(Closed-at-S1 in v10.8)
+The κ = 5.50 derivation was previously framed as supported by “two independent pathways” (Pathway
+A: mirror feedback / two-sector Einstein equations; Pathway B: Hopf projection / field theory on S³).
+External audit (CR pass against v10.5.7, May 2026) established that this framing is overstated: the two
+are not independent confirmations of κ. Pathway B derives κ₀ = 3/√(4π) from Hopf monopole projection
+on S³ (topologically protected via Y₀₀, with dim(su(2)) = 3 setting the eigenstate count). Pathway A takes
+κ₀ as input from Pathway B and runs the geometric resummation κ₀ + κ₀² +. = κ₀/(1−κ₀) = 5.50, motivated
+physically by CPN-symmetric two-sector self-consistency. The geometric resummation is the closed form
+
+
+                                                    5
+NTE Master Corpus
+
+
+of the resummation; Pathway A’s contribution is the physical motivation for the geometric series, not
+a second derivation of κ₀. This is one structural derivation followed by one algebraic closure. Status:
+closed in v10.5.8. The framing has been corrected throughout (abstract, §9.3 title, body references).
+What survives as real structural content: the Hopf protection of κ₀ is genuine topological derivation; the
+CPN-symmetric two-sector closure is genuine physical motivation for the resummation. What does not
+survive: the doubled-confirmation claim. Gap 4b (action principle for two-metric coupling): closed
+v10.8 at S1 — the Janus action of §22.17 reproduces Pathway A’s field equations with Bianchi consistency
+in the monopole/averaged sector; constraint inversion in the action is the resummation algebra. See. S2
+refinement (Hassan–Rosen-class nonlinear bimetric uniqueness) does not affect κ = 5.50 or current ship
+arc.
+17.5.6 Energy Scale Coherence in the β_NTE Characterisation (Connects to §2.4.2)
+The empirical β_NTE characterisation uses g_eff = 106.75 (the SM-complete count of relativistic degrees
+of freedom at T > T_EW) combined with α_em = 1/137.036 (the low-energy fine structure constant). The
+product g_eff × α_em = 0.7790 ≈ √6/π (0.09% match) is flagged as an unexplained coincidence pending
+first-principles derivation (§2.4.2). Part of what is unexplained is why the high-energy g_eff combines
+with the low-energy α_em to produce the geometric ratio. A first-principles account of the coincidence
+must address this energy-scale mixing. Research target: derive g_eff × α_em = √6/π from underlying
+structure, with explicit treatment of why the SM-complete g_eff at T > T_EW and α_em(low) are the
+values appearing in the relation.
+17.5.7 The N_e = −ln(β_NTE·M_Pl) Bound (Connects to §18.2)
+The n_s = 0.9685 prediction depends on N_e = -ln(β_NTE·M_Pl) = 63.4, which assumes the Hartle-Hawking
+phase has upper bound H ~ M_Pl exactly. The natural Planck-scale instanton motivates this but does not
+pin H_HH = M_Pl rigorously. An O(1) coefficient λ ~ 1 in H_HH = λ M_Pl would shift N_e by ln(λ); for λ =
+0.5, N_e = 62.7 -> n_s = 0.9681; for λ = 2, N_e = 64.1 -> n_s = 0.9688. The 0.85σ match has implicit uncertainty
+from this bound. Research target: derive the upper bound H_HH = M_Pl from boundary tension dynamics
+or acknowledge the O(1) coefficient and propagate its uncertainty into the n_s prediction.
+17.5.8 Emergent Lorentz Invariance (Connects to §2.1, §2.3)
+The N-foliation appears to single out a privileged time coordinate, raising the standard Lorentz-invariance
+challenge to expanding-time frameworks. NTE’s defence is that Lorentz invariance is emergent in the
+post-temporal regime: H(N) = β_NTE|Φ(N)|² is observer-independent because both H and |Φ| are scalars,
+so different inertial observers agree on the foliation up to Lorentz transformations of t = ∫dN/(β_NTE|Φ|²).
+The explicit verification that observer agreement holds at all relevant orders is not in the corpus. Research
+target: explicit derivation that emergent t in different inertial frames is related by Lorentz transformation,
+with the N-foliation respecting Lorentz invariance in the post-temporal regime.
+17.5.9 Reduction to ΛCDM in Tested Regimes (Standard Cosmology Benchmarks)
+NTE’s empirical case in tested cosmological regimes rests on reduction to standard FRW cosmology
+when t emerges and the Friedmann equation H² = 8πGρ/3 holds (§2.3.1). v10.12 expansion (Tier 2): this
+section makes the reduction chain explicit, separates homogeneous ΛCDM recovery from NTE-specific
+inhomogeneity predictions, and maps standard benchmarks — without claiming completed global χ² fits
+the corpus has not performed.
+Reduction chain (structural). (1) Core constraint H = β_NTE|Φ_NTE|² (Part 1 §2.3). (2) Cosmic trajectory
+|Φ_NTE|²(N) = v_EW² · H(N)/H₀ (§2.3.1). (3) Friedmann identification ρ_eff = 3H²/(8πG) — magnitude
+closed on homogeneous trajectory (Tier 2c P1); thermal w split in SM+Λ chart (§17.5.19). (4) Post-locking
+
+
+                                                       6
+NTE Master Corpus
+
+
+matter content: SM radiation + matter + geometric unloading. (5) Λ-dominated asymptote: w = −1 (Part 2
+§13.3).
+Homogeneous limit. When spatial gradients of |Φ_NTE|² are negligible on Hubble scales (δρ/ρ ≪ 1),
+H(x,N) -> H(N) and the background is single-fluid FRW with ρ_eff = 3H²/(8πG). If the matter sector splits
+into standard radiation, matter, and cosmological constant in the usual way, the expansion history is
+ΛCDM-class with parameters set by NTE’s β_NTE, trajectory, and SM content. NTE does not replace
+ΛCDM in this limit; it supplies a geometric origin for H(N) and for selected parameters (κ, n_s, M₁ at S1,
+etc.) while using the same FRW bookkeeping.
+Benchmark map (status honest).
+
+Observable                      ΛCDM role                    NTE corpus status
+CMB peak structure              Acoustic scale, Ω_b, Ω_m     Implicit standard thermal history; not
+                                                             re-fitted
+κ (amplitude)                   Ω_m, Ω_b                     Prediction κ ≈ 5.50 (§9.3); CMB epoch nearly
+                                                             homogeneous — void bias should not affect z
+                                                             ~ 1100 κ (Part 2 §13.3)
+n_s                             Inflation                    Genuine with caveats 0.9685 (§17.5.14; C8
+                                                             F4) — clean of β_NTE chain; not derived
+                                                             (profile-contingent)
+r                               Tensors                      Three-readings table §18.4; hilltop ≈ 4×10⁻³
+                                                             structurally favoured
+BAO distances                   H(z), Ω_m                    Homogeneous ≡ ΛCDM (P2); low-z DESI
+                                                             offsets reinterpreted via void bias —
+σ_8, P(k), RSD                  Growth                       Hom numerics done — P3 v0.2; hom ≡
+                                                             ΛCDM; inhom open
+H₀ (local vs CMB)               Single parameter             Distinguishing: local > CMB from spatial
+DESI w₀, w_a                    Dark-energy EOS              Distinguishing: void volume-weighting
+                                                             mimics w > −1; not phantom DE (Part 2
+                                                             §13.3)
+
+
+Where NTE is not ΛCDM (predictions, not inconsistencies). Spatial H(x,N) from |Φ_NTE(x)|²; CPN
+mirror-sector dark matter (κ geometric coupling, §3.3); pre-temporal / gauge-birth regime outside ΛCDM
+by definition.
+Open work (research programme). Full Planck + DESI + BAO χ² fits not in corpus. Tier 2c (2026-05-23,
+updated v10.17): P1 v0.2 + P1b V_NTE ρ/w; P2 BAO + reconciliation; P3 growth v0.2 (hom done); P4 χ²
+scope; index. Register discipline: §17.5.20.
+17.5.10 The 90 Species Count vs SM Particle Content (Closed by Enumeration, v10.9)
+NTE derives 90 species from 𝐽3 (𝕆) + Majorana condition. Closed by enumeration v10.9 (May 2026 AC
+audit, integrated this version; predecessor framing in v10.8 carried the reduction as “research target — not
+explicit in the corpus”). The reduction to observed SM fields is explicit:
+    (i) Furey 16 states per generation: L_L (2) + e^c_L (1) + Q_L × 3 colours (6) + u^c_L × 3 (3) + d^c_L
+        × 3 (3) + ν^c_L (1) = 16 LH Weyl states under the SU(3)_c × SU(2)_L × U(1)_Y gauge decomposition
+        (Furey 2018; Dixon 1994; cf. §8.7.7).
+
+
+                                                     7
+NTE Master Corpus
+
+
+  (ii) Majorana identification: ν^c_L = ν_L removes one LH Weyl field per generation, giving 16 -> 15
+       LH Weyl states per generation. Across three generations: 15 × 3 = 45 independent LH Weyl fields.
+ (iii) Helicity doubling: Each LH Weyl spinor carries 2 on-shell physical degrees of freedom (LH-particle
+       helicity + RH-antiparticle helicity per field). 45 × 2 = 90 physical fermionic d.o.f.
+ (iv) SM-content cross-check (independent enumeration): 72 (quarks Dirac: 6 flavours × 3 colours × 4
+      d.o.f.) + 12 (charged leptons Dirac: 3 flavours × 4 d.o.f.) + 6 (Majorana neutrinos: 3 flavours × 2 d.o.f.)
+      = 90. PASS
+  (v) g_eff cross-check (structural self-consistency): above-EWSB bosonic degrees of freedom = 16
+      (gluons) + 6 (W^a) + 2 (B) + 4 (Higgs complex doublet) = 28. g_eff(T > T_EW) = 28 + (7/8)(90) =
+      106.75. Matches §2.4.2’s β_NTE characterisation g_eff input exactly. The match ties two structurally
+      independent derivation chains (𝐽3 (𝕆) + Majorana for fermion d.o.f.; SM gauge group + Higgs sector
+      for boson d.o.f.) into one mutually self-consistent enumeration; either chain failing would have
+      produced inconsistency.
+Status: closed. The framework’s species enumeration and β_NTE characterisation are mutually
+self-consistent at the d.o.f. level. The Majorana condition’s role as the identification mechanism (16 -> 15
+per generation) is what removes the apparent gap between the 90-count and observed SM fields — under
+Majorana convention, the SM has exactly 90 physical fermionic d.o.f.
+Falsifiability footprint (cross-reference §17.5.12 category E): any precision determination of g_eff at
+T > T_EW deviating from 106.75 at greater than Planck-era uncertainty, or independent SM-content
+enumeration finding ≠ 90 physical d.o.f. under Majorana convention, would falsify either the 𝐽3 (𝕆) +
+Majorana enumeration above or the β_NTE characterisation (§2.4.2) — these are now structurally coupled
+at the cross-check level.
+17.5.11 The §II.0 Methodology Asymmetry (Closed in v10.5.7)
+The framework’s §II.0 working bet — “a unifying description that simplifies should be taken seriously” —
+was previously asymmetric as stated: simplifications counted as evidence, but failed simplifications did
+not appear in the framing. A symmetric methodology must track both. Status: §II.0’s closing paragraph
+(added v10.5.7) now explicitly catalogues failed simplifications (Klein bottle fork, OneManifold, v11 axiom
+audit) alongside successful ones, with each failure characterised by what it taught the framework. The
+methodology is now symmetric. Ongoing maintenance requirement: future failed simplifications should
+be added to that list when they occur. The structural cleanup is closed; the discipline remains active.
+v10.6.1 update: a further §II.0 paragraph naming “graded fulfilment of §II.0 criteria” as the framework’s
+standing discipline was added (after the v10.6 surface-ontology paragraph). It closes CR latent findings
+L1 (graded unifications: forced-by-deeper-structure vs consistency-between-commitments) and L2 (graded
+explanations: explains-uniquely vs re-describes), and subsumes Refinement A from the eta v2 audit (graded
+predictions: framework-derivative / framework-passthrough / framework-observational). The §II.0 discipline
+now covers binary-stated criteria with graded fulfilment at section level, propagating uniformly through
+corpus, papers, chapters, popular paper, and future communication.
+17.5.12 Falsifiability Catalogue: Zero-Parameter and Structural Predictions (Consolidated v10.9)
+The framework’s zero-parameter predictions (§XVII category A), structural commitments with falsifiability
+footprints (§XVII category G), postulates (§XVII category F), and post-derivation enumerations (§XVII
+category E) carry explicit falsifiability commitments in the form “prediction P is falsified by experiment E
+observing observable O at threshold T by programme milestone M.” The catalogue is calibrated to current
+public-roadmap programme sensitivities; revisions track programme reports.
+
+                                                       8
+NTE Master Corpus
+
+
+Category A — zero-parameter predictions:
+   • κ = 5.50 ± 0 (DM:baryon ratio): Planck 2018 measures κ_obs = 5.38 ± 0.15 (0.83σ from prediction).
+     Falsified by CMB-S4 reaching σ(κ) ~ 0.075 with central value > 3σ from 5.50 (i.e. outside [5.27,
+     5.73] band under tightened uncertainty), milestone CMB-S4 first cosmology results mid-2030s.
+     Complementary falsification: direct DM detection (XENONnT, LZ, PandaX-4T, DarkSide-20k)
+     observing a WIMP-like signal whose phenomenology is inconsistent with mirror-gravity coupling
+     through the unresolved neutrino backbone (§9.1) — milestone ongoing through current and
+     next-generation runs.
+   • n_s = 0.9685 (CMB scalar spectral tilt): Planck 2018 measures n_s = 0.9649 ± 0.0042 (0.85σ from
+     prediction). Falsified by CMB-S4 / LiteBIRD reaching σ(n_s) ~ 0.0005 with central value > 3σ
+     from 0.9685 (i.e. outside [0.967, 0.970] band under tightened uncertainty), milestone CMB-S4 /
+     LiteBIRD first cosmology results late-2020s through 2030s. The η-correction route (§18.6) provides
+     post-derivation tightening pending V_NTE boundary action work (Programme S Paper S2);
+     pre-derivation tightening would close the residual 0.85σ.
+   • r — three-readings status per §18.4 v10.8: NTE has three structural readings of the effective
+     inflaton dynamics with different r predictions: (i) Literal NTE constraint Φ⁴-chaotic -> r = 0.25
+     (already 7σ ruled out by current Planck/BICEP bound r < 0.036; ruled-out reading); (ii) Stage 3
+     Session 3 Gaussian saddle Φ²-chaotic -> r = 0.126 (already 3.5σ disfavoured under current bound;
+     disfavoured reading); (iii) Hilltop from V_NTE^pre Φ⁴ − Φ⁶ smooth connection -> r ≈ 4×10⁻³ (Session
+     4 §4.5 structurally favored; consistent with current bound). Reading (i) falsified definitively at
+     Simons Observatory sensitivity (σ(r) ~ 0.003), milestone first results 2025-2027. Reading (ii) falsified
+     definitively at CMB-S4 / LiteBIRD sensitivity (σ(r) ~ 10⁻³), milestone 2030s. Reading (iii) — the
+     structurally favored reading — falsified by either (a) CMB-S4 / LiteBIRD bound r < 10⁻³ at 95% CL
+     with no detection in [10⁻³, 10⁻²] (ruling out hilltop ≈ 4×10⁻³), or (b) detection r > 10⁻² at >5σ. Full
+     first-principles closure of which reading is the true derivation depends on K(Φ) functional form via
+     Connes spectral-triple programme (Paper S2).
+   • δ_J = π/2 (PMNS CP-violating phase, maximal violation from Janus geometry; §10.1): Current T2K
+     2020 + NOvA combined fits hint at near-maximal violation (δ_CP near −π/2) with σ(δ_CP) ~ 30°.
+     Falsified by DUNE + Hyper-Kamiokande reaching σ(δ_CP) ~ 10° with central value > 3σ from ±π/2
+     (i.e. outside ±[60°, 120°] band), milestone DUNE first oscillation results mid-2030s; Hyper-K first
+     results late-2020s through 2030s. The Janus-geometry prediction is for maximal violation in absolute
+     value; the sign (+π/2 vs −π/2) is set by the spontaneous CPN selection at temporal locking.
+   • θ₂₃ = π/4 in limit δ_CP -> 0 (PMNS atmospheric mixing angle; §19.1): Current combined fits (NOvA
+     + T2K + Super-K) give sin²θ₂₃ near 0.5 with mild preference for upper octant; observed 45.0° ± 1.0°
+     (consistent with prediction). Falsified by DUNE + Hyper-K combined long-baseline measurements
+     reaching σ(θ₂₃) ~ 0.5° with central value > 3σ outside the prediction band π/4 ± Δ_CPV (where
+     Δ_CPV is the framework’s δ_CP-correction allowance — currently bounded by the δ_J = π/2
+     maximal-violation commitment to give Δ_CPV ≲ 2°; tightening Δ_CPV is a research target — see
+     closing list below), milestone DUNE / Hyper-K through 2030s.
+   • 0νββ Majorana commitment (Majorana neutrinos forced by §8.7.9 orbifold convergence +
+     §9.3 cross-thickness κ): Current KamLAND-Zen bound m_ββ < ~50 meV (90% CL). Falsified
+     by next-generation experiments (LEGEND-1000 target σ(m_ββ) ~ 10 meV; nEXO ~5-10 meV;
+     CUPID-Mo / CUPID; KamLAND2-Zen) producing a null result deep into the inverted-hierarchy
+     regime (specifically: bound m_ββ < 5 meV at 90% CL under IH, milestone late-2020s through 2030s)
+     without observation, which would push against the Majorana commitment under any plausible
+
+                                                     9
+NTE Master Corpus
+
+
+     NH/IH realisation given M_R = 8.2 × 10¹⁴ GeV (§19.2). Note: a specific NTE m_ββ prediction (NH/IH
+     dependence + Majorana phases anchored on M_R and Janus structure) is research target for v10.9+
+     — until that prediction is in place, the catalogue commitment is the Majorana convention itself, not
+     a specific m_ββ band.
+Category G — structural commitments with falsifiability footprints:
+    • σ(κ; M) ∝ M^{−1/2} (DM:baryon variance scaling above coherence scale M_c ~ 4.4 × 10¹⁴ M_☉; Gap
+      4 closed, §9.4): Falsified by precision DM:baryon distribution measurements (DESI, SDSS, LSST/Vera
+      Rubin, Euclid) showing scaling significantly different from M^{−1/2} in the super-coherence regime
+      (M > 10¹⁴ M_☉) at >3σ, milestone DESI DR3+ through 2027, LSST first 10-year data through 2030s.
+      Note: M^{−1/2} scaling is generic to spatially uncorrelated DM-lump models; the NTE-specific
+      commitment is the combination of the scaling law with the mean value κ ≈ 5.50 and the specific
+      coherence scale M_c set by neutrino free-streaming.
+    • Void-enhanced local H₀ directional signature (Hubble tension reading; §13.2): NTE predicts σ(H₀)
+      ~ 2-4 km/s/Mpc directional scatter correlated with line-of-sight matter density (overdense LOS ->
+      lower H₀, underdense -> higher H₀). Falsified by directional analysis of SNe Ia catalogues (Pantheon+,
+      DES SN, LSST/Vera Rubin) showing no correlation between local H₀ and line-of-sight matter density
+      at the predicted amplitude or higher, milestone Pantheon+ extensions through 2026-2027, LSST
+      through 2030s.
+    • w_obs > −1 at low z with diagnostic signatures, vs constant w deviation (dark-energy as
+      geometric unloading; §12.4): NTE predicts w_true = −1 exactly with w_obs > −1 at low z arising
+      from void-enhancement bias, growing with structure formation, vanishing at high z. Falsified by
+      persistent evidence for w ≠ −1 that does NOT show the four diagnostic signatures: (a) departure
+      correlated with void fraction along line-of-sight; (b) departure diminishing at higher z, tracking
+      σ_8²(z)/Ω_Λ(z); (c) departure vanishing under cosmic-variance correction; (d) CMB κ at z ~ 1100
+      not showing the same bias. Milestone DESI DR3+ (2026-2027), Euclid first cosmology results
+      (2026-2027), LSST through 2030s.
+Category F — postulates with falsifiability footprints:
+    • Ω_K = 0 (closed S³ universe with sufficiently large curvature radius): Current Planck 2018 measures
+      Ω_K = -0.001 ± 0.002 (consistent with flat). Falsified by future combined CMB + BAO + lensing
+      measurement (LiteBIRD + Simons Observatory + DESI + Euclid combined) reaching σ(Ω_K) ~ 5×10⁻⁴
+      with central value > 5σ from 0 in either direction, milestone late-2020s through 2030s. NTE’s
+      commitment is Ω_K = 0 by boundary-only ontology (§16); the falsification threshold tracks the
+      curvature-radius lower bound set by current measurements — the framework requires sufficiently
+      large S³ curvature radius such that current measurements bound rather than refute it.
+Category E — derived enumerations with falsifiability footprints:
+    • Three generations (from dim su(2) = 3): Falsified by direct discovery of a fourth-generation fermion
+      (quark or charged lepton) at any collider — current LHC bounds m_4 > 1.5 TeV — or by robust
+      observation of a fourth light neutrino species from BBN/CMB N_eff measurements consistent with
+      N_eff > 3.5. Milestone LHC continuing through 2030s; HL-LHC through 2040s; future colliders
+      (FCC-hh, muon collider) extending coverage.
+    • 90 species from 𝐽3 (𝕆) + Majorana (§17.5.10 v10.9 closure): The species enumeration and the β_NTE
+      characterisation (§2.4.2) are mutually self-consistent at g_eff = 106.75. Falsified by any precision
+      determination of g_eff at T > T_EW deviating from 106.75 at greater than Planck-era uncertainty,
+
+
+                                                    10
+NTE Master Corpus
+
+
+     OR by independent SM-content enumeration finding ≠ 90 physical fermionic d.o.f. under Majorana
+     convention. Milestone via electroweak precision observables (continued LHC + future colliders
+     + cosmological g_eff inference from N_eff and CMB precision); current cross-check at Planck-era
+     uncertainty already in place.
+Category H — ratified Class-2 external-physics discriminators (not zero-parameter headline
+predictions; AC 2026-06-13):
+    • CLFV μ→eγ / τ→eγ amplitude ratio (RATIFIED): |A(μ→eγ)|²/|A(τ→eγ)|² = tan²θ₂₃ (θ₂₃-only; =1
+      at θ₂₃=π/4; ≈1.39 at NuFIT), with intrinsic ~2–3% width from degeneracy lift (geometry/data-fixed,
+      not free). Forced because σ₁=σ₂ real degeneracy freezes Casas–Ibarra R-freedom that makes generic
+      seesaw CLFV unpredictive. Six binding qualifiers (all must travel with any statement): (1) single
+      relation at dipole level; (2) conditional — discriminates only if CLFV is observed; (3) amplitude-level
+      — relation is in |A|² (never state unqualified “BR ratio = tan²θ₂₃”); (4) ~9:1 vs anarchic seesaw (10.2%
+      mimic in ±20% scan); (5) unobservable at NTE M_R — BR ~4×10⁻⁵⁹, ~46 orders below MEG II; (6)
+      ±~2–3% intrinsic width. Falsifier (conditional): if CLFV dipole transitions are observed, measured
+      |A|² ratio outside tan²θ₂₃ band (accounting for degeneracy lift) at >3σ would falsify the discriminator;
+      no near-term programme at NTE’s M_R scale. Sources:; AC ratification.
+Diagnostic (d) — κ vs Planck 2018
+Headline verdict. NTE’s κ = 5.50 prediction is 1.6σ honest-tier consistent with Planck 2018 (κ_obs =
+5.39 ± 0.07). This is a zero-parameter structural consistency that ΛCDM does not produce — ΛCDM treats
+Ω_dm and Ω_b as independent free parameters, whereas NTE predicts their ratio from Hopf topology +
+Janus action with no free parameters.
+Three-tier σ_κ propagation: statistical (independent) σ_κ = 0.06 -> 1.8σ; correlated (Planck likelihood,
+ρ ≈ −0.5) σ_κ = 0.07 -> 1.6σ (primary honest-tier verdict); conservative catalogue σ_κ = 0.15 -> 0.83σ
+(footnote tier).
+Orthogonality to Branch I cosmic-dipole / void-bias work: at z ≈ 1100, δρ/ρ ~ 10⁻⁵; void-bias amplitude
+at recombination is six orders of magnitude below Branch I best-fit b ≈ 0.05 at low z. The CMB κ test is
+structurally independent of NTE’s low-z void-bias mechanism.
+CMB-S4 milestone (~2030, σ_κ ≈ 0.025): Planck central holds (5.39) -> 4.4σ falsification; drifts to NTE
+(5.50) -> validation. κ = 5.50 is theorem-level (zero theoretical uncertainty); CMB-S4 either validates or
+falsifies directly.
+Coupled-commitment cross-coupling: r ↔ BMV
+NTE’s r ≈ 0.003 prediction (item #3 above) and NTE’s expectation of a positive BMV gravity-induced-entanglement
+outcome are sourced from the same sector of the spectral action — the graviton-mediated sector under
+unimodular gravity. The two predictions therefore do not test independent physics. They probe the same
+graviton sector in two channels: the early-universe CMB tensor power channel (r), and the laboratory
+gravity-induced entanglement channel (BMV) at mesoscopic scale.
+The coupling produces a 2 × 2 falsifier surface sharper than either prediction alone:
+
+                                     BMV-positive                         BMV-negative
+r ≈ 0.003 confirmed                  Co-validation of graviton sector     Tension: lab vs CMB channels
+                                                                          diverge
+
+
+
+                                                     11
+NTE Master Corpus
+
+
+
+                                     BMV-positive                        BMV-negative
+r « 0.003                            Tension: r prediction fails while   Co-failure: graviton-sector
+                                     BMV holds                           revision required
+
+
+Honest-scope envelope: structural cross-coupling only; quantitative |Φ_NTE| BMV-correction magnitude
+remains deferred pending Lagrangian extraction. Timing: r at CMB-S4 / LiteBIRD horizon (~2030); BMV
+at ~5–10 year experimental horizon.
+Closing. The catalogue tightens the §II.0 working bet: predictions whose failure modes are not specified
+are not predictions. Each entry above specifies the falsification threshold against current public-roadmap
+programme sensitivities. The list closes the consolidation work flagged in v10.4–v10.8; ongoing
+maintenance requires updating milestone dates and central-value statistics as programmes report. New
+entries for predictions added in future versions follow the same canonical form.
+Research targets for v10.9+ falsifiability catalogue tightening: - (i) Explicit m_ββ prediction for the
+0νββ commitment (NH/IH dependence + Majorana phases anchored on M_R and Janus structure). - (ii)
+σ_c amplitude calculation for the σ(M) ∝ M^{−1/2} variance scaling (referenced in §9.4 as open). - (iii)
+Sharper Δ_CPV bound on the θ₂₃ falsification band once full δ_J phenomenology is computed. - (iv)
+Quantitative δw(z) bias profile from the void-enhancement mechanism, calibrated against current N-body
++ cosmic-variance baselines for direct comparison with DESI DR3+ / Euclid / LSST analyses.
+17.5.13 The Born Rule Derivation Is a Reformulation, Not a Derivation From Less
+Companion Paper 2 (“The Born Rule Is the Hopf Fibration”) §7.2 honestly acknowledges that the
+framework’s derivation pushes the question “why exponent 2?” back to “why complex Hilbert
+space + U(1) global phase invariance?” Given those two inputs, the Born rule structure follows from
+SU(2)-equivariance, normalisation, and continuity. But the inputs themselves are the Born rule’s premises
+— bilinearity in amplitude is the quadratic-content commitment that makes |ψ|² appear at all. The
+framework therefore demonstrates the geometric naturalness of the Born rule given complex Hilbert
+space + global phase invariance, rather than deriving the rule from less. This is a real result and a useful
+one — the geometric reading shows why the structure is forced once the inputs are accepted. But it is
+not a strong derivation from less. The corpus discussion at §6 of the master document, and Chapter 6
+of the book, should reflect this. Research target: derive the complex Hilbert space structure from the S³
+geometry of the gauge birth, or acknowledge complex structure as input. Until done, the framework’s
+Born rule story is a reformulation rather than a derivation from less.
+Pathway programme. (P-B1) Complex structure from CPN/Janus: U(1) fibre at gauge birth -> ℂℙ1 with
+forced Fubini–Study Kähler; full ℂ from geometry open — attack route. (P-B2) Hopf amplitude geometry:
+Hopf quadratic coords + normalisation force 𝑓 (𝑟) = 𝑟 on |𝑧1 |2 without separate |𝜓 |2 axiom — attack route;
+full overlap without complex import open. J3 formal lemmas: J3a (FS Kähler) + J3b (Hopf quadratic /
+𝑓 (𝑟) = 𝑟) derived — Gap 5 remains mechanism level, not “from less.” (P-B3) Zurek pairing: complementary
+scopes. Discipline: §17.5.13 scope label + “Gap 5 closed at mechanism level.”
+17.5.14 The Hartle-Hawking Slow-Roll Formula Import
+The framework’s strongest current quantitative test, n_s = 1 − 2/N_e = 0.9685 (§2.4.3, §18), depends on
+the formula n_s = 1 − 2/N_e being the correct leading-order spectral-tilt formula in the pre-temporal
+Hartle-Hawking regime. This formula is the standard slow-roll inflation result, derived in Lorentzian-signature
+de Sitter spacetime with a slowly rolling inflaton field. NTE’s pre-temporal phase is the Hartle-Hawking
+Euclidean section (Wick-rotated dynamics), not standard slow-roll inflation. The framework imports the
+
+                                                    12
+NTE Master Corpus
+
+
+slow-roll formula without showing explicitly that it applies in the Euclidean section. Research target:
+verify that n_s = 1 − 2/N_e is the correct spectral-tilt formula in the Wick-rotated regime, OR derive the
+appropriate Euclidean-signature formula and confirm it gives the same numerical result, OR acknowledge
+the formula as imported assumption with corresponding uncertainty in the n_s = 0.9685 prediction.
+Until verified, the 0.85σ match is contingent on the imported formula’s applicability — the framework’s
+strongest test depends on machinery the corpus does not justify in NTE’s regime.
+Status update (v10.6, surface-ontology programme): the v10.6 Wick-rotation reading at §VIII.1.4 makes explicit
+that the pre-temporal regime is Euclidean signature where Lorentzian slow-roll quantities (including ε_H and
+the spectral-tilt formula n_s = 1 − 2/N_e) are formally artefactual. This sharpens §17.5.14’s formula-import
+question rather than resolving it: the n_s formula’s applicability depends on whether N_e is computed entirely
+in the post-locking Lorentzian regime, or whether it includes pre-locking Euclidean e-folds. Verifying this is
+now a more pressing research target given the explicit Wick-rotation framing.
+Status update (v10.8 + Batch-4 honest-scope sync, 2026-06-14):
+The “imported Starobinsky / slow-roll formula” caveat does not close — it stands (Companion 8 F4;
+Companion 9 Batch-4 sync). Mechanism B Higgs-inflation (large ξ ≫ 1/6) is superseded by ξ = 1/6 conformal
+coupling (§17.5.15). Companion 9 Stage 3 gives a Gaussian-saddle / Φ²-chaotic-equivalent form* near
+peak, but n_s = 1 − 2/N_e (or the Session 3 Φ excursion formula) remains an import into the Euclidean
+Hartle–Hawking regime — not a clean zero-parameter derivation from NTE structure alone.*
+n_s honest tier (both caveats travel): (1) Clean of β_NTE-chain circularity — n_s did not feed β_NTE
+calibration (unlike Λ/H₀). (2) Not derived / profile-contingent (C8 F4): the natural Planck-scale instanton
+gives n_s ≈ 1 (~8σ off); matching observed 0.9685 requires an uncommitted H(N) deviation profile. Corpus
+value 0.9685 is consistent with structure under that profile — not derived from it.
+BR2c (2026-05-23): Role (B) slow-roll supplies the leading tilt form; Role (A) constraint trajectory closes lock
+endpoints — two-sector resolution per §17.5.19. Re-verification under explicit ξ = 1/6 and Programme S Paper
+S2 remains open work.
+r-prediction parallel status (Session 4 + Session 5): the Φ²-chaotic equivalence gives r = 0.126 (3.5σ tension).
+Reading (C) hilltop from V_NTE^pre Φ⁴ − Φ⁶ smooth connection (Session 4) gives r ≈ 4×10⁻³ consistent with
+observation. K(Φ) closure is open on the untwisted substrate (𝑎4 = 0 per CR-H1; Paper S2 §6.2 BREAK-1)
+— routed to Programme S Paper S2. §18.4 readings: (i) eliminated, (ii) partial (n_s only), (iii) hilltop uniquely
+canonical at structural level; r ≈ 4×10⁻³ preserved structurally. Phase S2-C-B: 𝑎4 |𝑀 = 0 on untwisted M
+(CR-H1); F1 = −18 C² + 11 E₄ vanishes; M = S³ × S¹ simultaneously Weyl-flat and Euler-zero. Phase S2-C-C:
+D_F sub-leading Δa₂, Δa₄ suppressed ~10⁻¹⁸ at canonical NTE — leading coefficients unchanged. n_s caveat
+(C8 F4): clean Tier-A (did not feed β_NTE) but not derived — profile-contingent; natural instanton gives n_s
+≈ 1. Open: Einstein-frame O(Φ²/M_Pl²) numerical re-fit at inflationary Φ; V_NTE smooth pre/post connection;
+K(Φ). Phase S2-D (Λ_NTE, M₁/M_R) authorised next.
+17.5.15 Conformal coupling commitment ξ = 1/6 (new in v10.8 via confluence integration)
+NTE commits to ξ = 1/6 for the non-minimal coupling −(1/12)RΦ²_NTE in the boundary action (corpus
+§2.2). This is the conformal-coupling value forced by 4D Weyl invariance ((d−2)/(4(d−1)) = 1/6 for d=4),
+equivalently −(1/12)RΦ² with the (1/2) factor absorbed. The commitment serves three purposes:
+   1. Provides the action form ). The argument forces V_NTE form on NTE’s side independently of CC
+      machinery.
+   2. Lands the form-match with Marcolli V_E. Under ξ = 1/6 + λΦ⁴ + 2e|H|²Φ² (Higgs portal), the EFT
+      form coincides with the spectral action’s σ field (Marcolli-Pierpaoli-Teh 2010; Chamseddine-Connes
+
+                                                       13
+NTE Master Corpus
+
+
+      2008). The coincidence is structural confluence, not field identification — see §22.14.
+   3. Supersedes §18 Mechanism B’s large-ξ Higgs-inflation framing for n_s derivation — see §17.5.14
+      update + §18 update.
+Implications: the n_s and r derivation routes update to use the conformally-coupled action structure
+(Companion 8 F4 closure route (γ′) under ξ = 1/6). Numerical predictions n_s = 0.9685 and r ≈ 4×10⁻³
+(candidate hilltop) preserve at structural level; explicit re-verification under ξ = 1/6 is Sessions 6+ work
+(Programme S Paper S2 territory).
+Cross-references: §17.5.14 (n_s status under supersession); §18 (Mechanism B supersession); §22.14
+(confluence catalogue); Companion 9 Session 3 (n_s + T_GB closures); Companion 9 Session 5 (K(Φ)
+closure pathway).
+17.5.16 Phase S2-D M₁ spectral-action cross-check (Paper S2, 2026-05-23)
+Companion 10 Pathway α M₁ = (8π)^(1/3) × (M_Pl² × H_GB)^(1/3) ≈ 5.40 × 10⁹ GeV structurally consistent
+with N_F = 180 CPN doubling at 𝐴𝐹 = 𝕆 ⊕ 𝕆. D5 BPS prefactor (8π)^(1/3) closed-at-S1 at tree level +
+O(1) residue ~1.12 numeric. Cross-ref: §22.20; Companion 10 §7 S2-2; Companion 12 Note 4.
+17.5.17 σ₃ Cartan-mode at spectral-triple level (Paper S2 S2-D, 2026-05-23)
+M₃ = M_R (σ₃-aligned, Higgs-coupled); M₁ = σ₁/σ₂ polarisation at Pathway α scale + D5 correction; M₂ =
+                                           2 /𝑀 at 0.993× solar (§22.1; inverse D5 prefactor on Yukawa
+M₁(1 + sin²θ₁₃) — derived. 𝑚𝜈2 : (8𝜋)−2/3 𝑣EW  𝑅
+line). Supersedes Pathway α S3 M₂ = M_R reading. Cross-ref: OctonionExtension §5 (species roster);
+Companion 12; Programme S 𝐷𝐹 projector (open).
+17.5.18 Λ_NTE structural framework + R6 closure (genuine test with β_NTE-chain caveat, v10.17.6; CR-H2
+reroute-or-retire sync, 2026-06-01)
+Naive spectral-action Λ ~ M_Pl⁴ projects out via unimodular gravity (§22.15). Post-unimodular spectral
+residual at lock is Λ_{a_4} ~ 10³⁷ GeV⁴ (Paper S2 Phase S2-D + Paper S4 unimodular density proof). R6
+closure (Greg-ratified 2026-05-23; Tier 2g T2g-1 sync):
+Λ_NTE^pred = Λ_{a_4} · exp(−3N_e)/(2π²), N_e = −ln(β_NTE·M_Pl,nr),
+with result ≈ 1.05× observed Λ ~ 10⁻¹²² M_Pl⁴. Structural form from unimodular gravity + spectral-triple
+residual + e-folding suppression + dμ(V) projection over Φ(N) trajectory; not post-hoc fitted to Λ_obs
+(Companion 11 §§5–7; Paper S4; S3 full suppression sweep route exhaustion). The 2π² factor is the
+boundary unit cell at crystallisation under bulk/boundary ontology (§17.5.19 + Part 1 §2.1.3 LB-6) — not
+an ad hoc volume insert. Same N_e as n_s = 1 − 2/N_e; V_lock = 2π² exp(3N_e) on the gauge-birth register.
+      CR-H2 closed (2026-06-01; CR-H1 RESOLVED): With 𝑎4 = 0 on the canonical untwisted
+      product Dirac operator ( §5.5), Λ𝑎4 = 0 under the prior chain and the 1.05× numeric closure
+      retires — label reroute-or-retire. The structural unimodular / Connes–Chamseddine volume
+      constraint forbidding the catastrophic vacuum term stands regardless of 𝑎4 ; empty space is
+      structurally quiet. Do not cite the 1.05× match as a corpus prediction pending a genuine
+      reroute. Companion 12 chord Note 5 and Paper S2 §7 carry matching labels.
+Tier register (§17.5.20 + §17.5.21 + Companion 11 §7): Prior Genuine test with β_NTE-chain caveat
+label superseded for the numeric chain by CR-H2 reroute-or-retire — structural unimodular mechanism
+stands; Λ𝑎4 𝑒 −3𝑁𝑒 /(2𝜋 2 ) ≈ 1.05× retires with 𝑎4 = 0. Historical β_NTE-chain caveat (Part 1 §2.4.2 𝑁total
+depends on ΩΛ ) applies to the retired numeric route only. Promotion path: display a genuine nonzero-𝑎4
+source or derive Λ value from geometric unloading independent of ΩΛ,obs ; Programme S downstream.
+
+
+                                                    14
+NTE Master Corpus
+
+
+Measure derivation: dμ(V) = δ(V − V_lock)/V_lock derived at heat-kernel register from unimodular lock
++ BR2d-J3 §4 (Paper S4; S3-f3 v0.2). Open under R6: BR2d-J3 path-integral derive of δ(V − V_lock); 2π² vs
+4π subdominant ambiguity (J6-n1b boundary-unit-cell reading anchors 2π² structurally; parity check vs
+4π pending). Canonical paper:.
+17.5.19 V_NTE role card and thermal-history split (new in v10.17 — integrity sync)
+Problem. The symbol V_NTE is used in three incompatible epistemic roles unless disciplined: (A)
+Friedmann inversion V(Φ,Φ̇) = 3β_NTE²M_Pl²Φ⁴ − ½K(Φ)Φ̇² — always consistent with ρ_eff on the
+constraint trajectory; (B) Inflation-sector potential (hilltop Φ⁴−Φ⁶, HH saddle) for n_s, r — Programme S /
+Companion 9; (C) Optional scalar dynamics (V1’-min) where V drives |Φ_NTE| via Klein-Gordon — not
+corpus default (Appendix B: μ(N) enforces H = β_NTE|Φ_NTE|²; V is consistency-only).
+Corpus default. Role (A) + constraint trajectory define post-locking cosmology. Role (B) applies to
+pre-temporal / HH bulk sector only (LB-6). Role (C) is open optional reading; do not conflate with (A).
+Bulk/boundary at gauge birth. Role (A) Friedmann inversion is a post-G boundary statement: ρ_eff on
+the constraint trajectory after crystallisation. Role (B) inflation-sector potential lives in the pre-G bulk; at
+event G, bulk even scalar data projects to boundary |Φ_NTE| via Π_G (R4 lemma) — not magnitude identity
+at the HH saddle. The inversion content at N = 0 / gauge birth therefore includes boundary nucleation:
+S³ crystallisation, constraint activation, and bulk→boundary field projection are the geometric content of
+the Janus transition, not merely a Friedmann formula extension. Session 5 D1 (V_NTE smooth pre/post
+connection) is closed as bulk→boundary projection at 𝐺 : ℛ𝐺 = Π𝐺 + 𝜇-activation+Stage-3+C⁰; not a
+single-chart 𝑉 (Φ). K(Φ) closure open (BREAK-1; prior S2-C-A route retired per §17.5.14).
+Thermal history vs boundary scalar (P1b closed numerically). ρ_eff = ½KΦ̇² + V_NTE must equal
+3H²/(8πG) = 3β_NTE²M_Pl²Φ⁴ on H = β_NTE·Φ². Leading quartic V = 3β_NTE²M_Pl²Φ⁴ matches ρ
+magnitude at BBN / equality / today when |Φ| is slaved to H(N) — tautology. Scalar thermodynamics with
+that V gives w_scalar ≈ −1 at all post-locking epochs; it does not reproduce radiation w = 1/3 or matter w
+= 0. Resolution: Ω_r, Ω_m, Ω_Λ are ΛCDM bookkeeping chart for the same H(N); SM radiation/matter
++ geometric Λ unloading carry thermal pressure content. Do not claim “V_NTE fits the cosmological
+energy budget” as a single-fluid replacement for SM+Λ.
+Worksheets:; index.
+Open: Λ_NTE M1+M2; P-dS1 Dirac spectrum scaffold; Hassan–Rosen bimetric embed (§22.17 S2
+refinement).
+17.5.20 Prediction register discipline (new in v10.17)
+
+Register                          Examples                           Corpus rule
+Construction                      H₀ = β_NTE·v_EW²; P1 epoch         By calibration — not independent tests
+                                  ρ match on trajectory
+Closed-at-S1                      M₁ scale (O(1) residue ~1.12);     Structural rigor at S1 register — not
+                                  D5 (8𝜋)1/3 tree+numeric; Gap       bare closed / theorem-level; S2 strict or
+                                  4b Janus action (§22.17);          mechanism-from-less may remain
+                                  §22.16 @ 1PN–S4                    open (CR-4)
+Closed (mechanism)                Gap 5 Born rule (§17.5.13          Mechanism-level closure only — not S1
+                                  scope)                             theorem
+
+
+
+
+                                                      15
+NTE Master Corpus
+
+
+
+Register                          Examples                           Corpus rule
+Characterisation                  β_NTE formula; M₁                  Structural motivation; partial closure
+                                  closed-at-S1 ≈ 5.4×10⁹ GeV;
+                                  𝑚𝜈2 @ 0.993× solar (D5
+                                  inverse + 𝑀𝑅 seesaw)
+Genuine test                      κ = 5.50; Λ_NTE^pred =             Must not use construction inputs;
+                                  Λ_{a_4} e^{−3N_e}/(2π²)            prior β_NTE-chain caveat applied to
+                                  1.05× observed (prior R6           retired numeric route only; 𝑚𝜈2 uses
+                                  register; reroute-or-retire        same 𝑣EW , 𝑀𝑅 as RH sector — not
+                                  with 𝑎4 = 0 per CR-H2 —                        2
+                                                                     fitted to Δ𝑚solar
+                                  structural unimodular Λ
+                                  stands; numeric chain
+                                                2
+                                  retires); Δ𝑚solar from
+                                  (8𝜋) −2/3  2
+                                            𝑣 /𝑀𝑅 (§22.1, same
+                                  𝑀𝑅 as 𝑚𝜈3 ); DESI void-bias
+                                  inhomogeneous
+Genuine test with caveats         n_s = 0.9685                      Real prediction; not clean
+                                  (β_NTE-calibrated N_e +           zero-parameter — β_NTE-chain +
+                                  imported HH slow-roll;            slow-roll import caveats (CR2
+                                  Einstein-frame deferred)          WP-TIER)
+Conditional survivor              r ≈ 4×10⁻³ reading (iii), §18.4   Readings (i),(ii) falsified; hilltop
+                                                                    survives observationally but K(Φ)
+                                                                    undetermined — reduced predictive
+                                                                    credit (CR2 WP-TIER)
+Postulate                         Closed S³; proportionality        Falsifiable footprint required
+                                  constraint ratified
+Homogeneous ≡ ΛCDM                P2 BAO, P3 growth hom              Consistency relabelling — tag explicitly
+
+
+Homogeneous NTE predictions that match ΛCDM at matched Ω, H₀ must not be promoted as NTE-specific
+empirical wins without the inhomogeneous or structural layer that distinguishes the framework.
+17.5.21 Greg ratification register (v10.17.1, 2026-05-23)
+
+ID                        Item                                  Status
+R1                        Proportionality constraint            Ratified
+                          default (not “generates t”)
+R2                        §17.5.19 V_NTE card + Gate #2         Ratified
+                          thermal w split
+R3                        Path B gauge-birth language (no       Ratified
+                          Higgs identity)
+                            (𝐹 )    (𝛼)
+R4                        𝐻GB vs 𝐻GB notation                   Ratified
+R5                        §22.16 μ(x,N) S1–S4 closed-at-S1      Closed-at-S1 (J1 stack 2026-05-24; S1 @
+                                                                1PN … S4)
+
+
+
+
+                                                      16
+NTE Master Corpus
+
+
+
+ID                          Item                              Status
+R6                          Λ_NTE closure Λ_{a_4}             Ratified; numeric chain reroute-or-retire
+                            e^{−3N_e}/(2π²) @ 1.05× obs +     with 𝑎4 = 0 (CR-H2 closed 2026-06-01);
+                            genuine test (β_NTE-chain         structural unimodular mechanism stands
+                            caveat)
+
+
+Closing note on this section. The framework’s discipline in §II.0 is track record over advocacy. A
+framework that names its own vulnerabilities is harder to attack than one that doesn’t, because the
+named vulnerabilities define the scope of legitimate critical engagement. Each item in §17.5 is a place
+where the framework has provided enough structure to ask a sharp question; closing these is the next
+round of structural development. Failing to close them honestly is also work — the discipline applies to
+acknowledgement as much as to derivation.
+XVIII. THE PRIMORDIAL SPECTRAL INDEX (New in v10.4)
+18.1 Why the Gauge Birth Does Not Drive Standard Inflation
+A direct calculation: H_GB^(β) = β_NTE·M_Pl² = 2.38 × 10⁻⁴⁷ × (1.22 × 10¹⁹)² = 3.54 × 10⁻⁹ GeV (locking
+constraint H at gauge birth; §17.5.4 notation). The corresponding inflationary energy scale V_inf^{1/4} ≈
+10⁵ GeV — twelve orders of magnitude below what is required for standard inflation. Moreover, the CMB
+pivot scale was only 3.35× the Hubble radius at the gauge birth — just barely outside the horizon. The
+gauge birth is reheating, not the inflationary phase.
+Coordinate discipline. N_e = −ln(β_NTE·M_Pl) ≈ 63.4 counts cosmological e-folds N over the
+pre-temporal inflation sector (Role B / constraint terminal roll). It is not the Stage 3 surface-ontology
+width N_lock = S_dS/4 ≈ 0.105 (§17.5.4, audit §2). Do not substitute one for the other in formulas or prose.
+18.2 The Pre-Temporal De Sitter Phase
+CMB perturbations in NTE are generated in the pre-temporal Hartle-Hawking epoch — the Euclidean
+section at N < N_lock. For the natural Planck-scale Hartle-Hawking instanton, H_HH ~ M_Pl. The
+pre-temporal epoch spans from Planck-scale de Sitter (H ~ M_Pl) down to H_GB^(β) = β_NTE·M_Pl² at
+locking (distinct from H_GB^(F) in §17.5.4 used for S_dS). The number of e-folds:
+N_e = ln(M_Pl / H_GB^(β)) = ln(1/(β_NTE·M_Pl)) = −ln(β_NTE·M_Pl)
+Numerically: β_NTE·M_Pl = 2.90 × 10⁻²⁸, giving:
+N_e = −ln(2.90 × 10⁻²⁸) = 63.4 e-folds
+18.3 The Spectral Index Prediction
+Using n_s = 1 − 2/N_e (derived via Companion 9 V_NTE Stage 3 Session 3 Hartle-Hawking Gaussian saddle
+under ξ = 1/6 conformal coupling per §17.5.15; supersedes large-ξ Higgs-inflation framing — see §17.5.14):
+n_s = 1 − 2/63.4 = 0.9685
+J6-D2 identity. Bulk slow-roll with Φ_inf = 2√N_e M_Pl,red gives the same formula in field form: n_s = 1
+− 8M_Pl²/Φ² = 1 − 2/N_e (0.37σ at N_end − 60 in numerics). script. Companion 9 Session 3 Gaussian-saddle
+route and J6 bulk ODE route are one identity, not competing parameters.
+Observed: n_s = 0.9649 ± 0.0042 (Planck 2018). Discrepancy: 0.85σ — consistent within 1σ. Tier
+(CR2 WP-TIER): genuine with caveats — β_NTE-calibrated N_e, imported HH slow-roll formula,
+
+
+                                                     17
+NTE Master Corpus
+
+
+Einstein-frame verification deferred (S2 §6.4); not clean zero-parameter.
+The formula N_e = −ln(β_NTE·M_Pl) is not ad hoc. It counts the e-folds over which |Φ(N)| evolves from the
+Planck-scale Hartle-Hawking configuration to the gauge-birth transition. The dimensionless combination
+β_NTE·M_Pl = H_GB^(β)/M_Pl ~ 3 × 10⁻²⁸ encodes the fundamental ratio of the NTE expansion constant
+to the Planck scale.
+18.4 The Tensor-to-Scalar Ratio
+r-prediction (v10.8 status): Three readings of NTE’s effective inflaton dynamics give different r predictions
+(Companion 9 Session 4):
+
+                                                                            Match to Planck/BICEP r <
+Reading                              r prediction                           0.036?
+Literal NTE constraint               r = 0.25                               FAIL 7σ tension
+Φ⁴-chaotic
+Session 3 Gaussian saddle            r = 0.126                              FAIL 3.5σ tension
+Φ²-chaotic
+Hilltop from V_NTE^pre Φ⁴ − Φ⁶       r ≈ 4×10⁻³                             PASS Consistent
+smooth connection
+
+
+The hilltop reading (iii) is a conditional survivor (CR2 WP-TIER): readings (i) and (ii) are falsified; (iii)
+matches observation but derivation depends on undetermined K(Φ) — reduced predictive credit. Session
+4 §4.5 structurally favors the hilltop route pending K(Φ) closure. Full first-principles closure depends on
+K(Φ) form via Connes spectral triple programme (Session 5; Programme S Paper S2). Mechanism B’s r =
+12/N_e² ≈ 0.003 derivation route is superseded — the prediction value remains in the consistent range but
+via different structural derivation (hilltop from V_NTE off-trajectory under ξ = 1/6 conformal coupling per
+§17.5.15).
+Falsifiability: within Simons Observatory r ∼ 10⁻³ sensitivity and CMB-S4 r ∼ 10⁻⁴ sensitivity. Future
+precision r measurement is a falsifiability test of the hilltop reading.
+18.5 Physical Mechanism
+Near the Janus point (N -> 0), CPN symmetry requires |Φ| -> 0 (the boundary field vanishes at the conformal
+interface). The field grows from 0 to M_Pl over N_lock ~ 0.1 e-folds, during which H = β_NTE|Φ|² grows
+from 0 to H_GB^(β). This suppression of H_GB^(β) below M_Pl — by the factor β_NTE·M_Pl ~ 3 × 10⁻²⁸
+— is the source of the 63.4 e-fold count.
+Both H₀ and n_s are encoded in β_NTE. This is the deepest structural connection uncovered in the
+v10.1–v10.4 work.
+18.6 The η-Correction
+The 0.85σ discrepancy may arise from the second slow-roll parameter η. A correction η_NTE ~ −2/N_e² ~
+−5 × 10⁻⁴ gives n_s ≈ 0.9680 (still 0.74σ from observation). The finite y_ν correction to κ has been shown
+to be exactly zero (topological protection of Y₀₀); it cannot be the source of the n_s residual either. The
+η-correction must come from the boundary action dynamics at the gauge birth. The Starobinsky formula
+assumes the pre-temporal evolution of |Φ(N)| satisfies the slow-roll condition (ε = −d ln H/dN « 1) during
+the perturbation-generating phase. This is expected if |Φ| grows smoothly from 0 to M_Pl over ~63 e-folds,
+but has not been verified from the boundary tension dynamics.
+
+
+                                                     18
+NTE Master Corpus
+
+
+XIX. NEUTRINO MASS AND MIXING (New in v10.4)
+19.1 The Atmospheric Mixing Angle: θ₂₃ = π/4 Derived
+Paper 7 establishes that the three neutrino mass eigenstates correspond to three eigenmodes of the
+unresolved su(2) configuration relative to the Higgs VEV direction σ₃:
+ν₃: |σ₃⟩ eigenstate — aligned with the Higgs VEV -> heaviest ν₁: |(σ₁ + σ₂)/√2⟩ — transverse, symmetric ->
+lighter ν₂: |(σ₁ − σ₂)/√2⟩ — transverse, antisymmetric -> lighter
+The flavor eigenstates {ν_μ, ν_τ} are the neutrino partners of the muon and tau in SU(2)_L doublets,
+associated with σ₁ and σ₂ at the gauge birth. The mixing in the (ν_μ, ν_τ) × (ν₁, ν₂) sector is:
+|ν₁⟩ = (1/√2)|ν_μ⟩ + (1/√2)|ν_τ⟩ |ν₂⟩ = (1/√2)|ν_μ⟩ − (1/√2)|ν_τ⟩
+This is precisely a 45° rotation: θ₂₃ = π/4 = 45°.
+This follows from the Z₂ symmetry of su(2) under σ₁ ↔ σ₂ (both transverse to VEV direction σ₃, related
+by a 90° rotation about σ₃). The symmetry is exact in the CP-conserving limit.
+Observed: θ₂₃ = 45.0° ± 1.0° (NOvA + T2K + Super-Kamiokande). NTE prediction: θ₂₃ = 45° exactly in the
+limit δ_CP -> 0. Departure from 45° is a direct measure of CP violation δ_J = π/2.
+19.2 Neutrino Mass Scale: Pathway
+The 𝐽3 (𝕆) structure provides a natural Majorana mass scale M_R ~ M_Pl^{3/4} · v_EW^{1/4} = 8.2 × 10¹⁴
+GeV. The 3/4 + 1/4 split reflects the Hopf bundle S¹ -> S³ -> S²: the Majorana mass lives on the S² base (2
+of 3 S³ dimensions), with the residual 1/4 from the S¹ fibre.
+Seesaw prediction: m_ν³ = v_EW² / M_R = (246)² / (8.2 × 10¹⁴) = 0.074 eV. Observed: m_ν³ ≈ √(Δm²_atm) ≈
+0.05 eV. Within factor 1.5 — correct order of magnitude with a calculable correction from the precise 𝐽3 (𝕆)
+embedding.
+Note: M_R = 8.2 × 10¹⁴ GeV is close to the GUT scale M_GUT ~ 2 × 10¹⁶ GeV (within factor 25). This may
+indicate a common geometric origin in 𝐽3 (𝕆).
+19.3 GUT Relations from G₂ -> SU(3)
+The fundamental representation of G₂ decomposes under SU(3) as 7 = 1 ⊕ 3 ⊕ 3̄. The SU(3) singlet becomes
+the charged lepton; the triplet becomes the quark. Yukawa couplings are related by the colour factor N_c
+= 3:
+m_lepton / m_quark = 1/N_c = 1/3 (at the G₂ unification scale)
+This gives the Georgi-Jarlskog GUT relations: m_τ/m_b -> 1 (third generation), m_μ/(3m_s) -> 1 (second),
+m_e/(3m_d) -> 1 (first). All consistent with RGE running to GUT scale. These are known GUT relations,
+here derived from the G₂ -> SU(3) decomposition rather than from an SU(5) GUT — a new geometric origin.
+19.4 The Mass Hierarchy: Programme
+The inter-generation hierarchy (m_t » m_c » m_u, factors of 10³–10⁵) requires a separate mechanism. A
+candidate: radiative generation from the octonionic associator. The associator [A,B,C] = A(BC) − (AB)C
+generates radiative corrections to the mass matrix at the gauge birth. Angular overlap between Dirac
+modes on S³: ⟨ψ_n|ψ_m⟩ ~ (3/2)/(n + m + 3/2). For n = 0, m = 2: ⟨ψ₀|ψ₂⟩ ~ 3/7. Loop suppression: δy₁₃
+~ y₃ × (3/7)² / (16π²) ~ 8 × 10⁻³ (correct order for charm Yukawa y_c ~ 7 × 10⁻³). This radiative hierarchy
+mechanism is a programme, not a derivation.
+
+
+
+                                                       19
+NTE Master Corpus
+
+
+The full mass spectrum and CKM matrix require the complete Connes spectral triple calculation —
+identified as a mathematical structure for future development.
+19.5 The Solar Mixing Angle: sin²θ₁₂ = 1/3 (Leading Order)
+The solar mixing angle at leading order follows from the Hopf geometry of S³. With θ₂₃ = π/4 (derived)
+and θ₁₃ ≈ 0 (leading order), the electron neutrino lies in the transverse plane. The three 𝐽3 (𝕆) generation
+directions, related by the S₃ permutation symmetry of the 3 × 3 Jordan matrix structure, make equal
+angles with the VEV direction when the symmetry is unbroken. Completeness and S₃ symmetry give
+the projection of ν_e onto ν₂ as:
+sin²θ₁₂ = 1/3 -> θ₁₂ = 35.26° (tribimaximal value)
+This arises from the geometric identity ⟨cos²θ⟩_{S²} = 1/3 (the average of cos²θ over the S² Hopf base).
+Observed: sin²θ₁₂ = 0.307 ± 0.013 (θ₁₂ = 33.44° ± 0.77°). Discrepancy: 2.9σ above the leading-order prediction.
+The correction that reduces θ₁₂ from TBM to the observed value comes from the charged lepton sector —
+the 𝐽3 (𝕆) Yukawa structure, related to the Cabibbo angle.
+The Cabibbo angle itself has a geometric origin: the lightest generation’s Dirac eigenmode on S³ is the
+isotropic Killing spinor ψ₀, which has exactly zero overlap with the VEV direction σ₃ (by Schur’s lemma:
+∫_{SU(2)} g†σ₃g dg = 0). The lightest quark mass is entirely radiatively generated through seesaw-like
+mixing with the second generation, giving the Gatto-Sartori-Tonin relation θ_C = arcsin√(m_d/m_s) ≈
+12.8° (observed: 13.02°). The texture zero is geometric, not assumed.
+The solar angle correction involves the same texture-zero mechanism in the charged lepton sector:
+θ₁₂^correction ≈ ±arcsin√(m_e/m_μ) ≈ ±4°. The observed θ₁₂ = 33.4° lies within the bracket 31.3°–39.2°
+(TBM ± charged lepton correction). The sign requires the relative phase between the neutrino and charged
+lepton 𝐽3 (𝕆) entries — the Connes spectral triple programme.
+19.6 The Reactor Angle: θ₁₃ (Suggestive Formula)
+The reactor angle θ₁₃ measures the electron neutrino’s projection onto the VEV-aligned mass eigenstate ν₃.
+A suggestive formula involving the G₂ colour factor:
+θ₁₃ ≈ arcsin√(m_μ/(3m_τ)) = arcsin√(105.7/5331) = 8.07°
+Observed: 8.57° ± 0.12°. Discrepancy: 1.5σ (if the formula holds). The factor of 3 = N_c is the colour
+factor from the G₂ -> SU(3) decomposition 7 = 1 ⊕ 3 ⊕ 3̄ (§19.3). This is not derived from first principles —
+the appearance of the muon-tau mass ratio with the colour factor is motivated but requires the full 𝐽3 (𝕆)
+calculation.
+ XX. MATHEMATICAL STRUCTURES FOR FUTURE DEVELOPMENT (New in v10.4)
+20.1 Connes Spectral Triples: Language for the Gauge Birth
+Alain Connes’ noncommutative geometry encodes a Riemannian spin manifold in a spectral triple (A, H,
+D). The pre-temporal epoch is described by (A_G₂, H_S⁷, D_S³) where A_G₂ is the octonionic algebra with
+G₂ automorphisms, H_S⁷ is the Hilbert space of spinors on S⁷, and D_S³ is the Dirac operator on the physical
+S³ boundary.
+The gauge birth is a change of spectral triple: (A_G₂, H_S⁷, D_S³) -> (A_SM, H_SM, D_SM). The SM spectral
+triple (Connes-Chamseddine-Marcolli model) already reproduces the SM gauge group, Higgs mechanism,
+and fermion representations. In NTE, the SM finite geometry IS the pre-temporal Dirac spectrum at the
+Planck cutoff.
+
+
+                                                      20
+NTE Master Corpus
+
+
+Development target: Identify the specific Connes spectral triple data corresponding to the NTE
+pre-temporal state and show it flows to the SM spectral triple under the gauge birth.
+20.2 Twistor Geometry: Natural Framework for Null-Time Entanglement
+In twistor space T = ℂ⁴ (Penrose 1967), a massless particle is a point in CP³ and a spacetime event is a line
+CP¹. An entangled photon pair with zero proper time separation: in twistor space, both detection events
+lie on the same twistor line CP¹ ⊂ CP³. The twistor line is the “single object” of Paper 1. Bell violations
+arise because holomorphic lines in projective geometry are non-factorisable — an algebraic fact, not an
+assumption.
+The inner product of sections on a twistor line produces |cos(θ/2)|² — the Born rule probability and
+Bell-violating correlation function. The twistor inner product, the Hopf fibration Born rule, and the S³
+spinor overlaps are all the same geometric structure.
+Development target: Formalise entangled photon pairs as twistor lines, derive cos²(θ/2) from the twistor
+inner product, and connect to the Hopf projection derivation.
+20.3 A∞-Algebras: Categorical Framework for the Associativity Transition
+An A∞-algebra (Stasheff 1963) captures “homotopy associativity” through multilinear maps μ_n: A^⊗n
+-> A. In NTE: μ_2 is the octonionic product (non-associative); μ_3 is the associator; μ_n≥4 are higher
+ coherence data (suppressed by powers of e-folds).
+The gauge birth = the A∞-algebra truncates to A_{≤2} (only the binary product survives). This truncation
+corresponds precisely to 𝕆 → ℍ (associativity imposed by causal ordering). The Cayley-Dickson sequence:
+𝕆 → ℍ (μ_3 = 0, gauge birth), ℍ → ℂ ([A,B] = 0, EWSB), ℂ → ℝ (classical limit).
+Development target: Construct the explicit A∞-algebra for pre-temporal spinor modes on S³, show
+temporal locking forces A∞ -> A_2, and derive SM fields as A_2 representations.
+20.4 Asymptotic Safety: The UV Fixed Point as Pre-Temporal Geometry (New in v10.4)
+Eichhorn’s asymptotic safety programme (Heidelberg) proposes that gravity reaches a UV fixed point at the
+Planck scale — coupling constants run to finite, non-zero values rather than diverging. A key prediction:
+spacetime undergoes dimensional reduction at short distances, behaving as effectively ~2D near the Planck
+scale and flowing to 4D at large scales. The couplings become scale-invariant at the fixed point, and the
+SM parameters are constrained (possibly determined) by the requirement that the RG flow connects the
+UV fixed point to the observed IR physics.
+NTE’s pre-temporal epoch is structurally analogous to the UV fixed point. At N < N_lock, there is no
+temporal dimension — the S³ boundary is 3D with no t. At the gauge birth, t emerges and spacetime
+becomes 3+1 = 4D. NTE’s dimensional flow (3 -> 4) parallels asymptotic safety’s (2 -> 4), though the
+mechanisms differ. The effective Yukawa coupling y_eff -> 0 at Planck density (§7.1, Gap 1) IS a UV fixed
+point in all but name: all couplings flow to zero at the pre-temporal boundary, which is the NTE equivalent
+of the non-Gaussian fixed point.
+The deeper connection: asymptotic safety constrains SM parameters from the UV fixed point structure
+(Eichhorn’s retrodictions of the top quark mass, Higgs mass, and gauge coupling ratios). NTE derives
+SM parameters from S³ geometry + 𝐽3 (𝕆). These may be two descriptions of the same constraint —
+the UV fixed point IS the pre-temporal S³ geometry, and the RG flow away from it IS the gauge birth.
+If so, asymptotic safety’s retrodictions should be derivable from NTE’s geometric structure, and NTE’s
+predictions should satisfy the asymptotic safety fixed-point conditions. This bridge to an established
+quantum gravity programme is a natural development pathway.
+
+                                                     21
+NTE Master Corpus
+
+
+20.5 Zurek’s Quantum Darwinism and the Born Rule (New in v10.4)
+Zurek’s decoherence programme derives the Born rule P = |⟨ψ|φ⟩|² from “quantum Darwinism” — the
+environment selects pointer states that survive decoherence, and redundant encoding of quantum
+information in environmental fragments produces the probability rule without postulating it. The
+remaining question (Ball 2026): “Why THIS outcome?” — why does one branch of the wavefunction
+become actual?
+NTE’s Born rule treatment (Gap 5, closed at the level of physical mechanism per §17.5.13’s scope)
+provides the geometric complement to Zurek’s dynamical derivation. NTE’s Companion 6 supplies the
+physical-mechanism story for when the Born rule applies: at and after gauge birth, when the U(1) fibre
+activates and global phase becomes unobservable. NTE’s Paper 2 then shows that, given the complex
+Hilbert space + global U(1) phase invariance inputs, P = |⟨ψ|φ⟩|² is the geometrically natural probability
+map on S³ — the Born rule’s specific quadratic form is selected by the Hopf projection’s topology once
+those inputs are accepted. Zurek provides one kind of mechanism (decoherence selects pointer states);
+NTE provides another (gauge birth activates the U(1) fibre; the Hopf projection is the unique U(1)-bundle
+structure on S²). These are complementary, not competing. Both leave open the same scope question:
+why is the state space a complex Hilbert space with bilinearity in amplitude in the first place? — §17.5.13
+records this as the framework’s open research target.
+The connection goes deeper. Zurek’s “epiontic” states — all quantum possibilities present before
+decoherence acts — map directly to NTE’s pre-temporal spinor modes: undifferentiated configurations
+carrying quantum numbers without definite classical properties. Decoherence in the NTE picture IS the
+gauge birth: the emergence of temporal structure crystallises the coupling regimes, assigns pre-temporal
+modes to definite SM representations, and selects pointer states through the newly-activated gauge
+interactions. The gauge birth is a cosmological-scale decoherence event, where the “environment” that
+selects the pointer basis is the temporal structure itself.
+NTE addresses Zurek’s remaining question — “why THIS outcome?” — through the angular position on
+S³ at coupling crystallisation. The specific outcome is determined by the spinor harmonic configuration
+at N_lock, which is set by the pre-temporal boundary conditions. There is no residual randomness; the
+appearance of randomness arises from the impossibility of knowing the full S³ configuration from within
+a single coupling regime.
+20.6 De Sitter Quantum Mechanics: The Problem NTE Dissolves (New in v10.4)
+The central open problem in theoretical physics (Wegsman, Quanta 2026): quantum mechanics in de Sitter
+space. AdS/CFT gives a complete quantum gravity framework in anti-de Sitter (contracting, negative Λ,
+spatial boundary for the dual CFT). Our universe has positive Λ (expanding, de Sitter). Twenty-seven
+years of effort to extend AdS/CFT to de Sitter have produced no satisfactory framework. The pathologies:
+no spatial boundary for a CFT dual, cosmological horizons behind which information is lost, finite
+Gibbons-Hawking entropy implying finite-dimensional Hilbert space incompatible with standard QFT,
+and particle instability from expansion.
+NTE dissolves this problem by inverting the ontology. Standard approaches try to do quantum mechanics
+IN de Sitter spacetime, treating dS as a background container. NTE says: the de Sitter expansion IS the
+Higgs-generated temporal structure. Quantum mechanics IS the geometry of the S³ boundary doing the
+expanding. The Born rule, the state space, and the expansion are the same geometric structure viewed
+from different angles.
+Specifically, NTE resolves four de Sitter pathologies:
+
+
+
+                                                     22
+NTE Master Corpus
+
+
+  (a) Horizon problem: In standard dS, information is lost behind the cosmological horizon. In NTE’s
+      boundary-only ontology, there is no bulk to lose information into. S³ is compact and closed. The
+      horizon is the finite causal reach of null-time exchanges at a given e-fold — a geometric limitation,
+      not an information loss boundary.
+  (b) No-boundary-for-CFT problem: AdS has a spatial boundary where the dual CFT lives. De Sitter
+      doesn’t. NTE doesn’t need one: the S³ IS the entire physical content. There is no bulk to be dual to.
+      The boundary-only Ryu-Takayanagi (§XVI.3) gives S(A) = A(∂A)/(4G_N) without needing a bulk.
+  (c) Finite Hilbert space: dS has finite Gibbons-Hawking entropy, implying finite-dimensional Hilbert
+      space. In NTE, S³ is compact with finite area in Planck units. The degrees of freedom ARE
+      finite — bounded by the area. Bekenstein-Hawking area scaling is the natural consequence of a
+      boundary-only ontology where there IS only area.
+  (d) Particle instability: In dS, expansion causes particles to spread or decay. In NTE, the expansion
+      is parameterised by N. Particles don’t “decay due to expansion” — they accumulate e-fold depth
+      through Higgs coupling. The three coupling regimes are topologically stable classifications that
+      don’t degrade under expansion.
+The Van Raamsdonk entanglement-geometry synthesis (§XVI) is locked to AdS because that’s where the
+holographic tools exist. NTE provides the de Sitter mechanism his framework lacks: the boundary-only
+ontology where entanglement IS the null-time geometry of S³, with no need for bulk/boundary duality.
+Strominger’s dS/CFT (2001), which places the dual at future infinity, maps to NTE’s N -> ∞ asymptote
+where |Φ|² -> v_EW²√Ω_Λ and the fractal foam transition (§XV) fragments the boundary into new Janus
+seeds.
+Development target: Formalise the NTE boundary-only structure as a resolution of the dS quantum
+gravity problem. Show that the finite-dimensional Hilbert space on S³ naturally accommodates the
+Gibbons-Hawking entropy, and that the boundary-only Ryu-Takayanagi reproduces the holographic
+entanglement entropy without a bulk.
+20.7 Consistent Observations (Updated April 2026)
+The following NTE predictions are consistent with observational data since the framework was developed
+(null results and directional hints — not standalone confirmations):
+  (a) Sterile neutrinos do not exist. NTE predicts exactly three neutrino species from dim su(2) =
+      3; a fourth Majorana species gives κ₀ > 1 and divergent dark matter density. As of late 2025,
+      multiple experiments (including studies co-authored by Ross-Lonergan at Columbia) have produced
+      null results for the eV-scale sterile neutrino, effectively ruling it out. The remaining anomalies
+      (MiniBooNE, LSND) that motivated sterile neutrinos are unexplained within the Standard Model
+      but are naturally absent in NTE’s three-species framework.
+  (b) Direct dark matter detection experiments return null results. NTE predicts dark matter is
+      mirror-universe gravity, definitionally invisible to electromagnetic detectors. XENON, LUX,
+      PandaX, and DarkSide-20k continue to find nothing. Every null result is a confirmation.
+  (c) DESI hints at w > −1 at low z. NTE predicts this as the void-enhancement signature of spatially
+      varying |Φ(x)| (§12.4). The signal direction matches; the amplitude is under investigation.
+  (d) Neutrino CP violation is maximal. T2K (2020) reported evidence for maximal CP violation in the
+      neutrino sector (δ_CP near −π/2). NTE predicts δ_J = π/2 from Janus geometry with zero free
+      parameters.
+
+
+                                                    23
+NTE Master Corpus
+
+
+XXI. OPEN GAPS
+Five original gaps. Gap 2 analytically closed. Gap 3 partially closed. Gap 4a closed. Gap 5 closed
+(mechanism level, v10.2). Gap 1: M₁ leptogenesis scale closed-at-S1 v10.10 (Companion 10 Pathway α; O(1)
+residue); y_eff(N) Planck-era form factor f remains open (§22.5). Additional gaps identified and tracked
+below.
+Tier 1 (Framework-critical):
+Gap 1 (partial closure v10.10): M₁ from Janus geometry — closed-at-S1 (M_R-comparable precision; O(1)
+residue) per Companion 10 Pathway α: M₁ = (8π)^(1/3) × (M_Pl² × H_GB)^(1/3) ≈ 5.4 × 10⁹ GeV (M₁,obs
+≈ 6.06 × 10⁹ GeV; ratio 0.89). Baryon asymmetry η_B ≈ 6.1×10⁻¹⁰: structural consistency with geometric
+M₁ (order unity) — not zero-parameter (Scratch verification 2026-06-15; inherited M₁ + m_ν₃ residues +
+underived CP/washout). Still open: y_eff(N) form factor f at Planck epoch (§22.5); M₁ prefactor strict
+uniqueness at S2 (Paper S2 §3 D5 BPS — cross-check complete S2-D).
+n_s derivation refinement: The Hartle-Hawking mechanism gives n_s = 0.9685 (0.85σ). Closing the last
+0.85σ requires the full |Φ(N)| dynamics at the gauge birth transition, specifically the η parameter from the
+boundary action.
+M₁ cross-reference: §22.2; Companion 10 v10.8. S2 prefactor programme: Programme S Paper S2 (Charter
+§3).
+Tier 2 (Completeness):
+Gap 2: Full BBN network with κ-modified neutrino transport. Analytically resolved. Standard BBN is
+recovered at T ~ 1 MeV with ΔH/H ~ 10⁻⁶ from the κ bridge. N_eff = 3.044 (identical to standard). All
+nuclear/weak rates are unmodified SM.
+Gap 3: Li-7 C_coherence derivation. Partially closed. C_coherence = 1 derived from topological
+non-resolution. f_geometric = κ₀ derived from Hopf projection. Enhancement = 1.85×. Predicted ⁷Li/H =
+2.53 × 10⁻¹⁰ (factor 1.58 above observation). Residual may be nuclear physics.
+Gap 4b: Construction of the proper action principle for cross-universe coupling, ensuring Bianchi
+consistency. Closed-at-S1 v10.8: Janus bi-Einstein–Hilbert + Y₀₀ bridge + Lagrange-multiplier
+self-consistency (§22.17; audit ).
+Finite y_ν correction to κ₀: Closed. Correction is exactly zero. κ₁ = Y₀₀(S²) is topologically protected — the
+monopole projection of any normalised density is Y₀₀. No physical parameter can modify it.
+θ₁₂ from 𝐽3 (𝕆): Leading order sin²θ₁₂ = 1/3 derived from Hopf geometry. Correction requires Cabibbo angle
+from 𝐽3 (𝕆) Yukawa structure. The Cabibbo angle itself has geometric origin: θ_C = arcsin√(m_d/m_s) from
+the isotropic Killing spinor texture zero on S³.
+Y_p with κ-modified neutrino transport: Resolved. Y_p = 0.2470 (standard), unmodified by κ bridge (ΔH/H
+~ 10⁻⁶ at BBN).
+PMNS mixing angles from su(2)/𝐽3 (𝕆):         θ₁₂ and θ₁₃ should follow from 𝐽3 (𝕆) Dirac eigenvalue
+misalignment.
+Sphaleron washout dynamics: Full chain from CPN sorting through to leptogenesis-set η.
+PPN parameters from NTE: Spatial metric components from Higgs VEV response to curvature.
+Tier 3 (New from v10.4):
+
+
+
+                                                     24
+NTE Master Corpus
+
+
+A∞-algebra calculation of the gauge birth: Show gauge birth as A∞ -> A₂ truncation. Connes spectral
+triple identification: Map pre-temporal to SM spectral triple. Twistor derivation of cos²(θ/2): Derive Bell
+correlations from twistor inner product. σ_c amplitude calculation: DM:baryon scatter amplitude within
+one coherence volume. Alternative law and loop divergences: Does 𝕆’s [A,A,B] = 0 cancel quadratic
+Higgs mass divergences? CKM matrix from 𝐽3 (𝕆) symmetry breaking. Hypercharge assignments from 𝕆
+multiplication rules (Furey 2018 verification for three generations).
+Closed Gaps:
+Gap 2: BBN — analytically resolved. Standard BBN recovered with ΔH/H ~ 10⁻⁶ at T ~ 1 MeV, N_eff =
+3.044, Y_p = 0.2470. Gap 3 (partial): Li-7 — C_coherence = 1 and f_geometric = κ₀ derived. Enhancement
+= 1.85×. Predicted ⁷Li/H = 2.53 × 10⁻¹⁰ (factor 1.58 residual). Gap 4a: σ(κ; M) ∝ M^{−1/2} — derived from
+two-sector field equations + CLT. Gap 4b: Cross-thickness coupling action principle — closed-at-S1 v10.8.
+Janus action §22.17; Bianchi in monopole/averaged sector; EFT at structure-formation scales. Gap 5: Born
+rule from S³ — closed (mechanism level). Gauge birth + Hopf fibration supplies the U(1)-fibre activation
+story (Companion 6); the two-layer gauge symmetry argument closes Step 1 of Paper 2’s derivation under
+its complex-Hilbert-space + global-U(1)-phase inputs. The complementary scope question — whether the
+rule’s specific quadratic form derives from less than those inputs (bilinearity in amplitude; complex Hilbert
+space structure) — is the framework’s standing open research target at §17.5.13. Gap 1 (M₁, closed-at-S1,
+v10.10): Leptogenesis scale from S³ + Hopf + Killing-spinor cube-root quantization (Companion 10 Pathway
+α). η_B structural consistency at order unity — not zero-parameter; S2 strict uniqueness via Paper S2
+queued. κ y_ν correction: Exactly zero — topological protection of Y₀₀(S²) proven.
+XXII. PATHWAYS FOR EXPLORATION
+Register discipline (CR-4, 2026-06-01): Items at S1 structural rigor with possible O(1) numeric residue are
+labelled closed-at-S1 — not bare closed (theorem-level). Mechanism-level closures (e.g. Gap 5) use closed
+(mechanism level). Full triage: §17.5.20.
+NTE has earned a definite track record under §II.0: predictions that hold (κ = 5.50, three generations, sterile
+neutrinos ruled out, n_s = 0.9685, δ_CP near maximal, w > −1 at low z, the σ ∝ M^(−1/2) variance scaling),
+unifications that have collapsed previously-separate phenomena into common geometric facts (the photon
+and entanglement as null-time bridges, the Higgs and gauge structure as the gauge birth event, the Janus
+pair and CPN as orientations of one manifold’s N-thickness), and a structural framework that provides the
+geometric arena within which the Standard Model and General Relativity meet.
+The framework also has open questions — places where it inherits the SM’s silence rather than improving
+on it, or where structural moves the framework gestures at have not yet been completed. This section lists
+those questions, with explicit handoffs. Closing any of them — by future NTE work or by work outside
+the framework — would advance NTE’s track record under §II.0.
+22.1 Yukawa values from first principles. Partial closure. The Pathway α / D5 BPS prefactor (8𝜋)1/3 fixes
+𝑀1 at the Majorana cube-root level. Its inverse (8𝜋)−1/3 is the leading Dirac Yukawa normalisation on the
+                                                                                        2 /𝑀 matches
+𝜎1 /𝜎2 Killing-spinor sector (§17.5.17). With 𝑀𝑅 from §19.7 and 𝑌3 = 1, 𝑚𝜈2 = (8𝜋)−2/3 𝑣EW     𝑅
+     2                                                           2 2                        −1/3 𝑀 /𝑀
+√Δ𝑚solar at 0.993× — no additional parameter. Equivalent: 𝑚𝜈2 = 𝑌𝜈2 𝑣 /𝑀2 with 𝑌𝜈2 = (8𝜋)       √ 1 𝑅
+                                                              2             −2/3    2     2
+and derived 𝑀2 (§17.5.17). 𝑚𝜈1 zero-parameter: 𝑚𝜈1 = 𝑚𝜈2 sin 𝜃13 = (8𝜋)          sin 𝜃13 𝑣 /𝑀𝑅 ∼ 1.9 ×
+  −4
+10 eV — no new Yukawa beyond 𝜈2 sector Equivalent 𝑌𝜈1 = (8𝜋)      −1/3 sin 𝜃13 √𝑀1 /𝑀𝑅 with seesaw 𝑀1 .
+Charged-lepton programme: G₂ 𝑚ℓ /𝑚𝑞 = 1/𝑁𝑐 at GUT (§19.3); L1–L4 + Paper S5. SUNSHINE EXIT:
+                                                                                                  𝑔𝐿   𝑔2𝐿
+bulk pre-temporal depth → surface Yukawa at 𝐺 (Part 2 §8.2.1; LB-6) — 𝛿𝑔sun = 32 + 𝐿3 + 2 + 12 , 𝐿 =
+                                                                             spec
+log8𝜋 (𝑁𝑒 /𝑁lock ); 𝛿𝑒 anchor; ratio closure: 𝛿𝑔eff = 𝛿𝑔sun − log8𝜋 ℱ𝑔lock + Δ𝑔     with ℱ𝑔lock = 1 − (1 − (2𝑔 +
+
+                                                       25
+NTE Master Corpus
+
+
+                              spec
+1)/12)dim(ℍ) (dim ℍ = 4), Δ𝑒         = 15 log8𝜋 𝜁 (2) + 25 ΔHK                         2
+                                                            2 (electron only; 𝜁 (2) = 𝜋 /6, L4 𝒮2 ). 𝑚𝜇 /𝑚𝑒 =
+                                                                   (𝐺)
+207.0 (0.1%); 𝑚𝜏 /𝑚𝜇 = 18.0 (∼ 7%).;. Absolute scale: 𝑚ℓlab = 𝑚ℓ (8𝜋)1/3 /1.12 — structurally suggestive
+interface on the Hopf–Killing-spinor flux line + same 𝒪(1) gauge-birth residue as Pathway α / D5 (𝑀1 );
+all three 𝑚ℓlab /𝑚ℓobs ≈ 0.97–1.04; ratios unchanged. FM-1 partial: Dirac-sector (8𝜋)1/3 is not Majorana
+doubling-forced — explicit Programme S derivation open.;. Still open: off-diagonal texture; post-𝐺 running
+of 𝑓 .
+22.2 M₁ from Janus geometry. Closed-at-S1 v10.10 / S2-D cross-check (§XXI Gap 1, §17.5.16): Companion
+10 Pathway α gives M₁ = (8π)^(1/3) × (M_Pl² × H_GB)^(1/3) ≈ 5.4×10⁹ GeV (M₁,obs ≈ 6.06×10⁹ GeV; ratio
+0.89; O(1) residue ~1.12). η_B ≈ 6.1×10⁻¹⁰: structural consistency with geometric M₁ — not zero-parameter.
+Still open: y_eff(N) form factor f (§22.5); S2 strict prefactor (8π)^(1/3) via BPS D5. Do not read §22.2 as
+“M₁ observation-only” — superseded at closed-at-S1 for scale; S2 strict uniqueness remains open.
+22.3 CKM mixing angles beyond Cabibbo. The Cabibbo angle texture zero from Killing spinor structure
+is in the corpus. The full CKM matrix — specific Vcb, Vub, and the Jarlskog invariant — is not derived. A
+complete derivation would close a major Standard Model open question.
+22.4 PMNS mixing angles beyond θ₂₃. θ₂₃ = π/4 from Z₂ symmetry of su(2) is derived (§8.4). sin²θ₁₂ = 1/3
+leading order from tribimaximal structure is derived but is 2.9σ from observation — the Cabibbo correction
+should close this. θ₁₃ is not derived. Full derivation would complete the lepton mixing structure.
+22.5 The form factor f for y_eff. Ratio closure via sunshine exit. Stage-3: 𝑦eff ∝ √𝑦/𝑁lock from |Φpre |2 ∝ 𝑦
+(Appendix E.3). Lock on chart 1 − (2𝑔 + 1)/12 enters additively on 𝛿: − log8𝜋 [1 − (1 − (2𝑔 + 1)/12)dim(ℍ) ].
+Electron spectral residue at 𝐺: 51 log8𝜋 𝜁 (2) + 25 ΔHK
+                                                      2 (Riemann 𝜁 (2) + L4 associator). Combined with
+           sun
+sunshine 𝛿𝑔 : 𝑚𝜇 /𝑚𝑒 → 207 at 0.1%; 𝑚𝜏 /𝑚𝜇 → 18 at ∼ 7%. Parents:;. Absolute scale: §22.1 v0.1m
+D5 interface (not a separate 𝑌0 dial). Still open: post-𝐺 𝑓 (|Φ|/𝑣EW ) running.
+22.6 The cross-thickness coupling action principle. Closed-at-S1 v10.8 (Gap 4b). Superseded by §22.17.
+Pathway A’s two-metric Einstein equations are variationaland §17.5.5.
+22.7 Spectral flow account of gauge birth. §20.1 gestures at Connes spectral triples as the language for the
+gauge birth — a spectral flow from a non-associative pre-temporal triple to the standard SM spectral triple.
+The construction of the non-associative pre-temporal spectral triple, and the demonstration of the spectral
+flow, are open work.
+22.8 De Sitter quantum gravity formalisation. §20.6 sketches how NTE dissolves the de Sitter QM
+problem by structural reading. A formal demonstration that the finite-dimensional Hilbert space on S³
+accommodates the Gibbons-Hawking entropy, with the boundary-only Ryu-Takayanagi reproducing the
+holographic entanglement entropy without bulk, is open.
+P0.10 status (2026-05-24): CLOSED at prediction tier — P0.10a functorial GNS; P0.10b 𝑈 / 𝒞CPN / CPN = 𝐽 ;
+P0.10c 𝜔ΦNTE = 𝜔geom ⊗𝜔int ; 𝜎𝑡 factorises at product state; 𝛽dS = 2𝜋/𝐻 scale-aligned with F1. Optional: B2
+abstract 𝐴𝐹 ⋊ ℤ2 without Hilbert space. Pathway programme. (P-dS1) Finite S³ mode counting: explicit
+Hilbert space dim from Dirac spectrum on S³ with Planck cutoff; match S_GH = A/(4G) as log(dim) not
+                                                                                                        (𝐹 )
+bulk CFT — cross-check done. (P-dS2) N-thickness horizon entropy: F1 ℓ = 1/H linked to GH at 𝐻GB ;
+𝑁lock = 𝑆dS /4. (P-dS3) Tomita–Takesaki on 𝐴𝐹 : P0.10 closed at prediction tier (P0.10a–c, 2026-05-24);
+𝛽dS = 2𝜋/𝐻 aligns with F1. (P-dS4) Observational anchor: CMB 𝜅 = 5.50 (0.83𝜎 vs Planck) + high-𝑧
+𝑤 → −1 void diagnostic 22.9 Arrow-of-time texture across the locking cascade. Side observation from the
+cascade exploration. If the arrow of time emerges across a cascade rather than at a single moment, the
+texture of t-emergence in the early universe has implications for entanglement at intermediate epochs and
+for decoherence rates. Currently undeveloped.
+
+
+                                                      26
+NTE Master Corpus
+
+
+22.10 N-slab verification calculations. The N-slab reading (§6.1) is adopted with five verification steps the
+working note flagged: explicit construction of the N-thickness measure as ∫dN/(β_NTE|Φ|²); demonstration
+that Pathway A reduces to two orientations of one thickness; verification that §16’s no-bulk constraint
+is preserved; verification of the Zeno-limit treatment of t = 0; and verification that all corpus predictions
+survive under the structural reframing. Most of these are largely covered by the integration above; explicit
+calculations completing the verification would close the integration.
+22.11 The surface-ontology programme. Ontological primitive (corpus default): N-thickness on the
+Janus manifold (§6.1–6.2), with proper-length measure ℓ = 1/(β_NTE|Φ_NTE|²). V_NTE Stage 2 finding
+F1 (ℓ = 1/H) is the forced §II.0-level identification: since H = β_NTE|Φ_NTE|² by construction, ℓ and
+the Hubble radius 1/H are one geometric object — recorded in the §II.0 closing paragraph and inline in
+§6.2. Coordinate, not second substance: the dimensionless chart z(y) (and t = iΔN as metric distance
+through thickness per §2.1.4) organises the same geometry; z is not an additional primitive beside N and
+ℓ. The v10.6 surface-ontology programme (G. White, April 2026) completed the trajectory z(x, y) under
+H = β_NTE|Φ_NTE|² across pre-temporal and post-locking regimes with matching at gauge birthSurface
+Ontology Appendix for Stage 1–3 results. Conservative integrations from earlier proposals (Y₀₀ in §9.3,
+locking note in §7.1, t-operationalisation in §2.1.4) stand as v10.5.1 clarifications. Stage 2 (Janus = ODE
+branch structure) and Stage 3 (C¹ kink at gauge birth) are recorded in Appendix E §E.2–§E.3 at consistency
+/ re-description register per §II.0 (iii), not as framework-level simplifications. Corrected reading: z varies
+along the trajectory (vanishes at Janus, π/2 at N_lock), not saturated throughout pre-temporal. F2 (Wick
+rotation at kink) in §VIII.1.4; F3 (V_NTE on-trajectory determinate, off-trajectory under-constrained) in
+§17.5.1. Programme closed at qualitative geometric structure under the analytic-continuation working
+profile (Appendix E §E.6); V_NTE derivation remains open per §17.5.1.
+22.12 Black holes under the no-bulk ontology. Application of §16’s no-bulk commitment to the strong-field
+case yields the no-interior reading of black holes: the event horizon is not the boundary of an interior
+volume because there is no interior volume to bound. Mass-energy registers as extreme local N-thickness
+per §6.2; the Schwarzschild singularity at r = 0 is a coordinate artefact of GR’s bulk-presupposing
+description that the framework explicitly denies. This reading is application of existing commitments, not
+new content. What replaces the bulk-physics description as a positive account of strong-field physics —
+Hawking radiation, the area-entropy law, the information paradox, the infalling-observer description —
+is open work. The reading is distinct from the holographic principle: the framework keeps three spatial
+dimensions, while the holographic principle reduces information to two.
+Pathway programme. (P-BH1) Extreme N-thickness: model BH as maximal |Φ_NTE|² suppression shell
+— pointwise H = β_NTE|Φ|²; P-BH1a/b numerics. : additive e-fold integral fails 𝑀 2 scaling; multiplicative
+𝑆NTE = (𝐴/4𝐺) 𝑔(ℓ/ℓ∞ |𝑟𝑠 ) is viable programme. (P-BH2) Information on boundary: null-time exchange
+(Axiom 1.7) + unresolved ν bilateral geometry (Companion 7) as boundary-only carriers — no bulk storage
+(Hawking/Page open). (P-BH2b) Shell–null-time junction at 𝑟𝑠 (P-BH3) Hawking analogue: gauge-birth
+thermalisation template applied to horizon formation (programme — not claim). (P-BH4) PPN strong-field:
+Tier 2 item — explicit PPN from μ(x,N) (§22.16) before BH numerics. Discipline: no-interior is reading of
+§16, not ship claim, until P-BH1+ deliverables exist.
+22.13 Local versus global character of the octonion -> quaternion reduction. Corpus default (v10.8
+ontological tightening): the 𝕆 → ℍ reduction is a global commitment set once at gauge birth
+when stable temporal ordering crystallises (§VIII.7). Pre-temporally: no ordering, octonionic algebra.
+Post-temporally: ordering stable, quaternionic gauge structure — everywhere on the manifold, not
+reverted pointwise where |Φ_NTE|² is locally suppressed. Local variation of |Φ_NTE|² in potentials and
+strong fields is already accounted for as N-thickness / gravitational time-dilation geometry (§2.3, §6.2)
+under the pointwise constraint H = β_NTE|Φ_NTE|² — the same structural-identity stack as §17.5.3, not
+
+                                                     27
+NTE Master Corpus
+
+
+a second algebra. The speculation that local |Φ|² -> 0 “unforces” octonionic associativity locally is not
+licensed and conflates global gauge-birth ordering with local field strength. Remaining open work is
+narrow: whether spatial structure in z(x, y) beyond pointwise thickness adds independent geometric
+content (cf. §22.11, Appendix E §E.6) — not whether associativity varies with local |Φ|. A pointwise-algebra
+reading would require a distinguishing prediction under §II.0 accretion criteria; none is currently in the
+corpus.
+22.14 Structural confluence with NCG cosmology programme (new in v10.8)
+NTE’s V_NTE Stage 2 derivation (Companion 8 v2) produces the on-trajectory form V_NTE^post(Φ)
+= (3β_NTE²/(8πG))Φ⁴ − (β_NTE²/8)Φ⁶ from H = β_NTE|Φ|² + scalar field thermodynamics. This form
+coincides with the spectral action’s σ field potential V_E(x) = λ₀x⁴/(1 + (κ₀²/12)x²)² (Marcolli-Pierpaoli-Teh
+2010 expansion). Matching leading + subleading coefficients gives ξ_V = √(2π)/M_Pl used elsewhere in
+this section and in Paper_Kappa_AB / Companion 7).
+This is structural confluence between NTE and the NCG cosmology programme — two independent
+structural routes converging on the same EFT form. NOT field identification: σ (Chamseddine-Connes
+2008’s spectral action scalar generated by RH-neutrino Majorana mass in CC’s SM finite spectral triple)
+and Φ_NTE (NTE’s boundary expansion field generated by S³ geometry + Path B + no-RH/LH neutrino
+per Companion 7) are different fields with different generation mechanisms.
+Catalogue:
+  (a) What NTE derives independently (via Wick-invariance + 4D conformal discipline + Higgs-portal
+      genericness; corpus §VIII.1.4 + ξ = 1/6 commitment per §17.5.15 + Path B disclosure §2.3.0):
+    • V_NTE on-trajectory form λΦ⁴ + Higgs-portal 2e|H|²Φ² + non-minimal coupling −(1/12)RΦ²
+    • ξ_V = √(2π)/M_Pl cross-check (V_E-coefficient-matching dimensional quantity; independent of CC
+      machinery)
+    • The Stage 2 F2 Wick-rotation reading (independent of σ derivation)
+  (b) Paper S2 main computation arc (2026-05-23; S2-A through S2-E; Greg ratification; Working notes):
+Closed at canonical NTE (structural / cross-check): - Heat-kernel a₀, a₂, a₄ + κ₀ = 3/√(4π) bare confluence
+(S2-A/B/C-B) - §18.4 (iii) hilltop conditional survivor; n_s ≈ 0.9685 (genuine with caveats); r ≈ 4×10⁻³
+conditional survivor (K(Φ) undetermined — §17.5.14) - F1 = −18 C² + 11 E₄; M Weyl-flat + Euler-zero
+(S2-C-B) - D_F sub-leading ~10⁻¹⁸ (S2-C-C) - M₁/M_R spectral-action cross-checks; σ₃ Cartan-mode; g_eff
+= 106.75 (S2-D) - Λ_NTE unimodular framework (numerical closure deferred — §17.5.18)
+ Still open (Programme S downstream): K(Φ) closure open (BREAK-1; Paper S2 §6.2; routed to Programme
+ S Paper S2 per §17.5.14). Λ numerical closure — (~1083 gap; M1/M2/M3 naive routes falsified); void/𝛿𝑤(𝑧).
+- (8π)^(1/3) prefactor S2 strict uniqueness — Paper S2 §3 D5 BPS - Λ_NTE numerical ~10⁻¹²² M_Pl⁴ — Paper
+ S3/S4 (see ) - M₂ explicit — Companion 10 §7 S2-3 - V_NTE bulk→boundary — closed - λ, e magnitudes;
+ Einstein-frame large-Φ numerics
+  (c) What NTE does NOT inherit from confluence:
+    • Chamseddine-Connes spectral action programme dependencies
+    • RH-neutrino apparatus for σ generation (Companion 7 establishes NTE has no RH/LH neutrino —
+      the structural lever for confluence)
+    • SM finite spectral triple specifics
+    • Quartic Higgs potential as the boundary scalar’s potential (NTE has Φ_NTE-specific V_NTE; SM
+      Higgs is structurally separate per Path B)
+
+
+                                                     28
+NTE Master Corpus
+
+
+Recurring π-factor patterns across NTE invariants (honest finding — softened from Ship Plan v1):
+    • κ derivation: Y₀₀(S²) = 1/√(4π)
+    • β_NTE characterisation: 2/√(2π²) on S³ (Companion 5 §6.4)
+    • T_GB = M_Pl/√(2π) (Stage 3 Session 3 Gaussian saddle width) — structurally consistent with Y₀₀(S¹)
+      = 1/√(2π) on the Hopf fibre under existing κ derivation’s harmonic-normalisation paradigm; full
+      structural derivation deferred to Programme S Paper S2
+    • κ₀ = 3/√(4π) bare coupling: one primary Hopf derivation + Sonner–Tong independent anchor;
+      heat-kernel route reaches same value via shared 3×Y₀₀ structure — not independent third
+      confirmation (Companion 8 §7.11 T_GB-clean / κ₀-fragile asymmetry). Pathway A closure κ =
+      κ₀/(1−κ₀) ≈ 5.50 still architectural.
+The asymmetry between T_GB (clean) and ξ_V (fragile) is the honest finding. Pre-Paper-S2, the T_GB
+leg supports promotion to structural mechanism candidate; the ξ_V leg (V_E-coefficient form-match,
+dimensional) holds at “convention-dependent form-match” status. (The dimensionless Hopf-projection
+κ₀ = 3/√(4π), promoted to leading-order spectral-triple derivation per Paper S2 S2-B per the previous
+paragraph, is structurally distinct from this ξ_V leg and is not implicated in the asymmetry.) Sonner-Tong
+(2009, arXiv:0809.3783) dim(adj su(2)) = 3 anchor in κ₀ = 3/√(4π) provides cleaner structural foundation
+at SU(2)-adjoint level independent of the √(2π) pattern (see Companion 7 §4 alternative derivation route
+added v10.8).
+2 + §7.11; Companion 7 §4.1 + §4 alternative derivation route; Companion 5 §3.5; §17.5.15 (ξ = 1/6); §17.5.14
+(n_s status); §18.4 (r status); §22.15 (cosmological constant cancellation via spectral-triple unimodular
+gravity).
+22.15 Cosmological constant cancellation via spectral-triple unimodular gravity (new in v10.8)
+NTE’s cosmological constant prediction is structurally protected against the standard fine-tuning problem
+by the unimodular gravity argument inherited from Chamseddine-Connes 2008 (“The Uncanny Precision
+of the Spectral Action,” arXiv:0812.0165, Commun. Math. Phys. 293 (2010) 867–897).
+Mechanism (CC 2008 §2 + eq 1, page 3): the spectral triple’s intrinsic kinematical relation
+Σ_β_NTE a₀^β_NTE [[D, a₁^β_NTE], [D, a₂^β_NTE],., [D, aₙ^β_NTE]] = 1
+fixes the volume form √g d⁴x algebraically. The apparent cosmological term 2Λ⁴f₄a₀ in the spectral action
+expansion (CC 2008 eq 8) cancels at the classical level for any metric variation that preserves total volume
+V. The cosmological term doesn’t gravitate.
+NTE-specific content (beyond CC 2008): where CC 2008 leaves the residual cosmological constant as a
+free function of the distribution dμ(V) of total volumes, NTE fixes dμ(V) via the Friedmann coupling H =
+β_NTE|Φ_NTE|² and the Φ_NTE trajectory (per corpus §2.2 + §2.3.1). NTE thereby provides a specific Λ
+residual prediction where CC 2008 has none.
+Inheritance of “uncanny precision”: CC 2008 §3 proves that all Seeley-de Witt coefficients a_{2n} vanish
+for n ≥ 2 on the round S³ × S¹ geometry via explicit heat-kernel cancellations (a₄ via Weyl² + Gauss-Bonnet
+vanishing; a₆ via non-trivial 18-term cancellation). NTE inherits this exponentially-suppressed correction
+structure — the spectral action reduces to two terms (cosmological + Einstein-Hilbert) with exponentially
+small remainder.
+Status: structural mechanism candidate at the same rhetorical class as κ, M_R, M_1, T_GB derivations. Full
+Connes spectral triple computation of NTE’s specific dμ(V) -> Λ_NTE residual prediction is Programme S
+
+
+
+                                                     29
+NTE Master Corpus
+
+
+Paper S2 deliverable. Whether the prediction matches Λ_obs is the principal empirical test the Programme
+needs to perform.
+P0 hinge status (Charter v1.3 §4, master sync v10.11): P0.3 PASS PASS; P0.7 PASS PASS. P0.10 PASS
+CLOSED at prediction tier (2026-05-24: P0.10a–c; optional B2 abstract crossed product open).
+Paper S2 deliverable registry : Main arc COMPLETE at heat-kernel register (S2-A through S2-E;
+BR2d-J3; J1-G4). Six-note chord synthesis:. §22.1 Yukawa:. D5 + M₂ closed-at-S1 residue). Open: §22.1
+charged-lepton Yukawas (𝑌𝑒 , 𝑌𝜇 , 𝑌𝜏 from 𝐷𝐹 ). Working corpus: through;.
+Cross-references:   §22.14 (structural confluence catalogue); §17.5.15 (ξ = 1/6 conformal coupling
+commitment);.
+22.16 The local Lagrange-multiplier action’s action principle (new in v10.8 per §17.5.3 Session 1 audit)
+§17.5.3’s structural-identity reading enforces the constraint H = β_NTE|Φ_NTE|² pointwise via a local
+Lagrange-multiplier μ(x,N) extending Appendix B.3’s cosmological reading μ(N) locally. The action
+principle from which μ(x,N) follows — and its covariant relationship to the Einstein-Hilbert action and
+the bare boundary action of §2.2 (with conformal coupling at ξ = 1/6 per §17.5.15 and Higgs portal per
+§22.14) — is open structural work.
+The target is a single boundary action whose variation produces (a) the Friedmann constraint H =
+β_NTE|Φ_NTE|² as a pointwise local condition, (b) the gravitational time-dilation Schwarzschild factor
+in the post-Newtonian regime as a structural-identity consequence rather than a dynamical-coupling
+response, and (c) compatibility with the bare-action conformal coupling and Higgs-portal couplings at
+the level required for v10.8’s σ↔Φ_NTE confluence and n_s derivation route to remain intact.
+Closing this would derive the structural-identity reading of §17.5.3 from first principles — converting
+what §17.5.3 currently establishes as an ontological identification into a derivation from a single boundary
+action.
+Parallel structurally-open programmes: - §17.5.1 (V_NTE programme) — V_NTE form derivation from
+first principles; on-trajectory determinate under v10.8 σ↔Φ_NTE confluence (Companion 8 §5.2 + §7.11),
+off-trajectory under-determined pending Connes spectral triple programme on octonionic spectral triple
+machinery (Paper S2 target, Connes Programme Charter §3) - §22.17 (cross-thickness coupling action
+principle, Gap 4b — closed-at-S1 v10.8) - §22.5 (Y_eff form factor) — analogous open structural work for
+the dark-matter scaling kinematics
+Connes Programme Paper S2 relationship. The Connes Programme’s central deliverable (Paper S2
+heat-kernel computation on Hopf-S³ × S¹_{β_GB} × A_{G_2}^{Farnsworth-Boyle}) operates at the level of
+the bare-action’s geometric and algebraic structure under the conformal coupling at ξ = 1/6. Whether
+Paper S2’s outputs eventually unify the bare-action machinery with the local Lagrange-multiplier action
+principle — producing a single boundary action whose variation gives both the cosmological trajectory
+dynamics and the local pointwise constraint — is open. The Programme’s P0.7 critical hinge (Gilkey
+heat-kernel applicability under Farnsworth-Boyle non-associativity) is a prerequisite for Paper S2 viability
+but does not itself address the local action-principle question.
+                                                                                                 unified ;
+Status : S1 @ 1PN; S2 @ 2PN; S3 @ shell saturation; S4 @ structural unification. Unified action 𝒮NTE
+BR2d-J3 heat-kernel recovery. Ghost scan: PASS at corpus register 𝜇 PASS; constrained Φ + 𝜉 = 61 PASS;
+holonomic 𝜇 required (unconstrained dS toy ghost).
+Cross-references: §17.5.3 (Session 1 audit findings; structural-identity reading); §2.3 (post-T1-CORPUS-8
+prose using the structural-identity reading); §17.5.1 (V_NTE programme parallel); §22.17 (cross-thickness
+
+
+                                                    30
+NTE Master Corpus
+
+
+coupling action — closed-at-S1); §22.5 (Y_eff form factor parallel); Connes Programme Charter §3 (Paper
+S2 deliverable); Appendix B.3 (cosmological Lagrange-multiplier action);.
+22.17 The cross-thickness coupling action principle (Gap 4b closed-at-S1, v10.8)
+Pathway A’s two-metric Einstein equations (§9.1, §9.3) follow from the Janus action at S1 structural rigor:
+S = S_grav + S_SM + S_ν + S_bridge + S_cons
+S_grav: bi-Einstein–Hilbert on the induced metrics g_μν^(+) and g_μν^(−) of the two CPN-conjugate
+orientations (§6.1).
+S_SM: orientation-confined Standard Model Lagrangians (Z₂-odd fields on one orientation each, §8.7.9).
+S_ν: shared unresolved Majorana neutrino with ½√(-g_)ψ̄iD̸+ψ + ½√(-g-)ψ̄iD̸_-ψ — bilateral backbone, no
+kinetic mixing.
+S_bridge: κ₀ ∫∫ √(-g_)√(-g_-) 𝒦 (x,y) g_+{αβ}g_- {ρσ} T_{αβ}^{(b,)} T_{ρσ}^{(b,-)} with κ₀ = 3/√(4π) and 𝒦 =
+Y₀₀·Θ (Hopf monopole × neutrino-bridge Green function). This is the action-level content of the non-local
+cross-thickness sourcing in §9.1.
+λ_Hopf at gauge birth: crystallisation shell 𝒮cryst fibre term 𝜆Hopf ℐfibre with ℐfibre = 𝜅0 𝑌00 and 𝜆Hopf = 1
+(coefficient match to monopole sector of 𝑆bridge ). U(1) fibre / Born mechanism activation at event 𝐺.
+S_cons: Lagrange multipliers Λ_μν^(σ) enforcing T̃_μν^(σ) = T_μν^(b,σ) + T_μν^(ν) + κ₀ T̃_μν^(−σ).
+Matrix inversion of these constraints is the geometric resummation κ₀/(1−κ₀) of §9.3.
+Bianchi consistency: automatic in the monopole/averaged sector (constant Y₀₀); structure formation uses
+EFT coarse-graining of S_bridge above the neutrino coherence scale (§9.4).
+S2 refinement (open, not Gap 4b): explicit embedding in a ghost-free Hassan–Rosen bimetric potential;
+full numerical GR for σ(M) scatter.
+Status: closed-at-S1 (T1-CORPUS-11). Cross-references: §6.3; §9.1–9.3; §17.5.5; §22.6 (superseded); §22.16
+(S1–S4 closed; ghost scan PASS v0.2).
+22.18 Hartle-Hawking saddle temperature in NTE’s regime (derived)
+Status: derived at coupled S_E register. Full 2×2 (H,Φ) Hessian on dS4 cap (ξ = 1/6; Models A + B) confirms
+one unstable + one stable mode at H = M_Pl,nr. T_GB = M_Pl/√(2π) from temperature / β_GB block
+(Paper S2; J6-n3), not from homogeneous (H,Φ) Hessian soft eigenvalue. Model B scaled-E3 saddle: Φ* ≈
+0.90 Φ_inf, H* ≈ 0.95 M_Pl,nr. numerics. Cross-ref: §17.5.4 (C1); §22.14 T_GB leg; Companion 9 Session 3.
+22.19 Holographic identity N_lock = S_dS/4 Status: derived at 𝒮cryst / heat-kernel register. 𝑁lock =
+                                                                                 (𝐹 )
+𝑆dS /4 = 45/(4𝑔eff ) ≈ 0.1054 with 𝑔eff = 106.75 at 𝑇GB = 𝑀Pl /√2𝜋 and 𝐻GB Friedmann scale — not
+                                             𝑁
+𝑁𝑒 ≈ 63.4 (BR5). Entropy budget 𝒮ent = ∫0 lock 𝑇GB 𝑠(𝑦) 𝑑𝑦 = 𝑆dS /4 on Stage 3 𝑦-chart pins width. audit.
+Cross-ref: §17.5.4 (C2); §22.17 𝜆Hopf fibre at 𝐺.
+22.20 Programme S Paper S2 — six-note chord closure Status: structurally complete at heat-kernel
+register. Single spectral triple 𝑀 = Hopf-𝑆 3 × 𝑆𝛽1GB × 𝐴𝐹 (𝐴𝐹 = 𝕆 ⊕ 𝕆) yields six Charter predictions as one
+chord: 𝜅0 , 𝑇GB , 𝐾 (Φ)/n_s/r, 𝑀1 /𝑀𝑅 , Λ (~1.05×), 2𝜋 2 audit. Canonical paper:. S2-E package. Closed-at-S1
+2026-05-24: D5 (8𝜋)1/3 BPS prefactor (O(1) residue); M₂ Z₂ split; Λ structural (Companion 11; numeric
+reroute-or-retire per CR-H2); BR2d-J3 heat-kernel; J1-G4 unified action; §22.1 𝑌𝜈2 / 𝑚𝜈2 (0.993× solar);
+P0.10 (a–c); 𝑁𝐹 → 𝑔eff (S2-NF1); V_NTE Session 5 D1. Open: charged-lepton Yukawas (𝑌𝑒 , 𝑌𝜇 , 𝑌𝜏 ).
+
+
+
+                                                     31
+NTE Master Corpus
+
+
+22.21 F1 = −18 C² + 11 E₄ trace anomaly reinterpretation (Paper S2 S2-C-B)
+Paper S1 F1 combination algebraically equals −18 C² + 11 E₄; R² cancels in standard 4D basis. M = S³ ×
+S¹_{β_GB} has C² = 0 and E₄ = 0 simultaneously — deep reading of d = 3 root cancellation. Cross-ref: Paper
+S1 v0.4; §22.20.
+22.22 K(Φ) kinetic term — open (Paper S2 S2-C-A superseded; BREAK-1)
+K(Φ) closure is open on the untwisted substrate (𝑎4 = 0 per CR-H1; Paper S2 §6.2). Prior leading-order
+𝐾 (Φ) = 1 claim from the 𝑎4 route is retired. Routed to Programme S Paper S2 (Route E). The canonical
+kinetic term is assumed 𝐾 (Φ) = 1 pending a valid route — not derived at leading heat-kernel order. §18.4
+reading (iii) hilltop remains structurally favoured under that assumption. Cross-ref: §17.5.14; §17.5.15;
+Companion 8 F3; Companion 9 §7.6.
+22.23 D_F sub-leading suppression hierarchy (Paper S2 S2-C-C)
+D_F corrections to a₂, a₄ ~10⁻¹⁸ at canonical NTE; leading predictions preserved. Tr_F(D_F²), Tr_F(D_F⁴)
+structurally relevant for mass relations + M_R. Embedding depths: per-generation 𝛿𝑛 from projected 𝐷𝐹2
+weights on 𝑆 3 Dirac spectrum + §19.4 overlap — links §22.1 (8𝜋)−𝛿ℓ to heat-kernel register 1.
+Closing remark: these pathways are open because NTE’s structure makes them precisely formulable —
+a framework that did not provide the geometric arena would not be able to ask them in this form. Their
+openness is not a weakness of the framework but a measure of its reach. Each one is a place where structure
+has been provided and specific work remains; each one is a place where the framework’s commitment to
+§II.0 — track record over advocacy — meets its real test. Closing any of them improves the framework.
+Failing to close them, while honestly noting they remain open, also improves the framework, because
+honesty about open work is what distinguishes a serious account from a self-licensing one.
+XXIII. CONCLUSION
+The NTE framework begins with a single observation (post-locking, Axiom 2.1.2): a photon accumulates
+zero proper time, and a photon has zero Higgs coupling. Every entity that accumulates temporal duration
+has nonzero Higgs coupling. The §II.0 working bet — that the boundary expansion field |Φ_NTE| is
+proportionally tied to proper-time accumulation under the ratified constraint H = β_NTE|Φ_NTE|² (§2.3;
+abstract language note; Path B: distinct from SM Higgs) — inverts the standard ontological picture.
+From this foundation:
+All epochs (post-G). E-folds N are fundamental. The S³ boundary expands geometrically through
+e-fold increments dN once boundary crystallisation has occurred at G (LB-6). The constraint H(N) =
+β_NTE|Φ_NTE(N)|² is operative post-G (switches on at G; Part 1 §2.1.3(c)). The expansion field |Φ_NTE|
+is the geometric quantity whose square sources H on the boundary and acquires structural coupling to
+the gauge sector at gauge birth (§2.1.3(c), §2.3.0; Path B: not identity as the SM Higgs).
+Pre-temporal (N < N_lock; §2.1.3 only). Only e-fold parameterisation is physically meaningful; dt/dN
+is undefined or rapidly varying. What exists: bulk spinor modes on S⁷ (projecting to S³ at G), bulk even
+scalar |Φ| (Role B), CPN symmetry, octonionic algebra 𝕆 — no operative S³ cosmological slice, no t, no
+gauge symmetry, no coupling-regime differentiation, no null-time or entanglement-as-null-time-geometry
+(Axioms 2.1.2–2.1.3, 1.7). The Hartle-Hawking Euclidean section is this epoch (§2.1.4).
+Post-locking (N > N_lock). Temporal duration t emerges as an accumulated quantity: dt =
+dN/(β_NTE|Φ_NTE|²). Once emerged, t is fully valid locally — the relationship between e-folds and
+emergent time is the same as between GR and Newtonian gravity.
+
+
+
+                                                    32
+NTE Master Corpus
+
+
+Post-locking — mass and gravity. Mass is temporal embedding. Particles couple to the SM Higgs for
+fermion masses; |Φ_NTE| sources H and sets dt/dN. Stronger Yukawa coupling means deeper embedding.
+Gravitational time dilation, |Φ_NTE| thinning, and N-thickness variation are one geometric fact under the
+pointwise constraint (§2.3, §6.2): τ(x)/τ(∞) = 1 − GM/rc² to first post-Newtonian order.
+Post-locking — null-time and entanglement. Photons and gluons, with zero Higgs coupling, have zero
+e-fold depth. They co-move with the expanding boundary at c. Emission-absorption transactions create
+entanglement as null-time exchange geometry (Axiom 1.7). Null-time is null from time: ds² = 0 requires
+dt to exist. The coupling regimes — null-time, embedded, unresolved (bilateral temporal extent) — are
+post-temporal categories (Axiom 2.1.2).
+Post-locking — neutrinos and dark matter. Minimal Higgs coupling leaves neutrinos unresolved — neither
+particle nor antiparticle in the Hopf sense (§3.3, Companion 7). Bilateral support across the Janus thickness
+makes the topological κ coupling manifest. κ = 5.50, zero free parameters.
+Gauge birth (transition at N_lock). The global octonionic algebra 𝕆 (automorphism group G₂) reduces to
+quaternionic structure; gauge group SU(3)_C × SU(2)_L × U(1)_Y emerges through associativity transition
+and CPN parity selection (§VIII.7). Three generations from 𝐽3 (𝕆); 90 species from the Majorana condition.
+Cayley-Dickson sequence 𝕆 → ℍ → ℂ → ℝ maps to pre-temporal -> gauge birth -> EWSB -> classical —
+forced by Hurwitz’s theorem.
+Cosmology (post-locking observables; β_NTE fundamental per Appendix B). β_NTE encodes both H₀
+and n_s in the characterisation: H₀ = β_NTE·v_EW² (construction, not independent prediction) and n_s =
+1 − 2/ln(1/(β_NTE·M_Pl)) = 0.9685 (genuine with caveats — β_NTE-chain + HH slow-roll import; §17.5.20).
+r ≈ 4×10⁻³ on reading (iii) is a conditional survivor (§18.4). Both n_s and r within current observational
+bounds.
+Post-locking — dark energy and symmetry. Dark energy is geometric unloading: as matter disperses,
+|Φ_NTE| weakens and boundary impedance to expansion decreases. True w = −1; low-z departures read as
+void-enhancement of H(x,N) = β_NTE|Φ_NTE(x,N)|². Fundamental symmetry is CPN; CPT is the emergent
+local description. Arrow of time: massive particles lock to one e-fold direction through Higgs coupling
+after temporal locking.
+All epochs — boundary-only. There is no ‘inside’ the 4D ball. The S³ surface is everything (§16).
+Honest assessment: The H₀ value is a measurement of β_NTE, not a prediction. The true w = −1 follows
+from Friedmann with Ω_Λ = constant; NTE provides a physical interpretation but does not derive Ω_Λ.
+The observed w > −1 at low z is predicted as the void-enhancement signature of H(x,N) = β_NTE|Φ(x,N)|²,
+the same mechanism as the Hubble tension — three testable diagnostic signatures are specified (§12.3).
+The Li-7 match is a partial prediction: the κ bridge reduces the standard discrepancy from factor 2.9 to
+factor 1.58 with zero free parameters, but does not fully resolve it. The κ prediction (5.50 ± 0 theoretical) is
+the sharpest quantitative result — zero theoretical uncertainty, testable by CMB-S4. The DM variance
+prediction σ(M) ∝ M^(-1/2) is the strongest genuinely falsifiable result. The n_s = 0.9685 prediction
+(0.85σ; genuine with caveats per §17.5.20) and r ≈ 4×10⁻³ (conditional survivor reading (iii) per §18.4)
+are testable by CMB-S4/LiteBIRD, with the caveat that the Starobinsky/slow-roll formula applicability to
+the NTE pre-temporal epoch requires verification. The sin²θ₁₂ = 1/3 leading-order prediction is 2.9σ from
+observation — a genuine discrepancy that the Cabibbo angle correction should close. The gauge group
+derivation from 𝕆 and the S³-as-S⁷/Z₂-fixed-locus insight are structurally the most significant advances in
+v10.4.
+APPENDIX A: OPEN QUESTIONS FOR FURTHER INVESTIGATION
+
+
+
+                                                      33
+NTE Master Corpus
+
+
+A.1 The g_eff × α_em ≈ √6/π Coincidence
+g_eff × α_em = 106.75/137.036 = 0.7790, matching √6/π = 0.7797 to 0.09%. If exact, the β_NTE
+characterisation simplifies to β_NTE = (v_EW/M_P)^(3/2) × √2/(π × M_P × N_total), with √2/π = 2 ×
+Y₀₀₀(S³). The factor of 2 from the Janus pair.
+A.2 The Harmonic Hierarchy
+Spacetime generation (β_NTE): geometric factor = 2 × Y₀₀₀(S³). Factor of 2 from Janus pair. Cross-thickness
+coupling (κ): per-eigenstate coupling = Y₀₀(S²), the angular cross-section of the bilaterally-supported
+neutrino on the shared manifold. Both monopole (l = 0) harmonics — isotropic, lowest-mode. S³ harmonic
+governs boundary expansion; S² harmonic governs bridge cross-section.
+A.3 The Li-7 Mechanism: Epistemic Status
+C_coherence = 1 (derived from topological non-resolution of the neutrino) and f_geometric = κ₀ = 0.846
+(derived from the Hopf projection bridge cross-section). The enhancement factor is 1 + κ₀ = 1.85, giving
+⁷Li/H = 2.53 × 10⁻¹⁰. This is a partial prediction with zero free parameters: the standard BBN discrepancy
+of factor 2.9 is reduced to factor 1.58. The residual may arise from nuclear physics uncertainties in ⁷Be
+destruction rates (ongoing experimental programme) or from an unconsidered destruction channel. Gap
+3 is partially closed.
+A.4 Forward Pathways (Ranked)
+   1. Connes spectral triple: derive mass ratios, CKM matrix, PMNS corrections from 𝐽3 (𝕆) — the single
+      calculation that closes all remaining mixing-angle gaps simultaneously
+   2. Void-enhancement quantification: compute the non-perturbative back-reaction amplitude from
+      NTE’s spatially varying |Φ(x)| to obtain the predicted δw(z) profile for comparison with DESI
+      DR2/DR3 and the full 5-year analysis (expected 2027)
+   3. Asymptotic safety bridge: verify that NTE’s pre-temporal S³ geometry satisfies the Reuter
+      fixed-point conditions of asymptotic safety; connect Eichhorn’s SM parameter retrodictions to the
+      𝐽3 (𝕆) Yukawa structure
+   4. n_s slow-roll verification: verify ε « 1 during pre-temporal phase from boundary tension dynamics
+   5. M₁ from Janus geometry — DERIVED (Pathway α, Companion 10 §3): the geometric leptogenesis
+      scale M₁ ≈ 5.4×10⁹ GeV lands in the successful-leptogenesis window, making the baryon asymmetry
+      a structural consistency result, not a zero-parameter prediction. Remaining: strict prefactor
+      uniqueness (Programme S Paper S2).
+   6. σ_c amplitude: DM:baryon scatter within one coherence volume
+   7. Squashed S⁷ eta-invariant: does VEV-directed squashing give η_σ = 6 (three generations)?
+   8. Zurek synthesis: formalise the gauge birth as a cosmological-scale decoherence event; show pointer
+      basis selection from temporal structure emergence
+   9. De Sitter quantum gravity: formalise NTE’s boundary-only ontology as a resolution of the dS QM
+      problem; connect to Strominger’s dS/CFT via the N -> ∞ asymptote
+  10. CCC recursion analysis: fixed point β_NTE = F(Ω(β_NTE))
+APPENDIX B: BOUNDARY ACTION REFORMULATION
+B.1 The N-Primary Minisuperspace Action
+For a spatially homogeneous FRW universe with S³ spatial sections (k = +1), converting to N-parameterisation:
+S = V₃ ∫ dN L_eff(N)
+where V₃ = 2π² is the volume of the unit S³, and:
+
+                                                    34
+NTE Master Corpus
+
+
+L_eff(N) = (e^{3N}/H) × { [1/(16πG) + ξ|Φ|²] × R(N) + ½H²(Φ’)² − V(Φ) }
+with R(N) = 6[H’H + 2H² + e^{-2N}], primes denoting d/dN, and V(Φ) = λ(|Φ|² − v_EW²)²/4.
+B.2 Why H ∝ |Φ|² Cannot Be Derived from the Standard Action
+Fork A (Closed): Modified Higgs Potential — 56–81 orders of magnitude too weak. Fork B (Closed): Specific
+Non-Minimal Coupling ξ — gives (Φ’)² ≈ −10⁸⁸, physically impossible.
+Both fail because NTE’s constraint is cosmological (H ~ 10⁻⁴² GeV), not microphysical. The SM Higgs sector
+is untouched by NTE. Bezrukov-Shaposhnikov Higgs inflation is incompatible with H ∝ |Φ|².
+B.3 The Surviving Pathway: Geometric Boundary Condition
+The constrained action:
+S_NTE = V₃ ∫ dN { L_eff(N) + μ(N) × [H(N) − β_NTE|Φ(N)|²] }
+Boundary tension μ(N) ≈ −V(Φ(N)) at all epochs. Finite, real, continuous for ALL tested values of β_NTE
+(10⁻⁴⁸ to 10⁻⁴⁰ GeV⁻¹). This is a negative result: β_NTE cannot be derived from the boundary action. β_NTE
+is inherited.
+APPENDIX C: RUNNING OF α_s TO THE PLANCK SCALE
+The one-loop running of the strong coupling:
+α_s(μ) = α_s(μ₀) / [1 + (b₀ α_s(μ₀))/(2π) × ln(μ²/μ²₀)]
+with b₀ = (33 − 2N_f)/(12π). For N_f = 6: b₀ ≈ 0.557. Using α_s(m_Z) = 0.1179 at μ₀ = 91.2 GeV:
+α_s(M_Pl) ≈ 0.065
+Gauge couplings are weak at the Planck scale due to asymptotic freedom — robust qualitative result, though
+α_s ~ 0.065 is not perturbatively small.
+APPENDIX D: SPIN-STATISTICS ON S³ ≅ SU(2)
+The spin-statistics connection on S³ follows from representation theory alone: the isometry group SO(4)
+≅ SU(2)_L × SU(2)_R classifies fields by (j_L, j_R). Half-integer representations satisfy R(2π) = −1. On
+simply connected S³ (π₁(S³) = 0), exchange of two identical particles is topologically equivalent to 2π
+rotation, inheriting the sign. Half-integer spin -> Fermi-Dirac; integer spin -> Bose-Einstein. This uses
+only topology and isometry of S³, not a timelike direction.
+APPENDIX E: SURFACE ONTOLOGY PROGRAMME — STAGE 1-3 RESULTS (NEW IN v10.6)
+This appendix records the structural results of the surface-ontology programme adopted in v10.6
+(cf. §22.11). Primitive: N-thickness on the Janus manifold (§6.1–6.2). Forced identification (F1, §II.0
+register): proper-length thickness ℓ = 1/(β_NTE|Φ_NTE|²) = 1/H(N) — one geometric object, two names,
+since H = β_NTE|Φ_NTE|² by construction. Coordinate chart: dimensionless extent z(y) (and t = iΔN per
+§2.1.4 as metric distance through thickness) organises the trajectory; z is not an additional ontological
+substance beside N, ℓ, and thickness. Stage 1–3 derived z(x, y) from H = β_NTE|Φ_NTE|² under the
+analytic-continuation working profile; qualitative structure is adopted in v10.6; quantitative claims tied to
+the single-exponential working profile remain precision work (§E.4, §E.6).
+E.1 The framework
+The trajectory chart is z(x, y), with x the spatial coordinate on S³ and y = N the e-fold coordinate. Thickness
+ℓ(x, y) = 1/(β_NTE|Φ_NTE(x, y)|²) is the proper-length expression; F1 identifies ℓ with 1/H at each y. ℓ(x,
+
+                                                          35
+NTE Master Corpus
+
+
+y) is the proper-length expression of z under the local metric: ℓ = N_I × ℓ_unit(x, y), where ℓ_unit(x,
+y) = 1/(β_NTE|Φ_NTE(x, y)|²)·N_I(x,y)^{-1} is the pointwise local conversion factor (cf. §7.1 ride-along
+note). Hypothesis (i’): N_I_corpus = (2/π)·z_trajectory, so the maximum dimensionless extent N_I_max =
+1 corresponds to z_max = π/2, and the locking condition δ ≥ N_I (§7.1) holds with equality when z = π/2.
+The trajectory equation comes from analytic continuation of the constraint H = β_NTE|Φ_NTE|² to complex
+e-fold N_c = y + iz. Writing f_c(N_c) = β_NTE|Φ|²_c(N_c) as the holomorphic extension of β_NTE|Φ|²(N),
+the trajectory satisfies dz/dy = Im(f_c)/Re(f_c).
+E.2 Stage 2 — post-locking trajectory under the working profile
+Under the working post-locking profile |Φ|²(N) = Φ₀²·e^(-N), the trajectory equation has solution
+sin(z) = e^(N_lock - y) for y ≥ N_lock, with z(N_lock) = π/2 (saturation at gauge birth) and z(y ->
+∞) -> 0 (asymptotic compactification). The corpus’s bilateral Janus structure (one manifold with two
+CPN-conjugate orientations) and the calculation result (the post-locking trajectory ODE admits exactly
+two solution branches with z₊ + z₋ = π) turn out to coincide as one geometric object — the Janus pair is
+the ODE branch structure under analytic continuation.
+Note on epistemic register (v10.6 calibration after CR pass second-pass review): this finding is consistency
+between a framework commitment (CPN’s z -> π−z symmetry of the bilateral Janus structure) and
+a calculation choice (the analytic-continuation framework, chosen so the holomorphic extension
+respects this symmetry). It is not a tighter “deeper structure forces this” derivation in the register of
+the gauge-group-from-G₂ result or the κ-from-S³-topology result. The consistency is informative — a
+continuation framework that did not respect z -> π−z would have produced branches not identifiable with
+the orientations, and that mismatch would have been a warning sign — but the consistency does not force
+the framework’s bilateral structure from a deeper geometric fact. For this reason this finding is recorded
+here in Appendix E with its actual content, rather than at full §II.0 register.
+E.3 Stage 3 — pre-temporal trajectory and matching at gauge birth
+Stage 3 extends the trajectory to y ∈ (0, N_lock) by choosing a pre-temporal profile family and integrating
+from the gauge-birth boundary condition z(N_lock) = π/2. The structural finding: among power-law
+profiles |Φ|²(N) = a·N^k, only k = 1 (linear) admits non-trivial straight-line trajectories. Under the linear
+pre-temporal profile |Φ_pre|²(y) = (Φ₀²·e^(-N_lock)/N_lock)·y (uniquely determined by continuity at
+N_lock), the trajectory is z_pre(y) = (π/(2 N_lock))·y, satisfying:
+    • z_pre(0) = 0 — dimensionless extent vanishes at the Janus point;
+    • z_pre(N_lock) = π/2 — saturation reached uniquely at gauge birth;
+    • z_pre monotonically increasing throughout (0, N_lock);
+    • ℓ_pre(y) = N_lock·e^(N_lock)/(β_NTE·Φ₀²·y) -> ∞ as y -> 0 (Hartle-Hawking cap as proper-length
+      divergence preserved).
+This overturns the Stage 1.5b §3.6 expectation that z is saturated throughout the pre-temporal regime. The
+corrected reading: z saturates at π/2 only at gauge birth; it vanishes at the Janus point. The Hartle-Hawking
+cap is the proper-length divergence, not the dimensionless saturation.
+Note on epistemic register (v10.6 calibration after CR pass second-pass review): Stage 1.5b §3.6’s saturation
+expectation was a programme-internal working hypothesis at the intermediate-investigation level — not
+a framework-level proposal in the register of the Klein bottle fork, OneManifold, or v11 axiom audit. It is
+recorded here in its actual scope: a working hypothesis tested against Stage 3’s calculation and corrected,
+with the correction being the v10.6 corpus content. The framework’s symmetric-tracking discipline (§II.0)
+
+
+
+                                                     36
+NTE Master Corpus
+
+
+applies to programme-internal hypotheses too, but at this scope rather than at §II.0’s framework-level
+register.
+The §VIII.1.4 reading of the C¹ kink at gauge birth (Wick rotation signature) is a geometric re-description
+of the locking transition. The framework already commits to gauge birth being observable (T_GB ~ 0.4
+M_Pl, gauge boson radiation, hot Big Bang commencement); the kink reading adds geometric framing —
+a single moment with structural marker rather than the boundary of an extended saturated regime — but
+does not produce a new observable signature. It is recorded here as the geometric content of the locking
+transition under the surface-ontology programme; whether it acquires the rhetorical weight of “successful
+structural simplification” in the §II.0 sense remains open (cf. open-work item below in §E.6 on whether
+the kink reading produces distinguishing predictions).
+Note (v10.6 calibration after CR pass): the linear profile is structurally privileged among power laws as
+the unique k that admits non-trivial straight-line trajectories, but it is not strictly the unique admissible
+profile — non-power-law profiles can also satisfy the Janus-boundary and gauge-birth-matching conditions
+with transcendental trajectories. v10.6’s surface-ontology corpus content carries the linear profile as the
+simplest admissible choice with the corrected geometric reading. The corrected reading itself — z(0) = 0,
+z(N_lock) = π/2, z monotonically increasing — holds under any admissible pre-temporal profile; specific
+properties (the precise straight-line trajectory shape, dz/dy = π/(2 N_lock) finite from below at gauge birth)
+are linear-profile-specific.
+Matching at gauge birth: z continuous (π/2 from both sides); |Φ|² continuous (both equal Φ₀²·e^(-N_lock)
+by construction); ℓ continuous; dz/dy discontinuous — finite from below (= π/(2 N_lock) ≈ 15.71 at N_lock
+= 0.1), divergent from above (= -∞ as the post-locking trajectory descends from saturation with vertical
+slope). The C¹ kink at gauge birth is the geometric signature of the locking transition (see §VIII.1.4 for the
+Wick-rotation reading). Gauge birth becomes the unique moment of saturation rather than the boundary
+of an extended saturated regime; it is a single moment with definite geometric content.
+E.4 Working profile vs actual cosmological trajectory
+The trajectory analysis above used the working post-locking profile |Φ|²(N) = Φ₀²·e^(-N) for analytic-continuation
+tractability. This corresponds to ε_H = 1 throughout post-locking (w = -1/3), which does not match actual
+ΛCDM cosmological history (radiation: ε_H = 2; matter: ε_H = 3/2; Λ-domination: ε_H ≈ 0). The actual
+post-locking trajectory of |Φ_NTE|² follows the §2.3.1 self-consistency relation |Φ_NTE|² = v_EW²·H/H₀
+where H(N) is set by FRW dynamics with the actual matter content at each epoch — therefore not a single
+exponential.
+The structural conclusions of the surface-ontology programme (Stage 2 unification of Janus = ODE branch
+structure; Stage 3 corrected reading; kink at gauge birth as Wick rotation signature) are robust to this
+simplification — they are about the geometric structure of the trajectory under analytic continuation, which
+the working profile captures qualitatively. Quantitative computations using V_NTE on the trajectory must
+use the actual cosmological H(N), not the single-exponential working profile. This is a precision matter
+recorded for completeness; non-blocking for the structural results adopted in v10.6.
+E.5 V_NTE Stage 2 findings F1, F2, F3
+Three findings from V_NTE Stage 2 are recorded:
+F1 (ℓ = 1/H structural identification): The proper-length thickness ℓ(N) = 1/(β_NTE|Φ_NTE(N)|²) and the
+Hubble radius 1/H(N) are the same geometric object (since H = β_NTE|Φ_NTE|² by construction). The
+corpus had been carrying ℓ and 1/H as separate quantities; the identification makes them visible as one
+geometric object. Consequence: the trans-Planckian numerical value of |Φ_NTE| at high H (|Φ_NTE|
+
+
+                                                     37
+NTE Master Corpus
+
+
+~ 10¹³ M_Pl at gauge birth) corresponds to ℓ_GB ≈ 6 Planck lengths — the standard cosmological fact
+that the Hubble radius is sub-Planckian when H is super-Planckian. The “trans-Planckian field value” is
+dimensional artefact, not a swampland field excursion. Inline mention in §6.2.
+ F2 (Wick-rotation reading of the C¹ kink): Slow-roll parameter analysis ε_H = -d(ln|Φ|²)/dN gives ε_H =
+-1/N pre-temporal (negative, “phantom-like” if read in Lorentzian regime; artefactual in Euclidean section)
+ and ε_H = +1 post-locking (corresponds to w = -1/3, end-of-inflation boundary). The signature change at
+ gauge birth is the Euclidean -> Lorentzian Wick rotation; the C¹ kink is its geometric signature. Reading
+ integrated into §VIII.1.4.
+F3 (V_NTE on-trajectory determinate, off-trajectory under-constrained): V_NTE on the post-locking
+trajectory has form V_NTE^{post}(Φ) = (3β_NTE²/(8πG))Φ⁴ - (β_NTE²/8)Φ⁶; on the pre-temporal linear
+profile, V_NTE^{pre}(Φ) = (3β_NTE²/(8πG))Φ⁴ - (β_NTE²A²/8)Φ². Same leading Φ⁴ coefficient, different
+subleading — the functional-form difference is itself the Wick-rotation signature at the V_NTE level.
+Off-trajectory, V_NTE remains under-constrained by the framework’s existing commitments (the
+Lagrange-multiplier action makes V_NTE not drive |Φ_NTE| dynamically; many V_NTE candidates pass
+through the on-trajectory values). Pinning V_NTE uniquely requires structural commitment beyond the
+corpus’s current state. Status update integrated into §17.5.1.
+E.6 Open structural work
+The surface-ontology programme is closed at the level of qualitative geometric structure under the
+analytic-continuation working profile. The structural results — Stage 2 unification of Janus pair as ODE
+branch structure; Stage 3 corrected reading with z vanishing at the Janus point and saturating uniquely at
+gauge birth; C¹ kink as Wick-rotation signature; V_NTE Stage 2 findings F1 and F2 — are robust to profile
+choice and stand as v10.6 corpus content. Quantitative claims that depend on the working profile’s specific
+value (ε_H = +1 post-locking; V_NTE^{post} functional form Φ⁴ − Φ⁶; the “end-of-inflation boundary”
+reading of ε_H = +1) are working-profile artefacts whose generalisation under actual ΛCDM cosmic
+history (ε_H = +2 radiation, +3/2 matter, ≈ 0 Λ-domination) remains to be verified. This generalisation
+is precision work that does not affect the qualitative structural conclusions but should be undertaken in
+subsequent work. Open structural work also remains:
+    • V_NTE Stage 3 (or beyond): pinning V_NTE uniquely requires committing to one of (option
+      α) a specific dynamical reading replacing the Lagrange-multiplier action; (option β) a specific
+      kinetic-term modification reflecting the F1 ℓ = 1/H identification; or (option γ) independent
+      observational input. Currently flagged as research target via §17.5.1.
+    • Spatial structure of z(x, y) beyond pointwise thickness (cf. §22.13). Algebra at gauge birth is global
+      (§22.13 default); local |Φ_NTE(x, y)|² enters through N-thickness per §6.2 / §2.3 only. The programme
+      treats z(x, y) as primarily y-dependent; whether x-structure in z adds independent geometric content
+      beyond pointwise thickness is the remaining narrow open item — not local octonion restoration.
+    • Cross-thickness geometric content. Companion Paper 5 (State Space = Surface) is the framework’s
+      primary paper-level treatment of the surface ontology; v10.6 alignment of that paper integrates Path
+      B disclosure, F1/F2 findings, and the Stage 3 corrected reading.
+REFERENCES
+Agazie, G. et al. [NANOGrav] (2023). The NANOGrav 15-year Data Set. ApJL 951, L8. Aver, E. et
+al. (2021). Improving helium abundance determinations. JCAP 2021, 027. Aspect, A., Dalibard, J. &
+Roger, G. (1982). Experimental Realization of EPR-Bohm Gedankenexperiment. PRL 49, 1804. Baez, J.C.
+(2002). The octonions. Bull. Amer. Math. Soc. 39, 145. Barbour, J., Koslowski, T. & Mercati, F. (2014).
+
+
+                                                    38
+NTE Master Corpus
+
+
+Identification of a gravitational arrow of time. PRL 113, 181101. Bell, J.S. (1964). On the Einstein Podolsky
+Rosen Paradox. Physics Physique Fizika 1(3), 195. Bezrukov, F.L. & Shaposhnikov, M. (2008). The Standard
+Model Higgs boson as the inflaton. PLB 659, 703. Boyle, L., Finn, K. & Turok, N. (2018). CPT-symmetric
+universe. PRL 121, 251301. Célérier, M.-N. (2000). Do we really see a cosmological constant? A&A 353, 63.
+Chamseddine, A.H. & Connes, A. (2010). The Uncanny Precision of the Spectral Action. Commun. Math.
+Phys. 293, 867 [arXiv:0812.0165]. Coc, A. et al. (2014). Standard BBN up to CNO. ApJ 798, 39. Cyburt,
+R.H. et al. (2016). Big Bang Nucleosynthesis: Present status. Rev. Mod. Phys. 88, 015004. Davidson, S. &
+Ibarra, A. (2002). Lower bound on RH neutrino mass from leptogenesis. PLB 535, 25. Dixon, G.M. (1994).
+Division Algebras. Kluwer. Foot, R. (2004). Mirror dark matter. Int. J. Mod. Phys. A 19, 3807. Freedman,
+W.L. et al. (2024). Status report on CCHP. arXiv:2408.06153. Furey, C. (2018). Three generations, two
+unbroken gauge symmetries, and one eight-dimensional algebra. PLB 785, 84. Gross, D.J. & Wilczek, F.
+(1973). Ultraviolet behavior of non-Abelian gauge theories. PRL 30, 1343. Günaydin, M. & Gürsey, F.
+(1973). Quark structure and octonions. J. Math. Phys. 14, 1651. Hensen, B. et al. (2015). Loophole-free
+Bell inequality violation. Nature 526, 682. Hurwitz, A. (1898). Über die Komposition der quadratischen
+Formen. Göttinger Nachrichten. Kolb, E.W. & Turner, M.S. (1990). The Early Universe. Addison-Wesley.
+Maldacena, J. (1999). The large-N limit. Int. J. Theor. Phys. 38, 1113. Maldacena, J. & Susskind, L. (2013).
+Cool horizons for entangled black holes. Fortsch. Phys. 61, 781. Marcolli, M., Pierpaoli, E. & Teh, K.
+(2010). The spectral action and cosmic topology. Commun. Math. Phys. 304, 125. Penrose, R. (2010).
+Cycles of Time. Bodley Head. Planck Collaboration (2018). Planck 2018 results. VI. A&A 641, A6. Politzer,
+H.D. (1973). Reliable perturbative results for strong interactions? PRL 30, 1346. Berezhiani, Z. (2006).
+Mirror world and its cosmological consequences. Int. J. Mod. Phys. A 19, 3775. Riess, A.G. et al. (2022).
+Comprehensive Measurement of H₀. ApJL 934, L7. Ryu, S. & Takayanagi, T. (2006). Holographic derivation
+of entanglement entropy. PRL 96, 181602. Sonner, J. & Tong, D. (2009). Berry phase and supersymmetric
+quantum mechanics. PRL 102, 191801 [arXiv:0809.3783]. Stasheff, J.D. (1963). Homotopy associativity of
+H-spaces. Trans. AMS 108, 275. Streater, R.F. & Wightman, A.S. (1964). PCT, Spin and Statistics, and All
+That. W.A. Benjamin. Strominger, A. (2001). The dS/CFT Correspondence. JHEP 2001(10), 034. Susskind,
+L. (1995). The world as a hologram. J. Math. Phys. 36, 6377. Todorov, I. & Dubois-Violette, M. (2018).
+Deducing the symmetry of the SM from 𝐽3 (𝕆). Int. J. Mod. Phys. A33, 1850118. Turok, N. & Boyle,
+L. (2022). Thermodynamic solution of the homogeneity, isotropy and flatness puzzles. arXiv:2210.01142.
+Van Raamsdonk, M. (2010). Building up spacetime with quantum entanglement. Gen. Rel. Grav. 42, 2323.
+Weinberg, S. (1989). The cosmological constant problem. Rev. Mod. Phys. 61, 1. Wiltshire, D.L. (2007).
+Cosmic clocks, cosmic variance. New J. Phys. 9, 377. Zurek, W.H. (2003). Decoherence, einselection,
+and quantum origins of the classical. Rev. Mod. Phys. 75, 715. Ball, P. (2026). Are the Mysteries of
+Quantum Mechanics Beginning To Dissolve? Quanta Magazine, Feb 13. DESI Collaboration (2025). DESI
+DR2 BAO measurements and dark energy constraints. Phys. Rev. D 112, 083511. Eichhorn, A. (2019). An
+asymptotically safe guide to quantum gravity and matter. Front. Astron. Space Sci. 5, 47. Wegsman, S.
+(2026). In Expanding de Sitter Space, Quantum Mechanics Gets Even More Elusive. Quanta Magazine,
+March 30. Wood, C. (2026). Experiments Ring the ‘Death Knell’ for Sterile Neutrinos. Quanta Magazine,
+April 8.
+
+
+
+
+                                                     39
+

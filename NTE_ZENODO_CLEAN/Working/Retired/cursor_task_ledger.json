@@ -1,0 +1,668 @@
+{
+  "version": 2,
+  "updated_at": "2026-06-28T12:14:21.136927+12:00",
+  "rules": {
+    "seen_is_not_done": true,
+    "verified_requires_gate_pass": true,
+    "max_strikes_before_blocked": 3,
+    "handoff_to_ledger_required": true,
+    "multi_stream_via_ledger_not_handoff": true
+  },
+  "tasks": [
+    {
+      "id": "GREP-SPEC-IMPLEMENT",
+      "state": "VERIFIED",
+      "priority": 1,
+      "stream": "main",
+      "gate": "all",
+      "title": "AC grep-gate verifier strings",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KPHI-S2-1.2",
+      "state": "VERIFIED",
+      "priority": 10,
+      "stream": "main",
+      "gate": "kphi",
+      "file": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KPHI-S2-6.3",
+      "state": "VERIFIED",
+      "priority": 11,
+      "stream": "main",
+      "gate": "kphi",
+      "file": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KPHI-S2-10.1",
+      "state": "VERIFIED",
+      "priority": 12,
+      "stream": "main",
+      "gate": "kphi",
+      "file": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KPHI-S2-10.2",
+      "state": "VERIFIED",
+      "priority": 13,
+      "stream": "main",
+      "gate": "kphi",
+      "file": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KPHI-S2-11.1",
+      "state": "VERIFIED",
+      "priority": 14,
+      "stream": "main",
+      "gate": "kphi",
+      "file": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KPHI-S2-12.2",
+      "state": "VERIFIED",
+      "priority": 15,
+      "stream": "main",
+      "gate": "kphi",
+      "file": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KPHI-P3-22.22",
+      "state": "VERIFIED",
+      "priority": 17,
+      "stream": "main",
+      "gate": "kphi",
+      "file": "Papers/NTE_v10_17_Part3_Accounting.md",
+      "split_file": "Working/AC_Readable_Splits/NTE_v10_17_Part3_Accounting__C_S22_App.md",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KAPPA-S2-4.4",
+      "state": "VERIFIED",
+      "priority": 18,
+      "stream": "main",
+      "gate": "kappa",
+      "file": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "verified_at": "2026-06-17T19:45:00+12:00"
+    },
+    {
+      "id": "KPHI-DEPOSIT-GATE",
+      "state": "VERIFIED",
+      "priority": 19,
+      "stream": "main",
+      "gate": "kphi",
+      "title": "(truncated corrupt field)",
+      "handoff": "Handoffs/Handoff_Cursor_Main_to_AC_KPhi_Sync_VERIFIED_20260617.md",
+      "verified_at": "2026-06-17T19:50:00+12:00"
+    },
+    {
+      "id": "MOJIBAKE-GATE-FIX",
+      "state": "VERIFIED",
+      "priority": 5,
+      "stream": "main",
+      "gate": "mojibake",
+      "title": "(truncated corrupt field)",
+      "source_handoff": "Handoffs/AC_SIGHT_KPhi_Sync_RATIFIED_Both_Carriers_PublishBlock_Cleared_HELD_on_Mojibake_FalseGreen_Astral_Plane_Plus_EtaGate_Precision_20260618.md",
+      "file": "Working/cursor_grep_gates.py",
+      "claimed_at": "2026-06-18T08:28:49.8461531+12:00",
+      "verified_at": "2026-06-18T08:46:52.531550+12:00"
+    },
+    {
+      "id": "MOJIBAKE-REPAIR",
+      "state": "VERIFIED",
+      "priority": 6,
+      "stream": "main",
+      "gate": "pdf-mojibake",
+      "title": "PDF-BUILD-FIX + dual-channel artifact gate (md clean; fix render pipeline; pdf-mojibake PASS + AC PNG sight before publish-block lift)",
+      "depends_on": [
+        "MOJIBAKE-GATE-FIX"
+      ],
+      "source_handoff": "Handoffs/AC_ADDENDUM_Greg_Dispositions_C10_Correct_Not_Archive_Mojibake_Silent_FontRepair_No_Changelog_20260618.md",
+      "carriers": [
+        "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+        "Papers/NTE_v10_17_Part3_Accounting.md",
+        "Working/AC_Readable_Splits/NTE_v10_17_Part3_Accounting__C_S22_App.md"
+      ],
+      "claimed_at": "2026-06-18T16:41:25.1681097+12:00",
+      "verified_at": "2026-06-19T07:48:09.146223+12:00",
+      "note": "Greg Part3 pixel sight PASS 2026-06-19; S2 block lifted AC 2026-06-18"
+    },
+    {
+      "id": "ETA-GATE-PRECISION",
+      "state": "VERIFIED",
+      "priority": 7,
+      "stream": "main",
+      "gate": "eta",
+      "title": "Eta gate negation carve-out (not zero-parameter / structural consistency lines)",
+      "source_handoff": "Handoffs/AC_SIGHT_KPhi_Sync_RATIFIED_Both_Carriers_PublishBlock_Cleared_HELD_on_Mojibake_FalseGreen_Astral_Plane_Plus_EtaGate_Precision_20260618.md",
+      "file": "Working/cursor_grep_gates.py",
+      "verified_at": "2026-06-18T08:46:52.531550+12:00"
+    },
+    {
+      "id": "C10-CORRECT",
+      "state": "VERIFIED",
+      "priority": 8,
+      "stream": "main",
+      "gate": "eta",
+      "title": "(truncated corrupt field)",
+      "source_handoff": "Handoffs/AC_ADDENDUM_Greg_Dispositions_C10_Correct_Not_Archive_Mojibake_Silent_FontRepair_No_Changelog_20260618.md",
+      "file": "Papers/Companion_10_v10_8_to_v10_17_2_Finalisation_Pass_20260524.md",
+      "lines": [
+        "L133",
+        "L136",
+        "L203"
+      ],
+      "verified_at": "2026-06-18T08:46:52.531550+12:00"
+    },
+    {
+      "id": "CPN-T1",
+      "state": "VERIFIED",
+      "priority": 30,
+      "stream": "main",
+      "gate": null,
+      "title": "CPN symbolic parity check",
+      "file": "Working/CPN_Universe_Pair_T1_Symbolic_Parity_Cursor_20260617.md",
+      "verified_at": "2026-06-17T19:30:00+12:00"
+    },
+    {
+      "id": "CPN-T2",
+      "state": "VERIFIED",
+      "priority": 31,
+      "stream": "main",
+      "gate": null,
+      "title": "CPN toy junction model",
+      "claimed_at": "2026-06-18T08:47:20.3186070+12:00",
+      "verified_at": "2026-06-18T08:48:09.764636+12:00"
+    },
+    {
+      "id": "CPN-T3",
+      "state": "VERIFIED",
+      "priority": 32,
+      "stream": "main",
+      "gate": null,
+      "title": "CPN literature rabbit-hole",
+      "claimed_at": "2026-06-18T08:48:10.6434766+12:00",
+      "verified_at": "2026-06-18T16:40:38.119660+12:00"
+    },
+    {
+      "id": "HOUSEKEEPING-DRYRUN",
+      "state": "VERIFIED",
+      "priority": 50,
+      "stream": "main",
+      "gate": "housekeeping",
+      "title": "Housekeeping dry-run manifest (no moves)",
+      "source_handoff": "Handoff_AC_to_Cursor_Main_Housekeeping_Cleanup_ArchiveFirst_IndexAnchored_DryRunThenACGate_20260616.md",
+      "verified_at": "2026-06-18T16:40:40.489095+12:00"
+    },
+    {
+      "id": "PDF-SIGHT-CALIBRATION",
+      "state": "VERIFIED",
+      "priority": 4,
+      "stream": "main",
+      "gate": "pdf-mojibake",
+      "title": "Dual-channel PDF sight calibration reference + pdf_artifact_gate.py",
+      "file": "Workflow/NTE_PDF_Artifact_Sight_Calibration_v0_1_20260618.md",
+      "verified_at": "2026-06-18T09:23:12.868385+12:00"
+    },
+    {
+      "id": "HOUSEKEEPING-EXECUTE",
+      "state": "VERIFIED",
+      "priority": 51,
+      "stream": "main",
+      "gate": "housekeeping",
+      "title": "Housekeeping Phase 2 execute (Greg approved 2026-06-19)",
+      "verified_at": "2026-06-19T07:48:09.146223+12:00"
+    },
+    {
+      "id": "F1-SELF-CORRECT",
+      "state": "VERIFIED",
+      "priority": 20,
+      "stream": "main",
+      "gate": "f1uniqueness",
+      "title": "(truncated corrupt field)",
+      "source_handoff": "Handoffs/AC_SIGHT_F1_SELF_CORRECT_Exact_OLD_Confirmed_Title_Only_Fix_Body_Already_Honest_F1_ID_Recorded_Index_Gap_Closed_20260620.md",
+      "claimed_at": "2026-06-19T22:02:31.5272425+12:00",
+      "verified_at": "2026-06-20T16:00:56.720137+12:00",
+      "file": "Papers/Paper_F1_Trace_Anomaly_S3xS1_Uniqueness_v0_2_20260526.md",
+      "drive_id": "1wVk3pKmnmvotPgM3h9oeh3e1zRxdHWvt"
+    },
+    {
+      "id": "F1-CARRIER-S2",
+      "state": "VERIFIED",
+      "priority": 21,
+      "stream": "main",
+      "gate": "f1uniqueness",
+      "title": "(truncated corrupt field)",
+      "file": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_LedgerTargeted_Carrier_Correction_F1_Sweep_P5_Kappa0_P4_Reframes_HOLD_Tranche_Sprint_SightFirst_20260619.md",
+      "claimed_at": "2026-06-20T16:02:18.9012154+12:00",
+      "verified_at": "2026-06-20T16:25:16.445191+12:00"
+    },
+    {
+      "id": "F1-CARRIER-P5",
+      "state": "VERIFIED",
+      "priority": 22,
+      "stream": "main",
+      "gate": "f1uniqueness",
+      "title": "(truncated corrupt field)",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_LedgerTargeted_Carrier_Correction_F1_Sweep_P5_Kappa0_P4_Reframes_HOLD_Tranche_Sprint_SightFirst_20260619.md",
+      "claimed_at": "2026-06-20T16:26:47.9098886+12:00",
+      "verified_at": "2026-06-20T16:27:21.053856+12:00"
+    },
+    {
+      "id": "P5-REFRAME",
+      "state": "VERIFIED",
+      "priority": 23,
+      "stream": "main",
+      "gate": "zeroparam",
+      "title": "P5 reframe: mass-ratio headline, strike zero-parameter (SIGHT-FIRST)",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_LedgerTargeted_Carrier_Correction_F1_Sweep_P5_Kappa0_P4_Reframes_HOLD_Tranche_Sprint_SightFirst_20260619.md",
+      "claimed_at": "2026-06-20T16:28:31.8670366+12:00",
+      "verified_at": "2026-06-20T16:40:58.809675+12:00"
+    },
+    {
+      "id": "KAPPA0-SIMPLIFY",
+      "state": "SUPERSEDED",
+      "priority": 24,
+      "stream": "main",
+      "gate": "kappa",
+      "title": "(truncated corrupt field)",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_LedgerTargeted_Carrier_Correction_F1_Sweep_P5_Kappa0_P4_Reframes_HOLD_Tranche_Sprint_SightFirst_20260619.md",
+      "blocked_reason": "Greg pull-vs-reframe ruling required",
+      "superseded_by": "KAPPA0-STRENGTHEN"
+    },
+    {
+      "id": "P4-REFRAME",
+      "state": "VERIFIED",
+      "priority": 25,
+      "stream": "main",
+      "gate": "novelty",
+      "title": "(truncated corrupt field)",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_LedgerTargeted_Carrier_Correction_F1_Sweep_P5_Kappa0_P4_Reframes_HOLD_Tranche_Sprint_SightFirst_20260619.md",
+      "claimed_at": "2026-06-20T16:41:35.2274403+12:00",
+      "verified_at": "2026-06-20T16:47:12.038997+12:00"
+    },
+    {
+      "id": "JAMMER-FARNWORTH-S0",
+      "state": "VERIFIED",
+      "priority": 10,
+      "stream": "ac_jammer",
+      "gate": "physics-derivation",
+      "title": "Farnsworth Stage 0: read 2506.21496 sec 4-5; fixed vs free Yukawa? (gates Stages 1-5)",
+      "local_pdf": "SeedPapers/2506.21496v1.pdf",
+      "bf_pdf": "SeedPapers/NCG/Non-Associative Geometry and the Spectral Action Principle.pdf",
+      "source_handoff": "Handoffs/Handoff_Scratch_to_Cursor_AC_BUILD_SPEC_Farnsworth_Triple_nu2_Yukawa_HopfS3_Octonion_Octonion_Staged_DecisiveTests_20260619.md",
+      "claimed_at": "2026-06-20T15:49:10.8588905+12:00",
+      "verified_at": "2026-06-20T16:24:20.620363+12:00"
+    },
+    {
+      "id": "JAMMER-KAPPA-G1-SIGHT",
+      "state": "VERIFIED",
+      "priority": 11,
+      "stream": "ac_jammer",
+      "gate": "physics-derivation",
+      "title": "Jammer physics sight: kappa-closure G=1 idempotency memo; report OPEN vs DERIVED to AC",
+      "result_file": "Working/KAPPA_CLOSURE_P2eqP_Check_Result_Cursor_Main_20260620.md",
+      "source_handoff": "Handoffs/Handoff_Cursor_Main_to_AC_Kappa_Closure_P2eqP_Check_VERIFIED_G_Equals_1_20260620.md",
+      "blocks": [
+        "KAPPA0-SIMPLIFY"
+      ],
+      "verified_at": "2026-06-20T16:25:16.523769+12:00"
+    },
+    {
+      "id": "BOOK-PRELUDE-GALACTIC",
+      "state": "VERIFIED",
+      "priority": 50,
+      "stream": "pc_scratch",
+      "gate": null,
+      "title": "(truncated corrupt field)",
+      "file": "Book/Prelude_The_Forty_Million_Year_Instant_v5.md",
+      "source_handoff": "Handoffs/Handoff_PC_to_Cursor_PC_Prelude_Factual_Fix_Galactic_Distance_20260616.md",
+      "verified_at": "2026-06-20T16:40:58.484417+12:00"
+    },
+    {
+      "id": "BOOK-PRELUDE-OPTIONB",
+      "state": "VERIFIED",
+      "priority": 51,
+      "stream": "pc_scratch",
+      "gate": null,
+      "title": "Prelude Option B: delete corpus-meta-data scorecard paragraph (PR-DEL-1)",
+      "file": "Book/Prelude_The_Forty_Million_Year_Instant_v5.md",
+      "source_handoff": "Handoffs/Handoff_PC_to_Cursor_PC_Prelude_Paragraph_Deletion_OptionB_20260618.md",
+      "blocks": [
+        "BOOK-PRELUDE-GALACTIC"
+      ],
+      "verified_at": "2026-06-20T16:40:58.560319+12:00"
+    },
+    {
+      "id": "BOOK-TELLS-EXCISE",
+      "state": "VERIFIED",
+      "priority": 52,
+      "stream": "pc_scratch",
+      "gate": null,
+      "title": "Tells-Excise Sweep: 14 patches Ch 9/10/12/15 + Appendix A (TE-1..TE-14)",
+      "source_handoff": "Handoffs/Handoff_PC_to_Cursor_PC_Tells_Excise_Sweep_Book_Corpus_Meta_Data_Excision_20260618.md",
+      "blocks": [
+        "BOOK-PRELUDE-OPTIONB"
+      ],
+      "verified_at": "2026-06-20T16:40:58.643493+12:00"
+    },
+    {
+      "id": "BOOK-READER-SYNC",
+      "state": "VERIFIED",
+      "priority": 53,
+      "stream": "pc_scratch",
+      "gate": null,
+      "title": "(truncated corrupt field)",
+      "file": "Book/Appendix_A_NTE_Popular_Paper_Reader_Edition.md",
+      "source_handoff": "Handoffs/Handoff_PC_to_Cursor_PC_Reader_Edition_Sync_Book_To_Corpus_20260618.md",
+      "blocks": [
+        "BOOK-TELLS-EXCISE"
+      ],
+      "verified_at": "2026-06-20T16:47:11.957925+12:00"
+    },
+    {
+      "id": "BOOK-E6-POPULAR-L53",
+      "state": "VERIFIED",
+      "priority": 54,
+      "stream": "pc_scratch",
+      "gate": null,
+      "title": "(truncated corrupt field)",
+      "file": "Papers/Paper_Popular_v10_8_Full_Edition.md",
+      "source_handoff": "Handoffs/Handoff_PC_to_Cursor_PC_Popular_Full_L53_Marker_E6_Hotfix_20260618.md",
+      "verified_at": "2026-06-20T16:40:58.723205+12:00"
+    },
+    {
+      "id": "JAMMER-FARNWORTH-S1",
+      "state": "VERIFIED",
+      "priority": 12,
+      "stream": "ac_jammer",
+      "gate": null,
+      "title": "Farnsworth Stage 1: octonion Fano + left-mult + associators",
+      "file": "Working/farnsworth_stage1_octonion.py",
+      "memo": "Working/Farnsworth_Stage1_Octonion_Algebra_LeftMult_Cursor_Jammer_20260620.md",
+      "verified_at": "2026-06-20T16:52:06.115588+12:00",
+      "blocks": [
+        "JAMMER-FARNWORTH-S0"
+      ]
+    },
+    {
+      "id": "BOOK-MIRROR-REFRESH",
+      "state": "VERIFIED",
+      "priority": 55,
+      "stream": "pc_scratch",
+      "gate": null,
+      "title": "Refresh Book scratch-src + Book_with_TP from canonical Book/",
+      "verified_at": "2026-06-20T16:52:06.115588+12:00",
+      "blocks": [
+        "BOOK-READER-SYNC"
+      ]
+    },
+    {
+      "id": "MAIN-READER-LAMBDA-SYNC",
+      "state": "VERIFIED",
+      "priority": 26,
+      "stream": "main",
+      "gate": null,
+      "title": "Corpus Reader Edition: adopt book tells-excise Lambda honest-scope (Type-B resolution)",
+      "file": "Papers/Paper_Popular_v10_8_Reader_Edition.md",
+      "verified_at": "2026-06-20T16:52:06.115588+12:00"
+    },
+    {
+      "id": "JAMMER-FARNWORTH-S2",
+      "state": "VERIFIED",
+      "priority": 13,
+      "stream": "ac_jammer",
+      "gate": null,
+      "title": "Farnsworth Stage 2: O+O bimodule scaffold (S=1/2, free M_IJ)",
+      "blocks": [
+        "JAMMER-FARNWORTH-S1"
+      ],
+      "verified_at": "2026-06-20T16:53:15.773508+12:00"
+    },
+    {
+      "id": "JAMMER-FARNWORTH-S3",
+      "state": "VERIFIED",
+      "priority": 14,
+      "stream": "ac_jammer",
+      "gate": null,
+      "title": "Farnsworth Stage 3: D_F neutrino block scaffold",
+      "blocks": [
+        "JAMMER-FARNWORTH-S2"
+      ],
+      "verified_at": "2026-06-20T16:57:07.981109+12:00"
+    },
+    {
+      "id": "BOOK-TE-14",
+      "state": "VERIFIED",
+      "priority": 56,
+      "stream": "pc_scratch",
+      "gate": null,
+      "title": "TE-14 Ch15 r-bullet tells-excise (inline fix)",
+      "verified_at": "2026-06-20T16:53:15.773508+12:00"
+    },
+    {
+      "id": "JAMMER-KAPPA-G1-ADVERSARIAL",
+      "state": "VERIFIED",
+      "priority": 11,
+      "stream": "ac_jammer",
+      "title": "Adversarial G=1 recomputation from scratch",
+      "verified_at": "2026-06-20T16:57:07.981109+12:00",
+      "result_file": "Working/KAPPA_CLOSURE_G1_Adversarial_Result_Cursor_Jammer_20260620.md",
+      "literal_G": "1.000000000000",
+      "verdict": "G=1 CONFIRMED (adversarial; honest)"
+    },
+    {
+      "id": "KAPPA0-STRENGTHEN",
+      "state": "VERIFIED",
+      "priority": 27,
+      "stream": "main",
+      "title": "Hopf kappa0 standalone: derived closure framing in SS7",
+      "file": "Papers/Paper_Hopf_Bundle_Bare_Coupling_v0_1_20260526.md",
+      "verified_at": "2026-06-20T16:57:07.981109+12:00",
+      "note": "source edit only; NOT send-ready"
+    },
+    {
+      "id": "JAMMER-FARNWORTH-S4",
+      "state": "VERIFIED",
+      "priority": 15,
+      "stream": "ac_jammer",
+      "title": "Farnsworth Stage 4: Hopf-S3 sigma2 Killing-spinor overlap (4pi vs 8pi)",
+      "blocks": [
+        "JAMMER-FARNWORTH-S3"
+      ],
+      "verified_at": "2026-06-20T16:57:48.616693+12:00"
+    },
+    {
+      "id": "JAMMER-FARNWORTH-S5",
+      "state": "VERIFIED",
+      "priority": 16,
+      "stream": "ac_jammer",
+      "title": "Farnsworth Stage 5: assemble Y_nu2 + compare (8pi)^(-1/3) vs (4pi)^(-1/3)",
+      "blocks": [
+        "JAMMER-FARNWORTH-S4"
+      ],
+      "verified_at": "2026-06-21T15:22:13.659043+12:00"
+    },
+    {
+      "id": "KAPPA-AB-CLOSURE-FRAMING",
+      "state": "VERIFIED",
+      "priority": 28,
+      "stream": "main",
+      "title": "Paper Kappa AB: derived-closure framing (G=1); source only",
+      "file": "Papers/Paper_Kappa_AB_v10_17_2.md",
+      "verified_at": "2026-06-21T15:22:13.659043+12:00",
+      "note": "NOT send-ready; AC re-sight before commit"
+    },
+    {
+      "id": "FARNSWORTH-S4FULL-ASSOCIATOR-STREAM1",
+      "state": "VERIFIED",
+      "priority": 16,
+      "stream": "ac_jammer",
+      "gate": "physics-derivation",
+      "title": "Stage-4-full associator envelope (decisive 4pi vs 8pi for Dirac Yukawa): does the off-diagonal sigma2 Dirac overlap pick up BOTH epsilon'=+/-1 (D+/D-) sectors -> factor 2 -> 8pi, or ONE sector -> 4pi?",
+      "blocks": [
+        "JAMMER-FARNWORTH-S5-RATIFICATION"
+      ],
+      "result_file_required": true,
+      "result_file": "Working/farnsworth_stage4full_associator_report.json",
+      "result_memo": "Working/Farnsworth_Stage4Full_Associator_Envelope_Cursor_Jammer_20260621.md",
+      "script": "Working/farnsworth_stage4full_associator_envelope.py",
+      "source_handoff": "Handoffs/SEED_REISSUE_AC_to_Cursor_Main_ac_jammer_Stream1_4pi_vs_8pi_Associator_Envelope_Compute_STALLED_Reissue_As_Ledger_Task_Adopt_~cisive_OneSector_4pi_vs_Both_8pi_ResultFile_Required_Stream2_Filed_Waiting_Heuristic_Recurrence_Flagged_CANONICAL_MD_20260621.md",
+      "note": "Re-issued by AC after Stream-1 stall (heuristic miss). Stream 2 filed + waiting. One sector / 4pi; labels preserved; CONVERGENT with Stream 2. AC convergence-check pending.",
+      "flux_prefactor": "4pi",
+      "active_sector_count": 1,
+      "stream2_convergence": "CONVERGENT",
+      "claimed_at": "2026-06-21T16:30:00+12:00",
+      "verified_at": "2026-06-21T16:30:00+12:00"
+    },
+    {
+      "id": "P5-FLUX-DIAL-WORKSHEET",
+      "state": "VERIFIED",
+      "priority": 13,
+      "stream": "ac_jammer",
+      "gate": "physics-derivation",
+      "title": "P5 flux-dial worksheet: fractional J-admixture primary + bare-flux null control; kill-conditions set",
+      "result_file_required": true,
+      "result_file": "Working/p5_flux_dial_worksheet_report.json",
+      "result_memo": "Working/P5_Flux_Dial_Worksheet_FractionalJAdmixture_Primary_BareFluxClosedForm_NullControl_Cursor_Jammer_20260621.md",
+      "script": "Working/p5_flux_dial_worksheet.py",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_Jammer_SEED_P5_Flux_Dial_Worksheet_FractionalJAdmixture_Primary_BareFlux_ClosedForm_NullControl_KillConditions_Set_Magnitude_Stays_FREE_Insight_Or_Null_No_Corpus_Touch_Request_Ledger_Row_20260621.md",
+      "verdict": "NULL",
+      "kill_conditions_fired": [
+        "KC1",
+        "KC2",
+        "KC3"
+      ],
+      "one_line_finding": "The between-branches value is the M_R-mechanism residual, not a flux quantum.",
+      "claimed_at": "2026-06-21T21:15:00+12:00",
+      "verified_at": "2026-06-21T21:15:00+12:00"
+    },
+    {
+      "id": "P5-TWOBRANCH-BUILD-ARCHIVE",
+      "state": "VERIFIED",
+      "priority": 26,
+      "stream": "main",
+      "gate": "zeroparam",
+      "title": "P5 two-branches successor: byline fix, archive old 8pi clean P5, PDF build + sight pack, HOLD Greg pixel-sight",
+      "result_file_required": true,
+      "result_file": "paper-build/pdf-out/Paper_P5_Neutrino_MassRatio_Flux_TwoBranches_4pi_8pi_v0_5_20260621.pdf",
+      "sight_pack": "Working/PDF_Sight_Calibration/latest/P5_TwoBranch/",
+      "pdf_artifact_gate": "PASS",
+      "archived_source": "Working/Archive/2026-06-21_p5_twobranch/ARCHIVED_Paper_Solar_Neutrino_MassRatio_8pi_Hopf_Flux_Line_Clean_Standalone_v0_1_20260621.md",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_Main_P5_TwoBranches_Clean_Successor_BUILT_Greg_Authorized_Fix_Byline_Typo_First_Archive_Old_P5_PDF_Build_Mojibake_Gate_HOLD_For_Greg_PixelSight_Request_Ledger_Row_P5_TWOBRANCH_BUILD_ARCHIVE_20260621.md",
+      "claimed_at": "2026-06-21T21:15:00+12:00",
+      "verified_at": "2026-06-21T21:15:00+12:00"
+    },
+    {
+      "id": "P5-TWOBRANCH-KEYWORDS-FIX",
+      "state": "VERIFIED",
+      "priority": 27,
+      "stream": "main",
+      "gate": "zeroparam",
+      "title": "P5 two-branch keywords line fix (ORPHAN_SEE strip bug) + rebuild + sight pack",
+      "result_file_required": true,
+      "result_file": "paper-build/pdf-out/Paper_P5_Neutrino_MassRatio_Flux_TwoBranches_4pi_8pi_v0_5_20260621.pdf",
+      "sight_pack": "Working/PDF_Sight_Calibration/latest/P5_TwoBranch/",
+      "pdf_artifact_gate": "PASS",
+      "source_handoff": "Handoffs/SEED_REISSUE_AC_to_Cursor_Main_P5_TWOBRANCH_KEYWORDS_FIX_STALLED_Reissue_As_Ledger_Task_Single_Edit_masssaw_to_mass_seesaw_Rebuild_Regate_Resight_ResultFile_Required_Block_Stays_HELD_Greg_AFK_PixelSight_Pending_CANONICAL_MD_20260622.md",
+      "claimed_at": "2026-06-25T22:20:00+12:00",
+      "verified_at": "2026-06-25T22:20:00+12:00"
+    },
+    {
+      "id": "KAPPA-CLEAN-TRILOGY-PDF-BUILD",
+      "state": "VERIFIED",
+      "priority": 28,
+      "stream": "main",
+      "gate": "zeroparam",
+      "title": "(truncated corrupt field)",
+      "result_file_required": true,
+      "result_files": [
+        "paper-build/pdf-out/Paper_Hopf_Kappa0_Bare_Coupling_Clean_Standalone_v0_2_20260622.pdf",
+        "paper-build/pdf-out/Paper_Kappa_Closure_Idempotent_Resolvent_Derivation_v0_1_20260620.pdf",
+        "paper-build/pdf-out/Paper_DM_Ratio_Identification_CrossSector_FixedPoint_TwoOrientation_Cosmology_Clean_Standalone_v0_1_20260622.pdf"
+      ],
+      "source_handoff": "Handoffs/PRIORITY_AC_to_Cursor_Main_PDF_Build_Clean_Kappa_Trilogy_Hopf_Kappa0_v0_2_Closure_DM_Ratio_Identification_v0_1_Gates_SightPacks_ResultFile_Required_HOLD_Greg_PixelSight_Archive_Old_Hopf_Note_AB_Retire_Pending_Greg_20260622.md",
+      "claimed_at": "2026-06-25T22:20:00+12:00",
+      "verified_at": "2026-06-25T22:20:00+12:00"
+    },
+    {
+      "id": "CONSOLIDATED-CLEAN-BUILD-V02-TRIO",
+      "state": "VERIFIED",
+      "priority": 29,
+      "stream": "main",
+      "gate": "zeroparam",
+      "title": "(truncated corrupt field)",
+      "result_file_required": true,
+      "result_files": [
+        "paper-build/pdf-out/Paper_HeatKernel_S3xS1_SpectralTriple_a4_Vanishing_kappa0_Confluence_Clean_Standalone_v0_2_20260622.pdf",
+        "paper-build/pdf-out/Paper_Octonionic_Origin_SM_GaugeGroup_SpeciesCount_Associativity_Transition_Clean_Standalone_v0_2_20260622.pdf",
+        "paper-build/pdf-out/Paper_P4_CLFV_Amplitude_Ratio_tan2theta23_R_Matrix_Freezing_Z2_Majorana_Clean_Standalone_v0_2_20260622.pdf"
+      ],
+      "source_handoff": "Handoffs/CONSOLIDATED_BUILD_DISPOSITION_QUEUE_AC_to_Cursor_Main_v0_2_Papers_Octonion_HeatKernel_P4_Kappa_Trilogy_P5_Build_Demote_v0_1_S2_OldCorpus_Fold_F1_To_Pedagogical_Populate_Folder_Supersedes_Piecemeal_StallNote_20260623.md",
+      "claimed_at": "2026-06-25T22:25:00+12:00",
+      "verified_at": "2026-06-25T22:25:00+12:00"
+    },
+    {
+      "id": "CONSOLIDATED-DISPOSITION-BCD",
+      "state": "VERIFIED",
+      "priority": 6,
+      "stream": "main",
+      "gate": "zeroparam",
+      "title": "Consolidated queue B-D: archive demotions, F1 pedagogical fold, populate folder",
+      "result_file_required": true,
+      "source_handoff": "Handoffs/CONSOLIDATED_BUILD_DISPOSITION_QUEUE_AC_to_Cursor_Main_v0_2_Papers_Octonion_HeatKernel_P4_Kappa_Trilogy_P5_Build_Demote_v0_1_S2_OldCorpus_Fold_F1_To_Pedagogical_Populate_Folder_Supersedes_Piecemeal_StallNote_20260623.md",
+      "blocked_by": [
+        "CONSOLIDATED-CLEAN-BUILD-V02-TRIO",
+        "KAPPA-CLEAN-TRILOGY-PDF-BUILD",
+        "P5-TWOBRANCH-KEYWORDS-FIX"
+      ],
+      "promoted_at": "2026-06-25T23:07:01+1200",
+      "verified_at": "2026-06-28T10:51:35.889970+12:00",
+      "result_file": "Working/consolidated_disposition_bcd_report.json",
+      "handoff": "Handoffs/Handoff_Cursor_Main_to_AC_Consolidated_Disposition_BCD_DRAINED_20260625.md"
+    },
+    {
+      "id": "P4D-WOLFRAM-BUILDING-BLOCKS",
+      "state": "VERIFIED",
+      "priority": 5,
+      "stream": "ac_jammer",
+      "gate": "zeroparam",
+      "title": "P4D literal-operator attack: Wolfram building-block tasks 1-3",
+      "result_file": "Working/p4d_wolfram_building_blocks_report.json",
+      "source_handoff": "Handoffs/Handoff_Claude_Jammer_to_AC_Scratch_Cursor_Jammer_ATTACK_Literal_Operator_Identity_FAILS_TYPE_Identity_Holds_Chirality_Superposition_Bridge_Substantive_Investigation_Three_Wolfram_Tasks_Routed_20260624.md",
+      "handoff": "Handoffs/Handoff_Cursor_Jammer_to_AC_P4D_Wolfram_Building_Blocks_Tasks_1_3_VERIFIED_20260626.md",
+      "verified_at": "2026-06-28T10:51:35.889970+12:00"
+    },
+    {
+      "id": "ZENODO-PREP-V10-18-PHASE1",
+      "state": "VERIFIED",
+      "priority": 4,
+      "stream": "main",
+      "gate": "zeroparam",
+      "title": "Zenodo prep v10.18.0 Phase 1: P4D v0.3, clean trilogy, Superseded moves, F1 check",
+      "result_file": "Working/zenodo_prep_phase1_report.json",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_Zenodo_Prep_Directive_v2_Greg_Decisions_Folded_CleanRebuild_Ships_As_Canonical_Trilogy_Superseded_Folder_F1_Moved_P4D_v0_3_Version_Unification_One_Open_Confirm_VER_Number_20260626.md",
+      "handoff": "Handoffs/Handoff_Cursor_Main_to_AC_Zenodo_Prep_Phase1_DRAINED_20260626.md",
+      "verified_at": "2026-06-28T12:14:21.136927+12:00"
+    },
+    {
+      "id": "ZENODO-PREP-V10-18-PHASE2",
+      "state": "VERIFIED",
+      "priority": 4,
+      "stream": "main",
+      "gate": "zeroparam",
+      "title": "Zenodo prep v10.18.0 Phase 2: pedagogical folder, companion stamps, KEEP PDF currency",
+      "result_file": "Working/zenodo_prep_phase2_report.json",
+      "source_handoff": "Handoffs/Handoff_AC_to_Cursor_Zenodo_Prep_Directive_v2_Greg_Decisions_Folded_CleanRebuild_Ships_As_Canonical_Trilogy_Superseded_Folder_F1_Moved_P4D_v0_3_Version_Unification_One_Open_Confirm_VER_Number_20260626.md",
+      "handoff": "Handoffs/Handoff_Cursor_Main_to_AC_Zenodo_Prep_Phase2_DRAINED_20260628.md",
+      "verified_at": "2026-06-28T12:27:21.733477+12:00"
+    }
+  ]
+}

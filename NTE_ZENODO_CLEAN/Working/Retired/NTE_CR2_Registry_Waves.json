@@ -1,0 +1,434 @@
+{
+  "authority": "Greg 2026-06-01 — replenish when backlog has zero pending and programme_closed is false",
+  "waves": [
+    {
+      "wave": 3,
+      "label": "Post-Programme S + exit-criteria sustain + P2 openers",
+      "items": [
+        {
+          "id": "MAIN-16",
+          "stream": "main",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Exit criteria refresh post Programme S",
+          "prompt": "CR2 MAIN: Refresh Handoff_Cursor_to_Greg_CR2_Exit_Criteria_Status_20260601.md and programme doc sec 4 after AJ-11 NEEDS-MORE + PS-13 PENDING; honest B1/Killing2/Programme S status; criterion 5 still OPEN. Sign Cursor Main. Log stream notes."
+        },
+        {
+          "id": "MAIN-17",
+          "stream": "main",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC handoff Programme S + Killing2 bundle",
+          "prompt": "CR2 MAIN: File Handoff_Cursor_AC_to_AC_Programme_S_Killing2_Honest_Scope_Bundle_20260601.md — AJ-10 NEEDS-MORE, AJ-11 NEEDS-MORE, PS-12/PS-13 adversarial; explicit NO corpus 2/3 patch; AC ratification of honest-scope B1 language only. Sign Cursor Main."
+        },
+        {
+          "id": "MAIN-18",
+          "stream": "main",
+          "priority": 1,
+          "phase": "P0",
+          "title": "CR-V1 uncontested delta apply",
+          "prompt": "CR2 MAIN: Re-read Working/CR2_CR_V1_Part1_2_Body_Delta_List_20260601.md; apply any remaining uncontested Part1/2 patches not marked AC-gated; log skips. Sign Cursor Main. No contested merge without AC."
+        },
+        {
+          "id": "AJ-12",
+          "stream": "ac_jammer",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC ratification poll round 3",
+          "prompt": "CR2 AC: Poll Handoffs for Handoff_AC_to_Cursor* ratification on CR2 bundle + Programme S memos since AJ-09. Process if found; else log no-return. Duplicate nudge only if 24h+ since AJ-05. Sign Cursor AC. Log stream notes."
+        },
+        {
+          "id": "AJ-13",
+          "stream": "ac_jammer",
+          "priority": 1,
+          "phase": "P0",
+          "title": "Programme S F6 collateral scan",
+          "prompt": "CR2 JAMMER: Execute falsifier F6 from CR2_Programme_S memos — scan locked corpus predictions for collateral break if sqrt(2/3) were adopted on m_nu3; memo Working/CR2_Programme_S_F6_Collateral_Scan_Cursor_Jammer_20260601.md PASS/FAIL/OPEN. No corpus patch. Sign Cursor Jammer."
+        },
+        {
+          "id": "AJ-14",
+          "stream": "ac_jammer",
+          "priority": 2,
+          "phase": "P2",
+          "title": "CR-2 central equation audit opener",
+          "prompt": "CR2 JAMMER: Open P2 CR-2 — scan master Part3 for central-equation tautology flags per programme; file Working/CR2_CR2_Central_Equation_Audit_Opener_Cursor_Jammer_20260601.md with open items. Sign Cursor Jammer."
+        },
+        {
+          "id": "PS-14",
+          "stream": "pc_scratch",
+          "priority": 0,
+          "phase": "P0",
+          "title": "B1 grep regression Popular S6 P5",
+          "prompt": "CR2 SCRATCH: Re-grep Paper_Popular, Paper S6, P5 pivot for 0.997, simultaneous sub-1%, sqrt(2/3) as derived, or Killing2 closed claims; log hits; patch only if false Tier-1 claim found. Sign Cursor Scratch."
+        },
+        {
+          "id": "PS-15",
+          "stream": "pc_scratch",
+          "priority": 1,
+          "phase": "P2",
+          "title": "CR-2 adversarial skim",
+          "prompt": "CR2 SCRATCH: Adversarial skim AJ-14 CR-2 opener when present; one-page Working/CR2_CR2_Central_Equation_Adversarial_Cursor_Scratch_20260601.md PASS/FAIL/PENDING. Sign Cursor Scratch."
+        }
+      ]
+    },
+    {
+      "wave": 4,
+      "label": "Sustain — AC poll + exit refresh (recurring when wave 3 drained)",
+      "items": [
+        {
+          "id": "AJ-15",
+          "stream": "ac_jammer",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC ratification poll sustain",
+          "prompt": "CR2 AC: Sustain poll — Handoff_AC_to_Cursor* for CR2 MB stamp; log status; nudge only if 48h+ since last AC nudge handoff. Sign Cursor AC."
+        },
+        {
+          "id": "MAIN-19",
+          "stream": "main",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Exit criteria sustain audit",
+          "prompt": "CR2 MAIN: Sustain audit — sec 4 exit criteria vs corpus; update programme doc + Greg handoff if any criterion status changed; if all Cursor-layer MET and only AC/Greg external blockers remain, say so explicitly. Sign Cursor Main."
+        },
+        {
+          "id": "PS-16",
+          "stream": "pc_scratch",
+          "priority": 1,
+          "phase": "P0",
+          "title": "Campaign sustain grep",
+          "prompt": "CR2 SCRATCH: Sustain grep Distribution_Campaign for retracted B1 claims; 0-hit confirm or patch. Sign Cursor Scratch."
+        }
+      ]
+    },
+    {
+      "wave": 5,
+      "label": "Post-CR-H1 corpus alignment + AC diff-back + CR-2 F7",
+      "items": [
+        {
+          "id": "MAIN-20",
+          "stream": "main",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Popular Lambda reroute align",
+          "prompt": "CR2 MAIN: Align Paper_Popular Full + Reader active 1.05x Lambda claims with Ch13/C11 reroute-or-retire discipline (structural stands, numeric retired). Sign Cursor Main. Log stream notes."
+        },
+        {
+          "id": "AJ-17",
+          "stream": "ac_jammer",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC APPLY S2 handoff closeout",
+          "prompt": "CR2 AC: Close loop on Handoff_AC_to_Cursor_APPLY_S2_CR_H1_Labels - confirm Cursor applied spec (Handoff_Cursor_to_AC_S2_CR_H1_Labels_Applied_Diff_Back); file Handoff_Cursor_AC_to_AC_S2_Diff_Back_Ack_20260601.md if no AC return; poll AC_to_Cursor for diff-back confirm. Sign Cursor AC."
+        },
+        {
+          "id": "PS-17",
+          "stream": "pc_scratch",
+          "priority": 1,
+          "phase": "P2",
+          "title": "CR-2 F7 Part1-2 grep",
+          "prompt": "CR2 SCRATCH: Execute PS-15 routing F7 - grep Part1/2 for load-bearing dynamical H/Phi language per CR2_CR2_Central_Equation_Adversarial; memo Working/CR2_CR2_F7_Part12_Grep_Cursor_Scratch_20260601.md. Sign Cursor Scratch."
+        }
+      ]
+    },
+    {
+      "wave": 6,
+      "label": "Extension scorecard + rabbit holes (Greg zero-wrong-claims)",
+      "items": [
+        {
+          "id": "MAIN-21",
+          "stream": "main",
+          "priority": 1,
+          "phase": "P2",
+          "title": "CR-2 F7 disclosure patch batch",
+          "prompt": "CR2 MAIN: From Working/CR2_CR2_F7_Part12_Grep_Cursor_Scratch_20260601.md apply disclosure-only patches to Part1/2 OPEN H/Phi carriers (no new physics claims); file patch memo. Sign Cursor Main. Log stream notes."
+        },
+        {
+          "id": "AJ-18",
+          "stream": "ac_jammer",
+          "priority": 1,
+          "phase": "P2",
+          "title": "Programme S OctExt J3 rabbit hole",
+          "prompt": "CR2 JAMMER: Execute Handoff_Scratch_to_Jammer_AC_Y3_BaseProjection_Close_20260601.md sec 4 — D_F Killing-mode Yukawa close (Y3^2 = f_R = 2/3 or FAIL); memo Working/CR2_Programme_S_Y3_Killing_DF_Close_Cursor_Jammer_20260601.md; OctExt J3 only if feeds sec 4. NO corpus patch. Sign Cursor Jammer."
+        },
+        {
+          "id": "PS-18",
+          "stream": "pc_scratch",
+          "priority": 1,
+          "phase": "P2",
+          "title": "Extension scorecard drift grep",
+          "prompt": "CR2 SCRATCH: Grep P1 P4 P5 kappa Popular Campaign vs Working/NTE_Extension_Scorecard_20260601.md; flag false Tier A / simultaneous-fit / Killing2-closed / 1.05x Lambda active claims; patch ONLY false claims. Sign Cursor Scratch."
+        }
+      ]
+    },
+    {
+      "wave": 7,
+      "label": "Susskind outreach — Greg P0 robust send gate",
+      "items": [
+        {
+          "id": "AJ-19",
+          "stream": "ac_jammer",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC Susskind outreach ratification",
+          "prompt": "SUSSKIND P0 AC: Read Handoff_Cursor_Main_to_AC_Susskind_Outreach_Robust_Ratification_Request_20260601.md + paper v0.1 + email draft. After Scratch PS-19 memo (or parallel if Scratch slow): file Handoff_AC_to_Cursor_Susskind_Outreach_Ratification_YYYYMMDD.md with SEND-SAFE / SEND-WITH-EDITS / HOLD + mandatory edits. Greg bar: would not embarrass if Susskind reads cold. Sign AC (or Cursor AC execution draft for AC review if Claude AC quiet)."
+        },
+        {
+          "id": "PS-19",
+          "stream": "pc_scratch",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Scratch Susskind mirror adversarial",
+          "prompt": "SUSSKIND P0 SCRATCH: Execute Handoff_Cursor_Main_to_Scratch_Susskind_Mirror_Adversarial_Verify_20260601.md — falsifiers F-S1..F-S12 on Paper_Mirror_of_Susskind v0.1; memo Working/CR2_Susskind_Mirror_Adversarial_Verify_Cursor_Scratch_20260601.md PASS/PASS-WITH-RESERVATIONS/FAIL. Gates Greg send. Sign Cursor Scratch."
+        },
+        {
+          "id": "MAIN-22",
+          "stream": "main",
+          "priority": 2,
+          "phase": "P0",
+          "title": "Susskind send packet (superseded by v0.2 lane)",
+          "prompt": "SUSSKIND MAIN: Superseded — execute MAIN-23/24 instead unless v0.2 already done. Sign Cursor Main."
+        }
+      ]
+    },
+    {
+      "wave": 8,
+      "label": "Ontological bridge + Susskind v0.2 (Greg: simplify, develop, engage)",
+      "items": [
+        {
+          "id": "MAIN-23",
+          "stream": "main",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Susskind v0.2 simplified paper + email",
+          "prompt": "BRIDGE MAIN: Apply Scratch FAIL fixes to Working/Paper_Mirror_of_Susskind_*_v0_2_Simplified_Cursor_20260601.md (create if missing from v0.1): unitary-chirality-only parallel (not T); cluster claims conjecture until D1; cut M_R; T8-T10; honest abstract. Update Draft_Outreach_Email_* v0.2 aligned. File Handoff_Cursor_to_Greg_Susskind_v0_2_Status_*.md. Sign Cursor Main."
+        },
+        {
+          "id": "MAIN-24",
+          "stream": "main",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Ontological Bridge Programme doc",
+          "prompt": "BRIDGE MAIN: Create/update Working/NTE_Ontological_Bridge_Programme_v0_1_20260601.md — method: map external robust research (Susskind 2026 first) to NTE via operator parallel + falsifiers; queue; no corpus patch without AC. Link Susskind v0.2 + Extension scorecard. Sign Cursor Main."
+        },
+        {
+          "id": "AJ-20",
+          "stream": "ac_jammer",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC Susskind post-Scratch HOLD",
+          "prompt": "BRIDGE AC: Read Handoff_Scratch_to_Cursor_Main_AC_Susskind_Mirror_Adversarial_Verify_Claude_20260601.md + MAIN-23 v0.2 when present. File Handoff_AC_to_Cursor_Susskind_Post_Scratch_HOLD_YYYYMMDD.md — confirm HOLD; list what v0.2 must show for SEND-SAFE. Sign Cursor AC."
+        },
+        {
+          "id": "AJ-21",
+          "stream": "ac_jammer",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Jammer Susskind D1 cluster test",
+          "prompt": "BRIDGE JAMMER: Execute Handoff_Cursor_Main_to_Jammer_Susskind_D1_Cluster_Test_20260601.md — compute or sharply bound Janus-state cross-sector correlator (Test D1); memo Working/CR2_Susskind_D1_Cluster_Test_Cursor_Jammer_20260601.md PASS/FAIL/NEEDS-MORE. No overclaim. Sign Cursor Jammer."
+        },
+        {
+          "id": "PS-20",
+          "stream": "pc_scratch",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Persist Scratch Susskind FAIL memo",
+          "prompt": "BRIDGE SCRATCH: File Working/CR2_Susskind_Mirror_Adversarial_Verify_Cursor_Scratch_20260601.md from Handoff_Scratch_to_Cursor_Main_AC_Susskind_* (canonical copy). Sign Cursor Scratch."
+        },
+        {
+          "id": "PS-21",
+          "stream": "pc_scratch",
+          "priority": 3,
+          "phase": "P2",
+          "title": "Susskind v0.2 re-verify (SECONDARY)",
+          "prompt": "BRIDGE SCRATCH SECONDARY: Only if no P0 corpus pending. Re-run F-S1..F-S12 on v0.2; memo Working/CR2_Susskind_Mirror_Adversarial_v0_2_Cursor_Scratch_20260601.md. Sign Cursor Scratch."
+        }
+      ]
+    },
+    {
+      "wave": 9,
+      "label": "Corpus PRIMARY — sustain + P2 development (Greg: do not idle)",
+      "items": [
+        {
+          "id": "MAIN-19",
+          "stream": "main",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Exit criteria sustain audit",
+          "prompt": "CR2 MAIN P0: Sustain audit sec 4 exit criteria vs corpus; update Handoff_Cursor_to_Greg_CR2_Exit_Criteria_Status_20260601.md (Zenodo corpus v2 + book v3 published); criteria 2-4 MET; only AC MB stamp + outreach holds. Sign Cursor Main."
+        },
+        {
+          "id": "PS-16",
+          "stream": "pc_scratch",
+          "priority": 0,
+          "phase": "P0",
+          "title": "Campaign sustain grep",
+          "prompt": "CR2 SCRATCH P0: Grep Distribution_Campaign for 0.997/simultaneous sub-1%/Killing2-closed; patch false claims only; log hit count. Sign Cursor Scratch."
+        },
+        {
+          "id": "AJ-15",
+          "stream": "ac_jammer",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC ratification poll sustain",
+          "prompt": "CR2 AC P0: Poll Handoff_AC_to_Cursor* for CR2 MB stamp; process returns; nudge only if 48h+ since last nudge. Sign Cursor AC."
+        },
+        {
+          "id": "AJ-22",
+          "stream": "ac_jammer",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC MB stamp ratification nudge",
+          "prompt": "CR2 AC P0: File Handoff_Cursor_AC_to_AC_CR2_MB_Stamp_Ratification_Nudge_20260601.md summarizing AJ-02 bundle + S2 labels confirmed; request formal MB stamp. Sign Cursor AC."
+        },
+        {
+          "id": "MAIN-31",
+          "stream": "main",
+          "priority": 1,
+          "phase": "P2",
+          "title": "CR-3 H_GB bridge opener",
+          "prompt": "CR2 MAIN P2: Open Working/CR2_CR3_H_GB_Scale_Bridge_Opener_Cursor_Main_20260601.md per programme WP-CR3; scan corpus for H_GB / Planck mass scale claims; honest-scope only. Sign Cursor Main."
+        },
+        {
+          "id": "AJ-23",
+          "stream": "ac_jammer",
+          "priority": 1,
+          "phase": "P2",
+          "title": "Jammer Programme S sustain",
+          "prompt": "CR2 JAMMER P2: Read PS-13 PENDING memo; one-page Working/CR2_Programme_S_Status_Sustain_Cursor_Jammer_20260601.md — what would close Y3=sqrt(2/3) or FAIL permanently; no corpus patch. Sign Cursor Jammer."
+        },
+        {
+          "id": "PS-25",
+          "stream": "pc_scratch",
+          "priority": 1,
+          "phase": "P0",
+          "title": "Extension scorecard sustain",
+          "prompt": "CR2 SCRATCH: Re-grep corpus+campaign vs NTE_Extension_Scorecard_20260601.md; patch ONLY new false Tier-1 claims since PS-18. Sign Cursor Scratch."
+        },
+        {
+          "id": "MAIN-32",
+          "stream": "main",
+          "priority": 1,
+          "phase": "P2",
+          "title": "Corpus development status handoff",
+          "prompt": "CR2 MAIN: File Handoff_Cursor_to_Greg_Corpus_Development_Sustain_20260601.md — P0/P1/P2 queue, Zenodo done, Susskind secondary, next 3 corpus actions. Sign Cursor Main."
+        }
+      ]
+    },
+    {
+      "wave": 10,
+      "label": "Corpus P2 rabbit holes — CR-2 / CR-V1 / OctExt sustain",
+      "items": [
+        {
+          "id": "MAIN-33",
+          "stream": "main",
+          "priority": 1,
+          "phase": "P2",
+          "title": "CR-2 central equation audit opener",
+          "prompt": "CR2 MAIN P2: Open Working/CR2_CR2_Central_Equation_Audit_Opener_Cursor_Main_20260601.md — H=alpha|Phi|^2 vs SM Higgs disclosure gaps; honest-scope; no patch. Sign Cursor Main."
+        },
+        {
+          "id": "PS-26",
+          "stream": "pc_scratch",
+          "priority": 1,
+          "phase": "P2",
+          "title": "CR-3 H_GB adversarial grep",
+          "prompt": "CR2 SCRATCH P2: Grep all 0.4 M_Pl / T_GB / H_GB claims; tier labels; memo vs MAIN-31 opener. Sign Cursor Scratch."
+        },
+        {
+          "id": "AJ-24",
+          "stream": "ac_jammer",
+          "priority": 1,
+          "phase": "P2",
+          "title": "CR-3 H_GB Jammer bound memo",
+          "prompt": "CR2 JAMMER P2: Bound H_GB/H0 from alpha-chain + N_lock; PASS/FAIL/NEEDS-MORE memo per MAIN-31 falsifier. Sign Cursor Jammer."
+        },
+        {
+          "id": "MAIN-34",
+          "stream": "main",
+          "priority": 1,
+          "phase": "P1",
+          "title": "CR-V1 uncontested sustain",
+          "prompt": "CR2 MAIN P1: Re-read CR-V1 delta list; log contested vs uncontested; no contested merge. Sign Cursor Main."
+        },
+        {
+          "id": "AJ-18",
+          "stream": "ac_jammer",
+          "priority": 2,
+          "phase": "P2",
+          "title": "OctExt J3 extraction sustain",
+          "prompt": "CR2 JAMMER P2: Sustain OctExt J3 memo — one-page status; no corpus patch. Sign Cursor Jammer."
+        }
+      ]
+    },
+    {
+      "wave": 11,
+      "label": "Sunshine/Rabbit Hole FIRST — Greg don't-go-idle priority",
+      "items": [
+        {
+          "id": "MAIN-35",
+          "stream": "main",
+          "lane": "sunshine",
+          "priority": 0,
+          "phase": "P2",
+          "title": "CR-2 seven flags AC routing",
+          "prompt": "CR2 MAIN P2 RABBIT HOLE: Route 7 open CR-2 register flags to AC; Handoff_Cursor_Main_to_AC_CR2_CR2_Seven_Flags_Routing_20260602.md. Sign Cursor Main."
+        },
+        {
+          "id": "MAIN-36",
+          "stream": "main",
+          "lane": "sunshine",
+          "priority": 0,
+          "phase": "P1",
+          "title": "CR-4 closed-at-S1 sustain",
+          "prompt": "CR2 MAIN P1 RABBIT HOLE: Grep closed-at-S1 Tier A overclaims; memo. Sign Cursor Main."
+        },
+        {
+          "id": "PS-27",
+          "stream": "pc_scratch",
+          "lane": "sunshine",
+          "priority": 0,
+          "phase": "P2",
+          "title": "CR-2 F7 Part1-2 drift re-grep",
+          "prompt": "CR2 SCRATCH P2 RABBIT HOLE: Re-grep Part1/2 F7 drift since MAIN-21. Sign Cursor Scratch."
+        },
+        {
+          "id": "PS-28",
+          "stream": "pc_scratch",
+          "lane": "sunshine",
+          "priority": 0,
+          "phase": "P2",
+          "title": "Programme S adversarial sustain",
+          "prompt": "CR2 SCRATCH P2 RABBIT HOLE: Programme S adversarial sustain memo. Sign Cursor Scratch."
+        },
+        {
+          "id": "AJ-25",
+          "stream": "ac_jammer",
+          "lane": "sunshine",
+          "priority": 0,
+          "phase": "P2",
+          "title": "Programme S D_F close retry",
+          "prompt": "CR2 JAMMER P2 RABBIT HOLE: D_F close retry for Y3. Sign Cursor Jammer."
+        },
+        {
+          "id": "AJ-26",
+          "stream": "ac_jammer",
+          "lane": "sunshine",
+          "priority": 0,
+          "phase": "P0",
+          "title": "AC MB stamp sustain (wave 11)",
+          "prompt": "CR2 AC P0 RABBIT HOLE: MB stamp sustain nudge. Sign Cursor AC."
+        },
+        {
+          "id": "AJ-27",
+          "stream": "ac_jammer",
+          "lane": "sunshine",
+          "priority": 0,
+          "phase": "P2",
+          "title": "CR-3 H_GB numerics follow",
+          "prompt": "CR2 JAMMER P2 RABBIT HOLE: H_GB bound without 0.4 input. Sign Cursor Jammer."
+        }
+      ]
+    }
+  ]
+}

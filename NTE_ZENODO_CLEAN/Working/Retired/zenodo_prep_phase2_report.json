@@ -1,0 +1,73 @@
+{
+  "actions": [
+    "pedagogical_moved:Paper_Hopf_Bundle_Bare_Coupling_Pedagogical_Pivot_v1_0_20260530.md",
+    "pedagogical_moved:Paper_OctonionExtension_Pedagogical_Pivot_v1_0_20260530.md",
+    "pedagogical_moved:Paper_S2_Pedagogical_Pivot_v1_0_20260530.md",
+    "pedagogical_moved:Paper_P4_Theta23_Z2_Chirality_Superposed_Majorana_Pedagogical_Pivot_v1_0_20260530.md",
+    "pedagogical_moved:Paper_F1_Trace_Anomaly_S3xS1_Uniqueness_Pedagogical_Pivot_v1_0_20260530.md",
+    "pedagogical_moved:Paper_S6_M_R_Heat_Kernel_Pedagogical_Pivot_v1_0_20260530.md",
+    "pedagogical_moved:Paper_External_Empirical_Surface_Clean_Gates_Pedagogical_Pivot_v1_0_20260530.md",
+    "pedagogical_moved:Paper_Kappa_AB_Pedagogical_Pivot_v1_0_20260530.md",
+    "pedagogical_moved:Paper_Solar_Neutrino_Mass_Yukawa_Duality_Pedagogical_Pivot_v1_0_20260530.md",
+    "stamped_companion:Companion_1_Entanglement_v10_6.md",
+    "stamped_companion:Companion_2_BornRule_Hopf_v10_6_v2.md",
+    "stamped_companion:Companion_3_Quantisation_Compactness_v10_6.md",
+    "stamped_companion:Companion_4_Hierarchy_Resonance_v10_6.md",
+    "stamped_companion:Companion_5_StateSpace_Surface_v10_8.md",
+    "stamped_companion:Companion_6_Gap5_BornRule_GaugeBirth_v10_6_v2.md",
+    "stamped_companion:Companion_7_Neutrino_v10_17_2.md",
+    "stamped_companion:Companion_8_VNTE_Trajectory_v10_8.md",
+    "stamped_companion:Companion_9_VNTE_Stage3_v10_8.md",
+    "stamped_companion:Companion_10_Gap1_M1_Pathways_v10_17_2.md",
+    "stamped_companion:Companion_11_Lambda_Unimodular_Closure_v10_17_2.md",
+    "stamped_companion:Companion_12_Spectral_Chord_Closure_v10_17_2.md",
+    "stamped_companion:Companion_13_Yukawa_Nu2_D5_Inverse_v10_17_2.md",
+    "stamped_popular:Paper_Popular_v10_8_Full_Edition.md",
+    "stamped_popular:Paper_Popular_v10_8_Reader_Edition.md",
+    "excluded_to_superseded:NTE_Standalone_Papers_Register_v0_6_20260618.md",
+    "excluded_to_superseded:NTE_Corpus_Papers_Index.md",
+    "excluded_to_superseded:COMPANION_CANONICAL_INDEX.md"
+  ],
+  "errors": [],
+  "keep_manifest": {
+    "trilogy": [
+      "NTE_v10_18_0_Part1_Foundations.md",
+      "NTE_v10_18_0_Part2_Structure.md",
+      "NTE_v10_18_0_Part3_Accounting.md"
+    ],
+    "standalones": [
+      "Paper_P5_Neutrino_MassRatio_Flux_TwoBranches_4pi_8pi_v0_5_20260621.md",
+      "Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_3_zenodo_20260601.md",
+      "Paper_P4D_Antilinear_Theta23_MuTau_Reflection_Character_Identity_With_CPN_Phase_v0_3_20260626.md",
+      "Paper_P4_CLFV_Amplitude_Ratio_tan2theta23_R_Matrix_Freezing_Z2_Majorana_Clean_Standalone_v0_2_20260622.md",
+      "Paper_HeatKernel_S3xS1_SpectralTriple_a4_Vanishing_kappa0_Confluence_Clean_Standalone_v0_2_20260622.md",
+      "Paper_Octonionic_Origin_SM_GaugeGroup_SpeciesCount_Associativity_Transition_Clean_Standalone_v0_2_20260622.md",
+      "Paper_Hopf_Kappa0_Bare_Coupling_Clean_Standalone_v0_2_20260622.md",
+      "Paper_DM_Ratio_Identification_CrossSector_FixedPoint_TwoOrientation_Cosmology_Clean_Standalone_v0_1_20260622.md",
+      "Paper_S1_v0_4.md",
+      "Paper_S2_v1_0_Consolidation_20260525.md",
+      "Paper_S6_M_R_Heat_Kernel_v1_0.md"
+    ],
+    "companions": [
+      "Companion_1_Entanglement_v10_6.md",
+      "Companion_2_BornRule_Hopf_v10_6_v2.md",
+      "Companion_3_Quantisation_Compactness_v10_6.md",
+      "Companion_4_Hierarchy_Resonance_v10_6.md",
+      "Companion_5_StateSpace_Surface_v10_8.md",
+      "Companion_6_Gap5_BornRule_GaugeBirth_v10_6_v2.md",
+      "Companion_7_Neutrino_v10_17_2.md",
+      "Companion_8_VNTE_Trajectory_v10_8.md",
+      "Companion_9_VNTE_Stage3_v10_8.md",
+      "Companion_10_Gap1_M1_Pathways_v10_17_2.md",
+      "Companion_11_Lambda_Unimodular_Closure_v10_17_2.md",
+      "Companion_12_Spectral_Chord_Closure_v10_17_2.md",
+      "Companion_13_Yukawa_Nu2_D5_Inverse_v10_17_2.md"
+    ],
+    "popular": [
+      "Paper_Popular_v10_8_Full_Edition.md",
+      "Paper_Popular_v10_8_Reader_Edition.md"
+    ],
+    "pedagogical_folder": "Pedagogical_Explanatory_For_Curious_Readers/"
+  },
+  "at": "2026-06-28T12:19:11.011111+12:00"
+}

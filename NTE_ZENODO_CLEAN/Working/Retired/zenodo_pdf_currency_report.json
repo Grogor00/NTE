@@ -1,0 +1,322 @@
+﻿{
+    "at":  "2026-06-28T12:27:01.6760897+12:00",
+    "total":  39,
+    "current":  39,
+    "stale":  0,
+    "no_pdf":  0,
+    "missing_md":  0,
+    "rows":  [
+                 {
+                     "md":  "NTE_v10_18_0_Part1_Foundations.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\NTE_v10_18_0_Part1_Foundations.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\NTE_v10_18_0_Part1_Foundations.pdf",
+                     "md_mtime":  "2026-06-28T00:14:05.3850709Z",
+                     "pdf_mtime":  "2026-06-28T00:22:57.4963522Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "NTE_v10_18_0_Part2_Structure.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\NTE_v10_18_0_Part2_Structure.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\NTE_v10_18_0_Part2_Structure.pdf",
+                     "md_mtime":  "2026-06-28T00:14:05.3861841Z",
+                     "pdf_mtime":  "2026-06-28T00:23:02.7229159Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "NTE_v10_18_0_Part3_Accounting.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\NTE_v10_18_0_Part3_Accounting.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\NTE_v10_18_0_Part3_Accounting.pdf",
+                     "md_mtime":  "2026-06-28T00:14:05.3867546Z",
+                     "pdf_mtime":  "2026-06-28T00:23:07.8985131Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_P5_Neutrino_MassRatio_Flux_TwoBranches_4pi_8pi_v0_5_20260621.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_P5_Neutrino_MassRatio_Flux_TwoBranches_4pi_8pi_v0_5_20260621.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_P5_Neutrino_MassRatio_Flux_TwoBranches_4pi_8pi_v0_5_20260621.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3052570Z",
+                     "pdf_mtime":  "2026-06-28T00:23:13.5058721Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_3_zenodo_20260601.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_3_zenodo_20260601.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_3_zenodo_20260601.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3052570Z",
+                     "pdf_mtime":  "2026-06-28T00:23:19.1933063Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_P4D_Antilinear_Theta23_MuTau_Reflection_Character_Identity_With_CPN_Phase_v0_3_20260626.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_P4D_Antilinear_Theta23_MuTau_Reflection_Character_Identity_With_CPN_Phase_v0_3_20260626.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_P4D_Antilinear_Theta23_MuTau_Reflection_Character_Identity_With_CPN_Phase_v0_3_20260626.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3052570Z",
+                     "pdf_mtime":  "2026-06-28T00:23:25.0568624Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_P4_CLFV_Amplitude_Ratio_tan2theta23_R_Matrix_Freezing_Z2_Majorana_Clean_Standalone_v0_2_20260622.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_P4_CLFV_Amplitude_Ratio_tan2theta23_R_Matrix_Freezing_Z2_Majorana_Clean_Standalone_v0_2_20260622.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_P4_CLFV_Amplitude_Ratio_tan2theta23_R_Matrix_Freezing_Z2_Majorana_Clean_Standalone_v0_2_20260622.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3072429Z",
+                     "pdf_mtime":  "2026-06-28T00:23:30.1980613Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_HeatKernel_S3xS1_SpectralTriple_a4_Vanishing_kappa0_Confluence_Clean_Standalone_v0_2_20260622.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_HeatKernel_S3xS1_SpectralTriple_a4_Vanishing_kappa0_Confluence_Clean_Standalone_v0_2_20260622.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_HeatKernel_S3xS1_SpectralTriple_a4_Vanishing_kappa0_Confluence_Clean_Standalone_v0_2_20260622.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3072429Z",
+                     "pdf_mtime":  "2026-06-28T00:23:35.6087228Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_Octonionic_Origin_SM_GaugeGroup_SpeciesCount_Associativity_Transition_Clean_Standalone_v0_2_20260622.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_Octonionic_Origin_SM_GaugeGroup_SpeciesCount_Associativity_Transition_Clean_Standalone_v0_2_20260622.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_Octonionic_Origin_SM_GaugeGroup_SpeciesCount_Associativity_Transition_Clean_Standalone_v0_2_20260622.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3072429Z",
+                     "pdf_mtime":  "2026-06-28T00:23:41.6405120Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_Hopf_Kappa0_Bare_Coupling_Clean_Standalone_v0_2_20260622.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_Hopf_Kappa0_Bare_Coupling_Clean_Standalone_v0_2_20260622.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_Hopf_Kappa0_Bare_Coupling_Clean_Standalone_v0_2_20260622.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3072429Z",
+                     "pdf_mtime":  "2026-06-28T00:23:47.8237978Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_DM_Ratio_Identification_CrossSector_FixedPoint_TwoOrientation_Cosmology_Clean_Standalone_v0_1_20260622.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_DM_Ratio_Identification_CrossSector_FixedPoint_TwoOrientation_Cosmology_Clean_Standalone_v0_1_20260622.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_DM_Ratio_Identification_CrossSector_FixedPoint_TwoOrientation_Cosmology_Clean_Standalone_v0_1_20260622.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3098614Z",
+                     "pdf_mtime":  "2026-06-28T00:23:54.2462176Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_S1_v0_4.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_S1_v0_4.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_S1_v0_4.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3103638Z",
+                     "pdf_mtime":  "2026-06-28T00:24:00.7463122Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_S2_v1_0_Consolidation_20260525.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_S2_v1_0_Consolidation_20260525.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_S2_v1_0_Consolidation_20260525.pdf",
+                     "md_mtime":  "2026-06-28T00:22:35.3117622Z",
+                     "pdf_mtime":  "2026-06-28T00:24:08.5905708Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_S6_M_R_Heat_Kernel_v1_0.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_S6_M_R_Heat_Kernel_v1_0.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_S6_M_R_Heat_Kernel_v1_0.pdf",
+                     "md_mtime":  "2026-06-28T00:14:05.4481791Z",
+                     "pdf_mtime":  "2026-06-28T00:24:15.8129812Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_1_Entanglement_v10_6.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_1_Entanglement_v10_6.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_1_Entanglement_v10_6.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0172869Z",
+                     "pdf_mtime":  "2026-06-28T00:24:22.2006891Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_2_BornRule_Hopf_v10_6_v2.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_2_BornRule_Hopf_v10_6_v2.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_2_BornRule_Hopf_v10_6_v2.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0172869Z",
+                     "pdf_mtime":  "2026-06-28T00:24:27.8811164Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_3_Quantisation_Compactness_v10_6.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_3_Quantisation_Compactness_v10_6.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_3_Quantisation_Compactness_v10_6.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0172869Z",
+                     "pdf_mtime":  "2026-06-28T00:24:33.7512597Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_4_Hierarchy_Resonance_v10_6.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_4_Hierarchy_Resonance_v10_6.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_4_Hierarchy_Resonance_v10_6.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0172869Z",
+                     "pdf_mtime":  "2026-06-28T00:24:39.6713660Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_5_StateSpace_Surface_v10_8.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_5_StateSpace_Surface_v10_8.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_5_StateSpace_Surface_v10_8.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0172869Z",
+                     "pdf_mtime":  "2026-06-28T00:24:45.9156104Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_6_Gap5_BornRule_GaugeBirth_v10_6_v2.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_6_Gap5_BornRule_GaugeBirth_v10_6_v2.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_6_Gap5_BornRule_GaugeBirth_v10_6_v2.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0228648Z",
+                     "pdf_mtime":  "2026-06-28T00:24:51.7369506Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_7_Neutrino_v10_17_2.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_7_Neutrino_v10_17_2.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_7_Neutrino_v10_17_2.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0239505Z",
+                     "pdf_mtime":  "2026-06-28T00:24:58.2100086Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_8_VNTE_Trajectory_v10_8.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_8_VNTE_Trajectory_v10_8.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_8_VNTE_Trajectory_v10_8.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0251592Z",
+                     "pdf_mtime":  "2026-06-28T00:25:05.8528958Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_9_VNTE_Stage3_v10_8.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_9_VNTE_Stage3_v10_8.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_9_VNTE_Stage3_v10_8.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0251592Z",
+                     "pdf_mtime":  "2026-06-28T00:25:13.1501043Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_10_Gap1_M1_Pathways_v10_17_2.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_10_Gap1_M1_Pathways_v10_17_2.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_10_Gap1_M1_Pathways_v10_17_2.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0275497Z",
+                     "pdf_mtime":  "2026-06-28T00:25:20.5935926Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_11_Lambda_Unimodular_Closure_v10_17_2.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_11_Lambda_Unimodular_Closure_v10_17_2.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_11_Lambda_Unimodular_Closure_v10_17_2.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0275497Z",
+                     "pdf_mtime":  "2026-06-28T00:25:26.6647496Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_12_Spectral_Chord_Closure_v10_17_2.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_12_Spectral_Chord_Closure_v10_17_2.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_12_Spectral_Chord_Closure_v10_17_2.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0295540Z",
+                     "pdf_mtime":  "2026-06-28T00:25:33.8066215Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Companion_13_Yukawa_Nu2_D5_Inverse_v10_17_2.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Companion_13_Yukawa_Nu2_D5_Inverse_v10_17_2.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Companion_13_Yukawa_Nu2_D5_Inverse_v10_17_2.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0295540Z",
+                     "pdf_mtime":  "2026-06-28T00:25:41.0523181Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_Popular_v10_8_Full_Edition.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_Popular_v10_8_Full_Edition.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_Popular_v10_8_Full_Edition.pdf",
+                     "md_mtime":  "2026-06-28T00:19:11.0326609Z",
+                     "pdf_mtime":  "2026-06-28T00:25:49.4974230Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_Popular_v10_8_Reader_Edition.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Paper_Popular_v10_8_Reader_Edition.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_Popular_v10_8_Reader_Edition.pdf",
+                     "md_mtime":  "2026-06-28T00:22:45.3829170Z",
+                     "pdf_mtime":  "2026-06-28T00:25:56.2303033Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_S1_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_S1_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_S1_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-12T22:28:50.1666610Z",
+                     "pdf_mtime":  "2026-06-28T00:26:02.9542583Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_Hopf_Bundle_Bare_Coupling_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_Hopf_Bundle_Bare_Coupling_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_Hopf_Bundle_Bare_Coupling_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:20.5228993Z",
+                     "pdf_mtime":  "2026-06-28T00:26:10.0612725Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_OctonionExtension_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_OctonionExtension_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_OctonionExtension_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:20.2789638Z",
+                     "pdf_mtime":  "2026-06-28T00:26:16.5162068Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_S2_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_S2_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_S2_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:20.2789638Z",
+                     "pdf_mtime":  "2026-06-28T00:26:23.3466365Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_P4_Theta23_Z2_Chirality_Superposed_Majorana_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_P4_Theta23_Z2_Chirality_Superposed_Majorana_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_P4_Theta23_Z2_Chirality_Superposed_Majorana_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:20.2756073Z",
+                     "pdf_mtime":  "2026-06-28T00:26:30.0497250Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_F1_Trace_Anomaly_S3xS1_Uniqueness_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_F1_Trace_Anomaly_S3xS1_Uniqueness_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_F1_Trace_Anomaly_S3xS1_Uniqueness_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:20.2741801Z",
+                     "pdf_mtime":  "2026-06-28T00:26:36.3407454Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_S6_M_R_Heat_Kernel_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_S6_M_R_Heat_Kernel_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_S6_M_R_Heat_Kernel_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:20.1096646Z",
+                     "pdf_mtime":  "2026-06-28T00:26:42.7672408Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_External_Empirical_Surface_Clean_Gates_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_External_Empirical_Surface_Clean_Gates_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_External_Empirical_Surface_Clean_Gates_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:20.0783049Z",
+                     "pdf_mtime":  "2026-06-28T00:26:48.7218487Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_Kappa_AB_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_Kappa_AB_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_Kappa_AB_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:20.0040557Z",
+                     "pdf_mtime":  "2026-06-28T00:26:55.1932875Z",
+                     "status":  "CURRENT"
+                 },
+                 {
+                     "md":  "Paper_Solar_Neutrino_Mass_Yukawa_Duality_Pedagogical_Pivot_v1_0_20260530.md",
+                     "md_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\Papers\\Pedagogical_Explanatory_For_Curious_Readers\\Paper_Solar_Neutrino_Mass_Yukawa_Duality_Pedagogical_Pivot_v1_0_20260530.md",
+                     "pdf_path":  "C:\\Users\\gregw\\OneDrive\\Desktop\\NTE v10_6\\paper-build\\pdf-out\\Paper_Solar_Neutrino_Mass_Yukawa_Duality_Pedagogical_Pivot_v1_0_20260530.pdf",
+                     "md_mtime":  "2026-06-27T22:47:19.9994885Z",
+                     "pdf_mtime":  "2026-06-28T00:27:01.6040110Z",
+                     "status":  "CURRENT"
+                 }
+             ]
+}

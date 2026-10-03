@@ -1,0 +1,146 @@
+{
+  "convention": "Casas-Ibarra 2001 / Hisano dipole; F(x) heavy-neutrino loop",
+  "nte_scan": [
+    {
+      "case": "NuFIT",
+      "theta23_deg": 49.70000000000001,
+      "M3_over_M1": 0.1,
+      "ratio": 1.390417187269743,
+      "tan2_theta23": 1.390417187269743,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NuFIT",
+      "theta23_deg": 49.70000000000001,
+      "M3_over_M1": 0.5,
+      "ratio": 1.390417187269743,
+      "tan2_theta23": 1.390417187269743,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NuFIT",
+      "theta23_deg": 49.70000000000001,
+      "M3_over_M1": 1.0,
+      "ratio": 1.390417187269743,
+      "tan2_theta23": 1.390417187269743,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NuFIT",
+      "theta23_deg": 49.70000000000001,
+      "M3_over_M1": 2.0,
+      "ratio": 1.390417187269743,
+      "tan2_theta23": 1.390417187269743,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NuFIT",
+      "theta23_deg": 49.70000000000001,
+      "M3_over_M1": 5.0,
+      "ratio": 1.390417187269743,
+      "tan2_theta23": 1.390417187269743,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NuFIT",
+      "theta23_deg": 49.70000000000001,
+      "M3_over_M1": 10.0,
+      "ratio": 1.390417187269743,
+      "tan2_theta23": 1.390417187269743,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NTE_pi4",
+      "theta23_deg": 45.0,
+      "M3_over_M1": 0.1,
+      "ratio": 1.0,
+      "tan2_theta23": 1.0,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NTE_pi4",
+      "theta23_deg": 45.0,
+      "M3_over_M1": 0.5,
+      "ratio": 1.0,
+      "tan2_theta23": 1.0,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NTE_pi4",
+      "theta23_deg": 45.0,
+      "M3_over_M1": 1.0,
+      "ratio": 1.0,
+      "tan2_theta23": 1.0,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NTE_pi4",
+      "theta23_deg": 45.0,
+      "M3_over_M1": 2.0,
+      "ratio": 1.0,
+      "tan2_theta23": 1.0,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NTE_pi4",
+      "theta23_deg": 45.0,
+      "M3_over_M1": 5.0,
+      "ratio": 1.0,
+      "tan2_theta23": 1.0,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    },
+    {
+      "case": "NTE_pi4",
+      "theta23_deg": 45.0,
+      "M3_over_M1": 10.0,
+      "ratio": 1.0,
+      "tan2_theta23": 1.0,
+      "frac_dev": 0.0,
+      "within_10pct": true
+    }
+  ],
+  "anarchic_mc": {
+    "n_samples": 10000,
+    "target_tan2_theta23": 1.390417187269743,
+    "median_ratio": 1.0322417747307235,
+    "log10_p16": -0.6895711600634694,
+    "log10_p84": 0.7409704327692883,
+    "frac_within_20pct": 0.1019,
+    "frac_within_50pct": 0.2691,
+    "mimic_fraction_20pct": 0.1019,
+    "odds_nte_favored": 8.813542688910696
+  },
+  "second_relations_nte_pi4": {
+    "amp_ratio_mu_e_tau_e": 1.0,
+    "amp_ratio_tau_mu_tau_e": 21.860540612033724,
+    "dipole_A_ee_over_A_me": 1.475724378910118,
+    "note": "\u03bc\u2192eee and \u03bc\u2013e conversion need penguin+box; dipole proxies only"
+  },
+  "second_relations_nufit": {
+    "amp_ratio_mu_e_tau_e": 1.390417187269743,
+    "amp_ratio_tau_mu_tau_e": 25.430934442616188,
+    "dipole_A_ee_over_A_me": 1.3682156120289073,
+    "note": "\u03bc\u2192eee and \u03bc\u2013e conversion need penguin+box; dipole proxies only"
+  },
+  "absolute_BR_mu_e_gamma_at_MR": 4.162394300999287e-59,
+  "MEG2_limit_order": 4.2e-13,
+  "MR_for_MEG2_sensitivity_order": 2.59890479511979e+26,
+  "nte_point": {
+    "amp_ratio_pi4": 1.0,
+    "tan2_pi4": 1.0,
+    "amp_ratio_nufit": 1.390417187269743,
+    "tan2_nufit": 1.390417187269743,
+    "br_ratio_pi4_with_m5": 1345074.7774391067
+  }
+}

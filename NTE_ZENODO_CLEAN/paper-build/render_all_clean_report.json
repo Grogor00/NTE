@@ -1,0 +1,261 @@
+﻿{
+    "at":  "2026-09-05T16:04:49.7044387+12:00",
+    "out_dir":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out",
+    "expected":  36,
+    "produced":  36,
+    "all_pass":  true,
+    "rows":  [
+                 {
+                     "md":  "Companion_01_Entanglement_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_01_Entanglement_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_02_BornRule_Hopf_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_02_BornRule_Hopf_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_03_Quantisation_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_03_Quantisation_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_04_Hierarchy_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_04_Hierarchy_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_05_StateSpace_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_05_StateSpace_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_06_BornRule_GaugeBirth_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_06_BornRule_GaugeBirth_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_07_Neutrino_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_07_Neutrino_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_08_VNTE_Trajectory_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_08_VNTE_Trajectory_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_09_VNTE_Stage3_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_09_VNTE_Stage3_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_10_M1_Majorana_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_10_M1_Majorana_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_11_Lambda_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_11_Lambda_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_12_Chord_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_12_Chord_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_13_Yukawa_Nu2_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_13_Yukawa_Nu2_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_14_RW_Spectral_Action_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_14_RW_Spectral_Action_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_15_EPhi_Farnsworth_Spectral_Data_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_15_EPhi_Farnsworth_Spectral_Data_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_16_Octonion_Gauge_Species_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_16_Octonion_Gauge_Species_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_17_KPhi_Frame_Closure_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_17_KPhi_Frame_Closure_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_18_CLFV_Amplitude_Ratio_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_18_CLFV_Amplitude_Ratio_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_19_TwoSector_Necessity_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_19_TwoSector_Necessity_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Companion_20_F1_Trace_Anomaly_Uniqueness_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Companion_20_F1_Trace_Anomaly_Uniqueness_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "NTE_v10_19_0_Part1_Foundations.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\NTE_v10_19_0_Part1_Foundations.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "NTE_v10_19_0_Part2_Structure.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\NTE_v10_19_0_Part2_Structure.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "NTE_v10_19_0_Part3_Accounting.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\NTE_v10_19_0_Part3_Accounting.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Popular_Full_Edition_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Popular_Full_Edition_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Popular_Reader_Edition_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Popular_Reader_Edition_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_BornRule_Hopf_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_BornRule_Hopf_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_External_Empirical_Surface_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_External_Empirical_Surface_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_F1_Trace_Anomaly_S3xS1_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_F1_Trace_Anomaly_S3xS1_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_Hopf_Bundle_Bare_Coupling_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_Hopf_Bundle_Bare_Coupling_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_Kappa_AB_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_Kappa_AB_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_OctonionExtension_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_OctonionExtension_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_P4_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_P4_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_Quantisation_Compactness_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_Quantisation_Compactness_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_S1_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_S1_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_S2_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_S2_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 },
+                 {
+                     "md":  "Paper_S6_M_R_Heat_Kernel_Pedagogical_Note_v10_19_0.md",
+                     "pdf":  "G:\\My Drive\\NTE_ZENODO_CLEAN\\paper-build\\pdf-out\\Paper_S6_M_R_Heat_Kernel_Pedagogical_Note_v10_19_0.pdf",
+                     "exists":  true,
+                     "status":  "PASS",
+                     "error":  null
+                 }
+             ]
+}

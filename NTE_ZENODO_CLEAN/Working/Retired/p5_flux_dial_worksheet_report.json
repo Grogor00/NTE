@@ -1,0 +1,221 @@
+{
+  "task_id": "P5-FLUX-DIAL-WORKSHEET",
+  "author": "Cursor Jammer",
+  "target": {
+    "r_obs_central": 5.82,
+    "phi_star": 14.04056152723245,
+    "four_pi": 12.566370614359172,
+    "eight_pi": 25.132741228718345,
+    "f_central": 0.11731238542246787
+  },
+  "f_band_sensitivity": [
+    {
+      "r_obs": 5.74,
+      "phi_star": 13.75206253621616,
+      "f_admixture": 0.09435436517383443
+    },
+    {
+      "r_obs": 5.82,
+      "phi_star": 14.04056152723245,
+      "f_admixture": 0.11731238542246787
+    },
+    {
+      "r_obs": 5.9,
+      "phi_star": 14.331050205759523,
+      "f_admixture": 0.14042873997237593
+    }
+  ],
+  "f_band_summary": {
+    "min": 0.09435436517383443,
+    "max": 0.14042873997237593,
+    "central": 0.11731238542246787,
+    "spread_abs": 0.0460743747985415,
+    "spread_rel_vs_central": 0.3927494495369562
+  },
+  "primary_lens_pmns": [
+    {
+      "name": "sin\u00b2\u03b8\u2081\u2083 (PMNS)",
+      "value": 0.022,
+      "delta_from_f_central": -0.095,
+      "rel_err_vs_f_central": 0.811965811965812,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "sin\u00b2\u03b8\u2081\u2082",
+      "value": 0.307,
+      "delta_from_f_central": 0.19,
+      "rel_err_vs_f_central": 1.623931623931624,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "sin\u00b2\u03b8\u2082\u2083",
+      "value": 0.546,
+      "delta_from_f_central": 0.42900000000000005,
+      "rel_err_vs_f_central": 3.666666666666667,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "2 sin\u00b2\u03b8\u2081\u2083",
+      "value": 0.044,
+      "delta_from_f_central": -0.07300000000000001,
+      "rel_err_vs_f_central": 0.6239316239316239,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "sin\u00b2\u03b8\u2081\u2082 sin\u00b2\u03b8\u2081\u2083",
+      "value": 0.006754,
+      "delta_from_f_central": -0.11024600000000001,
+      "rel_err_vs_f_central": 0.9422735042735043,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "sin\u00b2\u03b8\u2081\u2083 sin\u00b2\u03b8\u2082\u2083",
+      "value": 0.012012,
+      "delta_from_f_central": -0.10498800000000001,
+      "rel_err_vs_f_central": 0.8973333333333334,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "sin\u00b2\u03b8\u2081\u2083 / sin\u00b2\u03b8\u2082\u2083",
+      "value": 0.04029304029304029,
+      "delta_from_f_central": -0.07670695970695972,
+      "rel_err_vs_f_central": 0.6556150402304249,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "sin\u00b2\u03b8\u2081\u2083 (M\u2082/M\u2081\u22121 route per P5 \u03c3\u2082 split)",
+      "value": 0.022,
+      "delta_from_f_central": -0.095,
+      "rel_err_vs_f_central": 0.811965811965812,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "\u221a(sin\u00b2\u03b8\u2081\u2082 sin\u00b2\u03b8\u2081\u2083)",
+      "value": 0.08218272324521742,
+      "delta_from_f_central": -0.03481727675478259,
+      "rel_err_vs_f_central": 0.2975835620066888,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "(sin\u00b2\u03b8\u2081\u2082 + sin\u00b2\u03b8\u2081\u2083)/2",
+      "value": 0.1645,
+      "delta_from_f_central": 0.0475,
+      "rel_err_vs_f_central": 0.405982905982906,
+      "within_10pct": false,
+      "new_free_parameter": false
+    },
+    {
+      "name": "1/8 (fixed rational \u2014 unmotivated pre-fit)",
+      "value": 0.125,
+      "delta_from_f_central": 0.007999999999999993,
+      "rel_err_vs_f_central": 0.06837606837606831,
+      "within_10pct": true,
+      "new_free_parameter": true
+    }
+  ],
+  "null_control_bare_flux": [
+    {
+      "form": "9\u03c0/2",
+      "value": 14.137166941154069,
+      "rel_err_vs_phi_star": 0.006880452304863126,
+      "within_1pct": true,
+      "motivated_pre_fit": false,
+      "free_choice_count": 2,
+      "numerology_gate": true
+    },
+    {
+      "form": "\u221a2\u00b7\u03c0\u00b2",
+      "value": 13.957728399277759,
+      "rel_err_vs_phi_star": 0.005899559486565531,
+      "within_1pct": true,
+      "motivated_pre_fit": false,
+      "free_choice_count": 1,
+      "numerology_gate": true
+    },
+    {
+      "form": "4\u03c0\u00b72^(1/3)",
+      "value": 15.832634857811492,
+      "rel_err_vs_phi_star": 0.12763544585472708,
+      "within_1pct": false,
+      "motivated_pre_fit": false,
+      "free_choice_count": 2,
+      "numerology_gate": false
+    },
+    {
+      "form": "14 (integer)",
+      "value": 14.0,
+      "rel_err_vs_phi_star": 0.002888882125816596,
+      "within_1pct": true,
+      "motivated_pre_fit": false,
+      "free_choice_count": 2,
+      "numerology_gate": true
+    },
+    {
+      "form": "\u03c0\u00b2/\u221a2",
+      "value": 6.9788641996388785,
+      "rel_err_vs_phi_star": 0.5029497797432828,
+      "within_1pct": false,
+      "motivated_pre_fit": false,
+      "free_choice_count": 1,
+      "numerology_gate": false
+    },
+    {
+      "form": "(4\u03c0+8\u03c0)/2",
+      "value": 18.84955592153876,
+      "rel_err_vs_phi_star": 0.3425072697398175,
+      "within_1pct": false,
+      "motivated_pre_fit": false,
+      "free_choice_count": 1,
+      "numerology_gate": false
+    },
+    {
+      "form": "4\u03c0 + \u03c0/2",
+      "value": 14.137166941154069,
+      "rel_err_vs_phi_star": 0.006880452304863126,
+      "within_1pct": true,
+      "motivated_pre_fit": false,
+      "free_choice_count": 1,
+      "numerology_gate": true
+    }
+  ],
+  "kill_conditions": {
+    "KC1_new_parameter_required": true,
+    "KC2_f_unstable_across_obs_band": true,
+    "KC3_multi_free_choice_null_hits_only": true,
+    "KC4_sigma3_lead": false,
+    "kill_conditions_fired": [
+      "KC1",
+      "KC2",
+      "KC3"
+    ],
+    "verdict": "NULL",
+    "one_line_finding": "The between-branches value is the M_R-mechanism residual, not a flux quantum.",
+    "best_pmns_candidate": {
+      "name": "1/8 (fixed rational \u2014 unmotivated pre-fit)",
+      "value": 0.125,
+      "delta_from_f_central": 0.007999999999999993,
+      "rel_err_vs_f_central": 0.06837606837606831,
+      "within_10pct": true,
+      "new_free_parameter": true
+    },
+    "sigma3_sin2_theta13_rel_err_vs_f": 0.811965811965812
+  },
+  "honest_scope": {
+    "magnitude_free": true,
+    "no_corpus_edit": true,
+    "insight_or_null_only": true
+  },
+  "result_files": {
+    "json": "p5_flux_dial_worksheet_report.json",
+    "memo": "P5_Flux_Dial_Worksheet_FractionalJAdmixture_Primary_BareFluxClosedForm_NullControl_Cursor_Jammer_20260621.md"
+  }
+}

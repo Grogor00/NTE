@@ -1,0 +1,58 @@
+﻿[
+    {
+        "file":  "Directive_Cursor_Main_to_Cursor_AC_Part1_II0_Read_Clear_AN5_20260925.md",
+        "stream":  "main",
+        "reason":  "directive_or_all_or_sunshine",
+        "last_write":  "2026-09-25T21:25:32.8110000+12:00",
+        "queued_at":  "2026-10-03T19:58:36.0792478+13:00"
+    },
+    {
+        "file":  "Directive_Cursor_Main_to_Scratch_Jammer_ItemA_Investigation_Report_to_AC_PC_20260925.md",
+        "stream":  "main",
+        "reason":  "directive_or_all_or_sunshine",
+        "last_write":  "2026-09-25T21:25:36.7220000+12:00",
+        "queued_at":  "2026-10-03T19:58:36.0792478+13:00"
+    },
+    {
+        "file":  "Directive_Cursor_Main_to_Cursor_AC_Companion7_AR1_Caveat_Check_20260925.md",
+        "stream":  "main",
+        "reason":  "directive_or_all_or_sunshine",
+        "last_write":  "2026-09-25T21:46:09.0210000+12:00",
+        "queued_at":  "2026-10-03T19:58:36.0792478+13:00"
+    },
+    {
+        "file":  "Directive_Cursor_Main_to_Jammer_ItemA_Adversarial_Close_Against_Scratch_Register_20260925.md",
+        "stream":  "main",
+        "reason":  "directive_or_all_or_sunshine",
+        "last_write":  "2026-09-25T21:46:12.0870000+12:00",
+        "queued_at":  "2026-10-03T19:58:36.0792478+13:00"
+    },
+    {
+        "file":  "Directive_Cursor_Main_to_Scratch_ItemA_Nstar_First_Principles_Band_Edge_20260925.md",
+        "stream":  "main",
+        "reason":  "directive_or_all_or_sunshine",
+        "last_write":  "2026-09-25T22:19:02.7770000+12:00",
+        "queued_at":  "2026-10-03T19:58:36.0792478+13:00"
+    },
+    {
+        "file":  "Directive_Cursor_Main_to_AC_Source_Or_Drop_7121_Constant_ItemA_Band_Edge_20260925.md",
+        "stream":  "main",
+        "reason":  "directive_or_all_or_sunshine",
+        "last_write":  "2026-09-25T22:19:04.7580000+12:00",
+        "queued_at":  "2026-10-03T19:58:36.0792478+13:00"
+    },
+    {
+        "file":  "Directive_Cursor_Main_Existence_Gate_G1_Under_8p1_Options_ABCD_20260927.md",
+        "stream":  "main",
+        "reason":  "directive_or_all_or_sunshine",
+        "last_write":  "2026-09-27T16:18:25.2220000+13:00",
+        "queued_at":  "2026-10-03T19:58:36.0792478+13:00"
+    },
+    {
+        "file":  "Directive_Cursor_Main_Existence_XGates_Vacuum_Junction_R1BC_20260929.md",
+        "stream":  "main",
+        "reason":  "directive_or_all_or_sunshine",
+        "last_write":  "2026-09-29T00:22:26.7170000+13:00",
+        "queued_at":  "2026-10-03T19:58:36.0792478+13:00"
+    }
+]

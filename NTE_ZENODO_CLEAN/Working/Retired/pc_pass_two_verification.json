@@ -1,0 +1,114 @@
+[
+  {
+    "path": "NTE_v10_17_Part3_Accounting.md",
+    "before": 32,
+    "after": 27,
+    "subs_est": 5,
+    "modified": true
+  },
+  {
+    "path": "Companion_8_VNTE_Trajectory_v10_8.md",
+    "before": 72,
+    "after": 0,
+    "subs_est": 72,
+    "modified": true
+  },
+  {
+    "path": "Companion_9_VNTE_Stage3_v10_8.md",
+    "before": 51,
+    "after": 1,
+    "subs_est": 50,
+    "modified": true
+  },
+  {
+    "path": "NTE_v10_17_Part1_Foundations.md",
+    "before": 9,
+    "after": 9,
+    "subs_est": 0,
+    "modified": false
+  },
+  {
+    "path": "Paper_PhiNTE_Necessity_and_Irreducibility_v0_1_Scratch_20260603.md",
+    "before": 1,
+    "after": 1,
+    "subs_est": 0,
+    "modified": false
+  },
+  {
+    "path": "Companion_11_Lambda_Unimodular_Closure_v10_17_2.md",
+    "before": 5,
+    "after": 1,
+    "subs_est": 4,
+    "modified": true
+  },
+  {
+    "path": "NTE_v10_17_Part2_Structure.md",
+    "before": 8,
+    "after": 3,
+    "subs_est": 5,
+    "modified": true
+  },
+  {
+    "path": "Paper_PhiNTE_Necessity_PedagogicalPivot_v0_1_PC_20260604.md",
+    "before": 35,
+    "after": 1,
+    "subs_est": 34,
+    "modified": true
+  },
+  {
+    "path": "Paper_Popular_v10_8_Full_Edition.md",
+    "before": 9,
+    "after": 0,
+    "subs_est": 9,
+    "modified": true
+  },
+  {
+    "path": "17.5.4_Audit_NLock_Derivation.md",
+    "before": 6,
+    "after": 2,
+    "subs_est": 4,
+    "modified": true
+  },
+  {
+    "path": "Companion_13_Yukawa_Nu2_D5_Inverse_v10_17_2.md",
+    "before": 11,
+    "after": 7,
+    "subs_est": 4,
+    "modified": true
+  },
+  {
+    "path": "Companion_5_StateSpace_Surface_v10_8.md",
+    "before": 4,
+    "after": 0,
+    "subs_est": 4,
+    "modified": true
+  },
+  {
+    "path": "Companion_7_Neutrino_v10_17_2.md",
+    "before": 8,
+    "after": 4,
+    "subs_est": 4,
+    "modified": true
+  },
+  {
+    "path": "Companion_7_v10_9_to_v10_17_2_Finalisation_Pass_20260524.md",
+    "before": 3,
+    "after": 1,
+    "subs_est": 2,
+    "modified": true
+  },
+  {
+    "path": "NTE_Standalone_Papers_Register_v0_4.md",
+    "before": 5,
+    "after": 3,
+    "subs_est": 2,
+    "modified": true
+  },
+  {
+    "path": "Paper_Popular_v10_8_Reader_Edition.md",
+    "before": 1,
+    "after": 0,
+    "subs_est": 1,
+    "modified": true
+  }
+]

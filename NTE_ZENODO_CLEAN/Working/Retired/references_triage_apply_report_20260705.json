@@ -1,0 +1,299 @@
+{
+  "moved_to_References": 55,
+  "deleted": [
+    {
+      "title": "Relational dynamics and Page-Wootters formalism.pdf",
+      "reason": "DUP of #2"
+    },
+    {
+      "title": "PracticalRecipes.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Lie Groups and Lie Algebras.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Riemannian Concircular Structure Manifolds.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "CANONICAL RIEMANNIAN METRICS.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Curvature and geometric equations.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "susskind.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Generalized Weyl Systems and \u03ba-Minkowski space.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "T-Minkowskinoncommutativespacetimes.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Lie algebra-type noncommutatitive \u03d54-theories.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Gaugetheoriesonquantumspaces.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Noncommutative field theory from angular twist.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Gauge theories on \u03ba-Minkowski spaces.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Perturbative Thermal QCD.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Introduction to Thermal Field Theory.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Topological recursion.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Batalin-Vilkovisky Algebras, Operads,.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "On p-Adic Mathematical Physics.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "SalvatoreWahl.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "OnAtiyah-Segal axioms for Witten-type TQFTs.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "GEOMETRY OF THE DONALDSON-FRIEDMAN PUSHOUT.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "OPERADIC FORMULATION OF TOPOLOGICAL VERTEX.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Electric-Magnetic Duality.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Twistorial Methods in General Relativity.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "The holographic dual of the Penrose transform.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "SciPostPhys_13_4_099.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Holography and Twistor Theory.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "further-advances-in-twistor-theory-volume-i-the-penrose-transform-and-its-applications-0582004667-9780582004665-0470216557-9780470216552_compress.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "twistor_transform.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "GLUING NON-COMMUTATIVE TWISTOR SPACES.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "The standard model, the Pati-Salam model, and Jordan geometry.pdf",
+      "reason": "DUP of #89"
+    },
+    {
+      "title": "Spectral Geometry with Exceptional Symmetry and Charged Higgs Fields.pdf",
+      "reason": "DUP of #13"
+    },
+    {
+      "title": "Bubbles.pdf",
+      "reason": "DUP of #111"
+    },
+    {
+      "title": "Fractals.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "AI in math.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "neutrinos.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "QM.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "DeSitter.pdf",
+      "reason": "DEL"
+    },
+    {
+      "title": "Strings.pdf",
+      "reason": "DEL"
+    }
+  ],
+  "left_REV_in_potential": 36,
+  "missing": [],
+  "errors": [],
+  "remaining_pdfs_in_potential": 36,
+  "pdfs_in_References": 60,
+  "moved": [
+    "Emergent spacetime from spatial energy potentiality.pdf",
+    "THERMAL TIME AS AN UNSHARP OBSERVABLE .pdf",
+    "Page\u2013Wootters formalism.pdf",
+    "The (A)temporal Emergence of Spacetime.pdf",
+    "Spacetime is as spacetime does.pdf",
+    "Spectral Geometry with Exceptional.pdf",
+    "A CLASSICAL PHASE-BOUNDARY UNIVERSE.pdf",
+    "the magnon BEC.pdf",
+    "Real_tunneling_geometries_and_the_large.pdf",
+    "Two roads to antispacetime .pdf",
+    "Cosmological transitions with changes in the signature of the metric.pdf",
+    "Signature change in matrix model solutions.pdf",
+    "DiscreteSymmetries inCovariantLQG.pdf",
+    "Transitions to anti-spacetime.pdf",
+    "PhysRevLett.121.251301.pdf",
+    "Out_of_Nowhere_The_emergence_of_spacetim.pdf",
+    "s10052-016-3979-y.pdf",
+    "The World as a Hologram.pdf",
+    "Tomita\u2013Takesaki Modular Theory.pdf",
+    "Spacetime Fluctuations in AdS_CFT.pdf",
+    "Tomita's Modular Theory.pdf",
+    "General relativistic statistical mechanics.pdf",
+    "Thermodynamics without Time.pdf",
+    "TIME IN QUANTUM GRAVITY.pdf",
+    "Emergent Metric Space-Time from Matrix Theory.pdf",
+    "NONCOMMUTATIVE FINITE-DIMENSIONAL MANIFOLDS.pdf",
+    "randomNCGs.pdf",
+    "Von Neumann algebra automorphisms.pdf",
+    "finite sprctral triples.pdf",
+    "Carrollian representation.pdf",
+    "The n-point Exceptional Universe.pdf",
+    "the Pati-Salam model.pdf",
+    "The Uncanny Precision of the Spectral Action.pdf",
+    "Hamseddine.pdf",
+    "Spectral action approach to higher derivative gravity.pdf",
+    "Non-Associative Geometry and the Spectral Action Principle.pdf",
+    "The Spectral Action Principle.pdf",
+    "JimenezFredy_2021_HiggsNoncommutativeGeometry.pdf",
+    "In\ufb02ation mechanism in asymptotic noncommutative geometry.pdf",
+    "the-coupling-of-topology-and-inflation-in-noncommutative-3hgc0rdim3.pdf",
+    "Matilde Marcolli.pdf",
+    "Farnsworth_Shane.pdf",
+    "NCGcosmoSurvey.pdf",
+    "DANIEL KOLODRUBETZ AND MATILDE MARCOLL.pdf",
+    "Fabien Besnard, Christian Brouder.pdf",
+    "Shane Farnsworth and Latham Boyle.pdf",
+    "Mairi Sakellariadou.pdf",
+    "Bubbles2.pdf",
+    "HolographicCFT.pdf",
+    "QuantumFirstGravity.pdf",
+    "fromVacuum.pdf",
+    "Spacetime.pdf",
+    "Space_time.pdf",
+    "cosmology.pdf",
+    "Cosmology from confinement.pdf"
+  ],
+  "left": [
+    "Higgs-modular inflation.pdf",
+    "exoticsmooth.pdf",
+    "Lee Introduction to Riemannian Manifolds.pdf",
+    "Spontaneous Symmetry Breaking.pdf",
+    "a small symmetry breaking measurement device.pdf",
+    "Negative temperature for negative lapse function.pdf",
+    "Phase transitions in spinor quantum gravity on a lattice.pdf",
+    "s11229-023-04305-0.pdf",
+    "Kletetschka_2025_Three_Dimensional_Time_Primary.pdf",
+    "Breaking of Time Reversal in ADS.pdf",
+    "4d Holographic Cosmology.pdf",
+    "thermal time on the deformed Minkowski spacetime.pdf",
+    "Applications to quantum gravity C bundles.pdf",
+    "\u03ba-deformed Poincar\u00b4e quantum algebra.pdf",
+    "General Relativity and Shape.pdf",
+    "PhysRep.pdf",
+    "The Spinfoam Framework.pdf",
+    "DIFFERENTIAL AND TWISTOR GEOMETRY.pdf",
+    "The Spin-Foam Approach to Quantum Gravity.pdf",
+    "Twistor sigma models for quaternionic geometry.pdf",
+    "Noncommutative-sphere.pdf",
+    "twistors-for-new-spaces.pdf",
+    "new-spaces-in-physics-formal-and-conceptual-reflections-9781108490627-9781108854399-2020006655-2020006656-9781108854429-9781108854368-9781108490634_compress.pdf",
+    "Atul-Good_Cut_Lectures.pdf",
+    "TWISTORS CFT AND HOLOGRAPHY.pdf",
+    "TwistorTheory-Penrose_MacCallum.pdf",
+    "Lectures on twistor theory.pdf",
+    "PYTHAGOREAN SPINORS.pdf",
+    "Non-Abelian Berry Phases and BPS Monopoles.pdf",
+    "Mairi_Sakellariadou_Lecture3.pdf",
+    "NCG_Matilde Marcolli.pdf",
+    "An_entanglement_of_space_and_time_17_02_17.pdf",
+    "simons-proposal.pdf",
+    "GuageGravityDuality.pdf",
+    "QFT.pdf",
+    "The Non-Signalling theorem of Bells Inequality.pdf"
+  ],
+  "remaining_pdfs": [
+    "4d Holographic Cosmology.pdf",
+    "An_entanglement_of_space_and_time_17_02_17.pdf",
+    "Applications to quantum gravity C bundles.pdf",
+    "Atul-Good_Cut_Lectures.pdf",
+    "Breaking of Time Reversal in ADS.pdf",
+    "DIFFERENTIAL AND TWISTOR GEOMETRY.pdf",
+    "General Relativity and Shape.pdf",
+    "GuageGravityDuality.pdf",
+    "Higgs-modular inflation.pdf",
+    "Kletetschka_2025_Three_Dimensional_Time_Primary.pdf",
+    "Lectures on twistor theory.pdf",
+    "Lee Introduction to Riemannian Manifolds.pdf",
+    "Mairi_Sakellariadou_Lecture3.pdf",
+    "NCG_Matilde Marcolli.pdf",
+    "Negative temperature for negative lapse function.pdf",
+    "Non-Abelian Berry Phases and BPS Monopoles.pdf",
+    "Noncommutative-sphere.pdf",
+    "PYTHAGOREAN SPINORS.pdf",
+    "Phase transitions in spinor quantum gravity on a lattice.pdf",
+    "PhysRep.pdf",
+    "QFT.pdf",
+    "Spontaneous Symmetry Breaking.pdf",
+    "TWISTORS CFT AND HOLOGRAPHY.pdf",
+    "The Non-Signalling theorem of Bells Inequality.pdf",
+    "The Spin-Foam Approach to Quantum Gravity.pdf",
+    "The Spinfoam Framework.pdf",
+    "Twistor sigma models for quaternionic geometry.pdf",
+    "TwistorTheory-Penrose_MacCallum.pdf",
+    "a small symmetry breaking measurement device.pdf",
+    "exoticsmooth.pdf",
+    "new-spaces-in-physics-formal-and-conceptual-reflections-9781108490627-9781108854399-2020006655-2020006656-9781108854429-9781108854368-9781108490634_compress.pdf",
+    "s11229-023-04305-0.pdf",
+    "simons-proposal.pdf",
+    "thermal time on the deformed Minkowski spacetime.pdf",
+    "twistors-for-new-spaces.pdf",
+    "\u03ba-deformed Poincar\u00b4e quantum algebra.pdf"
+  ]
+}

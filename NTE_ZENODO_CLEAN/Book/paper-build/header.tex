@@ -1,0 +1,41 @@
+\usepackage{longtable,booktabs,array,tabularx}
+\usepackage{ragged2e}
+\usepackage{makecell}
+\AtBeginEnvironment{longtable}{\small}
+\AtBeginEnvironment{tabular}{\small}
+
+\usepackage{amsmath,amssymb,mathtools}
+\usepackage{microtype}
+\usepackage[none]{hyphenat}
+\emergencystretch=3em
+
+% YAML title/subtitle glyphs (text mode) → math symbols
+\usepackage{newunicodechar}
+\newunicodechar{𝕆}{\ensuremath{\mathbb{O}}}
+\newunicodechar{ℍ}{\ensuremath{\mathbb{H}}}
+\newunicodechar{ℂ}{\ensuremath{\mathbb{C}}}
+\newunicodechar{ℝ}{\ensuremath{\mathbb{R}}}
+\newunicodechar{𝒜}{\ensuremath{\mathcal{A}}}
+\newunicodechar{𝒦}{\ensuremath{\mathcal{K}}}
+\newunicodechar{ℋ}{\ensuremath{\mathcal{H}}}
+\newunicodechar{𝒟}{\ensuremath{\mathcal{D}}}
+
+% Centered publication title block (Pandoc \maketitle)
+\usepackage{titling}
+\usepackage{etoolbox}
+\pretitle{\begin{center}\LARGE\bfseries}
+\posttitle{\par\end{center}\vskip 0.75em}
+\preauthor{\begin{center}\large}
+\postauthor{\par\end{center}}
+\predate{\begin{center}\large}
+\postdate{\par\end{center}\vskip 1.5em}
+
+% Pandoc subtitle metadata → italic line under bold title
+\providecommand{\subtitle}[1]{\gdef\@pandocsubtitle{#1}}
+\gdef\@pandocsubtitle{}
+\apptocmd{\maketitle}{%
+  \ifstrempty{\@pandocsubtitle}{}{%
+    \begin{center}{\large\itshape\@pandocsubtitle}\end{center}%
+    \vskip 1em%
+  }%
+}{}{}

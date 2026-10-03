@@ -1,0 +1,4 @@
+remaining: {}
+em_dash: 207
+> **NTE Popular Paper — v10.8 · Full Edition (corpus lay paper)**  
+> **Sync note (v3 patch wave, 2026-06-14):** Internal workflow headers removed from publication deposit. Tier language: κ and m_ν₂ = clean Tier A; n_s = genuine with caveats (clean + not-derived); Λ and H₀ = β_NTE-chain-caveated tier; prior ~~1.05×~~ Λ numeric **reroute-or-retire**.

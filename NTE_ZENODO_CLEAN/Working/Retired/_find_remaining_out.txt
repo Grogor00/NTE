@@ -1,0 +1,15 @@
+﻿H\xe2\u201a\u20ac -> H\xe2\u201a\u20ac = 
+\xce\u203a -> \xce\u203a an
+\xe2\u2030\u02c6 -> \xe2\u2030\u02c6 0.
+\xe2\u02c6\u2019 -> \xe2\u02c6\u2019 \u03ba\xe2
+\xe2\u2020\u2019 -> \xe2\u2020\u2019 m_
+\u03ba\xe2\u201a\u20ac -> \u03ba\xe2\u201a\u20ac = 
+\xe2\u201e\u201a -> \xe2\u201e\u201a. T
+Pin\xe2 -> Pin\xe2\x81\xbb 
+2\xe2\u02c6\u01612 -> 2\xe2\u02c6\u01612, c
+\xce\u201d -> \xce\u201dm\xb2_
+5 \xe2\x81\xbb\xb9
+4 \xe2\x81\xb0
+2 \xe2\x81\xbb\xb3
+2 \xe2\x81\xbb
+2 \xe2\x81\xb9

@@ -1,0 +1,66 @@
+# --- Drive / sync artefacts (incident class 2026-09) ---
+*.gdoc
+*.gsheet
+*.gslides
+.tmp.drivedownload/
+.tmp.driveupload/
+**/.tmp.drivedownload/
+**/.tmp.driveupload/
+
+# --- Build / render scratch ---
+**/paper-build/scratch*/
+**/paper-build/**/scratch*/
+**/paper-build/**/*.log
+**/%TEMP%/
+*.aux
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# --- Large / regenerable PDFs (sources are .md) ---
+# Keep explicit allow-list if a PDF must be versioned; default ignore deposit PDFs.
+**/paper-build/pdf-out/**
+**/*.pdf
+
+# --- OS / editor ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Secrets / credentials ---
+.env
+.env.*
+!.env.example
+**/credentials.json
+**/client_secret*.json
+**/*secret*
+**/*token*.json
+**/google_token*
+**/.cursor_autonomous_toggle.json
+
+# --- Autonomous runtime noise (regenerable) ---
+**/Workflow/.cursor_autonomous_chain/**
+**/Workflow/.cursor_autonomous_agent_inbox/**
+**/Workflow/.cursor_autonomous_seen_*.json
+**/Workflow/.cursor_autonomous_*.log
+**/Workflow/.cursor_autonomous_pids.json
+**/Workflow/.cursor_handoff_sweep_state.json
+**/Workflow/.cursor_exec_queue.json
+
+# --- Local scratch / duplicates ---
+**/New folder/**
+**/* - Copy.*
+**/*_PRE_RESTORE_*
+**/NTE_Workflow_Manifest_v10_18_PRE_RESTORE_*.md
+
+# --- Optional bulky archives inside tree ---
+**/*.zip
+**/*.7z
+**/*.rar

@@ -1,0 +1,17 @@
+{
+  "stage": 5,
+  "raw_nu_L2_nu_R2_block": 0.7,
+  "magnitude_status": "FREE (Stage 0 outcome ii)",
+  "assembled_8pi_branch": 0.2389744221393535,
+  "assembled_4pi_branch": 0.30108890483983486,
+  "target_8pi_inv3": 0.34139203162764786,
+  "target_4pi_inv3": 0.4301270069140498,
+  "rel_error_8pi_branch_vs_target": 0.30000000000000004,
+  "rel_error_4pi_branch_vs_target": 0.30000000000000004,
+  "rel_error_8pi_prefactor_only": 0.0,
+  "rel_error_4pi_prefactor_only": 0.0,
+  "BUILD_SPEC_outcome": "ii",
+  "outcome_reason": "M_IJ magnitudes FREE (Stage 0); raw block is explicit input \u2014 cannot claim derived Y_nu2 numeric. Geometric (8pi)^(-1/3) prefactor matches corpus target at scaffold level; 4pi branch does not.",
+  "decisive_4pi_vs_8pi": "OPEN \u2014 envelope/associator ordering (Stage 2.2) not computed",
+  "power_note": "Scaffold uses volumetric (-1/3); L2 overlap would give (-1/2) \u2014 flag if only -1/2 appears"
+}

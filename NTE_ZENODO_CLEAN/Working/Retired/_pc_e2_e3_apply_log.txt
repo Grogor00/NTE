@@ -1,0 +1,12 @@
+OK E2-1 Chapter_12_The_Chord_v3_1.md
+OK E2-2 Chapter_12_The_Chord_v3_1.md
+OK E2-3 Chapter_15_The_Score_v2.md
+OK E2-4 Chapter_15_The_Score_v2.md
+OK E2-5 Chapter_15_The_Score_v2.md
+OK E2-6 Chapter_15_The_Score_v2.md
+OK E3-1 Chapter_9_The_Number_That_Could_Have_Failed_v3.md
+OK E3-3a Chapter_9_The_Number_That_Could_Have_Failed_v3.md
+OK E3-4 Chapter_9_The_Number_That_Could_Have_Failed_v3.md
+OK E3-2 Ch9
+OK E3-3b Ch9
+OK E3-5 Ch12

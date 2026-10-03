@@ -1,0 +1,571 @@
+Zero-Parameter Solar Neutrino Mass from a Yukawa Duality on the Hopf
+Flux Line
+G. White
+2026-06-01 (v0.3 Zenodo prep — CR2 B1 honest-scope)
+
+Independent Researcher, Auckland, New Zealand
+Email: gregwhite00@gmail.com
+Abstract
+The seesaw mechanism for Majorana light neutrinos links observed sub-eV masses to a heavy right-handed
+Majorana scale 𝑀𝑅 through 𝑚𝜈 = 𝑌 2 𝑣 2 /𝑀𝑅 , with 𝑌 the Dirac Yukawa coupling and 𝑣 = 246 GeV the
+electroweak vacuum expectation value. In most extensions of the Standard Model the values of {𝑌𝑖 }
+and 𝑀𝑅 are independent inputs constrained by observation. We present a structural prediction for
+the second-generation neutrino Yukawa, 𝑌𝜈2 = (8𝜋)−1/3 ≈ 0.341, derived as the dual normalisation of
+the cube-root prefactor that fixes the heaviest Majorana mass scale 𝑀1 in Non-Temporal Emergence
+(NTE)—the Null-Time Extension to the Standard Model—on a Hopf-bundle three-sphere geometry.
+Combined with the right-handed Cartan mass scale 𝑀𝑅 = 8.2 × 1014 GeV (set independently by the
+heaviest light-neutrino mass in the framework), the solar mass scale predicted is
+
+𝑚𝜈2 =
+
+2
+(8𝜋)−2/3 𝑣EW
+= 0.00860 eV,
+𝑀𝑅
+
+2 = 0.00866 eV. The prediction is not fitted to Δ𝑚2 .
+a factor 0.993× the central NuFIT 5.3 value of √Δ𝑚21
+21
+Honest scope (CR2 / B1, 2026-06-01): the same single 𝑀𝑅 gives 𝑚𝜈3 = 0.0738 eV, which is ≈ 1.49× the
+2 ≈ 0.0495 eV (PDG 2024 Δ𝑚2 = 2.453 × 10−3 eV2 ) — consistent
+normal-ordering atmospheric scale √Δ𝑚31
+31
+with the master corpus §19.2 (“within factor 1.5”), not a simultaneous sub-1% fit. The structural mass-ratio
+2 /Δ𝑚2 ≈ 5.82 by the same factor.
+prediction 𝑚𝜈3 /𝑚𝜈2 = (8𝜋)2/3 ≈ 8.57 overshoots the observed √Δ𝑚31
+21
+Solar-scale agreement alone is the load-bearing Tier A test; atmospheric consistency remains open. No
+observational input from the cosmological-constant chain enters the solar derivation. The first-generation
+Yukawa 𝑌𝜈1 , the charged-lepton Yukawas, and the full Dirac mass matrix from the finite algebra remain
+open work. We give the geometric derivation, the seesaw arithmetic, the cross-check (with corrected
+comparand), and five falsifiers.
+
+Keywords: neutrino masssaw mechanism; Yukawa couplings; Hopf bundle; spectral geometry; precision
+neutrino physics
+arXiv categories: hep-ph (primary); astro-ph.CO; math-ph
+1
+
+1. Introduction
+The seesaw mechanism remains the most economical explanation of the observed sub-eV neutrino mass
+scale: a Standard Model singlet right-handed neutrino with Majorana mass 𝑀𝑅 at high scale, coupled to
+the left-handed neutrino through a Dirac Yukawa 𝑌 , generates light-neutrino mass
+𝑚𝜈 =
+
+2
+𝑌 2 𝑣EW
+,
+𝑀𝑅
+
+𝑣EW = 246 GeV,
+
+through the standard type-I integration of the heavy right-handed mode [1-4]. The mechanism is
+structurally elegant; the values {𝑌𝑖 , 𝑀𝑅 } are not. In the Standard Model with right-handed neutrinos added,
+2
+both the Yukawa entries and the Majorana scale are free parameters, fit to observed mass splittings Δ𝑚21
+2
+9
+15
+and Δ𝑚31 [5,6]. The natural-scale puzzle — why the lightest seesaw scale sits near 10 –10 GeV rather
+than at the Planck or electroweak scales — is unresolved within the Standard Model.
+This Letter reports a structural prediction for the second-generation neutrino Yukawa 𝑌𝜈2 from
+Non-Temporal Emergence (NTE)—the Null-Time Extension to the Standard Model—in which the
+universe’s three-dimensional spatial topology is a closed three-sphere 𝑆 3 carrying a Hopf-bundle
+structure, and in which the Standard Model gauge group emerges at a “gauge birth” transition from an
+algebraic reduction at the geometric scale of the 𝑆 3 boundary [7-9]. The framework’s heaviest Majorana
+mass scale 𝑀1 is fixed structurally by a BPS-saturating tree-level closure with a characteristic cube-root
+prefactor (8𝜋)1/3 , derived from the geometry of the 𝑆 3 Hopf fibration and the corpus’s spectral-action
+computation on the manifold 𝑀 = Hopf-𝑆 3 × 𝑆𝛽1GB × 𝐴𝐹 where 𝐴𝐹 is the framework’s finite (algebraic)
+sector [9,10].
+The new content of this paper is the recognition that the Yukawa coupling on the same Hopf flux line
+carries the inverse of the Majorana prefactor:
+𝑌𝜈2 = (8𝜋)−1/3 .
+This is a duality identification, not a fit. The Majorana mass scales as (flux/𝑉 )1/3 (volumetric cube root
+on the flux line); the Dirac Yukawa coupling on the same line scales as (flux/𝑉 )−1/3 , the dual exponent.
+Combined with the framework’s independent fix of the right-handed Cartan mass scale 𝑀𝑅 from the
+2 /𝑀 (an internal consistency check we verify below), the seesaw
+heaviest light-neutrino mass 𝑚𝜈3 = 𝑣EW
+𝑅
+formula gives
+
+𝑚𝜈2 =
+
+2
+(8𝜋)−2/3 𝑣EW
+= 0.00860 eV,
+𝑀𝑅
+
+2 = 0.00866 eV [5,6]. The match is within
+which is 0.993× the central NuFIT 5.3 / PDG 2024 value of √Δ𝑚21
+current 1𝜎 observational precision.
+
+The framework’s prediction landscape places this result in a tier-register distinct from its prediction
+for the cosmological constant: structural unimodular quietness for Λ stands; the prior numeric 1.05×
+closure chain is retired (𝑎4 = 0 on the canonical operator). Any Λ parity contrast is structural only —
+the framework’s 𝛽NTE -coupling characterisation uses observational inputs including ΩΛ , producing what
+2
+
+the framework calls an “𝛽NTE -chain caveat” tier in the same epistemic family as the Hubble parameter
+𝐻0 . The present prediction does not invoke 𝛽NTE at any step of its derivation. It is a clean genuine test:
+zero-parameter; derived from electroweak vacuum expectation value and the Hopf-bundle geometric
+sector alone; with no upstream observational anchoring from the cosmological-constant chain.
+This Letter is submitted jointly with a companion math-physics preprint [14] that establishes the geometric
+uniqueness of the framework’s substrate manifold. The companion result is that 𝑀 = 𝑆 3 × 𝑆 1 is the unique
+closed product manifold of the form 𝑆 𝑝 × 𝑆 𝑞 on which the combined Weyl–Euler trace-anomaly vanishes
+identically, with 𝑝 = 3 uniquely satisfying both Weyl-flatness and Euler-zero. The companion preprint
+establishes the possibility space (what geometry can host this physics); the present Letter establishes the
+empirical signature (what mass scale emerges on that geometry). Read together, the pair points at one
+structural substrate from two directions: the framework’s Hopf-bundle 𝑆 3 structure as both a unique
+mathematical object under the trace-anomaly constraint and as the host of a zero-parameter prediction
+for the solar neutrino mass scale at 0.993× observed value.
+§2 defines the framework’s neutrino mass-eigenmode ontology and the assignment of the three
+light-neutrino masses to the three eigenmodes of the framework’s unresolved su(2) Cartan structure. §3
+reviews the cube-root Majorana prefactor and presents its Dirac dual. §4 gives the seesaw arithmetic
+2 (CR2 B1 honest scope — not simultaneous
+and the 0.993× match. §5 cross-checks 𝑚𝜈3 at ≈ 1.49× √Δ𝑚31
+sub-1%). §6 places the result in the framework’s tier register and lists five falsifiers, the strongest being the
+mass-ratio test 𝑚𝜈3 /𝑚𝜈2 = (8𝜋)2/3 vs observed. §7 lays out the remaining programme: the first-generation
+Yukawa, the charged-lepton Yukawas, and the full Dirac mass matrix from the framework’s finite algebra
+all remain open.
+
+2. The Neutrino Mass-Eigenmode Ontology
+The framework treats the three light neutrinos as eigenmodes of the unresolved su(2) Cartan decomposition
+of the right-handed neutrino sector relative to the direction set by the Higgs vacuum expectation value
+[9]. In the standard generator basis {𝜎1 , 𝜎2 , 𝜎3 } where 𝜎3 is aligned with the Higgs VEV direction, the three
+eigenmodes carry distinct geometric structure on the 𝑆 3 Hopf bundle. The geometric uniqueness of 𝑆 3 × 𝑆 1
+as the framework’s substrate manifold under the trace-anomaly constraint is established in the companion
+preprint [14].
+• The 𝜎1 and 𝜎2 modes carry the Hopf flux quantisation, lying transverse to the Cartan direction
+and sourcing the heaviest-and-second-heaviest Majorana masses through the framework’s
+BPS-saturating geometric closure.
+• The 𝜎3 mode is the Cartan direction itself, decoupled from the Hopf flux line, carrying the
+right-handed Cartan mass scale 𝑀𝑅 that anchors the heaviest light-neutrino seesaw.
+The framework’s assignment of light-neutrino mass eigenstates to these structural modes is
+Eigenmode
+
+Pauli direction
+
+Right-handed scale
+
+𝜈1
+
+𝜎1
+
+𝜈2
+
+𝜎2
+
+𝑀1 from Hopf-flux BPS
+closure (Pathway 𝛼
+[10])
+𝑀2 = 𝑀1 (1 + sin2 𝜃13 )
+from 𝑍2 split on the
+𝜎1 /𝜎2 pair [12]
+3
+
+Light-neutrino mass
+route
+First-generation
+Yukawa bracket (open)
+This paper
+
+Eigenmode
+
+Pauli direction
+
+Right-handed scale
+
+𝜈3
+
+𝜎3 (Cartan)
+
+𝑀3 = 𝑀𝑅 from heaviest
+light-neutrino
+consistency
+
+Light-neutrino mass
+route
+2 /𝑀 (cross𝑚𝜈3 = 𝑣EW
+𝑅
+check)
+
+The 𝑍2 split between 𝑀1 and 𝑀2 is the same 𝜎1 ↔ 𝜎2 exchange that underwrites the framework’s prediction
+of maximal atmospheric mixing 𝜃23 = 𝜋/4 at leading order [13]. Both predictions share the same 𝑍2
+generator at the Cartan structure level.
+The seesaw reading is non-standard in one crucial respect: the coupling line for the second-generation
+light neutrino is on 𝜎1 /𝜎2 (carrying the inverse Hopf-flux normalisation), but the seesaw denominator is
+the Cartan-sector scale 𝑀𝑅 , not the Majorana scale 𝑀2 . This distinction is load-bearing and we address it
+in §4.
+
+3. The Cube-Root Prefactor and Its Dual
+The framework’s heaviest Majorana mass scale is set by a BPS-saturating tree-level closure on the
+Hopf-bundle flux line at the gauge-birth temperature:
+2 𝐻 )
+𝑀1 = (8𝜋)1/3 (𝑀Pl
+GB
+
+1/3
+
+⋅ (1 + 𝑐 (𝜇/𝑀)2 ),
+
+𝑐 ≈ 0.97,
+
+with 𝑀Pl the reduced Planck mass, 𝐻GB the Hubble parameter at gauge birth, and the leading numerical
+correction factor ≈ 1.12 closed at tree level by sub-leading sources [10,15]. The closure gives 𝑀1 ≈ 5.42 ×
+109 GeV at central values. Tree-level uniqueness of the prefactor (8𝜋)1/3 — eliminating the candidate
+alternatives (4𝜋)1/3 and (12𝜋)1/3 — was established in the framework’s spectral-action consolidation paper
+[15, §3]. The (8𝜋) structure combines Majorana doubling (a factor of 2 from the Weyl-pair-to-Majorana
+identification) with a three-dimensional volumetric prefactor (a factor of 4𝜋 from the unit-three-sphere
+volume), giving 8𝜋 as the only consistent tree-level combination.
+The key observation of this Letter is geometric: on the same Hopf flux line that gives Majorana mass
+scaling as (flux/𝑉 )1/3 , the Dirac Yukawa coupling scales as (flux/𝑉 )−1/3 — the dual exponent. The
+reason is dimensional: the Majorana mass dimension is mass-1, requiring a flux-cube-root normalisation;
+the Yukawa coupling is dimensionless, with a Higgs vacuum expectation value 𝑣EW supplying the
+mass dimension downstream. The geometric reading is that the Hopf-Killing-spinor flux supports a
+Majorana-Dirac duality at the cube-root level, in which the BPS-saturating prefactor on the Majorana
+side becomes its inverse on the Dirac side:
+𝑌𝜈2 = (8𝜋)−1/3 ≈ 0.341.
+This is the dual of the Majorana cube-root prefactor, not an independent structural quantity. If the
+framework’s tree-level Majorana closure stands, the Yukawa duality stands collectively; if either fails, the
+duality fails with it. The vulnerability is shared.
+
+4
+
+4. The Seesaw Formula and the Solar Mass Scale
+4.1 Canonical zero-parameter formula
+Combining the dual Yukawa from §3 with the right-handed Cartan mass scale 𝑀𝑅 from the heaviest
+light-neutrino consistency (§5), the canonical seesaw expression for the second-generation light neutrino
+mass is
+
+𝑚𝜈2 =
+
+2
+(8𝜋)−2/3 𝑣EW
+𝑀𝑅
+
+with 𝑀𝑅 = 8.2 × 1014 GeV [9, §19.7; 15, §8.2] and 𝑣EW = 246 GeV. Evaluating:
+𝑚𝜈2 = (8𝜋)−2/3 ×
+
+(246 GeV)2
+= 0.00860 eV.
+8.2 × 1014 GeV
+
+The comparison to NuFIT 5.3 [6] and PDG 2024 [5]:
+Quantity
+
+NTE prediction
+
+Observed
+
+Ratio
+
+𝑚𝜈2
+2
+Δ𝑚21
+
+0.00860 eV
+7.40 × 10−5 eV2
+
+0.993×
+0.988×, within 1𝜎
+
+2
+Δ𝑚21
+
+7.40 × 10−5 eV2
+
+2
+√Δ𝑚21 = 0.00866 eV
+7.49 ± 0.19 × 10−5 eV2
+(NuFIT 5.3 NO) [6]
+7.53 ± 0.18 × 10−5 eV2
+(PDG 2024) [5]
+
+0.983×, within 1𝜎
+
+The mass-value comparison 𝑚𝜈NTE
+/𝑚𝜈obs
+= 0.993 is the directly meaningful test (the prediction is a mass
+2
+2
+scale, not a squared splitting). The framework’s prediction is not fitted to the solar mass splitting at any
+step of its derivation; 𝑣EW is the electroweak scale, 𝑀𝑅 is anchored by the heaviest light-neutrino mass
+(§5), and the cube-root prefactor is structural from the Hopf-bundle BPS closure.
+4.2 Critical seesaw denominator discipline
+A naive misreading of the prediction — applying the dual Yukawa (8𝜋)−1/3 in the seesaw formula with the
+second-generation Majorana scale 𝑀2 ≈ 6.18 × 109 GeV in the denominator — would give
+=
+𝑚𝜈naive
+2
+
+2
+(8𝜋)−2/3 𝑣EW
+≈ 1142 eV,
+𝑀2
+
+which is approximately 1.3 × 105 times the observed solar mass scale and ruled out at ∼ 105 𝜎 . The
+discipline-preserving formula requires the right-handed Cartan-sector denominator 𝑀𝑅 , not the
+Majorana-sector denominator 𝑀2 , for the light second-generation neutrino. This is the framework’s
+load-bearing reading of the seesaw structure: the Hopf-Killing-spinor coupling supports the Yukawa on
+the 𝜎1 /𝜎2 sector with inverse normalisation, but the seesaw integration runs through the Cartan-sector
+right-handed scale 𝑀𝑅 . The mechanism by which 𝑀𝑅 enters the denominator for both 𝜈2 and 𝜈3 is the
+framework’s PMNS-mixing through the 𝜎3 Cartan, an open programme item we discuss in §7.
+
+5
+
+4.3 Equivalent 𝑀2 parametrisation
+An algebraically equivalent form can be written using the Majorana scale 𝑀2 in the denominator with the
+Yukawa coupling carrying an additional factor √𝑀1 /𝑀𝑅 :
+𝑚𝜈2 =
+
+2
+𝑌𝜈22 𝑣EW
+
+𝑀2
+
+,
+
+𝑌𝜈2 = (8𝜋)−1/3 √𝑀1 /𝑀𝑅 ,
+
+with 𝑀1 ≈ 6.04 × 109 GeV and 𝑀2 ≈ 6.18 × 109 GeV from the framework’s 𝑍2 split. This form gives
+𝑚𝜈2 = 0.00841 eV, a factor 0.972× the observed solar mass scale (within 2𝜎), differing from the canonical
+𝑀𝑅 form by ≈ 2% from the sin2 𝜃13 split. Both forms are derivationally equivalent; the 𝑀𝑅 form is the
+cleaner statement of the underlying duality.
+
+5. Cross-Check: The Atmospheric Mass Scale (honest scope)
+The framework’s assignment of 𝑀𝑅 is anchored by the heaviest light-neutrino mass through the
+Cartan-sector Yukawa 𝑌3 = 1 (no Hopf-flux normalisation; the 𝜎3 mode is Cartan-aligned):
+𝑚𝜈3 =
+
+2
+2
+𝑌32 𝑣EW
+𝑣EW
+=
+.
+𝑀𝑅
+𝑀𝑅
+
+With 𝑀𝑅 = 8.2 × 1014 GeV this gives 𝑚𝜈3 = 0.0738 eV. The comparison to observation uses the
+2 (not 𝑚 in isolation):
+normal-ordering atmospheric scale √Δ𝑚31
+3
+
+Quantity
+
+NTE prediction
+
+𝑚𝜈2
+
+0.00860 eV
+
+𝑚𝜈3 (from same 𝑀𝑅 )
+
+0.0738 eV
+
+Observed (NuFIT 5.3 /
+PDG 2024)
+2
+√Δ𝑚21 = 0.00866 eV
+2
+√Δ𝑚31 =
+
+Ratio
+0.993×
+≈ 1.49×
+
+√2.453 × 10−3 ≈ 0.0495
+eV
+Structural ratio test: the framework predicts 𝑚𝜈3 /𝑚𝜈2 = (8𝜋)2/3 ≈ 8.57.
+
+The observed ratio
+
+2
+2
+√Δ𝑚31 /Δ𝑚21 ≈ 5.82. A single 𝑀𝑅 cannot anchor both legs at sub-1% — anchoring solar (0.993×)
+forces atmospheric off by ≈ 8.57/5.82 ≈ 1.47. This matches the master corpus §19.2 honesty (“within
+factor 1.5”); prior standalone wording that claimed 0.997× atmospheric comparand used an incorrect
+2
+√Δ𝑚31 value and is retracted (CR2 B1).
+The solar prediction §4 remains the load-bearing Tier A test; atmospheric consistency is open, not a
+simultaneous-fit success.
+
+6. Tier Register and Falsifiers
+6.1 Tier register
+The framework distinguishes three tiers of prediction by the degree of upstream observational anchoring
+in the derivation chain:
+6
+
+• Clean genuine test (Tier A): zero-parameter; derivation uses only electroweak vacuum expectation
+value 𝑣EW and the framework’s geometric Hopf sector; no upstream observational input from the
+cosmological-constant chain (the framework’s 𝛽NTE coupling) enters the derivation.
+• Genuine test with 𝛽NTE -chain caveat (Tier B): zero-parameter in the closure mathematics, but the
+framework’s empirical characterisation of 𝛽NTE uses the observed dark-energy density ΩΛ as input,
+so observational anchoring enters the prediction upstream through the 𝛽NTE chain.
+• Framework-dependent identification (Tier B): the prediction is structural but the identification
+with the observable requires framework-specific reading (e.g., the framework’s identification of dark
+matter with cross-thickness gravity).
+The present prediction sits in Tier A for the solar leg only: 𝑣EW is measured, 𝑀𝑅 is a structural input
+2 (§5) —
+(confluence tier), and (8𝜋)−1/3 is structural. Atmospheric leg: same 𝑀𝑅 gives 𝑚𝜈3 at ≈ 1.49× √Δ𝑚31
+not Tier A simultaneous-fit status. No 𝛽NTE -chain input enters the solar derivation.
+
+The parity contrast is structural: Λ’s promotion path to the framework’s clean tier requires deriving 𝛽NTE
+without observational inputs; the prior 1.05× numeric chain is retired pending genuine reroute. The
+present prediction sits on the clean side natively for the solar leg.
+The framework’s other predictions at v10.17.2 include the primordial spectral index 𝑛𝑠 = 0.9685 from
+the spectral-action programme on the Hopf-bundle manifold [15, §6] — genuine with stated caveats
+(clean Tier-A: did not feed 𝛽NTE ; not derived: profile-contingent per Companion 8 F4) — and the present
+prediction for 𝑚𝜈2 at the solar scale. The 𝑚𝜈3 cross-check is structural input consistency, not a second
+clean Tier A hit.
+6.2 Falsifiers
+Five falsifiers tighten the test:
+2 = 7.40 × 10−5 eV2 sits at ∼ 0.5𝜎 from the
+1. Solar mass splitting precision: the present prediction Δ𝑚21
+NuFIT 5.3 central value [6] and PDG 2024 central value [5]. Falsification threshold: if future precision
+2 to fall outside 7.40±0.55×10−5
+data from JUNO [16], KamLAND-Zen [17], or Hyper-K [18] shift Δ𝑚21
+2
+eV (the framework’s prediction shifted by 3𝜎 in current measurement precision units), the (8𝜋)−1/3
+Dirac duality fails at > 3𝜎 with the framework’s 𝑀𝑅 fixed.
+
+2. Direct 𝑌𝜈2 measurement: any measurement of the leading-order Dirac neutrino Yukawa coupling
+away from (8𝜋)−1/3 = 0.341 at > 3𝜎 without higher-loop corrections consistent with the D5 closure
+falsifies the duality identification. Direct measurement at this precision is not currently accessible
+(it would require resolving seesaw-scale physics at collider energies or in precision electroweak
+observables); the falsifier is included for completeness with indirect testability via the mass splittings.
+3. Inverted hierarchy resolution: the framework’s mode assignment specifically requires normal mass
+ordering (𝑚𝜈1 < 𝑚𝜈2 < 𝑚𝜈3 ). The Cartan-sector 𝜎3 mode carries the heaviest mass through 𝑀𝑅 ; the
+inverse-Hopf-flux 𝜎1 /𝜎2 pair carries the lightest two. If JUNO [16] confirms inverted ordering at
+> 3𝜎 , the framework’s 𝜎3 → 𝑀𝑅 assignment for the heaviest light-neutrino fails, and the present
+derivation fails with it.
+4. 𝑀2 -only seesaw: any reading that places the dual Yukawa (8𝜋)−1/3 against the second-generation
+Majorana scale 𝑀2 alone (without the additional √𝑀1 /𝑀𝑅 factor or the canonical 𝑀𝑅 denominator)
+gives ∼ 1142 eV and is empirically dead at ∼ 105 𝜎 . The seesaw structure with 𝑀𝑅 in the denominator
+is not an interpretive choice but a load-bearing discipline; any reading that breaks it falsifies the
+framework.
+7
+
+5. Mass-ratio coherence (replaces withdrawn simultaneous-fit claim): the framework predicts
+2 /Δ𝑚2 away from this ratio at > 3𝜎 while
+𝑚𝜈3 /𝑚𝜈2 = (8𝜋)2/3 ≈ 8.57. If precision data drives √Δ𝑚31
+21
+
+holding 𝑚𝜈2 at (8𝜋)−2/3 𝑣 2 /𝑀𝑅 , the single-𝑀𝑅 σ₃-Cartan assignment fails. Current data already place
+
+2 — the test is whether future precision narrows or widens
+the atmospheric leg at ≈ 1.49× √Δ𝑚31
+that gap relative to the predicted ratio.
+
+7. The Remaining Programme
+This paper closes the second-generation entry in the framework’s neutrino Yukawa programme. What
+remains open:
+• First-generation Yukawa 𝑌𝜈1 : an illustrative bracket using the framework’s 𝑍2 split and the observed
+sin 𝜃13 mixing gives 𝑌𝜈1 ∼ 1.4 × 10−4 , consistent with the cosmological sum bound 𝑚𝜈1 ≲ 0.037 eV
+[7,19]. The bracket is not zero-parameter; full closure requires the framework’s embedding-depth
+structure on the finite algebra 𝐴𝐹 , an open programme item.
+• Charged-lepton Yukawas 𝑌𝑒 , 𝑌𝜇 , 𝑌𝜏 : the framework’s “sunshine exit” partial closure on
+charged-lepton mass ratios is at high precision (𝑚𝜇 /𝑚𝑒 at ∼ 0.1%, 𝑚𝜏 /𝑚𝜇 at ∼ 7% [9, §22.1]);
+the absolute charged-lepton scale is at working closure with a partial flag on the Dirac prefactor
+derivation. The full charged-lepton Yukawa closure remains an open programme item.
+• Full neutrino Dirac mass matrix from the finite algebra 𝐷𝐹 : the framework’s spectral-triple
+structure determines the full {𝑌𝜈𝑖 } from the Dirac operator on 𝐴𝐹 at the gauge-birth boundary.
+Closing this matrix ab initio is an open programme item, the natural extension of the present
+second-generation result to the first and third generations.
+• PMNS mixing structure and the 𝑀𝑅 denominator mechanism: the load-bearing seesaw discipline
+(§4.2) requires the 𝑀𝑅 Cartan-sector denominator for the light 𝜈2 , mechanistically through
+the framework’s PMNS-mixing structure on the 𝜎3 Cartan. Ab initio derivation of the mixing
+mechanism that places 𝑀𝑅 in the seesaw denominator for 𝜈2 — rather than the naive 𝑀2 — is an
+open programme item.
+The present prediction stands or falls collectively with the cube-root Majorana prefactor it dualises. If the
+framework’s tree-level 𝑀1 closure holds, the 𝑌𝜈2 = (8𝜋)−1/3 duality holds; the 0.993× match to the observed
+solar mass scale becomes a structural prediction rather than a parameter fit. If either fails, both fail. The
+collective vulnerability is the test’s epistemic strength.
+
+8. Conclusion
+The second-generation neutrino Yukawa coupling 𝑌𝜈2 = (8𝜋)−1/3 ≈ 0.341 emerges as the dual
+normalisation of the cube-root Majorana prefactor that fixes the heaviest right-handed neutrino
+mass scale in the NTE framework, derived from the geometry of the Hopf-Killing-spinor flux line
+on the framework’s 𝑆 3 Hopf-bundle structure. Combined with the right-handed Cartan mass scale
+2 /𝑀 — the
+𝑀𝑅 = 8.2 × 1014 GeV — independently anchored by the heaviest light-neutrino mass 𝑚𝜈3 = 𝑣EW
+𝑅
+seesaw formula gives the second-generation light-neutrino mass
+2 /𝑀 = 0.00860 eV,
+𝑚𝜈2 = (8𝜋)−2/3 𝑣EW
+𝑅
+2 . The match is not fitted to the solar
+a factor 0.993× the central NuFIT 5.3 / PDG 2024 value of √Δ𝑚21
+
+8
+
+2 —
+mass splitting at any step of the derivation. The same 𝑀𝑅 gives 𝑚𝜈3 = 0.0738 eV at ≈ 1.49× √Δ𝑚31
+
+solar-leg Tier A only; atmospheric consistency and mass-ratio 𝑚𝜈3 /𝑚𝜈2 = (8𝜋)2/3 ≈ 8.57 vs observed ≈
+5.82 remain open (CR2 B1). No upstream cosmological-constant-chain dependency in the solar derivation.
+Five falsifiers tighten the solar test; the strongest collective test is mass-ratio coherence, not a withdrawn
+simultaneous sub-1% fit claim. The first-generation Yukawa, the charged-lepton Yukawas, and the full
+Dirac mass matrix from the framework’s finite algebra remain open work.
+This Letter is submitted jointly with companion preprint [14], which establishes the geometric uniqueness
+of the 𝑆 3 × 𝑆 1 substrate manifold under the trace-anomaly constraint. The pair points at one structural
+substrate from two directions: a unique mathematical object under the Weyl–Euler trace-anomaly
+constraint (companion preprint), and the empirical signature of a zero-parameter solar neutrino mass
+scale at 0.993× observed value on that geometry (this Letter).
+
+Acknowledgements
+The author thanks the working-context streams in the NTE corpus development for adversarial review at
+the Majorana-Dirac duality identification and at the seesaw denominator discipline.
+
+Data Availability
+This work uses publicly available observational data from PDG 2024 [5], NuFIT 5.3 [6], and Planck 2018 +
+BAO [19]. No new experimental data is reported.
+
+References
+[1] P. Minkowski, μ -> eγ at a rate of one out of 10^9 muon decays?, Phys. Lett. B 67 (1977) 421.
+[2] M. Gell-Mann, P. Ramond, R. Slansky, in Supergravity, eds. P. van Nieuwenhuizen and D. Z. Freedman,
+North Holland, Amsterdam (1979).
+[3] T. Yanagida, in Workshop on the Unified Theory of Baryon Number in the Universe, eds. A. Sawada and
+A. Sugamoto, KEK, Tsukuba (1979).
+[4] R. N. Mohapatra and G. Senjanović, Neutrino mass and spontaneous parity nonconservation, Phys.
+Rev. Lett. 44 (1980) 912.
+[5] S. Navas et al. (Particle Data Group), Review of Particle Physics, Phys. Rev. D 110 (2024) 030001.
+[6] I. Esteban, M. C. Gonzalez-Garcia, M. Maltoni, T. Schwetz, A. Zhou, The fate of hints: updated global
+analysis of three-flavor neutrino oscillations, JHEP 09 (2020) 178; NuFIT 5.3 (2024), online at www.nu-fit.org.
+[7] G. White, NTE Master Corpus v10.17.2: Foundations, Structure, and Accounting (Tier 2g), working
+document (2026); §22.1 (charged-lepton and neutrino Yukawa programme); §17.5.17 (𝑀2 closure); §17.5.20
+(prediction register).
+[8] G. White, Companion Paper 7: Neutrino as Chirality Superposition on the σ-Mode Cartan Structure, NTE
+v10.17.2 (2026).
+[9] G. White, Companion Paper 12: Spectral Chord Closure on the Hopf-Bundle Spectral Triple, NTE v10.17.2
+(2026).
+9
+
+[10] G. White, Companion Paper 10: The Heaviest Majorana Mass Scale from Pathway α and the D5 BPS
+Closure, NTE v10.17.2 (2026).
+[11] G. White, Companion Paper 11: The Cosmological Constant from Unimodular Closure on the Hopf-Bundle
+Spectral Triple, NTE v10.17.2 (2026).
+[12] G. White, Jammer M_2 Z_2 Split Derivation, NTE Working v0.1 (2026).
+[13] G. White, Paper P4: Maximal Atmospheric Mixing from the σ_1 ↔ σ_2 Z_2 Symmetry, NTE standalone
+preprint v0.1 (2026).
+[14] G. White, Paper E1: The F1 Identity and S³ × S¹ Uniqueness from the Trace Anomaly, NTE standalone
+preprint v0.2 (2026); jointly submitted companion to this Letter.
+[15] G. White, Paper S2 v1.0 Consolidation: Spectral Chord and Six-Note Closure on the NTE Spectral Triple,
+NTE Programme S (2026); §3 (D5 BPS prefactor tree-level uniqueness); §6 (spectral index 𝑛𝑠 from 𝐾 (Φ) = 1);
+§8.1 (𝑀1 cross-check); §8.2 (𝑀𝑅 Hopf 3:1 structure).
+[16] F. P. An et al. (JUNO Collaboration), Neutrino Physics with JUNO, J. Phys. G 43 (2016) 030401; updated
+programme arXiv:2310.20018 (2023).
+[17] S. Abe et al. (KamLAND-Zen Collaboration), Search for Majorana Neutrinos with the Complete
+KamLAND-Zen Dataset, Phys. Rev. Lett. 130 (2023) 051801.
+[18] K. Abe et al. (Hyper-Kamiokande Collaboration), Hyper-Kamiokande Design Report, arXiv:1805.04163
+(2018).
+[19] N. Aghanim et al. (Planck Collaboration), Planck 2018 results. VI. Cosmological parameters, Astron.
+Astrophys. 641 (2020) A6.
+
+Manuscript prepared for submission to Phys. Lett. B (primary) / Phys. Rev. D (fallback). arXiv categories:
+hep-ph (primary), astro-ph.CO, math-ph. Joint submission with companion math-physics preprint [14].
+Date: 2026-06-01 (v0.3 Zenodo prep).
+Corresponding author: G. White, gregwhite00@gmail.com.
+
+10
+
+

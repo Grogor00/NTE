@@ -1,0 +1,9 @@
+AQ1-AQ3: ok=[1, 2, 3] miss=[] multi=[] -> Chapter_08_The_Unresolved_Particle_v7.md
+AS1: ok=[1] miss=[] multi=[] -> Chapter_11_What_the_Universe_Sounds_Like_v5.md
+AT1-AT4+AU3_rename: ok=[1, 2, 3, 4] miss=[] multi=[] -> Chapter_14_Strange_Geometries_and_Structural_Rhymes_v2_3.md
+T1-T2: ok=[1, 2] miss=[] multi=[] -> Chapter_09_The_Number_That_Could_Have_Failed_v6.md
+AF3+AU3_AppC_rename: ok=[1] miss=[] multi=[] -> Appendix_C_The_Open_Ledger_v1_7.md
+AG1-AG6: ok=[1, 2, 3, 4, 5, 6] miss=[] multi=[] -> Chapter_17_The_Working_Bet_v4.md
+AD1-AD2: ok=[1, 2] miss=[] multi=[] -> Chapter_16_Stranger_and_Stranger_v3.md
+AC1-AC3_coherence_mass: ok=['coherence length x8', 'forty megaparsecs x1'] miss=[] multi=[] -> Chapter_10_The_Silvered_Boundary_v10.md
+Q1-Q4partial: ok=[1, 2] miss=[] multi=[] -> Chapter_13_The_Strange_Silence_of_the_Cosmological_Constant_v7.md

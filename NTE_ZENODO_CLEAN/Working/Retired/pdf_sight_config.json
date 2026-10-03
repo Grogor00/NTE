@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "updated": "2026-06-18",
+  "poppler_bin": "C:\\Users\\gregw\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64",
+  "output_dir": "Working/PDF_Sight_Calibration/latest",
+  "carriers": {
+    "S2": {
+      "pdf": "paper-build/pdf-out/Paper_S2_v1_0_Consolidation_20260525.pdf",
+      "md": "Papers/Paper_S2_v1_0_Consolidation_20260525.md",
+      "loci": [
+        {
+          "id": "s2_title",
+          "label": "Title — Hopf-S³ × S¹ × (𝕆 ⊕ 𝕆)",
+          "page_hint": 1,
+          "must_contain_any": ["𝕆 ⊕ 𝕆", "O \\oplus O", "mathbb{O}"],
+          "md_snippet": "Hopf-S³ × S¹ × (𝕆 ⊕ 𝕆)"
+        },
+        {
+          "id": "s2_abstract_af",
+          "label": "Abstract — A_F = 𝕆 ⊕ 𝕆",
+          "page_hint": 1,
+          "must_contain_any": ["𝕆 ⊕ 𝕆", "A_F"],
+          "md_snippet": "A_F = 𝕆 ⊕ 𝕆"
+        },
+        {
+          "id": "s2_kphi_62",
+          "label": "§6.2 — K(Φ) open (BREAK-1)",
+          "page_hint": null,
+          "page_range": [5, 12],
+          "must_contain_any": ["K(Φ)", "K (Φ)", "BREAK-1"],
+          "md_snippet": "K(Φ) — open (BREAK-1)"
+        },
+        {
+          "id": "s2_kappa_43",
+          "label": "§4.3 — κ₀ = 3/√(4π)",
+          "page_hint": null,
+          "page_range": [3, 8],
+          "must_contain_any": ["κ₀", "3/", "4π"],
+          "md_snippet": "κ₀ = 3/√(4π)"
+        }
+      ]
+    },
+    "Part3": {
+      "pdf": "paper-build/pdf-out/NTE_v10_17_Part3_Accounting.pdf",
+      "md": "Papers/NTE_v10_17_Part3_Accounting.md",
+      "loci": [
+        {
+          "id": "p3_s_bridge",
+          "label": "§22.17 S_bridge — 𝒦(x,y)",
+          "page_hint": null,
+          "page_range": [28, 39],
+          "must_contain_any": ["S_bridge", "𝒦"],
+          "md_snippet": "S_bridge: κ₀ … 𝒦(x,y)"
+        },
+        {
+          "id": "p3_kphi_2222",
+          "label": "§22.22 — K(Φ) open",
+          "page_hint": null,
+          "page_range": [30, 39],
+          "must_contain_any": ["22.22", "K(Φ)", "BREAK-1"],
+          "md_snippet": "K(Φ) closure is open"
+        },
+        {
+          "id": "p3_conclusion_o",
+          "label": "Conclusion — 𝕆 → ℍ",
+          "page_hint": null,
+          "page_range": [32, 39],
+          "must_contain_any": ["𝕆", "octonion"],
+          "md_snippet": "𝕆 → ℍ"
+        }
+      ]
+    },
+    "Popular": {
+      "pdf": "paper-build/pdf-out/Paper_Popular_v10_8_Full_Edition.pdf",
+      "md": "Papers/Paper_Popular_v10_8_Full_Edition.md",
+      "loci": [
+        {
+          "id": "pop_j3_o",
+          "label": "§16 — J₃(𝕆) Jordan algebra",
+          "page_hint": null,
+          "page_range": [18, 28],
+          "must_contain_any": ["Jordan", "J₃", "J3", "𝕆"],
+          "md_snippet": "J₃(𝕆) Jordan algebra"
+        }
+      ]
+    },
+    "P5_TwoBranch": {
+      "pdf": "paper-build/pdf-out/Paper_P5_Neutrino_MassRatio_Flux_TwoBranches_4pi_8pi_v0_5_20260621.pdf",
+      "md": "Papers/Paper_P5_Neutrino_MassRatio_Flux_TwoBranches_4pi_8pi_v0_5_20260621.md",
+      "loci": [
+        {
+          "id": "p5_title",
+          "label": "Title — two flux branches",
+          "page_hint": 1,
+          "must_contain_any": ["two flux branches", "mass-ratio"],
+          "md_snippet": "two flux branches"
+        },
+        {
+          "id": "p5_abstract_table",
+          "label": "Abstract — two-branch table (8π vs 4π)",
+          "page_hint": 1,
+          "must_contain_any": ["8π", "4π", "0.993"],
+          "md_snippet": "Branch | Y"
+        },
+        {
+          "id": "p5_s33_real_structure",
+          "label": "§3.3 — real-structure argument (Dirac not in J-block)",
+          "page_hint": null,
+          "page_range": [3, 6],
+          "must_contain_any": ["real structure", "J-block", "4π"],
+          "md_snippet": "real structure"
+        },
+        {
+          "id": "p5_s5_ratio_table",
+          "label": "§5 — two-branch ratio table",
+          "page_hint": null,
+          "page_range": [5, 8],
+          "must_contain_any": ["mass-ratio", "5.40", "8.57"],
+          "md_snippet": "mass-ratio"
+        },
+        {
+          "id": "p5_s8_conclusion",
+          "label": "§8 — conclusion",
+          "page_hint": null,
+          "page_range": [7, 12],
+          "must_contain_any": ["not a zero-parameter", "flux"],
+          "md_snippet": "Conclusion"
+        }
+      ]
+    }
+  },
+  "reflow_patterns": [
+    "appears only\\s*/\\s*through trace",
+    "therefore not available.*from an",
+    "canonical OctonionExtension NTE substrate: v10\\.9\\)"
+  ]
+}

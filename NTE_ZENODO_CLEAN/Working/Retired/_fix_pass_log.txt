@@ -1,0 +1,60 @@
+﻿Scanned 632 files; changed 100; residual flags 7
+    3  Book\Book_with_TP\Appendix_A_NTE_Popular_Paper_Reader_Edition.md
+    1  Book\Book_with_TP\Chapter_10_The_Silvered_Boundary_v5.md
+    1  Book\Book_with_TP\Chapter_11_What_the_Universe_Sounds_Like_v3_1.md
+    3  Book\Book_with_TP\Chapter_12_The_Chord_v3_1.md
+    4  Book\Book_with_TP\Chapter_13_The_Strange_Silence_of_the_Cosmological_Constant_v5.md
+    5  Book\Book_with_TP\Chapter_15_The_Score_v2.md
+    1  Book\Book_with_TP\Chapter_17_The_Working_Bet_v2.md
+    2  Book\Book_with_TP\Chapter_1_The_Photons_Journey_v7_3.md
+    9  Book\Book_with_TP\Chapter_4_Time_as_Expansion_v7_2.md
+    4  Book\Book_with_TP\Chapter_5_The_Eighth_Colour_v6_1.md
+    1  Book\Book_with_TP\Prelude_The_Forty_Million_Year_Instant_v5.md
+    4  NTE v10_6\Outreach\Distribution_Campaign_v1_20260530.md
+    1  NTE v10_6\Papers\Companion_11_Lambda_Unimodular_Closure_v10_17.md
+    1  NTE v10_6\Papers\Companion_11_Lambda_Unimodular_Closure_v10_17_2.md
+    2  NTE v10_6\Papers\NTE_Standalone_Papers_Register_v0_5.md
+    3  NTE v10_6\Papers\NTE_v10_17_Part2_Structure.md
+    3  NTE v10_6\Papers\Paper_S2_Pedagogical_Pivot_v1_0_20260530.md
+    2  NTE v10_6\Papers\Paper_S2_v1_0_Consolidation_20260525.md
+    1  NTE v10_6\Papers\Paper_S6_M_R_Heat_Kernel_Pedagogical_Pivot_v1_0_20260530.md
+    8  NTE v10_6\Papers\Paper_S6_M_R_Heat_Kernel_v1_0.md
+   12  NTE v10_6\Papers\Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_2_arxiv_20260526.md
+   12  NTE v10_6\Papers\Paper_Solar_Neutrino_Mass_Yukawa_Duality_v0_3_zenodo_20260601.md
+    1  NTE v10_6\Workflow\MB\20260504_1921_MB.md
+   12  NTE v10_6\Workflow\MB\20260506_1145_MB.md
+    1  NTE v10_6\Workflow\MB\20260510_2030_MB.md
+    2  NTE v10_6\Workflow\MB\20260510_2300_MB.md
+    1  NTE v10_6\Workflow\MB\20260524_0335_MB.md
+    1  NTE v10_6\Workflow\MB\Continuation_Prompt_PC_Ch5_Resume_20260520.md
+    3  NTE v10_6\Workflow\MB\Continuation_Prompt_PC_post_Ch13_v4_P5_v02_20260526.md
+    1  NTE v10_6\Workflow\MB\Continuation_Prompt_PC_post_Ch3_v4_20260520.md
+    1  NTE v10_6\Workflow\MB\Continuation_Prompt_PC_post_Ch3_v5_20260522.md
+    7  NTE v10_6\Workflow\MB\Continuation_Prompt_PC_post_PopularPaper_v6_20260525.md
+    2  NTE v10_6\Workflow\MB\MB_Stamp_AC_v10_8_master_SHIPPED_COMPLETE_2026_05_17.md
+    5  NTE v10_6\Workflow\MB\NTE_Chapter_State_Ledger.md
+    1  NTE v10_6\Workflow\NTE_Live_Register_v10_17_1.md
+    1  NTE v10_6\Workflow\NTE_Live_Register_v10_17_2.md
+    3  NTE v10_6\Workflow\NTE_Live_Register_v10_17_3.md
+    5  NTE v10_6\Workflow\NTE_Live_Register_v10_17_4_20260527.md
+    1  NTE v10_6\Workflow\NTE_Live_Register_v10_8_v2.md
+    3  NTE v10_6\Workflow\NTE_Project_State_v10_17_1_20260524.md
+  ... +60 more
+RESIDUAL:
+python : Traceback (most recent call last):
+At C:\Users\gregw\AppData\Local\Temp\ps-script-2b413835-ff24-4643-88dc-4089e42094ed.ps1:81 char:1
++ python "C:\Users\gregw\OneDrive\Desktop\NTE v10_6\Working\alpha_beta_ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\gregw\OneDrive\Desktop\NTE v10_6\Working\alpha_beta_nte_corpus_fix_pass.py", line 288, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\gregw\OneDrive\Desktop\NTE v10_6\Working\alpha_beta_nte_corpus_fix_pass.py", line 284, in main
+    print(f"  {r['path']}:{f['line']} {f['issue']}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gregw\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u03b2' in position 56: character maps to <undefined>

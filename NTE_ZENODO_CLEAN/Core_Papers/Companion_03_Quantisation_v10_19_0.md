@@ -1,0 +1,84 @@
+---
+title: "Quantisation is compactness"
+author: "Gregory Lyndon White"
+date: "2026-06 (v10.19.0)"
+---
+
+*Part of NTE Corpus v10.19.0 (deposited 2026-06). Companion 3.*
+
+*Independent researcher, Auckland, New Zealand · gregwhite00@gmail.com · ORCID 0009-0003-3680-2363*
+
+---
+
+## Abstract
+
+Quantum mechanics postulates that physical observables take discrete values. This paper argues that discreteness is not a postulate but a geometric consequence of the state space being compact. The normalised state space of quantum mechanics is S³ — the unit 3-sphere in ℂ² — as established by the structure of spin-½ systems. On any compact manifold the Laplacian has a discrete spectrum: a theorem of differential geometry, independent of physics. If the operators governing physical observables are constructed from the Laplacian on S³, their eigenvalues — the permitted measurement outcomes — are automatically discrete. The Planck constant h is then not a fundamental constant of nature but the dimensional conversion factor between the geometric eigenvalue spacing of S³ and the energy units used by observers. The commutation relation [x̂, p̂] = iℏ, usually taken as the foundational axiom, is reinterpreted as the statement that position and momentum are conjugate coordinates on a compact phase space — a result of geometric quantisation (Kostant–Souriau theory) rarely stated in this form. Quantisation is not imposed on classical mechanics; it is the inevitable consequence of the geometry that classical mechanics approximates.
+
+---
+
+## 1. The question
+
+Quantum mechanics asserts that energy, angular momentum, and other observables take discrete values: a hydrogen atom emits at specific frequencies, an electron's spin is measured as exactly ±ℏ/2, the photoelectric effect has a sharp threshold. These facts are among the most precisely confirmed in physics, yet the *reason* for discreteness is rarely addressed. The standard account — observables are Hermitian operators, and their eigenvalues are the permitted outcomes; the Hilbert-space formalism *produces* discrete spectra for bound systems — leaves the formalism itself a postulate. Why should nature use Hilbert spaces? Why should the spectrum be discrete rather than continuous?
+
+This paper gives a geometric answer: the spectrum is discrete because the state space is compact. On a compact manifold the Laplacian has a discrete spectrum — a theorem of mathematics, not physics. The state space of quantum mechanics *is* a compact manifold: the normalised states of a spin-½ system form S³, the unit 3-sphere, by the normalisation constraint |z₁|² + |z₂|² = 1 in ℂ². Companion 2 establishes that the measurement-probability rule P = |⟨φ|ψ⟩|² follows from the topology of S³; this paper establishes that discreteness — the other foundational feature — follows from the same geometry.
+
+## 2. Two theorems
+
+The argument rests on two standard results, independent of physical assumptions.
+
+**Theorem 1 — compact manifolds have discrete Laplacian spectra.** For a compact Riemannian manifold M without boundary, the Laplace–Beltrami operator Δ has a discrete spectrum 0 = λ₀ < λ₁ ≤ λ₂ ≤ … → ∞, each eigenvalue of finite multiplicity, with eigenfunctions forming a complete orthonormal basis for L²(M). This is the spectral theorem for elliptic operators on compact manifolds; the key condition is compactness — non-compact manifolds such as ℝⁿ generally have continuous spectra.
+
+**Theorem 2 — the eigenvalues of the Laplacian on S³ are l(l + 2).** For the unit 3-sphere, the eigenvalues of −Δ are λ_l = l(l + 2), l = 0, 1, 2, …, with eigenspace dimension (l + 1)². The eigenfunctions are the hyperspherical harmonics on S³ — precisely the matrix elements of the SU(2) irreducible representations of spin j with l = 2j.
+
+## 3. The state space is S³
+
+A normalised spin-½ state |ψ⟩ = z₁|↑⟩ + z₂|↓⟩ with |z₁|² + |z₂|² = 1 is a point on S³ ⊂ ℂ² ≅ ℝ⁴; the Bloch sphere S² is the quotient S³/U(1), removing the unobservable global phase. Companion 2 established the significance of S³ for the Born rule, showing P = |⟨φ|ψ⟩|² to be the Hopf projection — the unique smooth, U(1)-invariant, SU(2)-equivariant map S³ → [0,1]. This paper takes the same starting point and derives discreteness.
+
+## 4. Discreteness from compactness
+
+**The argument.** S³ is compact; by Theorem 1 its Laplacian has a discrete spectrum; by Theorem 2 the eigenvalues are l(l + 2) with degeneracies (l + 1)². Any observable built from the Laplacian on S³ inherits a discrete spectrum — no quantisation condition need be imposed; it is a consequence of compactness.
+
+**Angular momentum.** The angular-momentum operators are the generators of rotations on S³ — the Killing vector fields of the round metric — and their spectra follow from the representation theory of SU(2), the isometry group of S³: L̂² has eigenvalues ℏ²j(j + 1), L̂_z has ℏm. In the standard formalism these come from the postulated commutation relations [L̂_i, L̂_j] = iℏε_{ijk}L̂_k; in the geometric picture those relations are not postulates but the structure constants of su(2), the tangent space of S³ at the identity. The spectrum follows from the geometry without physical assumptions beyond "the state space is S³."
+
+**Energy.** Energy quantisation in bound systems follows in the standard formalism from the Schrödinger equation with boundary conditions selecting a discrete spectrum. Geometrically this is the same mechanism from the other side: a bound system is one whose effective state space is compact (the boundary conditions enforce compactness). An electron bound to a proton is confined to a compact region of configuration space, giving a discrete energy spectrum; an unbound electron has a non-compact configuration space and a continuous spectrum. The discrete-to-continuous transition at the ionisation threshold is the transition from a compact to a non-compact effective state space — why hydrogen is discrete below 13.6 eV and continuous above.
+
+**The harmonic oscillator.** The eigenvalues E_n = ℏω(n + ½) have distinctive equal spacing. The classical oscillator has phase space ℝ² (non-compact), but the *quantum* oscillator's states are all normalisable, living on a compact subset of phase space. More precisely, Ĥ = (p̂² + ω²x̂²)/2 is unitarily equivalent (via the Bargmann transform) to the Laplacian on a circle S¹, whose eigenvalues n² give the oscillator levels as a shifted version; the equal spacing reflects the constant curvature of S¹. The oscillator is "secretly" a system on a compact manifold, disguised by the position representation as a system on ℝ.
+
+## 5. The Planck constant as conversion factor
+
+**The standard view.** ℏ ≈ 1.055 × 10⁻³⁴ J·s appears in [x̂, p̂] = iℏ, in ΔxΔp ≥ ℏ/2, in E = hf, in p = h/λ, and is treated as a brute measured fact setting the scale of quantum effects.
+
+**The geometric view.** If quantisation is compactness, ℏ is the conversion factor between the *geometric* system (dimensionless Laplacian eigenvalues on S³) and the *physical* system (energies, momenta, angular momenta in SI units) — analogous to the speed of light. Before relativity, space and time were measured in different units and c was the conversion factor; afterwards we understood them as aspects of one spacetime manifold, with c merely converting historically-assigned units. Similarly, physical observables *are* eigenvalues of operators on S³, and ℏ converts between the natural dimensionless units of S³ geometry and the dimensioned units of the apparatus. The relation E = hf shows this directly: frequency f is a dimensionless geometric quantity (traversals of the compact orbit) per observer time unit, energy E is the eigenvalue in observer units, and E = hf multiplies the geometric quantity by the conversion factor.
+
+**The commutation relation.** [x̂, p̂] = iℏ is, geometrically, the statement that position and momentum are conjugate coordinates on a compact phase space. In geometric quantisation (Kostant 1970, Souriau 1970) the classical phase space is a symplectic manifold (M, ω), the symplectic form gives the Poisson bracket {x, p} = 1, and the commutator [x̂, p̂] = iℏ is its operator version scaled by ℏ. On a compact symplectic manifold the Hilbert space is automatically finite-dimensional (or discretely decomposed), because compactness makes the symplectic volume finite and the number of states is that volume divided by ℏ. The commutation relation is therefore not a postulate but the operator expression of the symplectic structure of a compact phase space, with ℏ as the volume quantum; its value sets *how many* states fit, but discreteness holds regardless of the value.
+
+## 6. Why S³?
+
+Companion 2 derives P = |⟨φ|ψ⟩|² from S³ specifically — the exponent 2 is a property of the Hopf fibration S³ → S², which exists only for S³ among spheres with non-trivial fibrations. This paper extends the argument: quantisation is compactness, and the specific compact manifold is S³. Why S³ and not another compact manifold? S³ is the unique compact manifold that is simultaneously, in the post-temporal regime where measurements occur:
+
+1. **A Lie group** (SU(2) ≅ S³) — required for the rotations, angular-momentum commutators, and composition of sequential measurements.
+2. **Parallelisable** — it admits a globally defined frame field, required for globally consistent spinors; the only parallelisable spheres are S¹, S³, S⁷ (Bott–Milnor–Kervaire).
+3. **Associative in the post-temporal regime** — S³ = SU(2) is the unit quaternions (associative), whereas S⁷ is the unit octonions (non-associative). Where measurements have time-ordering, non-associativity would make sequential measurements depend on grouping — (A then B) then C differing from A then (B then C) — contradicting experiment, so the post-temporal state space must be S³. (The pre-temporal regime is different: the pre-temporal algebra *is* the octonions 𝕆, automorphism group G₂, and the Cayley–Dickson sequence 𝕆 → ℍ → ℂ → ℝ maps to four cosmic phases — pre-temporal → gauge birth → EWSB → classical. The embedding S³ ≅ unit ℍ ⊂ unit 𝕆 = S⁷ places the post-temporal QM state space as the quaternionic submanifold of the pre-temporal octonionic algebra; associativity emerges at gauge birth, where time-ordering becomes well-defined.)
+4. **Three-dimensional** — S¹ describes only phases, not amplitudes; S³ is the minimal sphere supporting non-trivial quantum superposition.
+
+S³ is the only manifold satisfying all four in the post-temporal regime. The state space of quantum mechanics is S³ because no other compact manifold has the required properties for systems with time-ordered measurement outcomes.
+
+## 7. The classical limit
+
+The classical limit ℏ → 0 is the limit in which the number of states on the compact manifold becomes infinite (symplectic volume / ℏ → ∞), so the discrete spectrum becomes so finely spaced as to appear continuous. The manifold remains compact — it does not "open up" — but the observer's resolution is too coarse to detect the discreteness. This is like a photograph composed of discrete pixels appearing continuous at high resolution: the discreteness does not disappear, it becomes unresolvable. The "pixel size" is ℏ, and the classical limit is the high-resolution limit where the pixels are too small to see. The classical world is not different physics; it is the same compact geometry, observed at a resolution where discreteness is invisible.
+
+## 8. What this paper does and does not accomplish
+
+**Does.** Derives the discreteness of quantum mechanics from the compactness of S³, using only: the state space is S³ (Companion 2, from standard quantum mechanics); compact manifolds have discrete Laplacian spectra (theorem); observables are eigenvalues of operators built from the Laplacian on S³. Reinterprets ℏ as a conversion factor between geometric and observer units; reinterprets [x̂, p̂] = iℏ as the symplectic structure of a compact phase space (Kostant–Souriau); explains the classical limit as the unresolvable-spacing limit with no change in the underlying geometry.
+
+**Does not.** It does not derive the specific eigenvalues of any physical system (hydrogen, oscillator) from S³ alone — those need the potential, boundary conditions, and gauge structure; compactness guarantees discreteness but not the spectrum. It does not by itself explain why the post-temporal state space is *complex* — ℂ² rather than ℝ² or ℍ; like Companion 2 it addresses this via the Cayley–Dickson cosmic-phase descent 𝕆 → ℍ → ℂ → ℝ, where the complex structure is inherited as the third step. It does not derive the numerical value of ℏ, which depends on the relation between the S³ radius and the observer's units — cosmological input beyond this paper.
+
+## 9. Conclusion
+
+Discreteness has been treated as a foundational mystery for a century. It is the most elementary property of compact manifolds. Any system whose state space is compact has a discrete spectrum; the post-temporal state space of quantum mechanics — the normalised vectors in ℂ² — is S³; S³ is compact; therefore the spectrum is discrete. The Planck constant is the conversion factor between the natural units of S³ and the observer's units, as the speed of light converts space and time units; the commutation relation is the symplectic structure of the compact phase space; the classical limit is the regime where eigenvalue spacing is finer than the observer's resolution.
+
+The remaining question is not "why is nature quantised?" — answered by compactness — but "why is the state space S³?" This paper identifies S³ as the unique compact manifold with the necessary properties (Lie group, parallelisable, associative in the post-temporal regime, three-dimensional); the deeper answer — deriving the S³ structure as the quaternionic locus inside the unit octonions S⁷, with the cosmological Cayley–Dickson descent 𝕆 → ℍ → ℂ → ℝ — is developed in the corpus.
+
+---
+
+*Correspondence: the S³ state space whose compactness produces quantisation arises as the boundary topology of a 4D spacetime manifold, sitting inside the pre-temporal octonionic algebra S⁷ as the quaternionic submanifold. The derivation of S³ from the Cayley–Dickson sequence 𝕆 → ℍ → ℂ → ℝ, the relation between the S³ radius and the Planck constant, and the connection to temporal emergence are developed in the NTE corpus. See also Companion 2 (the Born rule as Hopf fibration) and Companion 1 (entanglement as single-object geometry).*

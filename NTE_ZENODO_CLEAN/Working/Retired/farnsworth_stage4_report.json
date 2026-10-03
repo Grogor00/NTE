@@ -1,0 +1,17 @@
+{
+  "stage": 4,
+  "vol_S3": 19.739208802178716,
+  "psi_L2_norm2": 0.9999999999999999,
+  "hopf_Y00_projection": 0.06349363593424097,
+  "kappa0_structural": 0.8462843753216345,
+  "branch_4pi_flux": 12.566370614359172,
+  "branch_8pi_flux": 25.132741228718345,
+  "yukawa_scale_4pi_inv3": 0.4301270069140498,
+  "yukawa_scale_8pi_inv3": 0.34139203162764786,
+  "target_8pi_inv3": 0.34139203162764786,
+  "target_4pi_inv3": 0.4301270069140498,
+  "ratio_8pi_to_4pi": 0.7937005259840998,
+  "dirac_lambda_k0": 1.5,
+  "decisive_question": "Does Dirac nu_L-nu_R overlap pick up Majorana doubling (8pi) or single Hopf flux (4pi)?",
+  "gate": "OPEN \u2014 envelope/associator ordering (Stage 2.2) not yet implemented; scaffold compares volumetric powers only"
+}

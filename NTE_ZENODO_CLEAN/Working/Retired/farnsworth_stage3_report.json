@@ -1,0 +1,9 @@
+{
+  "stage": 3,
+  "dim_AF": 16,
+  "raw_nu_L2_nu_R2_block": 0.7,
+  "magnitude_status": "FREE (Stage 0 outcome ii)",
+  "majorana_condition": "NOT YET APPLIED \u2014 scaffold only",
+  "sigma2_cartan_assignment": "PLACEHOLDER indices (2,10)",
+  "gate": "OPEN \u2014 full 90-species D_F + \u03c3\u2082 assignment pending"
+}

@@ -1,0 +1,21 @@
+MOJIBAKE GATE SWEEP (Cursor Main 2026-06-18)
+
+=== corpus-wide ===
+[PASS] mojibake (0 hits)
+
+
+=== Papers/Paper_S2_v1_0_Consolidation_20260525.md ===
+[PASS] mojibake (0 hits)
+
+
+=== Papers/NTE_v10_17_Part3_Accounting.md ===
+[PASS] mojibake (0 hits)
+
+
+=== Working/AC_Readable_Splits/NTE_v10_17_Part3_Accounting__C_S22_App.md ===
+[PASS] mojibake (0 hits)
+
+
+=== Papers/Paper_Popular_v10_8_Full_Edition.md ===
+[PASS] mojibake (0 hits)
+

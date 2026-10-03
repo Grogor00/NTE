@@ -1,0 +1,923 @@
+                                                Paper S2
+
+                Heat-Kernel Spectral Action on Hopf-S³ × S¹ × (𝕆 ⊕ 𝕆)
+                                                 G. White
+                          2026-06-01 (v1.0 consolidation; CR-H1/H2 patch)
+
+
+
+
+A Single-Computation Closure for Five Programme Predictions
+
+Abstract
+We carry out the heat-kernel computation that underwrites Connes Programme Paper S2 on the canonical
+NTE spectral triple
+
+
+                                  𝑀full = ( 𝑆 3 × 𝑆𝛽1GB ; 𝐴𝐹 = 𝕆 ⊕ 𝕆 ; 𝐷 ),
+
+obtaining closed-form expressions for the Seeley–DeWitt coefficients 𝑎0 , 𝑎2 , 𝑎4 and extracting five
+independent Programme predictions from this single computation. The base manifold carries scalar
+curvature 𝑅 = 6 concentrated entirely in 𝑆 3 ; the temporal circle has circumference 𝛽GB = √2𝜋/𝑀Pl,nr ,
+fixed by the Hopf fibre modulus identification at gauge birth. The finite algebra 𝐴𝐹 = 𝕆 ⊕ 𝕆 supplies
+𝑁𝐹 = 180 degrees of freedom (90 Weyl species per CPN sector × 2 sectors).
+We find: 1. Bare coupling confluence: 𝜅0 = 3/√4𝜋 extracted from the heat-kernel coincides with the
+Pathway B Hopf-monopole-projection route at the bare-coupling level. The closure 𝜅 = 𝜅0 /(1 − 𝜅0 ) ≈ 5.50
+remains a Pathway-A architectural step (not derived here). 2. Inflation-sector kinetic term: 𝐾 (Φ) closure
+is open — routed to Programme S Paper S2 pending a valid 𝑎4 -sector route (Companion 8 F3; Companion
+9 §7.6). The prior 𝑎4 -based leading-order 𝐾 (Φ) = 1 claim is reverted (CR-H1: 𝑎4 = 0 on the untwisted
+substrate). The §18.4 hilltop reading remains the structurally favoured inflation potential under 𝑛𝑠 + 𝑟
+observational match. 3. F1 trace-anomaly reinterpretation: 𝐹1 = 5𝑅2 − 8𝑅𝜇𝜈       2 − 7𝑅2
+                                                                                         𝜇𝜈𝜌𝜎 = −18𝐶 +
+                                                                                                       2
+
+11𝐸4 algebraically in the standard Weyl + Euler basis. The manifold 𝑀 = 𝑆 3 × 𝑆 1 is simultaneously
+Weyl-flat and Euler-zero; among small-𝑝 closed product manifolds 𝑆 𝑝 × 𝑆 𝑞 with 𝑆 𝑞 flat, 𝑝 = 3 is the
+unique value satisfying both conditions. 4. 𝑎4 explicit: 𝑎4 (𝐷 2 )|𝑀 = 0 — from §5.4, 𝐶 2 = 𝐸4 = 0
+on 𝑀 = 𝑆 3 × 𝑆 1 ⇒ 𝐹1 = 0 under the §5.1 Vassilevich Dirac integrand (CR-H1 resolved 2026-06-01).
+5. Finite-algebra suppression: 𝐷𝐹 sub-leading contributions to 𝑎2 and 𝑎4 are suppressed by ∼ 10−18 at
+canonical NTE inflation; leading curvature results are robust. 6. Λ structural mechanism: the unimodular
+/ Connes–Chamseddine volume constraint forbidding the catastrophic vacuum term stands; the Λ ≈
+1.05 × Λobs number loses its 𝑎4 -derivation chain and is reroute-or-retire (CR-H2 closed 2026-06-01).
+The five predictions are not independent fits — they emerge as five notes from one chord (Companion 12;
+chord count revised from six after CR-H1/H2 closure). The structural identity behind this result is that the
+
+
+                                                     1
+conformal-anomaly combination on 𝑀 vanishes identically by virtue of the unique simultaneous Weyl-flat
++ Euler-zero geometry of 𝑆 3 × 𝑆 1 .
+
+
+
+§1. Introduction
+§1.1 Programme S in context
+The Connes Programme (Charter v1.4) is the commitment of Non-Temporal Emergence (NTE)—the
+Null-Time Extension to the Standard Model—to derive its predictions from the spectral-action formalism
+of Chamseddine and Connes (CC2008 [arXiv:0812.0165]) applied to a canonical spectral triple. Paper
+S1 (v1.0; 1LLGJUa62pc0OwEBxHR2OzEEfPO_EOcs_) establishes the foundational structures: the σ_t /
+KMS modular-flow framing that takes the place of Wick rotation as the canonical state-type-transition
+signature; the F1 d-parametric selection criterion that picks out 𝑑 = 3 as the unique non-trivial root of
+the trace-anomaly combination on 𝑆 𝑑 ; and the ξ = 1/6 conformal coupling commitment. Paper S2 is the
+computational arc: we apply the Seeley–DeWitt heat-kernel expansion to the explicit Dirac operator on
+the canonical NTE substrate and read off the leading coefficients.
+The point of Paper S2 is not to introduce new structural commitments. The spectral triple is fixed by the
+canonical NTE substrate: Hopf-𝑆 3 × 𝑆𝛽1GB for the base manifold; 𝐴𝐹 = 𝕆 ⊕ 𝕆 for the finite algebra (per
+OctonionExtension v10.9); 𝐷 given by the standard product-manifold Dirac with finite-algebra extension.
+The point is to verify that the canonical predictions — 𝜅0 , 𝑇GB , 𝑛𝑠 , 𝑟, 𝑀1 , 𝑀𝑅 , Λ, the audit ratio 2𝜋 2 — all
+emerge structurally from this single computation, rather than as independent fits at different scales.
+
+§1.2 Five-note chord framing
+The result that organises this paper is that five Programme predictions emerge as notes of one chord from
+the heat-kernel computation. We list them now to motivate the section structure that follows:
+
+Note                       Prediction                                       Section
+1                          𝜅0 = 3/√4𝜋 bare confluence                       §4
+2                          𝑇GB = 𝑀Pl,nr /√2𝜋                                §3 (operator setup confluence)
+3                          𝐾 (Φ) open (routed to Programme S,               §6
+                           Route E); under assumed 𝐾 (Φ) = 1 the
+                           §18.4(iii) hilltop gives 𝑛𝑠 ≈ 0.9685,
+                           𝑟 ∼ 4 × 10−3 (conditional survivor)
+4                          𝑀1 = 5.40 × 109 GeV; 𝑀𝑅 = 8.2 × 1014 GeV         §8
+5                          2𝜋 2 audit ratio across Vol(𝑆 3 ), 𝑉lock ,       §9
+                           boundary-cell normalisation
+
+
+                              pred
+The prior Λ closure note (ΛNTE ≈ 1.05 × Λobs via Λ𝑎4 ; §7) is reroute-or-retire — structural unimodular
+Λ language stands, but the 𝑎4 -dependent number loses its derivation chain with 𝑎4 = 0 (CR-H2 closed
+2026-06-01).
+This is in honest contrast to the framework as it stood prior to S2. The Programme had κ₀ from
+Hopf-projection topology (Pathway B), 𝑇GB from thermal locking (Companion 9), 𝑛𝑠 from inflation-sector
+analysis at the hilltop reading (Companion 9 + §18.4), 𝑀1 from Pathway α (Companion 10), Λ from
+unimodular projection (corpus §22.15), and the 2π² factor from comoving-volume audits. Each had
+
+
+                                                        2
+structural backing in the corpus; none were arbitrary. But it was not obvious that they all sit on one
+spectral-action substrate. Paper S2 makes that explicit.
+
+§1.3 Honest scope
+We are not deriving κ = 5.50 in this paper. The closure 𝜅 = 𝜅0 /(1 − 𝜅0 ) is a Pathway A architectural
+step (Janus action + S_cons matrix inversion + bilinear S_bridge form per Pathway A v10.9), and Paper S2
+does not bypass it via heat-kernel machinery. What Paper S2 establishes is that the bare coupling 𝜅0 that
+enters Pathway A’s closure formula is the same 𝜅0 = 3/√4𝜋 that emerges from the heat-kernel route — a
+confluence claim, not an identification claim.
+Similarly: we are not deriving the absolute scale of 𝑀1 , only verifying that the (8𝜋)1/3 prefactor in Pathway
+α (Companion 10) is structurally consistent with the 𝑁𝐹 = 180 CPN doubling at the 𝐴𝐹 level. The S2
+strict-uniqueness of this prefactor via BPS-bound saturation is closed at tree + factor 1.12 numeric tier (,
+in scope D5).
+The structural commitments that frame Paper S2 — σ ≢ Φ_NTE (confluence framing), κ₀ vs ξ_V
+disambiguation, σ_t / KMS canonical complement, δN intrinsic-uniformity reading for the two-sector
+CPN structure — are inherited from Paper S1, the OctonionExtension paper, and the corpus. We do not
+re-argue them here.
+Untwisted substrate vs SM gauge/Higgs sector (scope boundary; AC BREAK-3 drop-in). S2 computes the
+spectral action on the untwisted product Dirac operator; the SM gauge/Higgs bosonic sector arises from
+the inner fluctuations of 𝐷 (the twisted operator) and lives in 𝑎4 of that fluctuated operator — this is outside
+S2’s scope and is not derived here. S2’s 𝑎4 = 0 result pertains to the untwisted gravitational/cosmological
+substrate. The emergence of the SM gauge group from G₂ (§2.3) is a structural/algebraic statement, not a
+claim that S2’s heat-kernel computation derives the SM bosonic action. The five-note chord (κ₀, 𝑇GB , 𝑛𝑠 /𝑟,
+𝑀1 /𝑀𝑅 cross-check, 2𝜋 2 audit) lives on the untwisted substrate and is consistent with 𝑎4 = 0 here.
+
+§1.4 Verification of preconditions (P0)
+The heat-kernel framework on the NTE substrate requires two pass markers established in the corpus prior
+to S2:
+    • P0.3 PASS: Closed-𝑆 3 + NTE §VIII/§22 compatibility with the CC2008 kinematical relation (recorded
+      master §22.15).
+    • P0.7 PASS : Gilkey heat-kernel framework applicable under Farnsworth–Boyle non-associativity, via
+      GNS representation at the associative-operator-algebra level (per Marcolli–Penrose 2021 §3 and the
+      Gerstenhaber–Schack framework operating at the associative level).
+These unblock the heat-kernel expansion at the operator-setup level. The non-associative Tomita-Takesaki
+extension (P0.10) is flagged parallel — research-frontier territory; SPECIFIED at v0.1; not blocking the S2
+arc.
+
+
+
+§2. The NTE spectral triple
+§2.1 Base manifold
+The base manifold is the closed Riemannian 4-manifold
+
+
+
+                                                       3
+                                                  𝑀 = 𝑆 3 × 𝑆𝛽1GB
+
+with the product metric 𝑔𝑀 = 𝑔𝑆 3 + 𝑔𝑆 1 . The 𝑆 3 factor carries the unit round metric: Ric𝑆 3 = 2 𝑔𝑆 3 , scalar
+curvature 𝑅𝑆 3 = 6, volume Vol(𝑆 3 ) = 2𝜋 2 . The temporal circle 𝑆𝛽1GB has circumference 𝛽GB and is flat. The
+product carries
+
+
+                  𝑅𝑀 = 𝑅𝑆 3 + 𝑅𝑆 1 = 6,       Ric𝑀 = diag(2, 2, 2, 0),          Vol(𝑀) = 2𝜋 2 𝛽GB .
+
+The topology 𝑀 ≃ 𝑆 1 × 𝑆 3 ≃ 𝑀 ℂ (compactified Minkowski space) is the spectral-triple substrate canonical
+in the corpus (Charter §2.4), with external anchor in Marcolli–Penrose 2021 §1.1.
+
+§2.2 The Hopf fibre modulus
+The temporal circle’s circumference is fixed by
+
+                                           √2𝜋                      1       𝑀Pl,nr
+                                   𝛽GB =          ,     𝑇GB =           =            .
+                                           𝑀Pl,nr               𝛽GB         √2𝜋
+
+This is the gauge-birth thermal scale identification (Companion 9 v10.8 Part II §3; corpus §22.14).
+Geometrically, the 𝑆 1 factor in 𝑀 is the Hopf fibre of the Hopf fibration 𝑆 1 → 𝑆 3 → 𝑆 2 extended to a
+compactified temporal dimension. The √2𝜋 factor is structurally protected by the spherical harmonic
+𝑌00 (𝑆 1 ) on the Hopf fibre (Companion 9 Session 3), and is the structurally-clean √2𝜋 leg in the corpus —
+distinct from the convention-dependent 𝑉𝐸 -matching 𝜉𝑉 leg of OctonionExtension v10.9 §6.
+This is Note 2 of the chord: 𝑇GB = 𝑀Pl,nr /√2𝜋 is the operator-setup confluence value, fixed by the
+manifold-modulus identification before any heat-kernel coefficient is computed.
+
+§2.3 The finite algebra A_F = 𝕆 ⊕ 𝕆
+The finite algebra at the spectral-triple level is the direct sum of two copies of the octonions:
+
+
+                                                  𝐴𝐹 = 𝕆 ⊕ 𝕆.
+
+Per OctonionExtension v10.9 §3–§6, the octonionic substrate 𝕆 carries:
+    • Aut(𝕆) = 𝐺2 , the 14-dimensional exceptional Lie group; this is the pre-temporal symmetry group of
+      NTE.
+    • At gauge birth, the associativity transition 𝕆 → ℍ + Higgs VEV selection of 𝑒1 ∈ Im(𝕆) breaks
+      𝐺2 → SU(3) × SU(2) × U(1) — the Standard Model gauge group emerges rather than being postulated.
+    • The exceptional Jordan algebra 𝐽3 (𝕆) has dimension 27, providing three generations (the 3 in 𝐽3 )
+      and, with the Majorana condition, the 90 Standard Model Weyl species.
+The two copies of 𝕆 in 𝐴𝐹 correspond to the +N and −N sectors of the CPN-symmetric Janus boundary.
+Multiplication is componentwise: (𝑎, 𝑏) ⋅ (𝑐, 𝑑) = (𝑎 ⋅𝕆 𝑐, 𝑏 ⋅𝕆 𝑑). The non-associativity is inherited from
+𝕆; the heat-kernel framework operates at the associative-operator-algebra level through the GNS
+representation, per the P0.7 pass marker.
+The finite Hilbert space decomposes as
+
+
+                                                        4
+                                                     (+𝑁 )       (−𝑁 )
+                                          ℋ𝐹 = ℋ𝐹            ⊕ ℋ𝐹        ,
+
+with each sector carrying the 𝐽3 (𝕆)-derived 45-Weyl-species content (90 total when summed across
+sectors), yielding total Hilbert-space dimension 𝑁𝐹 = 180.
+
+§2.4 δN intrinsic-uniformity reading
+Per OctonionExtension v10.9 §3.4 + §3.6 (canonical from Companion 7a v10.9 §2.3), the two copies of
+𝕆 in 𝐴𝐹 are CPN-conjugate vantages of the same intrinsic octonionic algebra. From the +N sector’s
+intrinsic vantage, the algebra is 𝕆; from the −N sector’s intrinsic vantage, the algebra is also 𝕆. The
+two-copy structure operates at meta-vantage level — the level at which an external observer compares the
+two sectors.
+Both readings hold simultaneously at their respective levels. For the heat-kernel computation, the
+operationally relevant level is meta-vantage: the spectral triple sees 𝐴𝐹 = 𝕆 ⊕ 𝕆, and 𝑁𝐹 = 180 is
+the trace dimension that enters the coefficient prefactors. The intrinsic-vantage reading guards against
+double-counting at the cross-sector level (the +N and −N sectors do not interact except through the CPN
+involution; the cross-sector contribution to the trace is zero, not duplicated).
+
+§2.5 Dirac operator
+The Dirac operator on the full spectral triple is
+
+
+                                          𝐷 = 𝐷 𝑀 ⊗ 1 + 𝛾 𝑀 ⊗ 𝐷𝐹 ,
+
+with the manifold part
+
+
+                                         𝐷𝑀 = 𝐷 𝑆 3 ⊗ 1 + 𝛾 𝑆 3 ⊗ 𝐷 𝑆 1 .
+
+The spinor bundle on 𝑀 has rank 𝑟 = 4 (the standard 4-dimensional spinor bundle dimension),
+decomposing as 𝒮𝑀 = 𝒮𝑆 3 ⊗ 𝒮𝑆 1 .
+The Dirac spectrum on 𝑆 3 is (Friedrich 1980; CC2008):
+
+                                       3     3
+                                    𝜆𝑘𝑆 = ± ( + 𝑘) ,          𝑘 = 0, 1, 2, … ,
+                                             2
+
+with multiplicity (𝑘 + 1)(𝑘 + 2) per sign. The Dirac spectrum on 𝑆𝛽1GB depends on spin structure: for the
+canonical NTE choice 𝜃 = 1/2 (antiperiodic / NS-sector, the standard choice for fermions and ratified in
+S2-A),
+
+                                     1      2𝜋(𝑛 + 1/2)
+                                  𝜆𝑛𝑆 = ±               ,       𝑛 = 0, 1, 2, … ,
+                                               𝛽GB
+
+with multiplicity 1 per sign. The product spectrum is
+
+                                                 2                           2
+                                     2 = ( 3 + 𝑘) + ( 2𝜋(𝑛 + 1/2) ) ,
+                                    𝜇𝑘,𝑛
+                                           2             𝛽GB
+
+                                                        5
+with total multiplicity (𝑘 + 1)(𝑘 + 2) ⋅ 1 ⋅ (spinor signs).
+The finite-space Dirac 𝐷𝐹 encodes Yukawa couplings, Majorana mass terms, and gauge connections
+(Programme S: full 𝐷𝐹 matrix extraction from OctonionExtension v10.9 §5 species roster — not OctExt
+§5.3, which is per-Dirac heat-kernel coefficients on 𝑀). At leading heat-kernel order 𝐷𝐹 appears only
+through trace structure Tr𝐹 (1) = 𝑁𝐹 = 180 and (at sub-leading order) Tr𝐹 (𝐷𝐹2 ), Tr𝐹 (𝐷𝐹4 ).
+
+
+
+§3. Heat-kernel framework
+§3.1 Seeley–DeWitt expansion
+For a self-adjoint elliptic operator 𝐷 2 of order 2 on a closed Riemannian 4-manifold, the heat kernel admits
+the asymptotic expansion
+
+                                                  ∞
+                                          2
+                                  Tr(𝑒 −𝑡𝐷 ) ∼   ∑ 𝑎2𝑘 (𝐷 2 ) 𝑡 𝑘−2 ,       𝑡 → 0+ .
+                                                 𝑘=0
+
+The coefficients 𝑎2𝑘 (𝐷 2 ) are integrals of local curvature invariants over 𝑀. For the NTE spectral triple,
+the relevant operator is 𝐷 2 on the full spectral triple 𝒜 = 𝐶 ∞ (𝑀) ⊗ 𝐴𝐹 , and the coefficients carry both
+manifold-curvature and finite-algebra contributions.
+We adopt the Gilkey–Vassilevich convention (Gilkey 1984; Vassilevich 2003 user’s manual), aligned with
+CC2008. The spinor bundle rank 𝑟 = 4 enters explicitly in the prefactors.
+
+§3.2 Lichnerowicz formula
+For the Dirac operator on a curved manifold, 𝐷 2 = −∇2 + 𝑅/4 (Lichnerowicz). The endomorphism 𝐸 =
+𝑅/4 ⋅ 1𝑀 ⊗ 1𝐹 + 1𝑀 ⊗ 𝐷𝐹2 controls the sub-leading expansion. At leading order on the NTE substrate, only
+the 𝑅/4 piece contributes; 𝐷𝐹2 corrections are mass-scale suppressed (§6).
+
+
+
+§4. Heat-kernel coefficient 𝑎2 and the 𝜅0 confluence
+§4.1 𝑎0 — volume contribution
+For Dirac with spinor rank 𝑟 = 4 on 𝑀 with Vol(𝑀) = 2𝜋 2 𝛽GB , the leading Seeley–DeWitt coefficient is
+
+                                               2 )=      𝑟 ⋅ Vol(𝑀) 𝛽GB
+                                          𝑎0 (𝐷𝑀                   =    .
+                                                             16𝜋 2   2
+
+Including the finite algebra trace Tr𝐹 (1) = 𝑁𝐹 = 180:
+
+                                                         𝑁𝐹 𝛽GB
+                                           𝑎0 (𝐷 2 ) =          = 90𝛽GB .
+                                                            2
+
+This is the cosmological-constant-scale contribution. The product structure 𝑁𝐹 × Vol(𝑀) reflects total
+spectral-triple degrees of freedom.
+
+
+                                                           6
+§4.2 𝑎2 — Einstein–Hilbert contribution
+For the Dirac operator with 𝜉 = 1/6 conformal coupling (Paper S1 v1.0 §2 v2 P2 canonical commitment),
+the standard heat-kernel result is
+
+                                   2             𝑟     1
+                              𝑎2 (𝐷Dirac )=−       2
+                                                     ⋅   ⋅ Tr𝐹 (1𝐹 ) ⋅ ∫ 𝑅√𝑔 𝑑 4 𝑥.
+                                               (4𝜋) 12                  𝑀
+
+With ∫𝑀 𝑅 √𝑔 𝑑 4 𝑥 = 6 ⋅ 2𝜋 2 𝛽GB = 12𝜋 2 𝛽GB and 𝑟 = 4, 𝑁𝐹 = 180:
+
+                                                       𝑁𝐹 𝛽GB
+                                       𝑎2 (𝐷 2 ) = −          = −45𝛽GB .
+                                                          4
+
+Under the spectral action, this contributes the Einstein-Hilbert kinetic term. The Newton’s-constant
+             2 = 4𝑓 Λ2 /(3𝜋 2 ) emerges from the 𝑓 moment of the spectral cutoff function in combination
+prediction 𝑀Pl       2                             2
+with this coefficient (Paper S1 v0.4 §5; Boyle–Farnsworth 2013; Farnsworth 2025).
+
+§4.3 𝜅0 extraction via Hopf harmonics
+The bare coupling 𝜅0 that enters Pathway A’s closure formula 𝜅 = 𝜅0 /(1 − 𝜅0 ) is extracted from 𝑎2 via the
+geometric content of the Hopf-bundle structure on 𝑆 3 .
+Step: the 𝑎2 integrand carries the scalar curvature 𝑅𝑆 3 = 6, which decomposes via the Hopf fibration as
+𝑅𝑆 3 /2 = 3 = dim(adj 𝔰𝔲(2)) (Sonner–Tong anchor; per Paper S1 v0.4 §5). The Hopf monopole projection
+onto the spherical harmonic 𝑌00 (𝑆 2 ) = 1/√4𝜋 on the base 𝑆 2 of the Hopf bundle gives
+
+                                                                    3
+                             𝜅0 = dim(adj 𝔰𝔲(2)) ⋅ 𝑌00 (𝑆 2 ) =        ≈ 0.846.
+                                                                   √4𝜋
+
+This is Note 1 of the chord: the bare-coupling confluence value.
+
+§4.4 Confluence with Pathway B
+Pathway B v10.6 (Paper Kappa) derives 𝜅0 = 3/√4𝜋 from the Hopf-monopole projection route directly
+(CPN-symmetric resummation framework). Paper S2’s heat-kernel derivation here gives the same value
+— this is the central confluence claim of §4.
+§II.0 grade (Part 1 §II.0; master §17.5.20): κ₀ at confluence tier — grade (ii), two-route convergence; κ =
+κ₀/(1−κ₀) closure at grade (i) structural derivation (Pathway A architectural step, not heat-kernel-derived).
+The closure step 𝜅 = 𝜅0 /(1 − 𝜅0 ) ≈ 5.50 is a Pathway A architectural step (Janus action + S_cons matrix
+inversion + bilinear S_bridge form per Pathway A v10.9). Paper S2 does not derive κ = 5.50 from bare
+heat-kernel machinery; this is honest scope.
+The confluence at the bare-coupling level is, however, structurally robust. The numerical value of κ = 5.50
+(the observed dark matter ratio prediction) is reached when the heat-kernel route converges on the same κ₀
+via the same dim(adj SU(2))=3 × Y₀₀ structure — a confluence (grade ii), not an independent derivation.
+The convention-independent anchor is Sonner–Tong’s dim(adj SU(2))=3. The Programme S contribution
+is to make this confluence explicit at the spectral-triple substrate level.
+
+
+
+                                                         7
+§5. 𝑎4 and the F1 trace-anomaly reinterpretation
+§5.1 General 𝑎4 for Dirac
+The Seeley–DeWitt 𝑎4 coefficient for the Dirac operator with 𝐸 = 𝑅/4 on a 4-manifold is (Vassilevich 2003
+§5)
+
+                                     1     1
+                     𝑎4 (𝐷 2 ) =       2
+                                         ⋅                          2 − 7𝑅2
+                                             ⋅ Tr𝐹 (1𝐹 ) ∫ [5𝑅2 − 8𝑅𝜇𝜈               4
+                                                                          𝜇𝜈𝜌𝜎 ] √𝑔 𝑑 𝑥.
+                                   (4𝜋) 360               𝑀
+
+                        2 − 7𝑅2
+The combination 5𝑅2 − 8𝑅𝜇𝜈    𝜇𝜈𝜌𝜎 is the standard 4D conformal trace-anomaly combination for Dirac
+fermions.
+
+§5.2 F1 reinterpretation in the Weyl + Euler basis
+The combination admits an algebraic decomposition in the standard 4D Weyl + Euler basis:
+
+                                                2 − 7𝑅2
+                                   𝐹1 = 5𝑅2 − 8𝑅𝜇𝜈                2
+                                                      𝜇𝜈𝜌𝜎 = −18 𝐶 + 11 𝐸4 ,
+
+             2
+where 𝐶 2 = 𝐶𝜇𝜈𝜌𝜎                                  2
+                  is the Weyl-squared and 𝐸4 = 𝑅𝜇𝜈𝜌𝜎        2 + 𝑅2 is the Gauss-Bonnet Euler density. The
+                                                        − 4𝑅𝜇𝜈
+ 2
+𝑅 piece cancels exactly via the coefficient identity (5 − 8/3 − 7/3) = 0.
+This is the F1 d-parametric combination of Paper S1. Paper S1 v1.0 §3 identified 5𝑅2 − 8𝑅𝜇𝜈  2 − 7𝑅2
+                                                                                                     𝜇𝜈𝜌𝜎 as
+                                                                                          𝑑
+the trace-anomaly piece whose d-parametric value 𝑑(𝑑 − 1)(𝑑 − 3)(5𝑑 + 2) on the unit 𝑆 vanishes at the
+unique non-trivial root 𝑑 = 3. Paper S2’s contribution here is to read this combination algebraically in the
+standard Weyl + Euler basis. Paper S1 F1 is the standard 4D conformal anomaly combination in disguise.
+
+§5.3 Per-Dirac coefficients
+In the standard normalisation, the Weyl and Euler coefficients per Dirac fermion are
+
+                                              1                  11             1
+                                     𝑐𝑊 = −      ,     𝑎𝐸 = +       ,     𝑐𝑅 = + .
+                                              20                360             3
+For 𝑁𝐹 = 180:
+
+                                    total = −9,                    11
+                                   𝑐𝑊                𝑎𝐸total = +      ,   𝑐𝑅total = +60.
+                                                                    2
+
+These match Birrell–Davies 1982 + Duff 1977 + Christensen–Duff 1978/1979 references for the standard
+4D trace anomaly.
+
+§5.4 Weyl-flat + Euler-zero on M
+We now evaluate 𝐶 2 and 𝐸4 pointwise on 𝑀 = 𝑆 3 × 𝑆 1 .
+                         2
+On the round unit 𝑆 3 : 𝑅𝜇𝜈𝜌𝜎        2 = 12, 𝑅2 = 36. The Weyl tensor on 𝑆 3 × 𝑆 1 has components
+                              = 12, 𝑅𝜇𝜈
+determined by the deviation from flatness, which is concentrated in the 𝑆 3 sector. A direct evaluation
+gives
+
+
+
+                                                            8
+                           𝐶 2 |𝑀 = 12 − 24 + 12 = 0,       𝐸4 |𝑀 = 12 − 48 + 36 = 0.
+
+The manifold 𝑀 = 𝑆 3 × 𝑆 1 is simultaneously Weyl-flat and Euler-zero pointwise.
+We verify uniqueness among small-𝑝 product manifolds 𝑆 𝑝 × 𝑆 𝑞 with 𝑆 𝑞 flat (i.e., 𝑆 𝑞 = ℝ𝑞 or topologically
+𝑆 1 ):
+    • 𝑝 = 2: neither 𝐶 2 = 0 nor 𝐸4 = 0.
+    • 𝑝 = 3: both 𝐶 2 = 0 and 𝐸4 = 0.
+    • 𝑝 = 4: 𝐶 2 = 0 (Einstein space) but 𝐸4 ≠ 0.
+    • 𝑝 = 5: neither.
+The uniqueness of 𝑝 = 3 for the simultaneous vanishing is the deep structural reading of Paper S1’s F1
+d-parametric root cancellation. $M = $ Hopf-𝑆 3 × 𝑆𝛽1GB is the unique closed product manifold of the form
+𝑆 𝑝 × 𝑆 𝑞 on which the (Weyl + Euler) trace-anomaly combination vanishes identically.
+
+§5.5 𝑎4 on M
+From §5.4, 𝐶 2 = 𝐸4 = 0 pointwise on 𝑀 = 𝑆 3 × 𝑆 1 . Substituting into the F1 decomposition (§5.2), 𝐹1 =
+−18𝐶 2 + 11𝐸4 = 0, and the §5.1 Vassilevich Dirac integrand vanishes identically:
+
+
+                                                 𝑎4 (𝐷 2 )|𝑀 = 0.
+
+                                                                           2 − 7𝑅2
+Equivalently, the §5.1 Vassilevich Dirac integrand on 𝑀 gives 𝐹1 = 5𝑅2 − 8𝑅𝜇𝜈    𝜇𝜈𝜌𝜎 = 180 − 96 − 84 = 0.
+
+The previously boxed naive non-Dirac 𝑎4 estimate (pre-CR-H1) used (3/2) ⋅ 180, where 180 was the naive
+non-Dirac combination 5𝑅2 − 2𝑅𝜇𝜈2 + 2𝑅2          3   1
+                                        𝜇𝜈𝜌𝜎 on 𝑆 × 𝑆 ; that is not the Dirac integrand 𝐹1 , which vanishes.
+Corrected per CR-H1 (AC/Scratch/Cursor convergent verification, 2026-06-01). Do not introduce any
+gauge Ω2 term to rescue a nonzero value (operator untwisted — confirmed). The canonical untwisted
+product Dirac operator carries no external gauge connection (𝐷𝑀 is the free round-𝑆 3 spectrum); internal
+𝐷𝐹 traces are ∼ 10−18 suppressed (§5.6). Only an explicitly displayed twisted Dirac operator with external
+𝐹𝜇𝜈 could yield nonzero 𝑎4 — new construction, not a defence of the prior §5.5 chain.
+
+§5.6 CC2008 tail suppression
+Beyond 𝑎4 , the higher coefficients 𝑎2𝑛 for 𝑛 ≥ 2 vanish identically on 𝑆 3 × 𝑆 1 for the Dirac operator with the
+canonical Lichnerowicz E ( worksheet; exponential suppression in the spectral sum). The full heat-kernel
+expansion terminates at 𝑎4 for practical purposes — there is no infinite tail contributing to the spectral
+action at the canonical NTE substrate.
+
+
+
+§6. K(Φ) inflation-sector closure
+§6.1 Higgs portal coupling
+Per Paper S1 §2 v2 P3, the Higgs-portal coupling between the NTE inflation sector Φ and the SM Higgs 𝐻
+takes the form 2𝑒|𝐻 |2 Φ2 at leading order. We evaluate the heat-kernel contribution to the Φ kinetic term,
+𝐾 (Φ) ⋅ (𝜕Φ)2 .
+
+
+
+                                                        9
+§6.2 K(Φ) — open (BREAK-1)
+The 𝑎4 coefficient on the untwisted substrate vanishes identically (§5.5). The prior route that extracted
+𝐾 (Φ) from an 𝑎4 (𝜕𝐸)2 piece is therefore not available on this operator. 𝐾 (Φ) closure is open, routed to
+Programme S Paper S2 pending a valid route (Companion 8 F3; Companion 9 §7.6). Do not claim 𝐾 (Φ) = 1
+as derived from §5.5.
+Historical note (superseded): a pre-CR-H1 estimate suggested 𝐾 (Φ) ≈ 1 at leading order from a nonzero 𝑎4
+integrand; that chain is retired with 𝑎4 = 0.
+
+§6.3 §18.4 reading survival
+The corpus §18.4 lists three candidate inflation potentials. Under the assumed (open) 𝐾 (Φ) = 1 and the
+observational constraint $n_s = 0.9685 ±$ Planck-band precision, 𝑟 < 0.06 at 95% confidence (BICEP/Keck
+2023):
+
+Reading                        𝑛𝑠                        𝑟                 Survival
+(i) Literal Φ4 -chaotic        NO                        NO                FAIL ELIMINATED
+(ii) Gaussian saddle Φ2 -      PASS                      NO (3.5σ           PARTIAL
+equivalent                                               tension)
+(iii) Hilltop V_NTE^pre        PASS                      PASS              PASS CANONICAL
+Φ4 − Φ 6                                                                   FAVOURED UNIQUELY
+
+
+                      pre
+The hilltop reading 𝑉NTE ∝ Φ4 − Φ6 (Companion 9 v10.8 Session 5; smooth pre-temporal / post-locking
+connection) yields 𝑛𝑠 = 0.9685 and 𝑟 ∼ 4 × 10−3 , matching observation. This is Note 3 of the chord.
+
+§6.4 ξ = 1/6 Einstein-frame compatibility
+The 𝜉 = 1/6 conformal coupling commitment (Paper S1 v1.0 §2 v2 P2) preserves the 𝑛𝑠 and 𝑟 predictions
+under conformal-frame transformation. The Einstein-frame numerical precision corrections to 𝑛𝑠 = 0.9685
+at fourth-order in 𝜉 are estimated at Δ𝑛𝑠 ∼ 10−4 , within the Planck-band uncertainty; we defer the explicit
+Einstein-frame computation to a downstream session.
+
+
+
+§7. Λ_NTE residual via unimodular projection
+      CR-H2 closed (2026-06-01): The structural unimodular / Connes–Chamseddine volume
+      constraint (§7.1–§7.2 opening) stands — empty space is structurally quiet regardless of
+      𝑎4 . With 𝑎4 = 0 (§5.5), the Λ𝑎4 derivation chain and the Λ ≈ 1.05 × Λobs number are
+      reroute-or-retire (§7.2–§7.4 below). Do not cite the 1.05× match as a Paper S2 prediction
+      pending a genuine reroute.
+
+§7.1 The naive Λ problem
+The naive spectral-action contribution to the cosmological constant is
+
+
+                                      Λnaive      4              4
+                                       cosm ∼ 𝑓4 Λcutoff ⋅ 𝑎0 ∼ 𝑀Pl ,
+
+
+
+                                                    10
+                                                         4 . This is the standard cosmological-constant
+which is ∼ 10122 times the observed value Λobs ∼ 10−122 𝑀Pl
+problem at the spectral-action level.
+
+§7.2 Unimodular projection
+Per corpus §22.15 v10.8 + Companion 11 v10.17.2, the unimodular gravity mechanism projects out the naive
+Λ as an integration constant. The unimodular constraint (determinant of the metric held fixed) reduces the
+gravitational dynamics to the traceless Einstein equations, in which Λ enters as an integration constant
+rather than a Lagrangian parameter. This structural mechanism stands independent of 𝑎4 .
+[REROUTE-OR-RETIRE — prior 𝑎4 -dependent chain]: The residual Λ at the 𝑎4 level — i.e., the part not
+projected out by unimodularity — was written as
+
+
+                                           Λ𝑎4 ∼ 𝑓0 ⋅ 𝑎4 /Vol(𝑀).
+
+                                                                                             3𝑁 𝛽   3𝑁 𝑓
+With 𝑎4 = 0 (§5.5), Λ𝑎4 = 0 under this chain. The prior consolidation used Λ𝑎4 ∼ 𝑓0 ⋅ 2⋅2𝜋𝐹2 𝛽GB ∼ 4𝜋𝐹 2 0 —
+                                                                                              GB
+that numeric route is retired; it is not to be rescued by number-dialing.
+
+§7.3 Conditional measure on V_lock
+[REROUTE-OR-RETIRE — prior numeric closure]: The closure step below was the conditional measure
+on one comoving cell. Per BR2d-J3 heat-kernel upgrade and the Λ closure step chain in Companion 11:
+
+
+                           𝑑𝜇(𝑉 ) = 𝛿(𝑉 − 𝑉lock ) 𝑑𝑉 /𝑉lock ,         𝑉lock = 2𝜋 2 𝑒 3𝑁𝑒 ,
+
+where 𝑉lock is the comoving volume at the lock scale 𝑁lock and 𝑁𝑒 is the number of e-folds to gauge birth
+from the locking surface.
+The conditional projection of Λ𝑎4 onto the lock cell gave (prior chain; retired with 𝑎4 = 0):
+
+
+                                             pred      Λ𝑎4 ⋅ 𝑒 −3𝑁𝑒
+                                            ΛNTE =                    .
+                                                           2𝜋 2
+
+§7.4 Numerical closure
+[REROUTE-OR-RETIRE]: With 𝑁𝑒 = − ln(𝛼𝑀Pl,nr ) at the canonical NTE thermal scale (per Companion
+11 R6 closure formula; Greg-ratified 2026-05-24 04:22Z), the prior numerical evaluation gave
+
+                                             pred
+                                            ΛNTE
+                                                 ≈ 1.046 ≈ 1.05.
+                                            Λobs
+
+That 1.05× match loses its derivation chain from 𝑎4 = 0 and must not be cited as a Paper S2 prediction
+until/unless a genuine nonzero-𝑎4 source is explicitly displayed. The 2𝜋 2 boundary-cell normalisation (§9)
+survives as Note 5 of the chord independently of the Λ𝑎4 numeric route.
+
+
+
+
+                                                      11
+§7.5 β_NTE-chain caveat (honest scope)
+The prior closure formula was not fitted to Λobs in the sense that there was no continuous dial in the
+closure formula itself. However, the empirical characterisation of 𝛽NTE uses ΩΛ as input through the
+standard cosmological-parameter chain, so Λ enters the anchoring chain upstream. With the 𝑎4 -dependent
+numeric route retired (§7.2–§7.4), this caveat applies to the historical chain only; reroute is Programme S
+downstream scope.
+
+§7.6 BR5 discipline
+We note explicitly that the same 𝑁𝑒 enters both 𝑛𝑠 and the prior Λ closure — the 𝑁𝑒 that fixes 𝑛𝑠 = 0.9685
+in §6 was the same 𝑁𝑒 that entered the (now retired) Λ closure formula here. BR5 discipline (𝑁lock ≠ 𝑁𝑒 ;
+same 𝑁𝑒 for 𝑛𝑠 and Λ) remains structurally relevant for any future Λ reroute.
+
+
+
+§8. M_1 and M_R cross-checks
+§8.1 M_1 spectral-action cross-check
+Per Companion 10 v10.8 Pathway α (now v10.17.2 patch shipped 2026-05-24), the lightest Majorana
+neutrino mass is
+
+                                               2 ⋅ 𝐻 )1/3 = 5.40 × 109 GeV,
+                              𝑀1 = (8𝜋)1/3 ⋅ (𝑀Pl   GB
+
+within factor 1.12 of the observed 𝑀1 ∼ 6.06 × 109 GeV.
+Programme S cross-check: The (8𝜋)1/3 Majorana-doubled prefactor is structurally consistent with 𝑁𝐹 =
+180 CPN doubling at the 𝐴𝐹 = 𝕆 ⊕ 𝕆 level. The Majorana chirality doubling factor 2 in Pathway α’s flux
+quantisation ΦMaj = 2 × ΦHP is the spectral-triple two-sector CPN structure: 90 species per sector × 2
+sectors = 𝑁𝐹 = 180, with the cube-root prefactor enforced by the dimensional balance at gauge-birth scale.
+The S2 strict-uniqueness of the (8𝜋)1/3 prefactor vs alternatives ((4𝜋)1/3 Hopf-Planck-no-Majorana; fitted
+𝑐 = 3.27 ∼ (12𝜋)1/3 ) is closed at tree + factor 1.12 numeric tier via geometric flux quantization with
+Majorana doubling (𝒪(1) gauge-birth residue for 1.12).
+§II.0 grade (Part 1 §II.0; master §17.5.20): M₁ at confluence tier with O(1) gauge-birth residue — grade
+(ii); factor 1.12 = gauge-birth residue, not emergent SUSY breaking.
+
+§8.2 M_R cross-check
+Per corpus §19.7 (Hopf 3:1 weights), the heaviest Majorana mass is
+
+                                                3/4   1/4
+                                 𝑀𝑅 = 𝑀3 = 𝑀Pl ⋅ 𝑣EW = 8.2 × 1014 GeV.
+
+This is consistent with the Hopf-𝑆 3 × 𝑆𝛽1GB substrate weights at Programme S level — the 3/4 + 1/4 exponent
+split mirrors the 3:1 weight distribution between the spatial 𝑆 3 sector and the temporal 𝑆 1 sector.
+Two parallel bookkeeping pictures (FX-S2-A; Scratch M_R v0.4 §3.1; P0 audit 2026-05-25). The same
+           3/4 1/4
+𝑀𝑅 = 𝑀Pl 𝑣EW numerics admit two corpus-consistent structural readings, both at confluence tier (Part 1
+§II.0): (i) flux-integration on the Hopf–Killing-spinor line; (ii) Hopf base/fibre 3:1 weights (master §19.2;
+
+
+                                                      12
+Companion 10 v10.17.2 — 𝑆 2 base 3/4 + 𝑆 1 fibre 1/4). They are not independent derivations; reconciliation
+at Programme S full rigor is open (Paper S6 candidate). §II.0 grade: cross-checked confluence (not Tier-A
+unique derivation).
+
+§8.3 σ_3 Cartan-mode at spectral-triple level
+The sigma-mode ontology surfaces at the spectral-triple level as follows. The Majorana sector decomposes
+on the unresolved-neutrino 𝔰𝔲(2) Cartan:
+    • 𝑀3 = 𝑀𝑅 : 𝜎3 -aligned mode, strongly Higgs-VEV coupled (per Tr𝐹 (𝐷𝐹2 ) sector decomposition;
+      dominates Majorana trace by factor ∼ 1010 ).
+    • 𝑀1 : 𝜎1 or 𝜎2 polarisation, orthogonal to Higgs VEV; cube-root quantisation at gauge-birth scale via
+      Pathway α.
+    • 𝑀2 : paired 𝜎1 /𝜎2 polarisation; subleading Higgs split via 𝑍2 symmetry. M_2 explicit derivation is
+      closed
+This is consistent with Companion 10 v10.8 §3.8 and Companion 13 v10.17.2 (m_{ν₂} = (8π)^{-2/3}
+v_EW²/M_R on the σ_1/σ_2 sector). The σ_3 vs σ_1/σ_2 distinction at the spectral-triple level is the
+structural origin of the m_{ν₂} parity test against m_{ν₃} at the same M_R (Companion 13’s clean Tier A
+genuine test).
+
+§8.4 g_eff cross-check
+The relativistic degrees of freedom at 𝑇GB are
+
+
+                       𝑔eff = 𝑁𝐹 /2 + gauge/scalar correction = 90 + 16.75 = 106.75,
+
+per corpus §17.5.10. The factor 2 in the denominator reflects the Weyl-to-Dirac doubling; the gauge/scalar
+correction accounts for the gauge bosons and Higgs degrees of freedom at the gauge-birth scale.
+
+
+
+§9. Unified action at crystallisation
+§9.1 The BR2d-J3 × J1-G4 upgrade
+The May 2026 sprint produced two consolidating upgrades to the heat-kernel framework:
+   1. : raises the BR2d-J3 boundary action from proof-sketch tier to heat-kernel-derived tier, via explicit
+      Lichnerowicz manipulation on the crystallisation surface.
+   2. : derives the single unified boundary action at crystallisation, combining bulk, crystallisation-surface,
+      and post-locking contributions.
+
+§9.2 Unified action
+The unified NTE action at gauge birth takes the form
+
+                                      unified = 𝒮
+                                     𝒮NTE         bulk + 𝒮cryst + 𝒮post ,
+
+with the pieces structurally derived from the heat-kernel:
+
+
+                                                     13
+Piece                     Heat-kernel form                                         Source
+                           𝑁
+𝒮cryst                    ∫0 lock [𝜌surf + 𝜇(ℋ − 𝛼|Φ|2 ) + 𝜆Hopf 𝜅0 𝑌00 ]          S2-B + Hopf harmonic
+                                                                                   content
+𝜌surf                     𝑓0 ⋅ 𝑎4 /Vol(𝑀) (= 0 with 𝑎4 = 0; §5.5)                  S2-B + §5 above
+𝒮post                     2𝜋 2 ∫ 𝑑𝑁 [ℒeff + 𝜇(𝐻 − 𝛼|ΦNTE |2 )]                     S2-A + Appendix B.3
+𝜉 = 1/6                   conformal coupling                                       Paper S1 + S2-C-A
+
+
+§9.3 The 2π² audit ratio
+The factor 2𝜋 2 appears across the corpus in three structurally distinct loci:
+    1. Vol(𝑆 3 ) = 2𝜋 2 — topology of the spatial sphere.
+    2. 𝑉lock = 2𝜋 2 𝑒 3𝑁𝑒 — comoving volume at the lock scale.
+                                        pred
+    3. The denominator of the prior ΛNTE = Λ𝑎4 𝑒 −3𝑁𝑒 /(2𝜋 2 ) chain — the boundary-cell normalisation (that
+       numeric chain is retired; §7).
+The three appearances are structurally tied through the Hopf-bundle geometry: the spatial 𝑆 3 volume sets
+the boundary-cell normalisation; the lock scale inherits it through the gauge-birth temporal closure.
+The R6 reinterpretation reads the 2𝜋 2 in the boundary unit cell at crystallisation — the bulk-to-boundary
+projection’s natural volume element. This is Note 5 of the chord.
+
+
+
+§10. Five-note chord registry and Charter D1-D9 map
+§10.1 The five notes
+We collect the five notes derived in this paper:
+
+Note                   Prediction                              Section                   Tier
+1                      𝜅0 = 3/√4𝜋 bare confluence              §4                        Derived
+2                      𝑇GB = 𝑀Pl,nr /√2𝜋                       §2.2                      Derived (operator-
+                                                                                         setup confluence)
+3                      𝐾 (Φ) open (Route E); 𝑛𝑠 /𝑟             §6                        Open (assumed)
+                       conditional on assumed 𝐾 (Φ) = 1
+4                      𝑀1 = 5.40 × 109 GeV;                    §8                        Cross-checked
+                       𝑀𝑅 = 8.2 × 1014 GeV
+5                      2𝜋 2 audit across Vol(𝑆 3 ), 𝑉lock ,    §9                        Derived
+                       boundary-cell normalisation
+
+
+                                            pred
+Reroute-or-retire (not a chord note): ΛNTE ≈ 1.05 × Λobs via Λ𝑎4 (§7) — structural unimodular Λ stands;
+the 𝑎4 -dependent number retires with 𝑎4 = 0 (CR-H2 closed 2026-06-01).
+The claim of this paper is that the five notes emerge from one heat-kernel computation on one substrate
+— they are not independent fits. The structural identity behind this claim is the Weyl-flat + Euler-zero
+geometry of 𝑀 = 𝑆 3 × 𝑆 1 (§5.4), which is what makes the heat-kernel computation tractable in closed form
+at all curvature orders relevant to the Programme.
+
+
+                                                         14
+§10.2 Charter D1-D9 closure map
+
+ID           Charter content                                Paper S2 closure
+D1           𝜅0 bare                                        §4 PASS
+D2           𝑇GB                                            §2.2 PASS
+D3           𝑀1 prefactor                                   §8.1 cross-check; D5 tree closed
+D4           𝑀𝑅 Hopf 3:1                                    §8.2 PASS
+D5           (8𝜋)1/3 BPS prefactor                          Closed — tree + factor 1.12 numeric
+D6           Λ                                              §7 structural unimodular stands; 1.05×
+                                                            numeric reroute-or-retire
+D7           K(Φ)                                           open (routed, Route E)
+D8           V_NTE / inflation                              Closed — bulk→boundary ℛ𝐺 ; 𝐾 (Φ) open
+                                                            (routed, Route E)
+D9           √2𝜋 audit                                      §2.2 confluence PASS
+
+
+All nine Charter v1.4 deliverables for Paper S2 are at closed-or-cross-checked status except D7 (𝐾 (Φ) open;
+BREAK-1).
+
+
+
+§11. Honest scope and falsifiers
+§11.1 What this paper does
+     • Computes 𝑎0 , 𝑎2 , 𝑎4 in closed form on the canonical NTE substrate.
+     • Extracts 𝜅0 = 3/√4𝜋 from heat-kernel and confirms confluence with Pathway B.
+     • Favours §18.4(iii) under assumed 𝐾 (Φ) = 1; does not derive 𝐾 (Φ) = 1 (𝑎4 = 0; closure open, Route
+       E).
+     • Reinterprets Paper S1 F1 as the standard 4D conformal trace-anomaly combination −18𝐶 2 + 11𝐸4 .
+     • Shows 𝑎4 (𝐷 2 )|𝑀 = 0 from 𝐶 2 = 𝐸4 = 0 / 𝐹1 = 0 on the canonical operator (CR-H1 resolved).
+     • Shows 𝑀 is uniquely Weyl-flat + Euler-zero among small-𝑝 closed product manifolds.
+     • Confirms structural unimodular Λ mechanism; retires the 𝑎4 -dependent 1.05× numeric closure
+       (CR-H2 closed).
+     • Cross-checks 𝑀1 , 𝑀𝑅 against Pathway α and corpus §19.7.
+     • Establishes the five-note chord registry.
+
+§11.2 What this paper does NOT do
+     • Does not derive the SM gauge/Higgs bosonic kinetic sector from the untwisted operator; inner
+       fluctuations of 𝐷 (twisted operator) are outside S2 scope — see §1.3 AC BREAK-3 drop-in. The G₂
+       gauge-group emergence (§2.3) is structural/algebraic, not a heat-kernel derivation of the SM bosonic
+       action.
+     • Does not derive 𝐾 (Φ) = 1 from 𝑎4 on this substrate; 𝐾 (Φ) closure is open (§6.2; BREAK-1).
+     • Does not derive κ = 5.50 from bare heat-kernel; this remains a Pathway A architectural step.
+     • Does not derive Λ at clean Tier A; the prior 𝑎4 -dependent 1.05× chain is retired (CR-H2 closed);
+       structural unimodular mechanism stands.
+     • Does not compute the Einstein-frame numerical precision corrections to 𝑛𝑠 at 𝑂(𝜉 4 ).
+
+
+
+                                                    15
+    • Does not close the absolute Yukawa scale; 𝑚𝜈2 is closed at zero-parameter precision (Companion 13),
+      but absolute charged-lepton masses are open at the ratio tier only.
+    • Does not extend the heat-kernel framework to the non-associative algebra level (P0.10 territory;
+      flagged parallel).
+
+§11.3 Falsifiers
+The paper is falsified if any of the following holds:
+   1. An independent Paper S2 heat-kernel computation on the same substrate gives 𝛽GB inconsistent
+      with √2𝜋/𝑀Pl,nr -> the spine fails (Note 2 + chord identity).
+   2. The conditional measure 𝑑𝜇(𝑉 ) admits smoothing with 𝜎𝑁 ≳ 1 -> any future Λ reroute from this
+      substrate degrades (prior Note 5 numeric retired; §7).
+   3. The boundary-cell normalisation factor 2𝜋 2 replaces 4𝜋 without spectral justification -> structural
+      audit shift (Note 5).
+   4. The heat-kernel extraction of 𝜅0 at the bare level gives a value different from 3/√4𝜋 -> D1 fails (Note
+      1 + Pathway B confluence).
+   5. An independent curvature evaluation on 𝑀 finds 𝐶 2 ≠ 0 or 𝐸4 ≠ 0 pointwise -> §5.4 uniqueness fails
+      (the Weyl + Euler vanishing is real and correct; §5.5 previously mis-used it by substituting a naive
+      𝑅2 -only integrand).
+Falsifiers (1) and (4) require independent groups to re-execute the Paper S2 computation. Falsifier (5) is
+mathematically checkable from the explicit curvature components of 𝑆 3 × 𝑆 1 . Falsifiers (2) and (3) are
+observationally testable through precision cosmology.
+
+
+
+§12. Discussion
+§12.1 The structural significance of 𝑆 3 × 𝑆 1
+The structural finding underlying Paper S2 — that 𝑀 = 𝑆 3 × 𝑆 1 is the unique closed product manifold of
+form 𝑆 𝑝 × 𝑆 𝑞 on which the (Weyl + Euler) trace-anomaly combination vanishes identically — is more than
+a computational convenience. It is the spectral-action substrate’s structural reason for being the canonical
+NTE substrate.
+The Programme commitment to closed-𝑆 3 surface ontology + temporal 𝑆 1 compactification was made on
+independent structural grounds (Charter §1; corpus §VIII): closed compact spatial topology with surface
+ontology; temporal emergence via crystallisation onto a Hopf fibre. Paper S2 reveals that this same
+substrate is the one on which the conformal trace anomaly is structurally trivial — and the spectral action
+is therefore tractable in closed form at 𝑎4 order. The two facts are independent commitments meeting at
+the same substrate; their meeting is the structural confluence at the heart of the Programme.
+
+§12.2 Why the five notes form one chord
+The chord identity is not numerology. Each of the five notes is tied to a specific structural feature of the
+heat-kernel computation on this substrate:
+    • Note 1 (𝜅0 ) emerges from the Hopf-harmonic content of 𝑎2 + the Sonner-Tong anchor
+      dim(adj 𝔰𝔲(2)) = 3.
+    • Note 2 (𝑇GB ) is the operator-setup confluence value, fixed before any coefficient computation.
+
+
+
+                                                        16
+    • Note 3 (𝑛𝑠 , 𝑟; 𝐾 (Φ) open) — 𝑛𝑠 /𝑟 follow from the §18.4(iii) hilltop under assumed 𝐾 (Φ) = 1, not from
+      𝑎4 (§6.2; 𝑎4 = 0).
+    • Note 4 (𝑀1 , 𝑀𝑅 ) is the spectral-action cross-check of the 𝑁𝐹 = 180 CPN doubling against Pathway
+      α and corpus §19.7.
+    • Note 5 (2𝜋 2 audit) is the boundary-cell normalisation that ties Volume(𝑆 3 ) and 𝑉lock structurally.
+The prior Λ note (Λ𝑎4 -> 1.05×; §7) is reroute-or-retire — not a chord note after CR-H2 closure.
+Each note has a different curvature order in the heat-kernel expansion: 𝑎0 (volume; Notes related to
+𝑔eff ), 𝑎2 (Einstein-Hilbert; Notes 1 and 4), 𝑎4 (higher curvature; Note 3). The “chord” claim is that all
+five predictions are organised by the same expansion on the same substrate — distinct from the “fit each
+prediction independently” baseline that the framework needs to be measured against.
+
+§12.3 Position relative to spectral-action gravity
+No 𝑅2 gravity sector arises at 𝑎4 order on this substrate, since 𝑎4 = 0 identically (§5.5). A Starobinsky
+(𝑅 + 𝑅2 /𝑀 2 ) comparison is therefore not supported here.
+
+§12.4 What remains open
+The Paper S2 arc completes the Programme S central deliverable at the level the corpus needed. What
+remains open at downstream Programme S scope:
+    • Λ promotion to clean Tier A: requires deriving 𝛽NTE from geometric structure without observational
+      inputs. Programme S Paper S3 / S4 territory.
+    • Absolute charged-lepton scale: 𝑚ℓ predictions are ∼ 0.35× PDG at the Yukawa zero point; ratios at
+      ∼ 0.1% / ∼ 7%.
+    • V_NTE smooth bulk-to-boundary projection details: the function-extension-to-projection
+      reinterpretation under Bulk/Boundary ontology
+    • Cross-fertilization arcs: Verlinde-Zurek 2021 modular-Hamiltonian fluctuation framework as
+      scaffold for |ΦNTE |2 amplitude computation (Charter v1.4 §2.6.1); Borchers 1999 + interferometric
+      scale matching (Charter §3.8).
+These are downstream Programme S items, not Paper S2 deficiencies.
+
+
+
+§13. References
+§13.1 NTE corpus
+    • Master corpus: NTE v10.17.2 (Tier 2g; Cursor Drive sync pending). Parts 1/2/3 IDs in Live Register
+      v10.17.2 (1jbwY8R63hQ7caJ6b-5Dql8BdkEzEUkwS).
+    • Charter v1.4: 1WiRi4LxP01Uozb2RUycvw5aMYN19EMn7.
+    • Paper S1 v1.0 master v1: 1LLGJUa62pc0OwEBxHR2OzEEfPO_EOcs_.
+    • Pathway A v10.9: 178yhLyvmFce1C35ey3a8MUa293MQyN58.
+    • OctonionExtension v10.9: 1uSoJeIwnsa7luWvHHHFDz_SxhjdSBhn6.
+
+§13.2 Companion papers (cross-references)
+    • Companion 7 v10.9 + Companion 7 v10.17.2 patch instructions (1rrBbRgY-QUcJz4bIi4QF38ODRQyPyF2J):
+      κ₀ Hopf-bundle projection + Companion 7a chirality extension.
+
+
+                                                     17
+    • Companion 9 v10.8 Stage 3 single-canonical (1JUfhKaKW1N1AUGRIXKlKhFvG6Li2mvS4): V_NTE
+      Stage 3; hilltop reading; thermal closure.
+    • Companion 10 v10.8 + v10.17.2 patch (1N8Ll3egHSm5mNddd1JxbYoOcpzZkWs1a): Gap 1 M_1
+      Pathways α; η leptogenesis.
+    • Companion 11 v10.17.2 (1vpmoYs6AMEMSPEHbMfHY4IMnBNRBIR_f): Λ unimodular closure; R6
+      ratified.
+    • Companion 12 v10.17.2 (1mogZdQI5npkfrD2WRqnWYzqvfzgFav7d): six-note chord synthesis.
+    • Companion 13 v10.17.2 (1E_Flis1APeYDXefOl_YTp57mIEsm0Uza): Yukawa m_{ν₂} D5 inverse;
+      clean Tier A genuine test.
+
+§13.3 Phase S2 working notes consolidated
+
+Phase                             Note                         Drive ID
+S2-A                              Operator setup               1Fz2phW6miL9-BW59JevO55Un6DRUUf78
+S2-B                              Coefficients + κ₀            1AZPDbqYG_zuXcrbscpc9ehXOlKlieEyA
+                                  confluence
+S2-C-A                            K(Φ) closure                 1bX2VQDqT6uoCtfD2OE2B8o5VAgnhAjcW
+S2-C-B                            a_4 + Weyl/Euler             1xykIAQMEKkvTKkjEPF1c28vp_MPLHOO-
+S2-C-C                            D_F sub-leading              1v0uB2oqdAk2OldnGpleClWLC3rmqOU4B
+S2-D                              Λ + M_1 + M_R                1pYqHqq-8XF4Od6i2xG9OeavTQ4KNJDEM
+S2-E                              AC Integration Package       1GOYpUj34OiE0OZSDNj3jE6lgtcOWbRWG
+Synthesis                         Chord Closure v1.0           16HbnU49b-G2A5R9oLfLFpif3iNKdAHVp
+Upgrade                           BR2d-J3 Heat-Kernel v1.0     1702zi87GdBnStfOjIljmn0-egXCQYcth
+J1-G4                             Unified action               1feuyF7WdEC1VO7s4tDSV06rY6VEXdRgl
+Scope                             Paper S2 Scope v0.4          1LqjtzqvscOxCcINusJZ5MTwPBcpE80KR
+
+
+§13.4 External literature
+    • Chamseddine, A. H., & Connes, A. (2010). Commun. Math. Phys. 293, 867 [arXiv:0812.0165].
+      (CC2008.)
+    • Gilkey, P. (1984). Invariance Theory, the Heat Equation, and the Atiyah-Singer Index Theorem.
+    • Vassilevich, D. V. (2003). Heat kernel expansion: user’s manual. Phys. Rep. 388, 279.
+    • Birrell, N. D., & Davies, P. C. W. (1982). Quantum Fields in Curved Space. CUP.
+    • Duff, M. J. (1977). Phys. Lett. B 67, 250; Christensen, S. M., & Duff, M. J. (1978/1979). Trace anomaly
+      references.
+    • Friedrich, T. (1980). Math. Nachr. 97, 117. (Dirac spectrum on 𝑆 3 .)
+    • Boyle, L., & Farnsworth, S. (2013). New J. Phys. 16, 123027.
+    • Farnsworth, S. (2025). Octonionic spectral triple. [arXiv id pending]
+    • Marcolli, M., & Penrose, R. (2021). Twistor theory and noncommutative geometry. [Per Charter v1.4
+      §2.4.]
+    • Starobinsky, A. A. (1980). Phys. Lett. B 91, 99.
+
+§13.5 Cross-stream upgrades referenced this consolidation
+    • BR2d-J3 Heat-Kernel Upgrade v1.0: 1702zi87GdBnStfOjIljmn0-egXCQYcth.
+    • J1-G4 Unified Action: 1feuyF7WdEC1VO7s4tDSV06rY6VEXdRgl.
+    • R6 Λ closure ratification handoff: 1PcuaTuBsfu2URrYCNr3GjD8mqUSOE6t3 (Greg fire 2026-05-24
+      04:22Z).
+
+                                                     18
+    • D5 factor 1.12 numerics v0.3: in Working/.
+    • M_2 Z_2 split derive v0.1:.
+    • Bulk/Boundary J6-n1b: 1lLDnLGYT3tNYEhPt3WG0lF6QJwS1r524.
+    • Standalone Papers Register v0.3: 1pkwrsfPCorFk6Rkvfwb_ddqzadyNWkdZ.
+
+
+
+§14. Closing
+Paper S2 is the Programme S central deliverable: a single heat-kernel computation on the canonical NTE
+spectral triple, from which five Programme predictions emerge as notes of one chord. The structural
+identity that makes this work is the unique Weyl-flat + Euler-zero geometry of 𝑀 = 𝑆 3 × 𝑆 1 — among
+small-𝑝 closed product manifolds, 𝑝 = 3 is the unique value satisfying both conditions, and this is also
+Paper S1’s F1 d-parametric root cancellation in its standard conformal-trace-anomaly form.
+All five chord notes are at derived or cross-checked status. The prior Λ closure (1.05× via Λ𝑎4 ) is
+reroute-or-retire — structural unimodular Λ language stands; the 𝑎4 -dependent number loses its
+derivation chain (CR-H2 closed 2026-06-01).
+The Programme S Paper S2 arc is structurally complete at the heat-kernel register.
+— AC (Authoritative-Claude, co-director), consolidating Scratch Programme S Paper S2 main arc,
+2026-05-25.
+Status: v1.0 consolidation pass. Source material: six S2-A–S2-E working notes + Chord Closure Synthesis
+v1.0 + BR2d-J3 Heat-Kernel Upgrade v1.0 + J1-G4 Unified Action v0.1 + S2-E AC Integration Package +
+Paper S2 Scope v0.4. Pending: Greg recognition gate on this consolidation as the publication-readiness
+draft; venue selection (NCG / spectral-triple specialist; likely J. Noncommut. Geom. / Commun. Math.
+Phys. / similar). The downstream-Programme-S items (Λ Tier A promotion, V_NTE smooth connection
+details, cross-fertilization arcs) are independent of this paper’s publication readiness.
+
+
+
+
+                                                  19
+

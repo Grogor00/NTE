@@ -1,0 +1,20 @@
+from: markdown+pipe_tables+raw_tex
+to: pdf
+standalone: true
+pdf-engine: xelatex
+
+variables:
+  mainfont: "Libertinus Serif"
+  mathfont: "Libertinus Math"
+  fontsize: 11pt
+  geometry: margin=1in
+  linkcolor: blue
+  urlcolor: blue
+
+include-in-header:
+  - header.tex
+
+filters:
+  - sanitize-meta.lua
+  - sanitize.lua
+  - break-underscores.lua

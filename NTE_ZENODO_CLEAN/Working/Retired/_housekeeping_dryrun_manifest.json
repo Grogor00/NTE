@@ -1,0 +1,74 @@
+{
+  "candidates": [
+    {
+      "path": "Working\\Chapter_NEW_The_Shape_of_Time_section_1_draft_v1_PC_20260603.md",
+      "size": 5720,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\Package_E2_n_s_Replacement_Prose_Draft_PC_20260615.md",
+      "size": 25230,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\Package_E3_Kappa_RootA_RootD_Replacement_Prose_Draft_PC_20260615.md",
+      "size": 14631,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\Package_E6_Constraint_vs_Production_Language_Pass_Scoping_PC_20260615.md",
+      "size": 7235,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\Paper_S1_v1_0_section_0_1_Abstract_Introduction_draft_v1.md",
+      "size": 16421,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\Paper_S1_v1_0_section_2_Wick_Invariance_draft_v1.md",
+      "size": 18446,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\Paper_S1_v1_0_section_3_4_5_6_Carry_Forward_draft_v1.md",
+      "size": 28886,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\Paper_S1_v1_0_section_7_8_9_draft_v1.md",
+      "size": 332,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\SUPERSEDED_Draft_Outreach_Email_Susskind_NTE_Mirror_Duality_Claude_Jammer_20260601.md",
+      "size": 5612,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\SUPERSEDED_Paper_Mirror_of_Susskind_dS_T_Breaking_NTE_Bilateral_Z2_Gauge_Duality_v0_1_Claude_Jammer_20260601.md",
+      "size": 27134,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    },
+    {
+      "path": "Working\\Susskind_Cover_Email_v0_3_Matching_DRAFT_AC_HELD_20260602.md",
+      "size": 5083,
+      "action": "ARCHIVE",
+      "reason": "superseded/draft marker in filename; canonical in Papers/ or later note"
+    }
+  ],
+  "counts": {
+    "archive": 11,
+    "delete": 0
+  }
+}

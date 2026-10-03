@@ -1,0 +1,46 @@
+
+## Book\Chapter_10_The_Silvered_Boundary_v6.md
+
+## Book\Chapter_11_What_the_Universe_Sounds_Like_v3_1.md
+
+## Book\Chapter_12_The_Chord_v3_1.md
+
+## Book\Chapter_13_The_Strange_Silence_of_the_Cosmological_Constant_v5.md
+
+## Book\Chapter_14_Strange_Geometries_and_Structural_Rhymes_v1.md
+
+## Book\Chapter_15_The_Score_v2.md
+
+## Book\Chapter_16_Stranger_and_Stranger_v1_1.md
+
+## Book\Chapter_17_The_Working_Bet_v2.md
+
+## Book\Chapter_1_The_Photons_Journey_v7_3.md
+
+## Book\Chapter_2_Entanglement_as_Geometry_v6.md
+
+## Book\Chapter_3_A_Closed_Universe_v5.md
+
+## Book\Chapter_4_Time_as_Expansion_v7_2.md
+  E6 anchor present: geometric constraint
+
+## Book\Chapter_5_The_Eighth_Colour_v6_2.md
+  E5-1 'experimental confirmations' L108: The framework's eighth colour is what fills this gap. |Φ_NTE| is the scalar field that can vary, and through its variati
+  E5-1 'experimental confirmation' L108: The framework's eighth colour is what fills this gap. |Φ_NTE| is the scalar field that can vary, and through its variati
+
+## Book\Chapter_6_Why_Quantum_Mechanics_is_Geometry_v5_3.md
+
+## Book\Chapter_7_The_Gauge_Birth_v3_3.md
+
+## Book\Chapter_8_The_Unresolved_Particle_v4.md
+
+## Book\Chapter_9_The_Number_That_Could_Have_Failed_v3.md
+
+## Book\Appendix_A_NTE_Popular_Paper_Reader_Edition.md
+  E6 anchor present: geometric constraint
+
+## NTE v10_6\Papers\Paper_Popular_v10_8_Full_Edition.md
+  E6 anchor present: geometric constraint
+
+## NTE v10_6\Papers\Paper_Popular_v10_8_Reader_Edition.md
+  E6 anchor present: geometric constraint

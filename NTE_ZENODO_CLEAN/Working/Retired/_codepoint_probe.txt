@@ -1,0 +1,57 @@
+=== S2 Paper_S2_v1_0_Consolidation_20260525.pdf ===
+  U+1D546 O: 29
+  U+1D4A6 K: 0
+  eth: 0
+  beta: 1
+  kappa: 14
+  sect: 174
+  AC bad literal count: 0
+  L1: Paper S2
+  L2: 
+  L3: Heat-Kernel Spectral Action on Hopf-S³ × S¹ × (𝕆 ⊕ 𝕆)
+  L4: G. White
+  L5: 2026-06-01 (v1.0 consolidation; CR-H1/H2 patch)
+  L6: 
+  L7: 
+  L8: 
+  S_bridge L103: step (Janus action + S_cons matrix inversion + bilinear S_bridge form per Pathway A v10.9), and Paper S2
+  S_bridge L339: inversion + bilinear S_bridge form per Pathway A v10.9). Paper S2 does not derive κ = 5.50 from bare
+  Kphi L464: §6.2 K(Φ) — open (BREAK-1)
+
+=== Part3 NTE_v10_17_Part3_Accounting.pdf ===
+  U+1D546 O: 38
+  U+1D4A6 K: 2
+  eth: 0
+  beta: 146
+  kappa: 80
+  sect: 340
+  AC bad literal count: 0
+  L1: NTE Master Corpus
+  L2: 
+  L3: 
+  L4: 
+  L5: 
+  L6: Part 3 of 3 · Accounting + Open Work + Appendices
+  L7: G. White
+  L8: April 2026
+  S_bridge L1506: S = S_grav + S_SM + S_ν + S_bridge + S_cons
+  S_bridge L1512: S_bridge: κ₀ ∫∫ √(-g_)√(-g_-) 𝒦 (x,y) g_+{αβ}g_- {ρσ} T_{αβ}^{(b,)} T_{ρσ}^{(b,-)} with κ₀ = 3/√(4π) and 𝒦 =
+  S_bridge L1520: EFT coarse-graining of S_bridge above the neutrino coherence scale (§9.4).
+  Kphi L627: observation. K(Φ) closure is open on the untwisted substrate (𝑎4 = 0 per CR-H1; Paper S2 §6.2 BREAK-1)
+
+=== Popular Paper_Popular_v10_8_Full_Edition.pdf ===
+  U+1D546 O: 1
+  U+1D4A6 K: 0
+  eth: 0
+  beta: 16
+  kappa: 21
+  sect: 1
+  AC bad literal count: 0
+  L1: What If Time Is Made of Something?
+  L2: G. White
+  L3: 2026-05-26 (v10.8 Full Edition)
+  L4: 
+  L5: 
+  L6: 
+  L7: 
+  L8: The Null-Time Extension to the Standard Model, Explained From First Principles

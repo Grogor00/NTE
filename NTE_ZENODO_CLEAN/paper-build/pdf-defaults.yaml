@@ -1,0 +1,21 @@
+# tex_math_single_backslash: treat \[...\] / \(...\) as math (else \[ is escaped '[' → mojibake)
+from: markdown+pipe_tables+tex_math_dollars+tex_math_single_backslash
+to: pdf
+standalone: true
+pdf-engine: xelatex
+
+variables:
+  mainfont: "Libertinus Serif"
+  mathfont: "Libertinus Math"
+  fontsize: 11pt
+  geometry: margin=1in
+  linkcolor: blue
+  urlcolor: blue
+
+include-in-header:
+  - header.tex
+
+filters:
+  - sanitize-meta.lua
+  - sanitize.lua
+  - break-table-words.lua
