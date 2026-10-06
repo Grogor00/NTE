@@ -1,3 +1,5 @@
+> **SUPERSEDED.** Deposit successor: `Core_Papers/Companion_22_Dark_Sector_Geometric_CDM_Investigation_v10_19_0.md` (2026-10-10). Audit trail only.
+
 ---
 title: "The Dark Sector from Surface Geometry: one boundary, two dark phenomena"
 author: "Gregory Lyndon White"
