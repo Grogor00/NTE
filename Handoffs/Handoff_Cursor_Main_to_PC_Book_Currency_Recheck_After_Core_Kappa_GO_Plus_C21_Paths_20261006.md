@@ -94,6 +94,6 @@ Greg GO 23:04 / 23:20 NZDT. Applied in Core:
 
 ## 6. Git
 
-Cursor is initialising a local git repo at the corpus root this turn so Core/Book/handoff versioning is tracked. See completion note in the same session.
+Local git repo initialised at corpus root. Baseline commit after today’s Core GO (κ withdrawal + C21). PDFs / `potential\` / `References\` excluded via `.gitignore`. Use `git -c core.longpaths=true …` on Windows for long Handoff filenames.
 
 — Cursor Main, 2026-10-06.
