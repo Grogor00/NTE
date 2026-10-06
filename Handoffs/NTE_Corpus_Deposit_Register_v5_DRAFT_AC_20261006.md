@@ -1,9 +1,9 @@
 # NTE Corpus Deposit Register v5 — DRAFT
 
-**Compiled by:** AC (Claude) · **For:** Greg White, sole author and ratifying authority · **Date:** 2026-10-06
-**Covers:** `Core_Papers\` Parts 1–3 and Companions 1–20; plus the two Working drafts (C21, Dark Sector).
-**Does NOT supersede** `Book\…\Zenodo_Book_Deposit_Register_v4_1.md`, which records the **published Book** state (DOI 10.5281/zenodo.21203061) and **is not to be edited.** The Book register remains separate.
-**Disk state from:** `Handoffs\CURSOR_DEPOSIT_REGISTER_V5_ARTEFACT_STATE_TABLE_20261006.md` (Cursor Main, 2026-10-06).
+**Compiled by:** AC (Claude) · **Cursor restatement of §1:** 2026-10-06 (non-Book gate campaign) · **For:** Greg White, sole author and ratifying authority · **Date:** 2026-10-06
+**Covers:** `Core_Papers\` Parts 1–3 and Companions 1–21; Dark Sector remains in `Working\` (**deferred**).
+**Does NOT supersede** `Book\…\Zenodo_Book_Deposit_Register_v4_1.md`, which records the **published Book** state (DOI 10.5281/zenodo.21203061) and **is not to be edited.** The Book register remains separate. **Live Book tip is out of this campaign** — PC owns the κ pass; review separately when she files done.
+**Disk state from:** `Handoffs\CURSOR_DEPOSIT_REGISTER_V5_ARTEFACT_STATE_TABLE_20261006.md` (Cursor Main, 2026-10-06) + campaign re-render of Parts 1–3.
 **Status: DRAFT. Not ratified. Not a deposit authorisation.**
 
 ---
@@ -18,22 +18,32 @@ The status signal is the **header inside each file** — live version, last rati
 
 ---
 
-## 1. **Deposit-readiness: NOT READY. Four blockers.**
+## 1. **Deposit-readiness — Core gate state (2026-10-06 campaign restatement)**
 
-| # | Blocker | Owner |
-|---|---|---|
-| **1** | **Version strings are ~4 months stale across the corpus** (§3) | Greg ratify → Cursor |
-| **2** | **Loci 1–4 of the κ-as-CDM register unapplied** — AC blocks pending Cursor's verbatim reports | Cursor → AC |
-| **3** | **C21 and the Dark Sector companion have no PDF and are not integrated** into `Core_Papers\` | PC / Greg |
-| **4** | **Five Cursor mechanicals outstanding** — C21 §8.4.1→§8.4, citation sweep completion, Δm²₂₁ precision, DS-1, void-magnitude check | Cursor |
+| # | Former blocker | Status now | Residual / owner |
+|---|---|---|---|
+| **1** | Version strings ~4 months stale | **Partially cleared** — Parts 1–3 + status headers carry 2026-10-06; many Companions still stamp mid-2026 | Optional polish before deposit (Greg → Cursor); not blocking Core physics honesty |
+| **2** | Loci 1–4 of κ-as-CDM register unapplied | **CLOSED** — loci 1–8 + Part 1 abstract + Part 3 derived-tier label applied; N-3 Door B residues verified clear on disk | — |
+| **3** | C21 + Dark Sector unintegrated / NO_PDF | **Split.** **C21:** in `Core_Papers\` as **[SPECULATIVE / NON-LOADBEARING]**; AC cleared v0.7; **no Core citations yet** (genuinely new speculative content). **Dark Sector:** remains in `Working\` — **explicitly deferred** from this deposit set (Greg/PC gate; findings A/B, §4.1, C12 a₄) | Dark Sector: Greg/PC when ready. C21 PDF currency: Cursor render lane |
+| **4** | Five Cursor mechanicals | **CLOSED** — C21 §8.4; citation sweep; Δm²₂₁ NuFIT; DS1-A; whole-set render; void V2 | — |
 
-## 2. Disk state — **clean**
+**Remaining non-Book gates that can still hold a joint Core+Book deposit:**
 
-**23 `Core_Papers\` artefacts. All PDFs current** (`.md` not newer than `.pdf`). **No zero-byte files**; smallest is Companion 20 at 3,830 bytes.
+| Gate | Owner |
+|---|---|
+| **Live Book κ pass** (Ch9/Ch12/Ch15 still sell 0.83σ) | **PC** — out of this campaign |
+| **Dark Sector companion** (integrate or permanently park) | Greg / PC — deferred |
+| **Companion date-stamp polish** (optional) | Greg → Cursor |
+
+**Core physics surfaces (Parts 1–3 + Manifest §3):** campaign-cleared for two handles, κ match withdrawn, observed CDM open, BBN recovery withdrawn.
+
+## 2. Disk state — **clean** (restated)
+
+**24 `Core_Papers\` artefacts** (Parts 1–3 + Companions 1–21). **No zero-byte files.**
 
 **No basename collisions** anywhere under the corpus root against any `Core_Papers\` artefact, and none within the deposit set. **This is the check that would have caught the 2026-09-30 manifest incident, and it now runs clean.** The 83 other duplicate-name groups are sync packs, archaeology, archives and parallel build trees — correctly classified by Cursor, none a second canon.
 
-**Two Working drafts carry NO_PDF** — expected, and part of blocker 3.
+**Dark Sector Working draft carries NO_PDF** — expected; **deferred**, not a Core blocker.
 
 ## 3. **Version strings — a deposit defect in its own right**
 
@@ -71,9 +81,9 @@ Nearly every Companion still reads **"2026-06 (v10.19.0)"**, including **Compani
 
 | Artefact | Last ratified change |
 |---|---|
-| Part 1 | 2026-09-28 — §2.1 self-contradiction register (P1-5/6/7) |
-| Part 2 | 2026-10-03 — N-3 Item A + Item B five edits; **2026-10-06 locus 5 pending** |
-| Part 3 | 2026-10-06 — locus 5 inserted |
+| Part 1 | 2026-10-06 — abstract: κ–Ω_DM match + standard-BBN recovery withdrawn |
+| Part 2 | 2026-10-06 — κ-as-CDM loci 2/4/7/8; N-3 Door B residues clear; Planck match withdrawn |
+| Part 3 | 2026-10-06 — loci 1/5/6; observed-CDM open sector; falsifier #1 withdrawn |
 | Companion 5 | 2026-09-25 |
 | Companion 6 | 2026-09-28 — κ-closure repoint to Part 2 §IX |
 | Companion 8 | 2026-09-28 — N_HH token pass, exit-(a) regrade |
@@ -99,4 +109,5 @@ Nearly every Companion still reads **"2026-06 (v10.19.0)"**, including **Compani
 
 ---
 
-— AC, 2026-10-06. **DRAFT.**
+— AC, 2026-10-06. **DRAFT.**  
+— Cursor Main §1 restatement, 2026-10-06 (non-Book gate campaign; Book left to PC).
