@@ -89,11 +89,11 @@ That bilateral support makes the neutrino the backbone for cross-thickness gravi
 
 ---
 
-## Dark Matter as Cross-Thickness Gravity
+## Bilateral Gravity — and an Open Question
 
-Matter in the conjugate orientation is invisible electromagnetically but should gravitate into ours through the neutrino bridge. **Dark matter is that gravitational signature**, not a new particle hiding in underground tanks.
+Matter in the conjugate orientation gravitates into ours through the neutrino bridge. That bilateral footprint is real in the framework's equations. **Whether it is the cold dark matter inferred from the microwave background is open** — not settled, and not claimed.
 
-**κ ≈ 5.50** — the dark-to-ordinary matter ratio — comes from one structural derivation in two steps: a bare coupling κ₀ = 3/√(4π) from the unresolved neutrino's geometry on the three-sphere, then a self-consistent resummation κ = κ₀/(1 − κ₀). Planck measures 5.38 ± 0.15 (within ~0.8σ). Direct-detection null results are predicted, not embarrassing failures. Dwarf galaxies should show scatter in dark-matter fractions; large clusters should converge to 5.50 — set by neutrino free-streaming coherence (~40 Mpc).
+**κ ≈ 5.50** is still a zero-parameter result: one structural derivation in two steps — bare coupling κ₀ = 3/√(4π) from the unresolved neutrino's geometry on the three-sphere, then a self-consistent resummation κ = κ₀/(1 − κ₀). What has been withdrawn is the sentence that said this number *is* the cosmic dark-to-ordinary ratio. Planck's 5.38 ± 0.15 measures a component that is cold, collisionless, and co-located with the galaxies; the conjugate footprint, under the framework's own symmetry, is none of those three. Two quantities that are not the same thing cannot agree. The derivation stands; the sky-match does not. Direct-detection nulls neither confirm nor refute the framework on this question. A mass-dependent scatter pattern was once listed as a sharp test; with the mean's referent open, only a bare averaging fall-off remains — not enough to stand alone.
 
 ---
 
@@ -139,8 +139,8 @@ Dark energy is a different story. The framework predicts *w* = −1 exactly — 
 
 | Claim | NTE | Observation / test | Tier |
 |-------|-----|-------------------|------|
-| Dark matter ratio κ | 5.50 | 5.38 ± 0.15 (Planck) | Zero-parameter (one derivation + one closure) |
-| Direct DM detection | Null forever | XENON, LUX, PandaX nulls | Falsifiable |
+| Bilateral mass ratio κ | 5.50 | Referent open (Ω_DM match withdrawn) | Zero-parameter derivation; not a sky test |
+| Observed cold dark matter | — | No deposit account | Open sector |
 | Neutrino nature | Majorana (no completed Hopf lock) | Neutrinoless double beta decay | Falsifiable |
 | Neutrino generations | Exactly 3 | No sterile fourth | Structural |
 | m_{ν₂} (solar leg, 8π branch) | ~0.00860 eV | √(Δm²_solar) ~0.00866 eV | Branch-contingent, not zero-parameter — 8π fits the solar level, 4π fits the ratio; no single M_R fits both |
@@ -175,7 +175,7 @@ At birth itself, three clocks must not be mixed: thermal Friedmann scale at ~10�
 
 Several foundations have tightened without withdrawing the headline predictions:
 
-- Cross-thickness gravity now follows from a single action (Janus action), reproducing κ = κ₀/(1 − κ₀).
+- Bilateral gravity now follows from a single action (Janus action), reproducing κ = κ₀/(1 − κ₀) as a derived ratio whose sky-referent is open.
 - A coherent set of structural results reads from one heat-kernel computation on the same geometric object — the bare coupling, the gauge-birth temperature, the Majorana scales, the volume audit, and the structural cosmological-constant result (a₄ = 0) — with no fixed tally claimed.
 - Λ's structural quietness stands: the loud vacuum term is removed by the volume constraint, and the universe-instrument's geometry forbids the catastrophe at the structural level. A specific numerical value for the residual is open work — the calculation requires deriving the framework's coupling β_NTE from geometry alone.
 - The Majorana–Dirac duality fixes the *shape* of the neutrino mass ratio. The sub-percent solar-leg figure (~0.7%) holds only on the 8π branch of an open normalisation choice — it is branch-contingent, not parameter-free — and the same single mass scale overshoots the atmospheric leg by ≈1.5×. One M_R cannot fit both legs at sub-1%; the ratio shape and the trade-off are the genuine content.
@@ -198,7 +198,7 @@ The list is shorter than a year ago; it's not empty.
 
 ## The Short Version
 
-Photons experience zero proper time; massive particles do not. NTE reads that correlation through a **boundary expansion field** |Φ_NTE| distinct from the SM Higgs, both set at **gauge birth**. The universe is an expanding S³ boundary; *c* is expansion rate; we are embedded behind the photon wavefront. Bilateral structure is two orientations of one thickened manifold. Incomplete neutrino locking bridges orientations; **dark matter is their cross-thickness gravity** with **κ ≈ 5.50**. Time's arrow is geometric commitment at locking. Quantum probabilities are sphere geometry after Hopf quotient. Octonions without time become quaternions with time → **SU(3)×SU(2)×U(1)**. Hubble tension still reads through void enhancement of |Φ_NTE|²; dark energy (*w* = −1) stands naked at ~3σ from DESI — voids do not rescue it. Solar mixing sin²θ₁₂ = 1/3 is withdrawn under JUNO. Core predictions: no direct DM; Majorana neutrinos; three generations; the neutrino mass-ratio shape (the solar-leg figure branch-contingent, not zero-parameter), θ₂₃ at structural precision; n_s consistent (not derived); H₀ as cosmic mean with void-enhancement reading; Λ as structural quietness with the specific numerical calculation open.
+Photons experience zero proper time; massive particles do not. NTE reads that correlation through a **boundary expansion field** |Φ_NTE| distinct from the SM Higgs, both set at **gauge birth**. The universe is an expanding S³ boundary; *c* is expansion rate; we are embedded behind the photon wavefront. Bilateral structure is two orientations of one thickened manifold. Incomplete neutrino locking bridges orientations and yields a bilateral mass ratio **κ ≈ 5.50** whose identification with observed dark matter is **withdrawn** — that sector is open. Time's arrow is geometric commitment at locking. Quantum probabilities are sphere geometry after Hopf quotient. Octonions without time become quaternions with time → **SU(3)×SU(2)×U(1)**. Hubble tension still reads through void enhancement of |Φ_NTE|²; dark energy (*w* = −1) stands naked at ~3σ from DESI — voids do not rescue it. Solar mixing sin²θ₁₂ = 1/3 is withdrawn under JUNO. Core commitments: Majorana neutrinos; three generations; the neutrino mass-ratio shape (the solar-leg figure branch-contingent, not zero-parameter), θ₂₃ at structural precision; n_s consistent (not derived); H₀ as cosmic mean with void-enhancement reading; Λ as structural quietness with the specific numerical calculation open.
 
 ---
 

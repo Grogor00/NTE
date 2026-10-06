@@ -57,23 +57,37 @@ Nearly every Companion still reads **"2026-06 (v10.19.0)"**, including **Compani
 
 ## 4. Corpus state — **what is claimed, and at what register**
 
-**Empirical channels: TWO.**
+**Updated 2026-10-07 (P08 shipped in Parts 1+3):** one deposit, **two registers**. See Part 3 §XVIIa and `RATIFIED_Greg_Cosmo_Sequencing_P08_Now_P04_Adopted_P09_Gated_O1_Then_P02_Majorana_20261007.md`.
+
+### Register (A) — quantum-geometric / particle core (full strength)
 
 | Handle | Status |
 |---|---|
-| **w = −1** | Structural — geometric-unloading de Sitter asymptote |
-| **Forced Majorana** | Structural; discriminating at 0νββ |
-| ~~κ = Ω_DM/Ω_b~~ | **WITHDRAWN 2026-10-06** — κ = 5.50 survives as a derived bilateral ratio; its referent is open |
-| ~~Native (n_s, r)~~ | **WITHDRAWN 2026-09-26** — Φ_NTE is not an inflaton |
+| **Forced Majorana** | Structural; **only discriminating near-term particle prediction** under restructure; 0νββ |
+| **w = −1** | Structural — geometric-unloading de Sitter asymptote (shared with ΛCDM phenomenology) |
+| **\|δ_J\| = π/2** (magnitude) | Structural |
+| **θ₂₃ = π/4** | Inherited/credited μ–τ |
+| **Closed S³ / Ω_k < 0 (sign)** | Structural |
+| **κ₀ = 3/√(4π)** | Structural (Hopf); amplifier / κ-as-CDM channel withdrawn |
+| Gauge group + 3 gen | **Adopted, credited** (division-algebra programme) |
 
-**Open sectors: FOUR**, each deposited with its reasons rather than its status alone.
+### Register (B) — cosmological programme (open / unfinished)
 
-1. **Cosmological origin** (option D, 2026-09-27) — three computed obstructions; no exit selected.
-2. **Observed cold dark matter** (2026-10-06) — three closures; no candidate in the deposit.
-3. **|Φ_∞|** — the conformal reset is scale-invariant and cannot pin it.
-4. **The Ryu–Takayanagi 1/4** — not derived; the bulk GHY route is **inherited (GR)**, not NTE's.
+| Item | Status |
+|---|---|
+| Two-orientation gravity completion (O1) | **OPEN** — research landing W-2; **P09 gated here** |
+| CPN working map | **OPEN** (P3); any replacement **behind Majorana / \|δ_J\| non-disturbance** |
+| Observed cold dark matter | **OPEN** (2026-10-06); κ=Ω_DM withdrawn |
+| Cosmological origin | **OPEN** (option D) |
+| κ = 5.50 bilateral ratio | Derived algebraically; **referent open** — not an empirical channel |
+| ~~κ = Ω_DM/Ω_b~~ | **WITHDRAWN 2026-10-06** |
+| ~~Native (n_s, r)~~ | **WITHDRAWN 2026-09-26** |
 
-**Also open:** the bilateral two-metric action's completion — **which κ's closure rests on**; M_R's pathway; the finite-Dirac Yukawa 8π/4π branch; σ↔generation / TM1 (gated on GATE4C); Part 1 §VII's locking criterion, never recomputed under Door B.
+### Adopted comparison cosmology (P04) — not register (A) native claim
+
+**Flat ΛCDM (and data updates)** for deposit comparison — **adopted, not derived**, same grading as the gauge group. P09 rebuild may replace the graft if O1 then later gates close.
+
+**Also open (technical):** M_R pathway; finite-Dirac Yukawa 8π/4π; σ↔generation / TM1; Part 1 §VII locking under Door B; \|Φ_∞\|; RT 1/4.
 
 ## 5. Ratification record — **AC's to complete**
 
