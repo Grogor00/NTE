@@ -1,0 +1,47 @@
+OK AZ1
+  BEFORE… d the cosmic mean as systematics are controlled, or scatter with no density correlation, break it.↵↵
+  AFTER…   The void mechanism that carries the Hubble tension is signed the wrong way here: it works *against*
+OK AZ2
+  BEFORE… 44, Y_p = 0.247). **Absences holding:** no WIMP, no fourth generation, no W_R, decade after decade. 
+  AFTER…  ; the atmospheric mass ratio; lithium-7; the asymmetry's magnitude. **Withdrawn — a gap, not a defea
+OK AZ3
+  BEFORE… s acceleration is geometric unloading toward a de Sitter endpoint, and that endpoint has one value. 
+  AFTER…   This is the framework's sharpest current disagreement with data, and Chapter 13's honesty applies h
+OK AZ4
+  BEFORE… **DESI full survey** — the dark-energy equation of state, and the framework's hardest current test. 
+  AFTER…   One point deserves stating plainly, because the framework has an obvious escape route available and
+OK AZ5
+  BEFORE…  two readings coincide for a fundamental fermion and part company for everything built out of them.↵
+  AFTER…  ↵↵The **SM Higgs** and **\|Φ_NTE\|** acquire their distinct post-locking identities here too — same 
+OK AZ6
+  BEFORE… Ask **what at smaller N**: geometry without *t*, modes without mass, algebra without associativity.↵
+  AFTER…  ↵- **"Why this gauge group?"** → It is the structure the octonions carry — mapped by the credited al
+OK AZ7
+  BEFORE… to **κ ≈ 5.50**.↵↵In the beginning — at smaller N — there was no time, no gauge structure, no mass. 
+  AFTER…   One traveller on the way through almost did not finish the crossing.↵
+
+=== VERIFY-THEN-REPORT ===
+APPLIED AZ1
+  ADJ_BEFORE… ic mean as systematics are controlled, or scatter with no density correlation, break it.↵↵
+  ADJ_AFTER…  ural quietness, not a dynamical field, and no dial anywhere in the framework to turn. The 
+APPLIED AZ2
+  ADJ_BEFORE… 0.247). **Absences holding:** no WIMP, no fourth generation, no W_R, decade after decade. 
+  ADJ_AFTER…  of state over a constant one, with nothing internal to absorb it — §4 states the figure at
+APPLIED AZ3
+  ADJ_BEFORE… tion is geometric unloading toward a de Sitter endpoint, and that endpoint has one value. 
+  ADJ_AFTER…  t one at roughly 3.1 standard deviations. That figure is worth unpacking, because this led
+APPLIED AZ4
+  ADJ_BEFORE… l survey** — the dark-energy equation of state, and the framework's hardest current test. 
+  ADJ_AFTER…   One point deserves stating plainly, because the framework has an obvious escape route ava
+APPLIED AZ5
+  ADJ_BEFORE… ngs coincide for a fundamental fermion and part company for everything built out of them.↵
+  ADJ_AFTER…  k, and electromagnetic interactions switch on, that matter is violently out of equilibrium
+APPLIED AZ6
+  ADJ_BEFORE…  at smaller N**: geometry without *t*, modes without mass, algebra without associativity.↵
+  ADJ_AFTER…  f the radiation era we observe is open, for the reason given above — so this question chan
+APPLIED AZ7
+  ADJ_BEFORE… .50**.↵↵In the beginning — at smaller N — there was no time, no gauge structure, no mass. 
+  ADJ_AFTER…   One traveller on the way through almost did not finish the crossing.↵
+
+SUMMARY: ALL AZ1–AZ7 APPLIED
+C21 v0.7: noted as PC-cut; not in this apply set.

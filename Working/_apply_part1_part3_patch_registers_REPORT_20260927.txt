@@ -1,0 +1,9 @@
+OK P1-1-abstract
+OK P1-1-trailer
+OK P1-2-schwarzschild
+OK P1-3-N2
+OK P1-4-Z2
+OK P3-1-flatness
+OK P3-2-dilation-cut
+OK P3-2-dilation-add
+OK P3-3-falsifier11

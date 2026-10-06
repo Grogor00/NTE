@@ -1,0 +1,62 @@
+﻿=== G6 hits ===
+FILE	NTE_v10_19_0_Part2_Structure.md
+PAT	coherence mass
+HEAD	## IX. The Majorana bridge and dark matter
+SNIP	 A mass-dependent DM:baryon variance $\sigma(M) \propto M^{-1/2}$ above the neutrino free-streaming coherence mass $M_c \sim 4\times10^{14} M_\odot$, with large scatter below it (naturally accommodating DM-rich and DM-poor dwarfs). The $M^{-1/2}$ scaling is a generic CLT consequence; the NTE-specific content is its com
+---
+FILE	NTE_v10_19_0_Part2_Structure.md
+PAT	free-stream
+HEAD	## IX. The Majorana bridge and dark matter
+SNIP	e prediction.** A mass-dependent DM:baryon variance $\sigma(M) \propto M^{-1/2}$ above the neutrino free-streaming coherence mass $M_c \sim 4\times10^{14} M_\odot$, with large scatter below it (naturally accommodating DM-rich and DM-poor dwarfs). The $M^{-1/2}$ scaling is a generic CLT consequence; the NTE-specific con
+---
+FILE	NTE_v10_19_0_Part2_Structure.md
+PAT	M_c
+HEAD	## IX. The Majorana bridge and dark matter
+SNIP	t DM:baryon variance $\sigma(M) \propto M^{-1/2}$ above the neutrino free-streaming coherence mass $M_c \sim 4\times10^{14} M_\odot$, with large scatter below it (naturally accommodating DM-rich and DM-poor dwarfs). The $M^{-1/2}$ scaling is a generic CLT consequence; the NTE-specific content is its combination with th
+---
+FILE	NTE_v10_19_0_Part2_Structure.md
+PAT	M_c
+HEAD	## IX. The Majorana bridge and dark matter
+SNIP	TE-specific content is its combination with the mean $\kappa \approx 5.50$ and the coherence scale $M_c$. Testable with DESI/SDSS. (The amplitude within one coherence volume is open.)  ## X. CP violation and baryon asymmetry  A Majorana fermion at the Janus boundary undergoes a Bogoliubov transformation with geometric 
+---
+FILE	NTE_v10_19_0_Part3_Accounting.md
+PAT	coherence mass
+HEAD	## Predictions triage
+SNIP	neric CLT consequence; the NTE-specific content is its combination with $\kappa\approx5.50$ and the coherence mass $M_c$. - Void-enhanced local $H_0$ ΓÇö directional scatter $\sigma(H_0)\sim2$ΓÇô4 km/s/Mpc correlated with line-of-sight density; falsifiable with SNe Ia catalogues. Same bias is anti-DESI for $w$ (┬ºXII).  **(
+---
+FILE	NTE_v10_19_0_Part3_Accounting.md
+PAT	M_c
+HEAD	## Predictions triage
+SNIP	uence; the NTE-specific content is its combination with $\kappa\approx5.50$ and the coherence mass $M_c$. - Void-enhanced local $H_0$ ΓÇö directional scatter $\sigma(H_0)\sim2$ΓÇô4 km/s/Mpc correlated with line-of-sight density; falsifiable with SNe Ia catalogues. Same bias is anti-DESI for $w$ (┬ºXII).  **(C) Partial / wor
+---
+FILE	NTE_v10_19_0_Part3_Accounting.md
+PAT	M_c
+HEAD	## Falsifiability register
+SNIP	 ╬║ derivation. 2. **DM:baryon variance.** Absence of the $\sigma(M)\propto M^{-1/2}$ scaling above $M_c$ (DESI/SDSS) falsifies the two-sector mechanism. 3. **Dark energy.** NTE's void mechanism predicts SN Hubble residuals brighter along void-dominated sightlines (testable with Pantheon+ ├ù void catalogues). Finding the
+---
+=== G7 mediat (neutrino-subject filter) ===
+FILE	Companion_05_StateSpace_v10_19_0.md
+HEAD	## Abstract
+SNIP	y-supported unresolved-neutrino geometry ΓÇö a geometric coupling, not a particle mediator. The dark-matter coupling has a single structural form: the Hopf monopole projection on S┬│ gives the bare coupling ╬║ΓéÇ = 3/ΓêÜ(4╧Ç) Γëê 0.846 (a state-independent normalisation 
+---
+FILE	NTE_v10_19_0_Part1_Foundations.md
+HEAD	## III. Three coupling regimes
+SNIP	h CPN-conjugate orientations of the N-thickness. This bilateral support ΓÇö not a mediating role ΓÇö is the geometric structure on which the dark-matter cross-thickness coupling acts (┬ºVI, and Part 2). The "Majorana bridge" label from earlier drafts should be read
+---
+FILE	NTE_v10_19_0_Part2_Structure.md
+HEAD	## IX. The Majorana bridge and dark matter
+SNIP	the coupling transmits magnitude, not location; chaotic structure formation; EM-mediated baryon physics confined to one orientation) makes the two orientations' large-scale structures decorrelate to $\sim 10^{-3}$ by $z\sim0$.  **The ╬║ derivation.** The unreso
+---
+FILE	NTE_v10_19_0_Part2_Structure.md
+HEAD	## XI. Big-Bang nucleosynthesis
+SNIP	covered SM result, *not* NTE-distinguishing. For lithium, NTE proposes neutrino-mediated boundary stiffening: an enhancement factor $1+\kappa_0 = 1.85$ on $^7$Be destruction (one bridge traversal, no gravitational feedback) gives $^7\mathrm{Li}/\mathrm{H} = 2.
+---
+FILE	NTE_v10_19_0_Part2_Structure.md
+HEAD	## XIVΓÇôXV. QGP era and the fractal foam
+SNIP	 In the quarkΓÇôgluon plasma era, null-time gluons were the dominant entanglement-mediating density ΓÇö the maximum correlation density across cosmic history; cross-orientation annihilation is negligible ($\Delta H/H \sim 10^{-6}$ at BBN), so standard BBN is recov
+---
+=== PDF currency C17-20 ===
+OK	Companion_17_KPhi_Frame_Closure_v10_19_0.pdf	size=36644
+OK	Companion_18_CLFV_Amplitude_Ratio_v10_19_0.pdf	size=41626
+OK	Companion_19_TwoSector_Necessity_v10_19_0.pdf	size=36539
+OK	Companion_20_F1_Trace_Anomaly_Uniqueness_v10_19_0.pdf	size=37073

@@ -1,0 +1,208 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{mathtools}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{lemma}{Lemma}
+\theoremstyle{definition}
+\newtheorem{remark}{Remark}
+
+\newcommand{\OO}{\mathbb{O}}
+\newcommand{\HH}{\mathbb{H}}
+\newcommand{\CC}{\mathbb{C}}
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\Imag}{\operatorname{Im}}
+\newcommand{\JthreeO}{J_3(\OO)}
+\newcommand{\su}{\mathfrak{su}}
+
+\title{\bfseries An octonionic spine for the neutrino mixing sector:\\
+maximal atmospheric mixing, the maximal CP phase, and the\\
+two-sector surface ontology, unified on $J_3(\mathbb{O})$}
+
+\author{G.\ White \\
+\small Independent researcher, Auckland, New Zealand \\
+\small \texttt{gregwhite00@gmail.com} \quad ORCID: 0009-0003-3680-2363}
+
+\date{26 June 2026 \\ \small (v0.2 --- DRAFT; binds the P4, P4D, dimension/two-sector, and octonionic-origin deep-dives; corpus-status aware)}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent
+This paper binds four strands of the Non-Temporal Emergence (NTE) programme into a single structure. (1)~Within an established octonionic reading of the Standard Model --- pre-temporal time-orderlessness $\Rightarrow$ non-associativity $\Rightarrow$ the octonions $\OO$ (Hurwitz); $G_2=\operatorname{Aut}(\OO)$; the gauge group from $G_2$ subgroups; three generations from the exceptional Jordan algebra $\JthreeO$ --- we record where the surface-ontology axiom (``the universe is the shape of the state space'') is forced to split into two sectors. (2)~That split is derived independently from a measure-theoretic floor and a least-action ceiling: the Born rule read as invariant area on the Bloch sphere requires measurability (the sphere is non-amenable; $SO(3)\supset F_2$), Gleason-forcing needs Hilbert dimension $\geq 3$, while least-action bound-state stability needs spatial dimension $\leq 3$ ($V''\propto 3-d$); no single manifold meets both, so an external dynamical sector and an internal Hilbert sector are required --- realised algebraically as the quaternionic subalgebra $\HH\subset\OO$ (space) and $\JthreeO$ (generations). (3)~The atmospheric angle $\theta_{23}=\pi/4$ follows from a generation-$\mathbb{Z}_2$, and (4)~the maximal CP phase $\delta_{CP}=\pm\pi/2$ with naturally nonzero $\theta_{13}$ follows from upgrading that $\mathbb{Z}_2$ to an \emph{antilinear} $\mu$--$\tau$ reflection. The central new result binds (3)--(4) to (1): the $\sigma$-triple on which the atmospheric symmetry was originally posited is \emph{representationally distinct} from the $\JthreeO$ generations (gauge $\su(2)$ adjoint, irreducible $\mathbf{3}$, versus Jordan slots, $\mathbf{1}\oplus\mathbf{2}$), but its \emph{operative} content re-grounds cleanly on $\JthreeO$: the generation-$\mathbb{Z}_2$ is the Hermitian slot-swap, the antilinear reflection is the automatic octonion conjugation of the inter-generation connector, and the CP-phase direction is fixed --- with no free parameter --- to the unique colour singlet of $\Imag(\OO)$, which is the hypercharge direction. We are explicit about scope: the octonionic Standard-Model facts and the dimensional theorems are established prior art; $\delta_{CP}=\pi/2$ pre-exists in the corpus; no new observable is claimed. What is new is the unification --- and the demotion of a posited symmetry to a consequence of Jordan Hermiticity.
+\end{abstract}
+
+\tableofcontents
+\medskip
+\hrule
+
+\section{Introduction}
+
+NTE treats time and causal ordering as emergent and reconstructs Standard-Model structure from what survives in a pre-temporal epoch. Several of its results have been developed as standalone notes: maximal atmospheric mixing $\theta_{23}=\pi/4$ from a discrete symmetry on the neutrino sector; the maximal leptonic CP phase $\delta_{CP}=\pi/2$ from a bilateral conjugation geometry; an octonionic account of the gauge group and the three-generation count; and a surface-ontology reading of quantum mechanics in which the Born rule is area on a state-space sphere. These were written separately and, until now, linked only by shared vocabulary.
+
+This paper shows they are one structure. The binding object is the exceptional Jordan algebra $\JthreeO$ sitting inside the octonions $\OO$, and the binding claim is that the neutrino mixing symmetry --- originally posited on a triple of Pauli generators --- is in fact a property of the Hermitian structure of $\JthreeO$. Along the way the surface ontology's two-sector character is shown to be \emph{forced} (conditionally) by the incompatibility of two dimensional requirements, and to coincide with the octonionic split of $\OO$ into a quaternionic spatial subalgebra and the Jordan generation algebra.
+
+\paragraph{What is and is not claimed.} We separate, at every step, established prior art from framework-specific increments and from genuinely new results. The octonion $\to$ Standard-Model dictionary (G\"unaydin--G\"ursey, Dixon, Furey, Todorov--Dubois-Violette) and the dimensional theorems (Hausdorff--Banach--Tarski, Gleason, Ehrenfest--Tangherlini) are \emph{not} ours. The value $\delta_{CP}=\pi/2$ \emph{pre-exists} in the corpus. No new observable is predicted here. The new content is: (i)~the two-sector necessity from dynamics-plus-measure (\S\ref{sec:twosector}); (ii)~the re-grounding of the atmospheric symmetry and its CP phase onto $\JthreeO$, in which the antilinear reflection is \emph{derived} rather than posited (\S\ref{sec:regrounding}); and (iii)~the parameter-free colour-fixing of the CP-phase direction (\S\ref{sec:gate3}).
+
+\section{The octonionic root (established)}\label{sec:root}
+
+We recall the established structure on which everything else hangs; \S\ref{sec:root} claims no novelty and follows G\"unaydin--G\"ursey (1973), Dixon (1994), Furey (2018), Todorov--Dubois-Violette (2018), and the framework's adoption thereof.
+
+\paragraph{Why octonions.} Under the reading that associativity of physical operations encodes a fixed time-ordering, a pre-temporal epoch with no time coordinate has no mechanism to enforce associativity. A normed but non-associative algebra is, by Hurwitz's theorem, uniquely the octonions $\OO$ (equivalently, the only parallelisable spheres are $S^0,S^1,S^3,S^7$). Its automorphism group is the exceptional Lie group $G_2$.
+
+\paragraph{Gauge group.} $G_2$ has two relevant maximal subgroups: $SU(3)$, the stabiliser of a unit imaginary octonion (with $G_2/SU(3)\cong S^6$), giving colour acting on $\Imag(\OO)=\mathbf 1\oplus\mathbf 3\oplus\bar{\mathbf 3}$; and $SO(4)\cong(SU(2)\times SU(2))/\mathbb Z_2$, the stabiliser of a quaternionic subalgebra $\HH\subset\OO$, one factor of which is $SU(2)_L$. The unit quaternions $S^3\cong SU(2)$ furnish weak isospin; the complex line $\CC=\operatorname{span}\{1,e_1\}$ furnishes $U(1)_Y$.
+
+\paragraph{Generations.} The exceptional Jordan (Albert) algebra $\JthreeO$ of $3\times3$ Hermitian octonionic matrices contains three copies of a one-generation ideal along its diagonal, giving three generations. The Cayley--Dickson chain $\OO\to\HH\to\CC\to\RR$ maps to four cosmological epochs, geometrically the four Hopf fibrations $S^1\!\to\!S^3\!\to\!S^2$ ($\CC$), $S^3\!\to\!S^7\!\to\!S^4$ ($\HH$), etc.
+
+The two ``threes'' that will matter below are already visibly \emph{distinct} features of $\OO$: the spatial/weak $S^3\cong SU(2)$ is the unit sphere of the quaternionic subalgebra $\HH$, whereas the generation $\mathbf{3}$ is the rank of $\JthreeO$ (octonionic Hermitian matrices form a Jordan algebra only up to $3\times3$; rank $4$ fails on non-associativity). Their coincidence in value is not an identity --- a fact we make precise in \S\ref{sec:regrounding}.
+
+\section{The surface ontology is necessarily two-sector}\label{sec:twosector}
+
+NTE reads the Born rule as invariant area on the quantum state-space sphere (the Hopf base $\CC P^1=S^2$). We ask what constrains such an ontology and find the dimension three bracketed from two sides by independent principles that \emph{cannot be met on one manifold}.
+
+\subsection{Measure floor}
+The rotation group of the Bloch sphere, $SO(3)$, contains a free group $F_2$ (generated by rotations through $\arccos(1/3)$ about two axes; checked numerically: $1456$ reduced nontrivial words of length $\leq 6$ all sit $\geq 0.13$ from the identity). A group containing $F_2$ is non-amenable, so $S^2$ is Banach--Tarski paradoxical: the invariant area defining probability is unique \emph{only} on measurable sets. Measurability is therefore a load-bearing physical constraint, non-trivial precisely because the surface is non-amenable. Uniqueness-and-forcing of the Born measure then requires, by Gleason's theorem, Hilbert dimension $\geq 3$; the single qubit ($\CC P^1=S^2$) is doubly deficient --- first non-amenable sphere \emph{and} the dimension at which Gleason fails.
+
+\subsection{Least-action ceiling}
+For a central potential from Gauss's law in $d$ spatial dimensions, $V(r)\propto -r^{2-d}$, the effective potential's circular-orbit curvature obeys
+\begin{equation}
+V''(r_0)\;\propto\;(3-d),
+\end{equation}
+so stable bound states exist only for $d\leq 3$ ($d=3$ Kepler/stable; $d=4$ marginal; $d\geq5$ unstable). With the requirement that gravity propagate (no local degrees of freedom below $d=3$), least action alone gives the dynamical bracket $d_{\text{space}}=3$ (Ehrenfest--Tangherlini--Whitrow).
+
+\subsection{Disjointness $\Rightarrow$ two sectors}
+For Hilbert $\CC^n$ the pure-state manifold $\CC P^{n-1}$ has real dimension $2(n-1)$; Gleason forces Born $\iff n\geq3$; least-action stability holds $\iff$ manifold dimension $\leq3$.
+
+\begin{center}
+\begin{tabular}{cccc}
+\toprule
+$n$ & state-sphere $S^{2n-1}$ dim & Gleason & dynamically stable? \\
+\midrule
+$2$ (qubit) & $3$ & fails & stable \\
+$3$ & $5$ & forced & unstable \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\noindent No $n$ gives both: stability needs manifold dimension $\leq3$ (hence $n\leq2$, Gleason-deficient), while Gleason needs $n\geq3$ (hence manifold dimension $\geq4$, unstable). The requirements are disjoint on one manifold.
+
+\begin{proposition}[Two-sector necessity, conditional]
+A surface ontology demanding both a dynamically stable space and a \emph{forced} (not posited) Born rule cannot place both on one manifold; it must split into an external dynamical sector (spatial $S^3$, stable, Gleason-deficient qubit) and an internal Hilbert sector (the generations, Gleason-forced, no stability burden).
+\end{proposition}
+
+\noindent This is conditional on (i)~Born-forcing being routed through Gleason and (ii)~the rigid identification of the dynamical manifold with the qubit state space; both hold as the framework is written. It is not an unconditional theorem.
+
+\paragraph{Octonionic realisation.} The split is realised by the structure of \S\ref{sec:root}: the external sector is the quaternionic subalgebra $\HH\subset\OO$ (the spatial $S^3\cong SU(2)_L$), the internal sector is $\JthreeO$ (the generations). Two independent routes --- a dynamics-plus-measure argument and a division-algebra construction --- reach the same two-sector architecture. (An earlier conjecture that the Hopf map unifies the dynamical and quantum ``threes'' into a single \emph{forced} integer is \emph{retracted}: the Hopf map lands the spatial $3$ on the Gleason-deficient qubit, and the two threes are different in type --- a manifold dimension versus an algebra rank. They coincide in value, not in mechanism.)
+
+\section{Maximal atmospheric mixing and the antilinear CP phase}\label{sec:p4p4d}
+
+\subsection{The generation-$\mathbb{Z}_2$ and $\theta_{23}=\pi/4$}
+A $\mathbb{Z}_2$ exchanging two neutrino mass eigenstates ($\nu_1\leftrightarrow\nu_2$, $\nu_3$ fixed), mapped to the flavour-sector $\mu\leftrightarrow\tau$ exchange, enforces $U_{\mu3}=U_{\tau3}$ and hence $s_{23}=c_{23}$, i.e.\ $\theta_{23}=\pi/4$. In the original standalone treatment this $\mathbb{Z}_2$ was posited as the exchange $\sigma_1\leftrightarrow\sigma_2$ of two Pauli generators of $SU(2)_L$, with $\sigma_3$ along the Higgs vacuum. We return to that identification critically in \S\ref{sec:regrounding}.
+
+\subsection{Exchange versus reflection}
+Two discrete symmetries fix $\theta_{23}=\pi/4$: a $\mu$--$\tau$ \emph{exchange} ($P M_\nu P=M_\nu$, $M_\nu$ real), giving $\theta_{13}=0$ and Jarlskog $J=0$ (CP-conserving); and a $\mu$--$\tau$ \emph{reflection} ($P M_\nu^{*} P=M_\nu$, antilinear), giving $\theta_{13}\neq0$ allowed and $|J|$ maximal, i.e.\ $\delta_{CP}=\pm\pi/2$. The two differ by a complex-conjugation factor.
+
+\subsection{Why the symmetry is antilinear}
+With $\sigma_3$ pinned to the vacuum, the swap $\sigma_1\leftrightarrow\sigma_2$ is an improper rotation of generator space ($\det=-1$); no linear-unitary conjugation realises it in any basis (these are all $\det=+1$), and the only $\det=+1$ alternative flips $\sigma_3$ (forbidden). Hence the realisation is \emph{antiunitary}. Moreover $\sigma_2$ is conjugation-odd ($\sigma_2^{*}=-\sigma_2$), so a $\sigma_2$-polarised Majorana mode carries an intrinsic $\pi/2$ phase: the $\sigma_1$- and $\sigma_2$-modes differ by $\pi/2$, the linear exchange is inconsistent with this phase, and the antilinear reflection is the consistent one. The forced $\pi/2$ is exactly $\delta_{CP}=\pm\pi/2$.
+
+\begin{remark}
+The value $\delta_{CP}=\pi/2$ pre-exists in the corpus, derived from the bilateral (CPN) conjugation geometry; the antilinear-reflection argument \emph{derives the same value} and ties it to $\theta_{23}$, but is not an independent new observable. Independent operator analysis shows the bilateral conjugation (an inter-sector swap) and the generation swap (intra-sector) share antilinear \emph{character} but are not the same operator (parallel, not descended).
+\end{remark}
+
+\section{The re-grounding: $\sigma$-triple onto $\JthreeO$}\label{sec:regrounding}
+
+The atmospheric symmetry was posited on the $\sigma$-triple. We test whether that triple \emph{is} the $\JthreeO$ generation structure, and find: not as labelled, but its operative content re-grounds cleanly.
+
+\subsection{Gate 1: the two ``threes'' are inequivalent representations}
+In the original treatment $\sigma_1,\sigma_2,\sigma_3$ are the Pauli generators of $SU(2)_L$, and the three generations are identified with these three gauge directions. But the gauge $\su(2)$ adjoint is the \emph{irreducible} $\mathbf{3}$ (spin-1: no nonzero vector is annihilated by all three generators), whereas the $\JthreeO$ generations are the three Jordan slots, carrying the $S_3$ slot-permutation representation, which is \emph{reducible}, $\mathbf 1\oplus\mathbf 2$ (the permutation generators fix $(1,1,1)$). A reducible representation cannot equal an irreducible one.
+
+\begin{theorem}[Representation mismatch]
+The posited $\sigma$-triple (gauge $\su(2)_L$ adjoint, irreducible $\mathbf 3$) is not the $\JthreeO$ generation-$\mathbf 3$ (Jordan slots, $\mathbf 1\oplus\mathbf 2$). The original treatment placed the generations in the representation occupied by the \emph{gauge group}, not by the generations.
+\end{theorem}
+
+\noindent An independent soft spot confirms the tension: $SU(2)_L$ is generation-blind (it acts identically on all three generations), so its adjoint directions cannot intrinsically distinguish the generations.
+
+\subsection{Gate 2: the operative content re-grounds (and the reflection becomes automatic)}
+The atmospheric derivation uses only (i)~a $\mathbb{Z}_2$ exchanging two generations and (ii)~the Majorana chirality-superposition of the exchanged modes. A single transposition lives in \emph{both} $S_3$ (slots) and $\su(2)$ (adjoint), so the derivation does not require the gauge-adjoint identification. Write the Albert algebra with real diagonal slots $(a,b,c)$ --- the generations --- and octonion connectors $x_1(2\text-3),x_2(1\text-3),x_3(1\text-2)$, Hermiticity pairing $(i,j)$ to the conjugate of $(j,i)$. The slot-swap $1\leftrightarrow2$ acts as
+\begin{equation}
+(a,b,c)\mapsto(b,a,c),\qquad x_3\mapsto \bar{x}_3,\qquad x_1\leftrightarrow\bar{x}_2 .
+\end{equation}
+Thus the two exchanged generations are connected by $x_3$, and the Hermitian slot-swap sends $x_3\mapsto\bar{x}_3$ --- \emph{octonion conjugation}. The imaginary part of $x_3$ is conjugation-odd, $\bar{x}_3-x_3=(0,-2r_2,\dots,-2r_7,-2r_8)$: precisely the $\sigma_2$-odd property that forces the $\pi/2$ Majorana phase.
+
+\begin{theorem}[Re-grounding]
+$\JthreeO$ carries the operative content of the atmospheric symmetry: the generation-$\mathbb{Z}_2$ is the Hermitian slot-swap ($\nu_3$, the vacuum-aligned slot, fixed), and the antilinear $\mu$--$\tau$ reflection is the automatic octonion conjugation $x_3\mapsto\bar{x}_3$ of the inter-generation connector. The reflection is \emph{derived from Jordan Hermiticity}, not posited.
+\end{theorem}
+
+\noindent This replaces the broken gauge-$\sigma$ identification by a generation-distinguishing structure and gives the CP-violating reflection a structural origin: it is the conjugation built into the Hermitian Albert algebra.
+
+\subsection{Gate 3: colour fixes the CP-phase direction, parameter-free}\label{sec:gate3}
+The connector $x_3$ is an octonion; its imaginary part lives in $\Imag(\OO)=\RR^7$. The neutrino is colourless, so the phase-carrying direction must be a colour singlet. Under $SU(3)_C=\mathrm{Stab}(e_1)\subset G_2$, $\Imag(\OO)=\mathbf 1\oplus\mathbf 3\oplus\bar{\mathbf 3}$. With the complex structure $J=L_{e_1}$ one finds $J(e_1)=-1$ (so $e_1$ lies in the complex line $\CC=\{1,e_1\}$) while the other six units pair into three complex lines, $(e_2,e_3),(e_4,e_5),(e_6,e_7)$, with $J^2=-1$ verified on the six-dimensional complement --- i.e.\ $\mathbf 3\oplus\bar{\mathbf 3}=\CC^3$. Hence:
+
+\begin{theorem}[Parameter-free direction]
+The colour-singlet imaginary subspace of $\Imag(\OO)$ is exactly one-dimensional ($\RR e_1$). Requiring the neutrino Majorana phase to be colourless fixes the connector direction to $e_1$ uniquely --- no free parameter. The direction $e_1$ is imaginary (conjugation-odd, furnishing the $\pi/2$ phase) and is the $U(1)_Y$/complex-structure direction.
+\end{theorem}
+
+\noindent The parameter one might have feared --- which of seven imaginary directions carries the phase --- is removed by colour, not posited. A resonance worth flagging (not banked): the CP phase ends up carried by the hypercharge direction $e_1$, tying $\delta_{CP}$ to the electroweak/complex-structure axis.
+
+\section{The unified picture}\label{sec:unified}
+
+Collecting \S\ref{sec:root}--\S\ref{sec:gate3}, the neutrino mixing sector and the surface-ontology dimension are facets of one octonionic structure:
+
+\begin{center}
+\begin{tabular}{ll}
+\toprule
+Feature & Octonionic seat \\
+\midrule
+Spatial $S^3$ (dynamical sector) & unit sphere of $\HH\subset\OO$; $SU(2)_L$ \\
+Generations (Hilbert sector) & diagonal slots of $\JthreeO$ \\
+Two-sector necessity & $\HH$-subalgebra $\oplus\ \JthreeO$ (dynamics + Gleason) \\
+$\theta_{23}=\pi/4$ & Hermitian slot-swap $\mathbb{Z}_2$ ($\nu_3$ fixed) \\
+Antilinear reflection ($\delta_{CP}=\pm\pi/2$, $\theta_{13}\neq0$) & conjugation $x_3\mapsto\bar{x}_3$ (Jordan Hermiticity) \\
+CP-phase direction & colour singlet $e_1=$ hypercharge axis (forced) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\noindent The arc began with a posited Pauli-triple symmetry and a coincidence of ``threes''; it ends with the symmetry demoted to a property of $\JthreeO$ Hermiticity and the two ``threes'' identified as distinct but co-resident features of $\OO$. The surface ontology's two-sector character, the maximal atmospheric angle, the maximal CP phase, and the colour-fixed phase direction all read off one algebra.
+
+\section{Honest scorecard}\label{sec:scorecard}
+
+\begin{description}[leftmargin=1.4em,style=nextline]
+\item[Established prior art (not ours).] The octonion $\to$ Standard-Model gauge group and three-generation count (G\"unaydin--G\"ursey; Dixon; Furey; Todorov--Dubois-Violette); Hurwitz's theorem; the non-amenability of $SO(3)$ and Banach--Tarski; Gleason's theorem; the Ehrenfest--Tangherlini stability ceiling.
+\item[Pre-existing in the corpus.] $\delta_{CP}=\pi/2$ (bilateral conjugation geometry). This paper fixes its \emph{origin}, not its value.
+\item[Corpus status (2026-06-25).] The standalone $\theta_{23}$ note (P4) and the octonionic-origin standalone have recently been demoted in the corpus (audit of standalone overclaiming relative to internal tier grades; demote-not-delete). This paper is consonant with that disposition rather than in tension with it: it supplies the structural foundation those standalones lacked --- the atmospheric symmetry is here a consequence of $\JthreeO$ Hermiticity, not a posited Pauli-triple identification --- and so bears directly on whether, and in what reframed form, that content re-enters the live corpus. The Gate~1 finding (the posited $\sigma$-triple sat in the gauge representation, not the generation one) is an independent corroboration of the audit's demotion call.
+\item[New here.] (1)~The two-sector necessity from dynamics-plus-measure (\S\ref{sec:twosector}), conditional as stated. (2)~The re-grounding of the atmospheric symmetry and its CP phase onto $\JthreeO$, in which the antilinear reflection is derived from Jordan Hermiticity rather than posited (\S\ref{sec:regrounding}). (3)~The parameter-free colour-fixing of the CP-phase direction to the hypercharge singlet $e_1$ (\S\ref{sec:gate3}). (4)~The binding itself.
+\item[Not done; not claimed.] A complete first-principles re-derivation of the full PMNS matrix from $\JthreeO$ (the angles and phase inherit \emph{by composition} from the same $\mathbb{Z}_2$-plus-antilinear structure; a from-scratch Jordan-algebra PMNS computation is follow-on work). No new observable is predicted. The two-sector necessity is conditional, not a theorem; the ``$d=3$ forced'' conjecture is retracted.
+\end{description}
+
+\section{Falsifiers}
+
+The combined empirical content is $\theta_{23}=\pi/4$, $\theta_{13}\neq0$, $|\delta_{CP}|=\pi/2$, falsifiable in the standard sense: a measured $\theta_{23}$ inconsistent with $\pi/4$ beyond the reflection-breaking precision, or a robustly non-maximal $|\delta_{CP}|$, falsifies the reflection reading. Global fits currently place $\delta_{CP}$ near $-\pi/2$ within $\sim1\sigma$; DUNE and Hyper-Kamiokande are decisive. A sign flag is recorded: the corpus commits to $+\pi/2$ while fits lean $-\pi/2$; this is left to data, not adjudicated here. Structurally, if a consistent NTE formulation required a normed division algebra other than $\OO$ (Hurwitz leaves none), or if the colour-singlet of $\Imag(\OO)$ were not one-dimensional (it is), the re-grounding would fail.
+
+\section*{Acknowledgements}
+This synthesis was assembled with AI-assisted derivation and verification (octonion/Jordan-algebra computations performed in a computer-algebra kernel; representation-theoretic and amenability checks verified numerically). All framework choices and ratification remain the author's.
+
+\begin{thebibliography}{99}
+\small
+\bibitem{hurwitz} A.\ Hurwitz, \emph{G\"ott.\ Nachr.} (1898); J.\ C.\ Baez, ``The octonions,'' \emph{Bull.\ Amer.\ Math.\ Soc.} \textbf{39}, 145 (2002).
+\bibitem{gg} M.\ G\"unaydin and F.\ G\"ursey, ``Quark structure and octonions,'' \emph{J.\ Math.\ Phys.} \textbf{14}, 1651 (1973).
+\bibitem{dixon} G.\ M.\ Dixon, \emph{Division Algebras: Octonions, Quaternions, Complex Numbers and the Algebraic Design of Physics} (Kluwer, 1994).
+\bibitem{furey} C.\ Furey, ``Three generations, two unbroken gauge symmetries, and one eight-dimensional algebra,'' \emph{Phys.\ Lett.\ B} \textbf{785}, 84 (2018).
+\bibitem{tdv} I.\ Todorov and M.\ Dubois-Violette, ``Deducing the symmetry of the standard model from the automorphism and structure groups of the exceptional Jordan algebra,'' \emph{Int.\ J.\ Mod.\ Phys.\ A} \textbf{33}, 1850118 (2018).
+\bibitem{hausdorff} F.\ Hausdorff (1914); S.\ Banach and A.\ Tarski, \emph{Fund.\ Math.} \textbf{6}, 244 (1924); J.\ von Neumann, \emph{Fund.\ Math.} \textbf{13}, 73 (1929).
+\bibitem{gleason} A.\ M.\ Gleason, ``Measures on the closed subspaces of a Hilbert space,'' \emph{J.\ Math.\ Mech.} \textbf{6}, 885 (1957).
+\bibitem{ehrenfest} P.\ Ehrenfest (1917); F.\ R.\ Tangherlini, \emph{Nuovo Cimento} \textbf{27}, 636 (1963).
+\bibitem{lam} C.\ S.\ Lam, ``A 2-3 symmetry in neutrino oscillations,'' \emph{Phys.\ Lett.\ B} \textbf{507}, 214 (2001).
+\bibitem{hps} P.\ F.\ Harrison, D.\ H.\ Perkins, W.\ G.\ Scott, \emph{Phys.\ Lett.\ B} \textbf{530}, 167 (2002); W.\ Grimus and L.\ Lavoura, \emph{JHEP} \textbf{09}, 106 (2008).
+\bibitem{nufit} NuFIT collaboration, three-neutrino oscillation parameter updates (NuFIT 5.3, 2024).
+\bibitem{corpus} NTE corpus: Paper P4 ($\theta_{23}$); Paper P4D (antilinear reflection); the surface-ontology dimension note; the octonionic-origin note; and the Gate~1--3 re-grounding investigations (2026).
+\end{thebibliography}
+
+\end{document}

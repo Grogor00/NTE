@@ -1,0 +1,13 @@
+﻿{
+  "poll_tick": 460,
+  "last_executed": "Sequencing sunshine: Main numerics+cold Grok+pseudo Scratch/Jammer filed",
+  "open_queue": [
+    "AC arbitration: GB vs inflation sequencing (F2/F3/F5 live); Greg ratify",
+    "Claude Scratch/Jammer: complete sunshine legs if not filed",
+    "Item A numbers HOLD until sequencing/reheating register settles",
+    "HELD: Ch12 Note; (n_s,r) empirical-handle status under F5"
+  ],
+  "last_action": "sequencing_sunshine_main_legs",
+  "last_action_at": "2026-09-26T03:50:00+12:00",
+  "last_completion_handoff": "Handoff_Cursor_Main_to_AC_Sequencing_Sunshine_Main_Legs_Filed_20260925.md"
+}

@@ -1,0 +1,26 @@
+OK A
+  BEFORE… vidence for DESI+CMB modestly favours $\Lambda$CDM — Working/DESI_Tension_Resolution_Programme_CursorMain_20260926.md.) 
+  AFTER…   Diagnostic for the void bias itself: SN Hubble residuals should correlate with line-of-sight void fraction (Pantheon+ ×
+OK B1
+  BEFORE… atter ($\sigma(H_0)\sim2$–4 km/s/Mpc) correlated with line-of-sight density — testable with existing SNe Ia catalogues. 
+  AFTER…  ↵↵## XIV–XV. QGP era and the fractal foam↵↵In the quark–gluon plasma era, null-time gluons were the dominant entangl
+OK B3
+  BEFORE… ot a full resolution**; the residual may be nuclear-physics systematics.↵↵## XII. Dark energy: geometric unloading↵↵
+  AFTER…   The cosmological-constant *problem* is reframed structurally: the $10^{120}$ catastrophe is computing a volume-scaling 
+OK B2+B4: appended distinction + C11 dependency after B1
+
+=== VERIFY-THEN-REPORT ===
+PASS A_new
+PASS A_old_gone
+PASS B1_new
+PASS B1_old_gone
+PASS B2_present
+PASS B4_present
+PASS B3_present
+FAIL B3_anchor_gone
+ADJ A_BEFORE…  modestly favours $\Lambda$CDM — Working/DESI_Tension_Resolution_Programme_CursorMain_20260926.md.) 
+ADJ A_AFTER…   Diagnostic for the void bias itself: SN Hubble residuals should correlate with line-of-sight void f
+ADJ B1_BEFORE… sim2$–4 km/s/Mpc) correlated with line-of-sight density — testable with existing SNe Ia catalogues. 
+ADJ B1_AFTER…   What distinguishes NTE here is **not** the void treatment but the status of the acceleration. In ti
+ADJ B3_BEFORE… impedance to expansion decreases — acceleration as *mechanical unloading*, not a dark-energy fluid. 
+ADJ B3_AFTER…  : under Door B, $|\Phi|$ thinning is $H$ falling restated. The phrase is retained as physical pictur

@@ -1,0 +1,19 @@
+from: markdown+tex_math_dollars+tex_math_single_backslash
+to: pdf
+standalone: true
+pdf-engine: xelatex
+
+variables:
+  mainfont: "Libertinus Serif"
+  mathfont: "Libertinus Math"
+  fontsize: 11pt
+  geometry: margin=1in
+  linkcolor: blue
+  urlcolor: blue
+
+include-in-header:
+  - header.tex
+  - header-master.tex
+
+filters:
+  - sanitize.lua

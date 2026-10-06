@@ -1,0 +1,513 @@
+===== AS_AT HANDFF KEY =====
+## 1. **AS1 — REQUIRED. Chapter 11 states T_GB at the register AH5 removed this morning.**
+
+AC's chapter-impact list for the T_GB regrading named **Ch 12 and Ch 15**. It missed this one.
+
+Chapter 11 v4, in the preview of the chord's notes:
+
+> **OLD:** *"**The gauge-birth temperature.** The pitch at which the instrument's temporal circle tunes — **set by the same single relation that fixes the circle's size** — producing the temperature at which the universe's Standard Model physics first switched on."*
+
+*"Set by the same single relation that fixes the circle's size"* **is** the fibre-modulus claim. Greg ratified this morning that β_GB·M_Pl = √(2π) is **identified, not independently established**. Chapter 11 states the determination flatly, in the chapter whose entire job is to say the notes come from one instrument.
+
+> **NEW:** *"**The gauge-birth temperature.** The pitch at which the instrument's temporal circle tunes — on the reading that the relation fixing the circle's size is the one the framework has identified, which is the open grounding here rather than a settled one — producing the temperature at which the universe's Standard Model physics first switched on. Chapter 12 grades it."*
+
+**This is the third document today whose own text I have had to correct against a same-day ratification** (after AK1 on Ch 15 and AF2′ on Appendix C, both M_c). The re-scan practice AC adopted in §3 of this morning's handoff is doing exactly what it was adopted for — **and it found this one only because a reading pass ran, not because anyone swept.**
+
+---
+
+---
+## 2. Chapter 11 otherwise — **four of five notes are already graded correctly**
+
+This is the strongest register discipline in the book, and it was written before today's demotion:
+
+- **Volume signature:** *"An internal audit rather than an observation"* ✓ — and it is clean-spine, so it survives AH5 untouched.
+- **Quietness of empty space:** *"The framework claims the **mechanism** of the quietness, not its numerical value; the distinction matters"* ✓
+- **Neutrino mass scales:** the 5.4 × 10⁹ GeV slot is *"a consistency the framework counts as a cross-check, **deliberately not as a prediction**"*; the 10¹⁵ GeV slot *"with its full derivation honestly open"* ✓
+- **Bare DM coupling:** κ₀, *"sounded once for each of the algebra's **three gauge directions**"* ✓ — Companion 12 §3's adjoint-dimension reading, correct, and the **fourth chapter** in which PC has found it already right.
+
+Only T_GB was at the old register. AS1 is the whole patch.
+
+### And Chapter 11 already carries AG5's register, unprompted
+
+> *"**The reader should resist tallying.** The framework commits to the coherence — every note emerging from one computation on one shape — not to a count of notes; the count named at any moment reflects where the mathematical work has reached, and **the next chapter even tells the story of a note the framework's own accounting removed.** What cannot change without the framework failing is not the tally but the joint origin."*
+
+This is AC §1's *"the paper's own thesis is coherence, not tally"* and AG5's *"a tally that is allowed to shrink"* — **already in the book, in Greg's voice, written before either was said.** It independently confirms the AJ-series positive finding that the spine thinning from three to two damages nothing. **Recommend it be quoted in the AH5 ratification record**, because it is the book anticipating its own demotion.
+
+---
+
+---
+## 3. **AT2 — the Chapter 3 defect is not a one-off. The phrase propagated.**
+
+Chapter 14 §7, describing the framework's dark matter against Boyle–Finn–Turok's:
+
+> *"it is the gravitational footprint of ordinary matter on the mirror orientation, felt across the manifold's thickness **through the one species whose unfinished identity spans it**."*
+
+Chapter 3 v7, the AN2 defect:
+
+> *"the neutrino's role in it, as **the one species whose unfinished identity spans the thickness**"*
+
+**The same construction, in two chapters, eleven chapters apart.** This is not two independent slips — it is one phrase that was written once and copied. Companion 9 §3 exists to forbid exactly this reading: *"The neutrino does not carry the cross-thickness coupling; it does not mediate the coupling."*
+
+**AT2, required:**
+> **NEW:** *"it is the gravitational footprint of ordinary matter on the mirror orientation, felt across the manifold's thickness — registering through the one species whose identity the projection left unfinished, which is the structure the coupling shows up in rather than the thing that carries it."*
+
+**Recommendation for Cursor, beyond the two patches.** Grep the whole Book, both popular editions and Appendix A for `spans it`, `spans the thickness`, `unfinished identity spans`, and `bridges the thickness`, and report counts including zero. **Two known instances means the phrase has a source, and PC has not found the source.** This is a seventh rule for the mechanical sweep and a better-specified one than the six already issued, because it is a phrase rather than a term.
+
+---
+
+---
+## 4. Chapter 14 — remaining required patches
+
+**AT1 — A9, and it misdescribes a chapter the C-series already fixed.** §3:
+> **OLD:** *"Chapter 4's picture is the same posture in different words. **Proper time accumulates** with expansion through |Φ_NTE|"*
+> **NEW:** *"Chapter 4's picture is the same posture in different words. **Cosmic time accumulates** with expansion through |Φ_NTE|"*
+
+Chapter 4 v10 was patched to cosmic by the C-series. **Chapter 14 now describes Chapter 4 as saying something Chapter 4 no longer says** — and names it explicitly while doing so. This is the AF2 re-scan case exactly: a document declared fine before the term was retired.
+
+**AT3 — the opening line points at the wrong object.**
+> **OLD:** *"Notice a pattern running through **the chapter**."*
+> **NEW:** *"Notice a pattern running through **the book**."*
+
+The pattern runs through the preceding thirteen chapters — the sentence directly follows a list of them. As written it is self-referential and means nothing.
+
+**AT4 — trivial.** §1: *"what **a honest** probability function on that projection must look like"* → *"an honest"*.
+
+Worth noting what AT4 sits inside: Chapter 14's Born-rule register — *"what an honest probability function on that projection **must look like**"* — is **already at AC's reformulation grade**, softer than Chapter 6's "derived". **Chapter 14 supports AO2–AO5**: the book's own cross-reference to Chapter 6 states the claim more carefully than Chapter 6 does.
+
+---
+
+---
+===== AQ SECTION =====
+## 6. Chapter 8 — **AQ1–AQ3, REQUIRED, and independent of everything above.** A9 photon-frame.
+
+Three instances of the degenerate reading A9 retired. The photon's four-velocity is **0/0 — undefined, not zero**; the line has no ruler along it, so there is no proper time for it to have none of.
+
+**AQ1 — the epigraph.** Most visible line in the chapter.
+> **OLD:** *"Light crosses the gap in zero proper time. Everything else waits for the expansion to catch up."*
+> **NEW:** *"Light crosses the gap with no ruler along it. Everything else waits for the expansion to catch up."*
+
+**AQ2 — the Chapter 1 callback.**
+> **OLD:** *"Chapter 1 gave us the photon at the pure null-time limit — **no proper time**, no mass, riding the expansion boundary."*
+> **NEW:** *"Chapter 1 gave us the photon at the pure null-time limit — no frame, no ruler along its own length, no mass, riding the expansion boundary."*
+
+**AQ3 — the closing paragraph.**
+> **OLD:** *"The photon, with no engagement on either side, **accumulates no proper time** and rides the wavefront of expansion."*
+> **NEW:** *"The photon, with no engagement on either side, has no ruler along its own length and rides the wavefront of expansion."*
+
+**AQ4 — flagged, not written.** *"fully resolved species ... **accumulating proper time** in our orientation of the manifold's thickness."* For massive fermions proper time is the correct term and the sentence reads as a deliberate contrast with the photon. **PC's judgement is leave it.** Flagged only because the sweep rule would hit it and a mechanical apply would break a correct sentence.
+
+**Second chapter running where the sweep would have caught a hit it has not returned.** Chapter 6's `proper time` and Chapter 8's three are all pure string matches inside the sweep's declared scope.
+
+---
+
+
+===== T1-T3 =====
+## 1. Patches
+
+### T1 — §2: proper time where the relation delivers cosmic time
+
+The one instance of the rule in the chapter.
+
+**OLD**
+
+```
+At the gauge birth — the moment the Standard Model gauge symmetries switched on and proper time crystallised — the universe locked into one of two CPN-conjugate orientations of the manifold's N-thickness.
+```
+
+**NEW**
+
+```
+At the gauge birth — the moment the Standard Model gauge symmetries switched on and cosmic time crystallised — the universe locked into one of two CPN-conjugate orientations of the manifold's N-thickness.
+```
+
+---
+
+### T2 — §7: the stated difference does not match the stated significance
+
+The chapter gives the gap as 0.12 and the significance as 0.83σ. Those disagree: 0.12/0.15 is 0.80. The 0.83σ figure is the corpus's and is correct — it comes from the unrounded prediction. κ₀ = 3/√(4π) = 0.84628, so κ = 0.84628/0.15372 = **5.5054**, and 5.5054 − 5.38 = **0.1254**, which over 0.15 gives 0.836σ. The rounded 5.50 in the headline is fine; the *difference* rounds to 0.13, not 0.12.
+
+Small, but it is the arithmetic of the chapter's single load-bearing comparison, and it is the number a hostile reader checks first.
+
+**OLD**
+
+```
+Side-by-side. The framework's prediction: κ = 5.50. Planck's measurement: κ = 5.38 ± 0.15. The difference is 0.12, which is about 0.83 standard deviations — well within statistical agreement between the framework's number and the universe's number.
+```
+
+**NEW**
+
+```
+Side-by-side. The framework's prediction: κ = 5.50. Planck's measurement: κ = 5.38 ± 0.15. The difference is about 0.13 — the unrounded prediction is 5.505 — which is about 0.83 standard deviations, well within statistical agreement between the framework's number and the universe's number.
+```
+
+---
+
+### T3 — §9: the other two zero-parameter predictions carry qualifiers the summary drops
+
+Chapter 15 v4 now grades the strictest tier carefully: θ₂₃ is *inherited from the μ–τ symmetry literature and credited*, and δ_J is |δ_J| = π/2 **with the sign free**, so the asymmetry's direction is not claimed. Chapter 9's forward pointer lists all three flat.
+
+This matters more here than it would elsewhere, because Chapter 9 is the chapter whose entire subject is what "zero-parameter" means. A flat list in this chapter reads as three equally unqualified predictions.
+
+**OLD**
+
+```
+Chapter 15 catalogues the framework's claims as a whole, each at its graded register — the dark-matter-to-baryon ratio joins the maximal CP phase and the maximal atmospheric angle in the strictest zero-parameter tier, with the spectral index and tensor ratio carried as conditional, the mass scales as cross-checks, and the framework's live tensions listed at full volume alongside.
+```
+
+**NEW**
+
+```
+Chapter 15 catalogues the framework's claims as a whole, each at its graded register — the dark-matter-to-baryon ratio joins the maximal CP phase and the maximal atmospheric angle in the strictest zero-parameter tier, though the company is worth reading closely: the atmospheric angle is inherited from an established symmetry literature and credited there rather than claimed, and the CP phase is fixed in magnitude only, its sign left free, so the direction of the matter–antimatter asymmetry is not among the framework's predictions. κ is the one of the three that is wholly the framework's own and fixed end to end. Beyond that tier, the spectral index and tensor ratio are carried as conditional, the mass scales as cross-checks, and the framework's live tensions are listed at full volume alongside.
+```
+
+---
+
+
+===== CH17 APP C FULL PATCH SECTIONS =====
+**AF1** repairs a defect PC introduced: A5's CLFV entry carried one of C18 §3's six travelling qualifiers and omitted the ~9:1-versus-anarchy figure, making the claim read stronger than the corpus allows. **AF2** removes the ~40 Mpc length from §C.5 — **a term PC missed during a full currency read of v1.3 on 2026-09-24, the fifth instance of PC's incomplete-scan pattern and the first inside a document PC had declared clean.** New PC practice: retiring a term triggers a re-scan of documents already cleared, not only the document in hand. **AF3** re-points a T_GB forward reference from Ch 12 (v4.1 does not yet say it) to Ch 15 (v5 does). **AG1–AG6** on `Chapter_17_The_Working_Bet_v3.md` → v4, PC's first reading: A9 residue in the chapter's opening sentence and in the book's closing image; emergence register in the précis and in commitment 2; the retired kinetic-normalisation framing; and a chord-grading sentence that records the promotion but not the later demotion. **H1 closed — AC confirms V_NTE's form is not derived; D10/Y2 already removed every Book dependency and Cursor's grep reports zero hits.** Flags AH1 (Born-rule register — PC proposing the weaker reading, has not read Part 1 §II.0, not ruling), AH2 (possible one-character truncation at Appendix C EOF), AH4 (item (a) is a band not a point; B3′ holds; Ch 12 stays held), AH5 (C12 vs Part 3 on T_GB — Ch 12's authorised v4.2 sits on the Part 3 side). **Status: PROPOSED, awaiting Greg.**
+```
+
+---
+
+---
+**AF2 — Appendix C still says "~40 Mpc", and PC read this file in full on the 24th and called it campaign-current.**
+
+`Appendix_C_…_v1_4` §C.5, Rubin and Euclid: *"the coherence-length transition near ~40 Mpc"*. Same defect as Chapters 10, 15 and 16. PC read v1.3 end to end on 2026-09-24, wrote that it was *"more current than PC credited it"*, and withdrew a patch on the strength of that reading — while this line sat in it.
+
+That is the fifth instance of the same failure this campaign, and the worst kind: not a term missed inside a patch set, but a term missed during a **full read undertaken specifically to assess the document's currency**. The §0 correction PC adopted this morning — re-read the target and report counts — would not have caught it either, because the retired term was not yet retired when PC read the file. What would have caught it is re-scanning every previously-cleared document when a *new* term is retired. **PC adds that: retiring a term now triggers a sweep of the documents already declared clean, not only the document in hand.**
+
+Term count in Appendix C v1.4, from this session's full read: `40 Mpc` ×1, `coherence-length` ×1, `coherence mass` ×0.
+
+---
+
+---
+**AF2** removes the ~40 Mpc length from §C.5 — **a term PC missed during a full currency read of v1.3 on 2026-09-24, the fifth instance of PC's incomplete-scan pattern and the first inside a document PC had declared clean.** New PC practice: retiring a term triggers a re-scan of documents already cleared, not only the document in hand. **AF3** re-points a T_GB forward reference from Ch 12 (v4.1 does not yet say it) to Ch 15 (v5 does). **AG1–AG6** on `Chapter_17_The_Working_Bet_v3.md` → v4, PC's first reading: A9 residue in the chapter's opening sentence and in the book's closing image; emergence register in the précis and in commitment 2; the retired kinetic-normalisation framing; and a chord-grading sentence that records the promotion but not the later demotion. **H1 closed — AC confirms V_NTE's form is not derived; D10/Y2 already removed every Book dependency and Cursor's grep reports zero hits.** Flags AH1 (Born-rule register — PC proposing the weaker reading, has not read Part 1 §II.0, not ruling), AH2 (possible one-character truncation at Appendix C EOF), AH4 (item (a) is a band not a point; B3′ holds; Ch 12 stays held), AH5 (C12 vs Part 3 on T_GB — Ch 12's authorised v4.2 sits on the Part 3 side). **Status: PROPOSED, awaiting Greg.**
+```
+
+---
+
+---
+**AF3** re-points a T_GB forward reference from Ch 12 (v4.1 does not yet say it) to Ch 15 (v5 does). **AG1–AG6** on `Chapter_17_The_Working_Bet_v3.md` → v4, PC's first reading: A9 residue in the chapter's opening sentence and in the book's closing image; emergence register in the précis and in commitment 2; the retired kinetic-normalisation framing; and a chord-grading sentence that records the promotion but not the later demotion. **H1 closed — AC confirms V_NTE's form is not derived; D10/Y2 already removed every Book dependency and Cursor's grep reports zero hits.** Flags AH1 (Born-rule register — PC proposing the weaker reading, has not read Part 1 §II.0, not ruling), AH2 (possible one-character truncation at Appendix C EOF), AH4 (item (a) is a band not a point; B3′ holds; Ch 12 stays held), AH5 (C12 vs Part 3 on T_GB — Ch 12's authorised v4.2 sits on the Part 3 side). **Status: PROPOSED, awaiting Greg.**
+```
+
+---
+
+---
+**AG1–AG6** on `Chapter_17_The_Working_Bet_v3.md` → v4, PC's first reading: A9 residue in the chapter's opening sentence and in the book's closing image; emergence register in the précis and in commitment 2; the retired kinetic-normalisation framing; and a chord-grading sentence that records the promotion but not the later demotion. **H1 closed — AC confirms V_NTE's form is not derived; D10/Y2 already removed every Book dependency and Cursor's grep reports zero hits.** Flags AH1 (Born-rule register — PC proposing the weaker reading, has not read Part 1 §II.0, not ruling), AH2 (possible one-character truncation at Appendix C EOF), AH4 (item (a) is a band not a point; B3′ holds; Ch 12 stays held), AH5 (C12 vs Part 3 on T_GB — Ch 12's authorised v4.2 sits on the Part 3 side). **Status: PROPOSED, awaiting Greg.**
+```
+
+---
+
+---
+SEC: ## 3. Chapter 9 — T4 (extends the unratified T-series)
+
+**OLD**
+
+```
+Worth one independent check on the count of three before moving on. In an unrelated branch of theoretical physics — work on monopole couplings in field theory contexts unrelated to dark matter or cosmology — the same factor of three appears naturally, for the same reason: it counts the dimension of the adjoint representation of SU(2), the algebraic content the framework's gauge sector lives in. The match is not an independent derivation of κ₀ within this framework (the underlying algebraic content is the same), but it tells us something useful: the framework's identification of dim(adj SU(2)) = 3 as the load-bearing count is structurally well-grounded rather than peculiar to NTE's specific construction. The factor of three has a single structural home in the gauge algebra; multiple physical contexts find it there independently.
+```
+
+**NEW**
+
+```
+Worth pinning the count of three down before moving on, because there is a wrong three sitting right next to the right one. The three is the dimension of the adjoint representation of SU(2) — three gauge-field components on the base sphere. It is *not* a count of Killing-spinor polarisations, which is the natural guess for anyone who has worked with spinors on the round three-sphere and which would give a different answer: that space is two-dimensional, a result established in the mathematical literature on spinors of constant curvature. The framework's technical corpus states the distinction explicitly and cites it, precisely because the coincidence of nearby counts is the kind of thing that turns a derivation into an accident. The factor of three has one structural home, and it is the gauge algebra.
+```
+
+---
+
+====
+SEC: ## 4. Appendix C — AF series (v1.4 → v1.5)
+
+### AF1 — §C.4, the CLFV entry: the qualifier PC left out
+
+**OLD**
+
+```
+An almost-certainly-untestable prediction, stated plainly rather than in disguise, because stating it costs nothing and a surprise observation would score it.
+```
+
+**NEW**
+
+```
+Two things keep that from being more than it is. The heavy scale makes observation almost certainly impossible, so this is a prediction stated for the record rather than one anybody expects to collect on. And equality is less rare than it sounds: sampling the relevant mixing structures at random reproduces a ratio this close to one about one time in ten. That is substantial and it is not overwhelming, and the framework says so rather than letting the reader supply their own estimate. What the claim is worth, in the end, is that the framework committed to a specific value of a ratio it had no obligation to address at all — stated plainly rather than in disguise, because stating it costs nothing and a surprise observation would score it.
+```
+
+### AF2 — §C.5, Rubin and Euclid: the 40 Mpc length
+
+**OLD**
+
+```
+**Rubin Observatory and Euclid** — the coherence-length transition near ~40 Mpc, the dark-matter-fraction scatter pattern across hundreds of millions of systems, and the void anatomy of the Hubble tension (framework: directional scatter of 2–4 km/s/Mpc correlated with line-of-sight density).
+```
+
+**NEW**
+
+```
+**Rubin Observatory and Euclid** — the transition in the dark-matter-fraction scatter at the neutrino free-streaming coherence mass, around 4 × 10¹⁴ solar masses, mapped across hundreds of millions of systems; and the void anatomy of the Hubble tension (framework: directional scatter of 2–4 km/s/Mpc correlated with line-of-sight density). The free-streaming scale is standard neutrino physics rather than an NTE derivation; what the framework claims is the combination of that scale with the M^(−1/2) scaling law and the mean of 5.50, and the corpus carries the scatter's amplitude within a single coherence patch as open.
+```
+
+### AF3 — §C.2, a forward reference to a chapter that does not yet say it
+
+**OLD**
+
+```
+Until it closes, the temperature is conditional, and Chapter 12 says so.
+```
+
+**NEW**
+
+```
+Until it closes, the temperature is conditional, and the scorecard of Chapter 15 carries it that way.
+```
+
+*Rationale: Chapter 12 v4.1 is the live text and does not yet carry T_GB as conditional — its v4.2 revision is authorised but unapplied and is blocked behind item (a). Chapter 15 v5 does carry it, applied. The appendix should point at a chapter that currently says the thing.*
+
+---
+
+====
+SEC: ## 5. Chapter 17 — AG series (v3 → v4), PC's first reading
+
+The book's last chapter. Term counts from this session's full read: `proper time` ×4, `emerg*` in the time sense ×2, `K(Φ)` ×1, `kinetic normalisation` ×1.
+
+**What is good and untouched:** the Feynman fingers-of-the-same-hand framing; the six-commitments structure; the octonionic credit, which is stated exactly as Manifest §3 grades it (adopted with credit, the framework's own stake being the *reading*); and §5's refusal to ask the reader to decide — *"You do not need to decide today whether the framework is true."* That is the right last note and nothing here alters it.
+
+### AG1 — §1, the opening sentence of the closing chapter
+
+**OLD**
+
+```
+The book began with a fact almost everyone in physics knows and almost nobody follows up: a photon accumulates zero proper time between emission and absorption.
+```
+
+**NEW**
+
+```
+The book began with a fact almost everyone in physics knows and almost nobody follows up: between a photon's emission and its absorption there is no interval to divide, and no vantage from which to divide it. The line has no ruler along it.
+```
+
+### AG2 — §1, the précis
+
+**OLD**
+
+```
+The argument, in brief: null-time and entanglement as one geometric pattern on a closed expanding S³; proper time emerging from e-folds through the boundary expansion field |Φ_NTE| (distinct from the Standard Model Higgs); quantum mechanics as state-space geometry with the Born rule a theorem, not an axiom;
+```
+
+**NEW**
+
+```
+The argument, in brief: null-time and entanglement as one geometric pattern on a closed expanding S³; cosmic time and e-folds as one structure with the boundary expansion field |Φ_NTE| setting the rate between them (that field distinct from the Standard Model Higgs); quantum mechanics as state-space geometry, with the Born rule reformulated rather than assumed;
+```
+
+*See flag AH1 — the Born-rule register is the one change here PC cannot verify and is proposing at the weaker reading deliberately.*
+
+### AG3 — §3, the second commitment
+
+**OLD**
+
+```
+- **Time from expansion** — *N* is primary; proper time emerges via H = β_NTE|Φ_NTE|².
+```
+
+**NEW**
+
+```
+- **Time and expansion as one structure** — *N* is primary as a coordinate, because it is the one that can be written without circularity; cosmic time is that expansion counted, at the rate H = β_NTE|Φ_NTE|² sets.
+```
+
+### AG4 — §4, the retired conditional framing
+
+**OLD**
+
+```
+Open work remains in any case, and Appendix C carries the full ledger: the kinetic normalisation K(Φ) that would convert the inflationary pair into hard tests; the derivation of the heavy seesaw scale M_R;
+```
+
+**NEW**
+
+```
+Open work remains in any case, and Appendix C carries the full ledger: the spectral origin of the conformal coupling that would convert the inflationary pair into hard tests — the kinetic normalisation it took to get there is closed, and what is open now sits one level beneath it; the derivation of the heavy seesaw scale M_R;
+```
+
+### AG5 — §4, the chord's grading stops halfway
+
+The sentence records the demotion and the promotion but not the second demotion. Chapter 15 v4 now says the accounting *"promoted another and then demoted it again."*
+
+**OLD**
+
+```
+with the notes graded, one removed by the framework's own accounting, one promoted when its derivation closed.
+```
+
+**NEW**
+
+```
+with the notes graded, one removed by the framework's own accounting, and one promoted when its derivation closed and then demoted again when the
+====
+SEC: ## 6. Flags
+
+**AH1 — the Born rule's register: PC is proposing the weaker reading and cannot verify it.** Ch 17 v3 says *"the Born rule a theorem, not an axiom."* PC's recollection of Manifest §3 — **read 2026-09-23, not this session, and the file has grown 6.7 kB since** — is that CR point 5 regraded Born and *t* to *reformulations*. If that recollection is right, "a theorem, not an axiom" sits a tier above what the corpus grants, in the book's summary of itself. AG2 proposes "reformulated rather than assumed", which is safe under either grading. **PC has not read Part 1 §II.0 and is not ruling.** AC to confirm; if Born is genuinely graded a theorem, AG2's clause should revert.
+
+**AH2 — Appendix C v1.4 may be truncated.** The file as PC read it this session ends `whichever way the sky rules` with no terminal punctuation. v1.3 ended the same sentence with a full stop. That is one character and it may be an artefact of how PC read the file rather than of the apply. **Not patched — Cursor to check the byte at end-of-file and fix if the apply dropped it.**
+
+**AH3 — Chapter 17's currency items are the same two as everywhere.** *"JUNO on the neutrino mass ordering"* belongs to the F4 bundle. Nothing else in the chapter is time-sensitive.
+
+**AH4 — item (a) is not ready and the hold stands.** AC's verification 1 puts the value at a band, not a point — AC's own independent estimate gives N_* ≈ 60.2 against Jammer's ≤56 and Scratch's ≈55.5, with the disagreement being the reheating history. AC's locus 11 confirms Book Ch 15 v5 needs a **final pass only**, σ already removed. **PC's B3′ decision holds up: nothing in the Book needs repatching when the band settles.** Chapter 12 stays held.
+
+**AH5 — Companion 12's T_GB contradiction touches the Book's Chapter 12.** AC reports C12 §4 lists T_GB under *"cleanly derived on the spine"* and asserts the master accounting grades it derived/structural, while Part 3 and Companion 9 both call it conditional. Greg's ruling is requested on the corpus side. **For PC's planning: Chapter 12's authorised v4.2 revision — T_GB → conditional — sits on the Part 3 side of that contradiction, which is the side AC's evidence favours.** If Greg rules the other way, the v4.2 authorisation needs revisiting before Ch 12 is written.
+
+---
+
+====
+SEC: ## 7. Registration (discipline 10)
+
+```
+- **Book/ Ch 17 v4 + Appendix C v1.5 + Ch 9 T4** (`Handoff_PC_to_Greg_Cursor_Ch17_v4_AppC_v1_5_Ch9_T4_20260925.md`, PC, 2026-09-25). Answers AC's three requests to PC. **T4** replaces Ch 9 §6's unnamed corroboration with Companion 12 §3's grounding, including the Killing-spinor negative (Bär 1993) — AC's revised ruling, better than PC's recommended cut. **AF1** repairs a defect PC introduced: A5's CLFV entry carried one of C18 §3's six travelling qualifiers and omitted the ~9:1-versus-anarchy figure, making the claim read stronger than the corpus allows. **AF2** removes the ~40 Mpc length from §C.5 — **a term PC missed during a full currency read of v1.3 on 2026-09-24, the fifth instance of PC's incomplete-scan pattern and the first inside a document PC had declared clean.** New PC practice: retiring a term triggers a re-scan of documents already cleared, not only the document in hand. **AF3** re-points a T_GB forward reference from Ch 12 (v4.1 does not yet say it) to Ch 15 (v5 does). **AG1–AG6** on `Chapter_17_The_Working_Bet_v3.md` → v4, PC's first reading: A9 residue in the chapter's opening sentence and in the book's closing image; emergence register in the précis and in commitment 2; the retired kinetic-normalisation framing; and a chord-grading sentence that records the promotion but not the later demotion. **H1 closed — AC confirms V_NTE's form is not derived; D10/Y2 already removed every Book dependency and Cursor's grep reports zero hits.** Flags AH1 (Born-rule register — PC proposing the weaker reading, has not read Part 1 §II.0, not ruling), AH2 (possible one-character truncation at Appendix C EOF), AH4 (item (a) is a band not a point; B3′ holds; Ch 12 stays held), AH5 (C12 vs Part 3 on T_GB — Ch 12's authorised v4.2 sits on the Part 3 side). **Status: PROPOSED, awaiting Greg.**
+```
+
+---
+
+====
+===== AR1 STANDING =====
+## 6. Standing
+
+**PROPOSED, can apply now:** AQ1–AQ3 (Ch 8), AS1 (Ch 11), AT1–AT4 (Ch 14), AO2–AO5 (Ch 6, unblocked — AN5 discharged), **AV1–AV7** (Ch 6), **AW1–AW2** (Ch 8), **AX1–AX2** (Ch 7), **AN4 revised** (Ch 3).
+**RECOMMENDED, Greg's call on emphasis:** AV5, AV6, AV7, AW3.
+**WITHDRAWN by PC:** AO1, AO6, AN6, the Ch 7 H-relation flag, and the original AN4 lean.
+**DISCHARGED:** AN5 — AC has read Companion 2, which owns the claim.
+**HELD:** T4 — AC's third ruling is **cite Sonner & Tong, PRL 102, 191601 (2009)** alongside Companion 12 §3's Killing-spinor negative. AC asks PC not to re-draft until Greg ratifies, since it is the third ruling on one sentence. **PC agrees and is holding.**
+**Not applied from earlier sets, and still outstanding:** **AF1 and AF3** (Appendix C — Cursor's apply table lists only AF2′, and AF1 is the CLFV qualifier repair AC cleared this morning), plus Q1–Q5, T1–T3, AD1–AD4, AG1–AG6.
+**For Cursor:** confirm the ~140 figure against Part 2 §VII; the `spans it` grep; the W_R check in Ch 15 v6; Ch 14 and Appendix C v1.5 both still carry `DRAFT_PC` in live filenames.
+
+---
+
+## 7. One observation, since the day produced an unusually clean instance of it
+
+**AR1 took four reads to settle and moved three times: Outcome 2, then an escalation recommending a sunshine pass, then Outcome 1, then Outcome 1 confirmed with the Book's missing sentence attached.** Every move was toward what the corpus deposited in June. None of the intermediate answers was reached by a ruling made without a read.
+
+The part worth keeping is what the wrong answers cost and did not cost. **AC's Outcome 2 would have had me write a bridge into Chapter 8 that the corpus does not need. AC's escalation would have commissioned a two-lane audit of a question already answered on file.** Both were caught by the next read rather than by anyone's judgement. **And my own AO1 and AO6 would have written into Chapter 6 the exact opposite of the framework's central claim about that geometry** — not a softening, an inversion — and they were caught the same way.
+
+The one thing that worked at every stage was refusing to write. I routed AR1 rather than patching it because I had not read Part 2, and that is the only reason AO1 and AO6 are being withdrawn as proposals rather than repaired as shipped text.
+
+---
+
+— PC, 2026-09-25.
+
+===== AM3 AN AO =====
+## 2. Chapter 3 v7 → v8 — patches **AN1–AN3**
+
+### AN1 — REQUIRED. The chapter contradicts itself about the horizon, four paragraphs apart.
+
+Chapter 3 goes out of its way to correct the standard misreading:
+
+> *"the **Hubble radius** ... is routinely mistaken for a wall. It is not one: galaxies beyond it recede faster than c ... and we nonetheless see a great many of them ... The surface that really does bound what we can ever see or signal is the **cosmological event horizon**, further out."*
+
+Then commits it:
+
+> **OLD:** *"In the framework's picture, that distance is effectively infinite at our cosmic moment; the entire antipodal hemisphere has long since passed beyond our **Hubble horizon**."*
+
+> **NEW:** *"In the framework's picture, that distance is effectively infinite at our cosmic moment; the entire antipodal hemisphere lies far beyond the **cosmological event horizon** — the bound introduced above, and the one that actually applies."*
+
+This is the collapsed-distinction class, and it is the first instance found **inside a single chapter**. A reader who took the earlier paragraph seriously will notice. Note also that "Hubble horizon" is a third term, used nowhere else — the chapter's own vocabulary is Hubble *radius* and cosmological event *horizon*.
+
+### AN2 — REQUIRED. Neutrino mediation, the Ch 10 defect in a milder form.
+
+> **OLD:** *"the neutrino's role in it, as **the one species whose unfinished identity spans the thickness**, is a story for the chapters that develop it carefully."*
+
+> **NEW:** *"the neutrino's role in it — not carrying the coupling, not mediating it, but being the structure that makes it show up in the equations describing what we measure — is a story for the chapters that develop it carefully."*
+
+"Spans the thickness" reads as the neutrino bridging the two sides, which is what Chapter 9 §3 exists to forbid. The chapter's *other* formulation, thirty lines earlier — *"the geometric handle that makes the coupling register"* — is already Ch 9-compatible and should stay. One instance is right and one is wrong; the wrong one is the one a reader will carry.
+
+### AN3 — OPTIONAL. Strengthen the mirror's reality to Ch 10's register.
+
+Chapter 3 establishes the other side's matter by analogy only. Chapter 10 v8 states it three times outright. If Greg wants the book's earliest statement to match, append to the paragraph AN2 sits above:
+
+> *"The other side is not a bookkeeping device, and not our own matter counted twice. It is real, with its own matter, gravitating in its own right — which is exactly why there is something for the ratio κ to measure."*
+
+PC's view: worth taking. Chapter 3 is where a reader forms the picture, and the redundancy misreading is the one AC identified as the live corpus risk. But the chapter is deliberately picture-building and defers the physics, so this is Greg's call on emphasis, not a defect.
+
+### Not patched, and why
+`Ω_k`: Chapter 3 reports Planck's Ω_K-consistent-with-zero as **observation**, then commits the framework only to the closed **sign**, with the one-sided falsifier and the magnitude caveat both present. **M10 is correctly landed.** Nothing to do.
+
+`proper time`: does not appear. The chapter says *"the rate at which **cosmic** time accumulates per e-fold"*. A9-clean.
+
+Photon-frame: *"length to anyone measuring it from outside and no ruler along its own"*, and *"nothing along the inside of the link for the reader's intuition to put a traveller on."* A9-clean.
+
+Emergence register: *"time is not the primary **parameter**. N is — and that is a statement about which coordinate can be written without circularity, not about which phenomenon is more real."* Matches Greg's ratified ruling exactly.
+
+---
+
+## 3. **AN4 — FLAGGED, NOT WRITTEN.** Chapter 3 prints "sixty e-folds".
+
+> *"After two e-folds, the universe is e² ≈ 7.4 times larger than at the start; after **sixty** e-folds, it's e⁶⁰ ≈ 10²⁶ times larger."*
+
+Read in context this is arithmetic illustrating what an e-fold *is* — it is not the chapter asserting N_e. But it is the book's introduction of the e-fold, "sixty" is the only number offered, and AC §7 has N_* somewhere in a **55.5–60 band with 63.4 out**, item (a) unlanded.
+
+Per Greg's standing constraint — *if a chapter's targeting touches n_s or r, flag rather than write* — **PC has not touched it.** Two options when item (a) lands: leave it (defensible: it is generic illustration, and 60 sits inside the band), or neutralise to *"after fifty e-folds ... ≈ 10²¹"* so no number in the chapter can be mistaken for the framework's. PC leans to **leave it**, since 60 is now the value AC's own horizon-matching check returned.
+
+---
+
+## 4. Chapter 6 v6 — **the AH1 item is here, and the chapter has Gleason backwards**
+
+Read in full this session. This is the substantive find of the pass.
+
+AC ruled this morning, on Part 1 §II.0 read 2026-09-24: the Born rule is a **reformulation, not a theorem** — *"the Born rule as Hopf projection is Gleason's theorem read on an imported qubit geometry."* AG2's *"reformulated rather than assumed"* stands in Chapter 17.
+
+**Chapter 6 is the chapter that makes the claim, and it is written at the higher register throughout.** Its section heading is *"What the Derivation Says"*. It calls the result *"the derived leg"*. It says *"Chapter 6 **derives** the probability rule"*. It calls itself *"the climactic geometric chapter"*. If AG2 ships and Chapter 6 does not, **the book's summary of itself will disagree with the chapter it is summarising** — the same cross-chapter collapse as Ch 9/Ch 10, on the same item AC just ruled.
+
+### The specific error, not just the register
+
+Chapter 6 positions the framework as an **alternative** to Gleason:
+
+> *"The framework's account **contrasts with Gleason's** not by avoiding premises altogether, but by working from premises of a different kind. Gleason's premises are measure-theoretic. The framework's are geometric ..."*
+
+Part 1 §II.0 grades it as an **instance** of Gleason — Gleason's theorem read on a geometry quantum mechanics supplies. Those are not the same relationship, and the chapter has it the wrong way round. **AC has not re-read §II.0 today and said so; PC has not read it at all.** This patch should not apply until someone reads §II.0 in full this session. **Routing that to AC as AN5.**
+
+### Proposed patches, held behind AN5
+
+**AO1 — the Gleason paragraph.**
+> **NEW:** *"The framework's account is not an alternative to Gleason's — it is Gleason's result read on a geometry that quantum mechanics supplies. Gleason works measure-theoretically on Hilbert spaces of dimension three or higher and proves uniqueness. The framework works on the same uniqueness with the qubit's geometry already in hand: the state space is a three-sphere, the global phase is physically irrelevant, and the Born rule is the unique probability function on the quotient the Hopf projection produces. What this adds to Gleason is not a second theorem but the missing picture — **what the Born rule is**, geometrically, rather than merely that nothing else would do. The exponent of 2 is not a free parameter; it is what the Hopf projection selects. But the geometry it is selected from is **imported**, not derived here."*
+
+**AO2** — heading *"What the Derivation Says"* → *"What the Reformulation Says"*.
+
+**AO3** — *"The Born rule is the derived leg."* → *"The Born rule is the leg the framework has reformulated rather than assumed — a real move, and a smaller one than a derivation."* (Tsirelson section.)
+
+**AO4** — *"Chapter 6 **derives** the probability rule quantum mechanics uses"* → *"Chapter 6 **recasts** the probability rule quantum mechanics uses"*.
+
+**AO5** — *"the climactic geometric chapter"* → *"the chapter where the geometric apparatus is complete"*. The superlative is the chapter grading itself, and §II.0 grades it lower.
+
+**AO6** — the imported-geometry admission, appended where the chapter already half-concedes it. The chapter says *"the framework explains **why** the state space is what it is"*, then spends two paragraphs withdrawing the explanation down to shared structure. It should say so:
+> *"Which is to say: the framework does not derive the qubit's geometry. It takes it from quantum mechanics, as everyone does, and shows that the same kind of geometry it attributes to the universe is what the rule falls out of. That is a claim about kinship, not about provenance."*
+
+### AO7 — REQUIRED and independent of AN5. A9 mechanical hit.
+
+> **OLD:** *"the gauge birth — the moment in cosmic history when the boundary expansion field stabilised into the form that gives well-defined **proper time**"*
+
+> **NEW:** *"... stabilised into the form that gives well-defined **cosmic time**"*
+
+This is the sweep rule *"proper time where the relation delivers cosmic"*, and it is the **first hit a reading pass has produced in a chapter the sweep was supposed to cover**.
+
+### Positive findings in Ch 6 — the chapter is in better shape than the register suggests
+
+- **Tsirelson is exactly right.** The bound is *read*, not derived; the entangled correlation function is named as owed, on the twistor route; the verdict is *"consistency, not a distinguishing test"* with κ named as the distinguishing number. No patch.
+- **Mosseri and Dandoloff are credited** for the Hopf/qubit correspondence, with *"The framework did not discover that the qubit is a Hopf bundle."* This is the honest move AO1 generalises.
+- **The literal-S³-identification retreat is already in.** The chapter explicitly disowns its own earlier drafts.
+- **Post-gauge-birth clause** — *"Pre-temporally there is no phase to quotient and no Born rule"* — is good and should survive all patches.
+- **Mirror register passes AC §2**: *"the two CPN-conjugate orientations of the manifold"*, which is Part 2 §XVI's own phrasing.
+
+### AN6 — minor, flagged for Cursor on apply
+Ch 6 says κ is *"three chapters ahead"*. By Ch 6's own forward map — gauge birth, then the neutrino, then dark matter — that is four. PC has not read Chapters 7 or 8 at current version and will not rule on chapter numbering from a forward reference. Cursor to verify against the shipped order.
+
+---
+
+
+## 5. Standing
+
+**PROPOSED, awaiting Greg:** AN1, AN2, AN3 (optional), AO7 — these four are independent and can apply now.
+**HELD behind AN5** (AC to read Part 1 §II.0 in full): AO1–AO6.
+**FLAGGED, not written:** AN4 (N_e adjacency), AN6 (chapter numbering).
+**Still open from earlier sets:** Ch 13 v7 (Q1–Q5), Ch 9 v5 (T1–T4), Ch 10 v9 (AC1–AC6, AL1), Ch 16 v3 (AD1–AD4), Ch 17 v4 (AG1–AG6), Appendix C v1.5 (AF1, AF2′, AF3), Ch 15 v6 (AK1), Ch 12 v4.2a (AJ1–AJ4).
+
+**Chapters still unread by PC at current version: 7, 8, 11, 14** — and 12 remains held behind item (a). Chapter 6 is now read; AC's count of six drops to five.
+
+**One observation on the sweep.** Chapter 6's `proper time` is a pure string match that any reading pass catches in a second, and the sweep was specified to catch exactly t

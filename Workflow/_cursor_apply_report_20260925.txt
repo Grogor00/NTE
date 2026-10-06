@@ -1,0 +1,22 @@
+Ch10v9: HIT  Three caveats
+Ch10v9: HIT  four hundred trillion suns
+Ch10v9: HIT  science-fiction sense
+Ch10v9: HIT  cluster-scale, and moving
+Ch10v9: MISS  above roughly 4
+Ch12: HIT  moved twice
+Ch12: HIT  conditional register
+Ch12: HIT  sales figure
+Ch12: HIT  not yet earned
+Ch12: MISS  earned its promotion
+Ch3: HIT  cosmological event horizon
+Ch3: HIT  not carrying the coupling
+Ch3: HIT  not a bookkeeping device
+Ch3: MISS  Hubble horizon
+Ch6: HIT  well-defined cosmic time
+Ch6: MISS  well-defined proper time
+AppC: HIT  not fixed
+AppC: HIT  order 10
+AppC: MISS  ~40 Mpc
+Ch15: HIT  not a fixed threshold
+Ch15: HIT  order 10
+Ch15: MISS  coherence mass of around 4

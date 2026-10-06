@@ -1,0 +1,18 @@
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\setlength{\emergencystretch}{5em}
+\sloppy
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\textit{NTE Master Corpus}}
+\fancyhead[R]{\small\masterpartheader}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyhead[L]{\small\textit{NTE Master Corpus}}%
+  \fancyhead[R]{\small\masterpartheader}%
+  \fancyfoot[C]{\thepage}%
+  \renewcommand{\headrulewidth}{0.4pt}%
+}
+\newcommand{\masterpartheader}{}

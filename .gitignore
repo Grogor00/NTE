@@ -1,0 +1,37 @@
+# Regenerable / build outputs
+paper-build/pdf-out/
+**/pdf-out/
+**/scratch-src/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Local / temp
+.env
+.env.*
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.cursor/
+agent-tools/
+
+# Archaeology / parallel trees (not deposit tip)
+Book/depreciated/
+Book/Book_with_TP/
+Book/paper-build/
+Book_CorpusSync_20260927/
+Working/Retired/
+Working/Farnsworth_Archive_Pull_*/
+Working/_tmp_*
+Handoffs/_scratch_*
+
+# Large binary dumps / reference PDFs (not deposit tip)
+*.zip
+*.7z
+potential/
+**/*.pdf
+!Core_Papers/.gitkeep

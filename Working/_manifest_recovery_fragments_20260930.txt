@@ -1,0 +1,188 @@
+LINE 538 LEN 1445\npython -c "
+from pathlib import Path
+p = Path(r'G:\My Drive\NTE_ZENODO_CLEAN\NTE_Workflow_Manifest_v10_18.md')
+lines = p.read_text(encoding='utf-8').splitlines(keepends=True)
+out = []
+for line in lines:
+    if line.startswith('**Last updated.**'):
+        out.append('**Last updated.** 2026-09-29 — Existence X-gates R1\oplusB\oplusC as filed KILLED (K2); option D stands; no deposit patch. R_th rescue named not adopted.\n')
+        continue
+    if 'OPEN 2026-09-29 — Existence X-gates: Vacuum-junction package' in line:
+        out.append('- **CLOSED 2026-09-29 — Existence X-gates: Vacuum-junction (R1 \u2295 B \u2295 C) as filed KILLED (K2).** Scratch: X-1 PASS, X-4 PASS. Jammer: X-2 PASS, X-3 FAIL, X-5 PASS. Package fails Door B energy conservation (delayed crystallisation + retained Planck-density reorganisation). Option D stands. **No deposit patch.** Rescue named not adopted: R_th (thermal density \u2272 \u03c1(T_max)) \u2192 amended package R1\oplusB\oplusC\oplusR_th needs Greg GO for second X-3 round. Directive: `Handoffs\\\\Directive_Cursor_Main_Existence_XGates_Vacuum_Junction_R1BC_20260929.md`. Arbitration: `Handoffs\\\\Arbitration_AC_Existence_XGates_Vacuum_Junction_R1BC_KILLED_K2_Rescue_Rth_Named_20260929.md`. Synthesis: `Handoffs\\\\Handoff_Cursor_Main_to_AC_Greg_Existence_XGates_Both_Legs_COMPLETE_20260929.md`.\n')
+        continue
+    out.append(line)
+p.write_text(''.join(out), encoding='utf-8')
+print('done')
+"
+\n\n=====\n\nLINE 570 LEN 51\n^\d+\. \*\*|discipline 12|Doubt about a measurement\n\n=====\n\nLINE 572 LEN 173\n**Last updated.** 2026-09-30 — Door B = field equations / unimodular-compatible (Greg); C11 regrades derived→adopted; discipline 12+12c ratified; Jammer U2. Option D stands.\n\n=====\n\nLINE 572 LEN 3668\n11. **Go to the source. Name the file before you rule.** Before any stream issues a verdict, or AC arbitrates a corpus question, it must (a) name the deposited file(s) that would settle the question, and (b) confirm it has read them in full **in the current session**. If it cannot name a file, the question is not yet well-posed. If it can name one but has not read it this session, it reads it or it does not rule. **Recollection is not a source.** A recalled claim about corpus content is indistinguishable, from the inside, from a reconstruction — so the trigger for re-reading is the *type* of claim, never the degree of confidence. Four triggers, all mandatory regardless of certainty: stating what a corpus file says; issuing a negative finding; issuing a ruling; accepting another stream's finding. **A negative finding — "the corpus does not say X" — must list the files read and the search terms used, and justify why that set is exhaustive.** **Every verdict must state which corpus files it read in full and which it did not.** Where a claim about corpus content is stated without a current-session read, the sentence itself must say so. (Causes: the 2026-09-24 P4 "undefined by deposit" verdict, answered all along by Part 2 §8.5–8.6 and §IX, arbitrated by AC without having read Part 2; and the G8 render-lane report, which searched the top-level `paper-build\` and missed `Book\paper-build\`.)
+12. **Doubt about a measurement must be pre-registered or external.** The only loop connecting this framework to physical reality runs through observation; every other discipline in this manifest improves self-consistency, which a wholly wrong model can also have. That loop is therefore protected as follows. **(a) A reason for discounting a measurement must be stated before its result is known, or must come from the experimental literature rather than from us.** Noticing that a result disfavours NTE and then finding grounds to doubt it is forbidden, however sound the grounds appear. Legitimate examples already on the record: the DES-Dovekie reassessment of SN-driven support, and the ACT-versus-Planck n_s discrepancy — both the field's own disputes, neither ours. **(b) Agreement inside an error band is reported with the band's width.** Fitting inside a wide band is weak evidence, because most wrong models fit too; the confidence comes from the narrowness of the claim, not from the agreement. **(c) Tune the system to produce a better model; never tune the model to replicate the data.** No quantity is adjusted to match an observation, and where a magnitude cannot be derived the corpus says so rather than choosing one that works — as Companion 11 does for Λ ("no quantity in this paper is adjusted to match the observed Λ") and the Dark Sector draft does for |Φ_∞|. **This extends to structural choices.** Legitimate system changes are: improving the process; choosing what to derive next; and revising a structural commitment **on structural grounds**. Door B is the reference case — adopted because an internal inconsistency forced it, and its immediate effect was to lose the corpus a prediction. **Illegitimate: adopting a structural option because of where it lands the numbers.** Choosing among mechanisms, formulations or exits **after** seeing which fits best is hand-tuning in structural form, and is forbidden whether or not any parameter is touched. **The protection is procedural: outcomes are pre-registered before the computation that selects among them** (see the forks in every directive since 2026-09-24). A mechanism must never be adopted after its fit is known.
+
+---
+
+## 7. Tooling notes (environment-specific, load-bearing)\n\n=====\n\nLINE 572 LEN 914\n- **CLOSED 2026-09-29 — Existence X-gates: Vacuum-junction (R1 ⊕ B ⊕ C) as filed KILLED (K2).** Scratch: X-1 PASS, X-4 PASS. Jammer: X-2 PASS, X-3 FAIL, X-5 PASS. Package fails Door B energy conservation (delayed crystallisation + retained Planck-density reorganisation). Option D stands. **No deposit patch.** Rescue named not adopted: R_th (thermal density ≲ ρ(T_max)) → amended package R1\oplusB\oplusC\oplusR_th needs Greg GO for second X-3 round. Directive: Handoffs\\Directive_Cursor_Main_Existence_XGates_Vacuum_Junction_R1BC_20260929.md. Arbitration: Handoffs\\Arbitration_AC_Existence_XGates_Vacuum_Junction_R1BC_KILLED_K2_Rescue_Rth_Named_20260929.md. Synthesis: Handoffs\\Handoff_Cursor_Main_to_AC_Greg_Existence_XGates_Both_Legs_COMPLETE_20260929.md.
+- **OPEN â€” R1 junction density / T_GB and R2 sequencing** (ordinary open under D).
+- **OPEN â€” does T_GB regrade reach Companion 12 fibre modulus?**\n\n=====\n\nLINE 572 LEN 4596\n- **CLOSED 2026-09-29 — Existence X-gates: Vacuum-junction (R1 ⊕ B ⊕ C) as filed KILLED (K2).** Scratch: X-1 PASS, X-4 PASS. Jammer: X-2 PASS, X-3 FAIL, X-5 PASS. Package fails Door B energy conservation (delayed crystallisation + retained Planck-density reorganisation). Option D stands. **No deposit patch.** Rescue named not adopted: R_th (thermal density ≲ ρ(T_max)) → amended package R1\oplusB\oplusC\oplusR_th needs Greg GO for second X-3 round. Directive: Handoffs\\Directive_Cursor_Main_Existence_XGates_Vacuum_Junction_R1BC_20260929.md. Arbitration: Handoffs\\Arbitration_AC_Existence_XGates_Vacuum_Junction_R1BC_KILLED_K2_Rescue_Rth_Named_20260929.md. Synthesis: Handoffs\\Handoff_Cursor_Main_to_AC_Greg_Existence_XGates_Both_Legs_COMPLETE_20260929.md.
+- **RATIFIED 2026-09-30 — discipline 12, the pre-registered-doubt rule.** Doubt about a measurement is pre-registered or external; agreement inside an error band reports the band's width; the system is tuned for a better model, never the model to replicate data — **including structural choices** (12c extension, Greg lock 10:37 NZDT). Reference case: Door B (internal inconsistency; cost a prediction). Live: option-D exits must not be selected on observational fit after the fact. Files: `Handoffs\RATIFIED_Manifest_Discipline12_Pre_Registered_Doubt_Rule_Plus_Observational_Priority_20260930.md`; `Handoffs\RATIFIED_Discipline12c_Extended_Structural_Choices_Are_Tunings_Methodology_Locked_20260930.md`.
+- **RECORDED 2026-09-30 — observational-priority consequence.** Native (n_s,r) withdrawal removed a fourth observational channel; work that opens/sharpens a channel outranks internal consistency. Best current candidate: Companion 16 §8.2 hypercharges through J₃(𝕆). Spine stability (κ, w=−1, Majorana, closed S³) survived because none routes through contested machinery — preserve deliberately.
+- **RULED 2026-09-30 — Door B "GR restored" = field equations, unimodular-compatible.** Clarification of what Door B always meant (not a fresh adoption to rescue C11). Λ as integration constant, not EH-with-Λ action term. Ground 2 ("spectral-triple property") later STRUCK after Jammer U2. C9 one-sentence formulation patch **owed** (AC). File: `Handoffs\AC_Door_B_Formulation_Ruled_Plus_Jammer_Directive_Plus_Two_Corpus_Items_From_PC_20260930.md`.
+- **DELIVERED 2026-09-30 — Jammer unimodular U2.** Door B orthogonal (projection survives removal of μ/F(Φ)R). Condition for *derived* unimodularity via CCM 2014 **not met** (needs M₂(ℍ)⊕M₄(ℂ); NTE is 𝕆⊕𝕆; mimetic-DM hazard to κ). Honest register: unimodular **adopted and credited**. C11 §4 identity (formal = ontological) **FALSE** — trace-free permits time-varying vacuum; ontological reading forbids inflationary plateau. Verdict: `Working\Unimodular_VERDICT_Jammer_U2_survives_Door_B_trivially_but_never_stood_on_C11_cited_sources_CCM_2014_volume_quantisation_is_the_only_source_needs_M2H_M4C_brings_mimetic_DM_ontological_reading_forbids_inflation_20260930.md`. Handoff: `Handoffs\Handoff_Jammer_to_AC_Unimodular_Verdict_Filed_U2_Door_B_Orthogonal_But_C11_Grounding_Unshown_CCM_2014_Mimetic_Risk_To_Kappa_Section4_Forbids_Inflation_20260930.md`.
+- **ARBITRATED 2026-09-30 — C11 regrades derived → adopted (credited).** Buchmüller–Dragon / Henneaux–Teitelboim. §3 "inherits automatically" overstates; §4 identity claim false — narrow before cite. Dark Sector grounds on **C12 a₄=0** (+ holographic lineage), **not C11**. Scratch DS-2: DE magnitude structurally not derivable (theorem). Patches **not drafted / not applied** (AC owes). File: `Handoffs\Arbitration_AC_C11_Regrades_To_Adopted_Section4_Identity_False_Dark_Sector_Grounds_On_a4_Not_C11_20260930.md`.
+- **APPLIED 2026-09-30 — Part 2 §IX "across the thickness" → "on both orientations"; M_c m_ν dependence.** Only numeric M_c occurrence in Core_Papers was Part 2 §IX falsifiable prediction (Part 3 uses symbol only). AC ruled; Cursor Main applied on sync (PC had reported patched; Core still had OLD). Source: `Handoffs\AC_Door_B_Formulation_Ruled_Plus_Jammer_Directive_Plus_Two_Corpus_Items_From_PC_20260930.md` §§3–4.
+- **OPEN 2026-09-30 — AC owes.** C11 patch register (§3 inherit / §4 identity / Part 3 grade / Jiroušek flag); C9 unimodular-formulation sentence; Scratch GHY restatement or withdraw (EH+Λ form). Book: Ch12 chord narrowing (PC drafts); Ch15/Ch12 m_ν₂ band (12b — need Δm²₂₁ precision); DESI four Book sites + Ch7 thermal scream protected for accuracy.
+- **OPEN — R1 junction density / T_GB and R2 sequencing** (ordinary open under D).
+- **OPEN — does T_GB regrade reach Companion 12 fibre modulus?**\n\n=====\n\nLINE 575 LEN 572\npython -c "
+p=r'G:\\My Drive\\NTE_ZENODO_CLEAN\\NTE_Workflow_Manifest_v10_18.md'
+with open(p,'r',encoding='utf-8') as f: lines=f.readlines()
+for i,l in enumerate(lines[:8]):
+    if l.startswith('**Last updated.**'):
+        lines[i]='**Last updated.** 2026-09-30 — Door B = field equations / unimodular-compatible (Greg); C11 regrades derived→adopted; discipline 12+12c ratified; Jammer U2. Option D stands.\n'
+        print('patched line', i+1)
+        break
+else:
+    raise SystemExit('not found')
+with open(p,'w',encoding='utf-8',newline='') as f: f.writelines(lines)
+"\n\n=====\n\nLINE 583 LEN 3298\npython -c "
+p=r'G:\\My Drive\\NTE_ZENODO_CLEAN\\NTE_Workflow_Manifest_v10_18.md'
+with open(p,'r',encoding='utf-8') as f: t=f.read()
+# Update Cursor stream line
+old_c='- **Cursor** — local render lane, not a Drive-canonical stream. Applies AC patch-instruction OLD/NEW blocks to local \`.md\` files under \`Core_Papers\` / \`Popular_Editions\` / \`Pedagogical_Notes\` (single canonical sources), byte-exact verify (match-or-report, never force), re-renders via \`%TEMP%\\nte-build-scratch\` (never a sync target), returns a completion handoff. AC authors patches and ratifies Drive-canonical; Cursor renders locally.'
+new_c='- **Cursor** — local render lane, not a Drive-canonical stream. Applies AC patch-instruction OLD/NEW blocks to local \`.md\` files under \`Core_Papers\` / \`Popular_Editions\` / \`Pedagogical_Notes\` (single canonical sources), byte-exact verify (match-or-report, never force), **verify-then-report** (read NEW back from disk before claiming APPLIED; report adjacent paragraphs), re-renders via \`%TEMP%\\nte-build-scratch\` (never a sync target), returns a completion handoff. AC authors patches and ratifies Drive-canonical; Cursor renders locally.'
+if old_c not in t:
+  raise SystemExit('Cursor line not found')
+t=t.replace(old_c,new_c,1)
+# Insert discipline 13 before --- after discipline 12
+marker='A mechanism must never be adopted after its fit is known.\n\n---\n\n## 7. Tooling notes'
+if marker not in t:
+  raise SystemExit('d12 end marker not found')
+ins='''A mechanism must never be adopted after its fit is known.
+13. **Verify-then-report; adjacent context.** A status claim is not the artifact. **(a)** Report a patch APPLIED only after reading the post-apply state back from the target file on disk — prose intent, a handoff saying \"patched,\" or an OLD/NEW block drafted is not enough. **(b)** For each applied patch, quote or paraphrase the paragraph immediately before and after the changed text (catches correct patches landing beside contradictory neighbours). **(c)** The same rule binds AC and PC: do not report a register applied, a ledger updated, or a deposit patched without the confirming artifact. Third instance of one failure class 2026-09 (AC read-state ledger; C6 repoint ratified-not-drafted; Part 2 thickness/M_c reported-applied-not-applied). Adopted AC loose-ends sweep 2026-09-30.
+
+---
+
+## 7. Tooling notes'''
+t=t.replace(marker,ins,1)
+# §10 registration after Part 2 applied bullet
+anchor='- **OPEN 2026-09-30 — AC owes.**'
+reg='''- **ADOPTED 2026-09-30 — verify-then-report + adjacent-context (discipline 13).** Status claim ≠ artifact. Report APPLIED only after disk read-back; report neighbour paragraphs. Binds AC/PC/Cursor. Trigger: Part 2 thickness/M_c reported-applied while Core still OLD. File: `Handoffs\\AC_Loose_Ends_Sweep_Three_Registers_Batched_Verify_Then_Report_Adopted_20260930.md`.
+- **CLEARED 2026-09-30 — stale ledger Existence G-1 CLAIMED + X-gates QUEUED → VERIFIED.** Closure: Option D (2026-09-27); X-gates KILLED K2 (2026-09-29). Ledger now 19 VERIFIED / 0 CLAIMED / 0 QUEUED. Per AC loose-ends §2.
+- **OPEN 2026-09-30 — AC owes.**'''
+if anchor not in t:
+  raise SystemExit('AC owes anchor missing')
+t=t.replace(anchor,reg,1)
+with open(p,'w',encoding='utf-8',newline='\n') as f: f.write(t)
+print('manifest ok')
+"\n\n=====\n\nLINE 583 LEN 1713\n# Handoff — Cursor Main → AC / PC / Greg: loose-ends §2–3 executed
+
+**From:** Cursor Main · **To:** AC, PC, Greg · **Date:** 2026-09-30
+**Basis:** `Handoffs\AC_Loose_Ends_Sweep_Three_Registers_Batched_Verify_Then_Report_Adopted_20260930.md` read this session.
+
+---
+
+## Done (AC §2–3)
+
+1. **Ledger cleared.**
+   - `AC-DIR-CURSOR-MAIN-EXISTENCE-GATE-G1-UNDER-8P1-OPTIONS`: CLAIMED → **VERIFIED** (Option D closed the gate; G-1 legs already filed).
+   - `AC-DIR-CURSOR-MAIN-EXISTENCE-XGATES-VACUUM-JUNCTION-R1B`: QUEUED → **VERIFIED** (KILLED K2; no patch).
+   - Counts now: **VERIFIED=19**, CLAIMED=0, QUEUED=0.
+
+2. **Verify-then-report locked into Manifest.**
+   - New **discipline 13** (verify-then-report + adjacent-context).
+   - Cursor stream blurb in §5 updated.
+   - §10 registered (ADOPTED + CLEARED bullets).
+
+## To PC (AC §4 already said it; Cursor confirms)
+
+Your 2026-09-30 discipline-12 handoff said Part 2 thickness + M_c were already patched. **Core still had OLD**; Cursor applied them on the sync tick. No criticism of the patch content — only the status-ahead-of-file gap. Protocol now requires disk read-back before "APPLIED."
+
+## Not done this tick (awaits Greg / AC)
+
+- §1 three-register batch (C16 / C14 / Part 2 N-3) — **awaits Greg one-word ratification**.
+- Cursor mechanicals queue still open: C21 §8.4.1, citation sweep, Δm²₂₁ band, DS-1, render currency.
+- AC C11 / C9 / C12 queue unchanged.
+
+**Verify-then-report check on this handoff's own claims:**
+- Ledger: both task ids now `state=VERIFIED` with closure notes (read back from `Working\cursor_task_ledger.json` after write).
+- Manifest: discipline 13 present after discipline 12 (read back after write).
+
+— Cursor Main, 2026-09-30.
+\n\n=====\n\nLINE 584 LEN 3712\n# -*- coding: utf-8 -*-
+from pathlib import Path
+
+p = Path(r"G:\My Drive\NTE_ZENODO_CLEAN\NTE_Workflow_Manifest_v10_18.md")
+t = p.read_text(encoding="utf-8")
+
+old_c = (
+    "- **Cursor** — local render lane, not a Drive-canonical stream. Applies AC patch-instruction "
+    "OLD/NEW blocks to local `.md` files under `Core_Papers` / `Popular_Editions` / `Pedagogical_Notes` "
+    "(single canonical sources), byte-exact verify (match-or-report, never force), re-renders via "
+    "`%TEMP%\\nte-build-scratch` (never a sync target), returns a completion handoff. AC authors patches "
+    "and ratifies Drive-canonical; Cursor renders locally."
+)
+new_c = (
+    "- **Cursor** — local render lane, not a Drive-canonical stream. Applies AC patch-instruction "
+    "OLD/NEW blocks to local `.md` files under `Core_Papers` / `Popular_Editions` / `Pedagogical_Notes` "
+    "(single canonical sources), byte-exact verify (match-or-report, never force), **verify-then-report** "
+    "(read NEW back from disk before claiming APPLIED; report adjacent paragraphs), re-renders via "
+    "`%TEMP%\\nte-build-scratch` (never a sync target), returns a completion handoff. AC authors patches "
+    "and ratifies Drive-canonical; Cursor renders locally."
+)
+if old_c not in t:
+    raise SystemExit("Cursor line not found")
+t = t.replace(old_c, new_c, 1)
+
+marker = "A mechanism must never be adopted after its fit is known.\n\n---\n\n## 7. Tooling notes"
+if marker not in t:
+    raise SystemExit("d12 end marker not found")
+if "13. **Verify-then-report" in t:
+    print("discipline 13 already present")
+else:
+    ins = (
+        "A mechanism must never be adopted after its fit is known.\n"
+        "13. **Verify-then-report; adjacent context.** A status claim is not the artifact. "
+        "**(a)** Report a patch APPLIED only after reading the post-apply state back from the target "
+        "file on disk — prose intent, a handoff saying \"patched,\" or an OLD/NEW block drafted is not enough. "
+        "**(b)** For each applied patch, quote or paraphrase the paragraph immediately before and after "
+        "the changed text (catches correct patches landing beside contradictory neighbours). "
+        "**(c)** The same rule binds AC and PC: do not report a register applied, a ledger updated, or a "
+        "deposit patched without the confirming artifact. Third instance of one failure class 2026-09 "
+        "(AC read-state ledger; C6 repoint ratified-not-drafted; Part 2 thickness/M_c reported-applied-not-applied). "
+        "Adopted AC loose-ends sweep 2026-09-30.\n\n"
+        "---\n\n## 7. Tooling notes"
+    )
+    t = t.replace(marker, ins, 1)
+
+anchor = "- **OPEN 2026-09-30 — AC owes.**"
+if "- **ADOPTED 2026-09-30 — verify-then-report" not in t:
+    if anchor not in t:
+        raise SystemExit("AC owes anchor missing")
+    reg = (
+        "- **ADOPTED 2026-09-30 — verify-then-report + adjacent-context (discipline 13).** "
+        "Status claim ≠ artifact. Report APPLIED only after disk read-back; report neighbour paragraphs. "
+        "Binds AC/PC/Cursor. Trigger: Part 2 thickness/M_c reported-applied while Core still OLD. "
+        "File: `Handoffs\\AC_Loose_Ends_Sweep_Three_Registers_Batched_Verify_Then_Report_Adopted_20260930.md`.\n"
+        "- **CLEARED 2026-09-30 — stale ledger Existence G-1 CLAIMED + X-gates QUEUED → VERIFIED.** "
+        "Closure: Option D (2026-09-27); X-gates KILLED K2 (2026-09-29). Ledger now 19 VERIFIED / 0 CLAIMED / 0 QUEUED. "
+        "Per AC loose-ends §2.\n"
+        "- **OPEN 2026-09-30 — AC owes.**"
+    )
+    t = t.replace(anchor, reg, 1)
+else:
+    print("§10 ADOPTED already present")
+
+p.write_text(t, encoding="utf-8", newline="\n")
+print("manifest patched ok")
+\n\n=====\n\nLINE 585 LEN 784\npython "G:\My Drive\NTE_ZENODO_CLEAN\Working\_patch_manifest_d13_20260930.py"; python -c "
+from pathlib import Path
+t=Path(r'G:\\My Drive\\NTE_ZENODO_CLEAN\\NTE_Workflow_Manifest_v10_18.md').read_text(encoding='utf-8')
+assert '13. **Verify-then-report' in t
+assert 'verify-then-report' in t.split('**Cursor**')[1][:800]
+assert 'ADOPTED 2026-09-30 — verify-then-report' in t
+assert 'CLEARED 2026-09-30 — stale ledger' in t
+print('verify-then-report readback PASS')
+# Part 2 still has NEW (from earlier sync)
+p2=Path(r'G:\\My Drive\\NTE_ZENODO_CLEAN\\Core_Papers\\NTE_v10_19_0_Part2_Structure.md').read_text(encoding='utf-8')
+assert 'on both orientations' in p2
+assert 'function of the neutrino mass' in p2
+assert 'across the thickness' not in p2
+print('Part2 NEW still present PASS')
+"

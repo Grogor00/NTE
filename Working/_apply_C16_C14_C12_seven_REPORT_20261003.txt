@@ -1,0 +1,59 @@
+OK C16-1: replaced once in Companion_16_Octonion_Gauge_Species_v10_19_0.md
+  MATCH_BEFORE… anion 6).↵↵This epoch mapping is a **framework-specific structural correspondence**, not a dynamical derivation of transition temperatures. 
+  MATCH_AFTER…  ↵↵---↵↵## 3. Gauge group: $G_2\to SU(3)_C\times SU(2)_L\times U(1)_Y$↵↵*(This section restates established results — Günaydin–Gürsey; Dixon;
+OK C16-2: replaced once in Companion_16_Octonion_Gauge_Species_v10_19_0.md
+  MATCH_BEFORE… ic multiplication (Furey 2018); the $J_3(\mathbb{O})$ extension to three generations is only partially verified — **open** (Part 3 ledger).↵
+  MATCH_AFTER…  ↵- *Technical naturalness* — see §6.↵↵**Not helped by the octonionic reframing:** post-EWSB $\lvert\Phi_{\mathrm{NTE}}(N)\rvert$ evolution; 
+OK C16-3: replaced once in Companion_16_Octonion_Gauge_Species_v10_19_0.md
+  MATCH_BEFORE… eplaced by Part 2 §§8.5–8.6, Companions 12–15 |↵| §7 harmonic-oscillator fix as live content | Already integrated in Companion 3; omitted |↵
+  MATCH_AFTER…  ↵| Missing Boyle–Farnsworth / Pati–Salam credit | Restored per Part 2 |↵↵---↵↵## References↵↵1. A. Hurwitz, Gött. Nachr. (1898).↵2. J. C. Ba
+OK C14-1: replaced once in Companion_14_RW_Spectral_Action_v10_19_0.md
+  MATCH_BEFORE… or art if/when the corpus treats an evolving scale factor spectrally; **not** currently load-bearing for deposited Parts 1–3 predictions. |↵
+  MATCH_AFTER…  ↵↵The useful cross-check for the framework is discipline, not substitution: when the corpus speaks of spectral-action cosmology with a scale
+OK C12-1a: replaced once in Companion_12_Chord_v10_19_0.md
+  MATCH_BEFORE… ). Pending that grounding, T_GB is not graded unconditionally derived. (The holographic lock width N_lock ≈ 0.1 that this temperature feeds 
+  MATCH_AFTER…  .)↵↵**The Majorana and Dirac mass scales.** The same spine carries the right-handed Majorana scales, cross-checked against the dedicated der
+OK C12-1b: replaced once in Companion_12_Chord_v10_19_0.md
+  MATCH_BEFORE…  not supply:** the inflationary observables. An a₄-based derivation of the inflaton kinetic normalisation is not available, because a₄ = 0; 
+  MATCH_AFTER…  , but its derivation depends on the kinetic normalisation, which is open (the inflation sector's current status is carried in the master tri
+OK C12-2: replaced once in Companion_12_Chord_v10_19_0.md
+  MATCH_BEFORE… o is the category error that produced the withdrawn native (n_s, r), but its derivation depends on the kinetic normalisation, which is open 
+  MATCH_AFTER…  . It is therefore not a clean output of this computation.↵↵**Outside the gravitational spine:** the first-generation and charged-lepton Yuka
+OK C12-3a: replaced once in Companion_12_Chord_v10_19_0.md
+  MATCH_BEFORE… ent observational test.↵↵**The cosmological constant — structural, not numeric.** The cosmological-constant result is the *structural* one: 
+  MATCH_AFTER…  . It is not a numeric prediction. A numeric value would have required a derivation through a nonzero a₄; since a₄ = 0 on this substrate, tha
+OK C12-3b: replaced once in Companion_12_Chord_v10_19_0.md
+  MATCH_BEFORE… ate. It is not an observational prediction, but it is a definite output, and it is the hinge for the two items below.↵↵**Structural-only:** 
+  MATCH_AFTER…  .↵↵**Dependent on input the computation does not supply:** the inflationary observables. An a₄-based derivation of the inflaton kinetic norm
+
+=== VERIFY-THEN-REPORT (re-read from disk) ===
+APPLIED C16-1: new_present=True old_absent=True
+  ADJ_BEFORE… anion 6).↵↵This epoch mapping is a **framework-specific structural correspondence**, not a dynamical derivation of transition temperatures. 
+  ADJ_AFTER…  ↵↵---↵↵## 3. Gauge group: $G_2\to SU(3)_C\times SU(2)_L\times U(1)_Y$↵↵*(This section restates established results — Günaydin–Gürsey; Dixon;
+APPLIED C16-2: new_present=True old_absent=True
+  ADJ_BEFORE… ic multiplication (Furey 2018); the $J_3(\mathbb{O})$ extension to three generations is only partially verified — **open** (Part 3 ledger).↵
+  ADJ_AFTER…  ↵- *Technical naturalness* — see §6.↵↵**Not helped by the octonionic reframing:** post-EWSB $\lvert\Phi_{\mathrm{NTE}}(N)\rvert$ evolution; 
+APPLIED C16-3: new_present=True old_absent=True
+  ADJ_BEFORE… eplaced by Part 2 §§8.5–8.6, Companions 12–15 |↵| §7 harmonic-oscillator fix as live content | Already integrated in Companion 3; omitted |↵
+  ADJ_AFTER…  ↵| Missing Boyle–Farnsworth / Pati–Salam credit | Restored per Part 2 |↵↵---↵↵## References↵↵1. A. Hurwitz, Gött. Nachr. (1898).↵2. J. C. Ba
+APPLIED C14-1: new_present=True old_absent=True
+  ADJ_BEFORE… or art if/when the corpus treats an evolving scale factor spectrally; **not** currently load-bearing for deposited Parts 1–3 predictions. |↵
+  ADJ_AFTER…  ↵↵The useful cross-check for the framework is discipline, not substitution: when the corpus speaks of spectral-action cosmology with a scale
+APPLIED C12-1a: new_present=True old_absent=True
+  ADJ_BEFORE… ). Pending that grounding, T_GB is not graded unconditionally derived. (The holographic lock width N_lock ≈ 0.1 that this temperature feeds 
+  ADJ_AFTER…  .)↵↵**The Majorana and Dirac mass scales.** The same spine carries the right-handed Majorana scales, cross-checked against the dedicated der
+APPLIED C12-1b: new_present=True old_absent=True
+  ADJ_BEFORE…  not supply:** the inflationary observables. An a₄-based derivation of the inflaton kinetic normalisation is not available, because a₄ = 0; 
+  ADJ_AFTER…  , but its derivation depends on the kinetic normalisation, which is open (native $(n_s, r)$ from $\Phi_{\mathrm{NTE}}$ are **withdrawn** — 2
+APPLIED C12-2: new_present=True old_absent=True
+  ADJ_BEFORE… o is the category error that produced the withdrawn native (n_s, r), but its derivation depends on the kinetic normalisation, which is open 
+  ADJ_AFTER…  . It is therefore not a clean output of this computation.↵↵**Outside the gravitational spine:** the first-generation and charged-lepton Yuka
+APPLIED C12-3a: new_present=True old_absent=True
+  ADJ_BEFORE… ent observational test.↵↵**The cosmological constant — structural, not numeric.** The cosmological-constant result is the *structural* one: 
+  ADJ_AFTER…  . It is not a numeric prediction. A numeric value would have required a derivation through a nonzero a₄; since a₄ = 0 on this substrate, tha
+APPLIED C12-3b: new_present=True old_absent=True
+  ADJ_BEFORE… ate. It is not an observational prediction, but it is a definite output, and it is the hinge for the two items below.↵↵**Structural-only:** 
+  ADJ_AFTER…  .↵↵**Dependent on input the computation does not supply:** the inflationary observables. An a₄-based derivation of the inflaton kinetic norm
+
+SUMMARY: ALL 9 LOCI APPLIED (7 logical patches; C12-1 has 2 loci)
+C11 mimetic line: NOT STRUCK (per GO §4).

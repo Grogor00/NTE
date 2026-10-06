@@ -1,0 +1,284 @@
+---
+title: "Companion 21 — The Conformal Reset and the Seed Photon: NTE's Nucleation Mechanism and its Relation to Conformal Cyclic Cosmology"
+author: "Greg White (Gregory Lyndon White)"
+date: "2026-09 (NTE Corpus v10.19.0)"
+status: "v0.2 DRAFT — PC. Not ratified. Register: structural speculation, declared in §1 and load-bearing. PC drafts; AC integrates and owns register, crediting and cross-references; Greg ratifies."
+---
+
+*Independent researcher, Auckland, New Zealand · gregwhite00@gmail.com · ORCID 0009-0003-3680-2363*
+
+---
+
+## Front matter — status of this draft
+
+**Ratified 2026-09-23 (Greg):** this paper is **Companion 21**, inside the numbered series; it **deposits at structural-speculation register** despite the 2026-05-23 deferral's upstream conditions (M_R, Λ) remaining open, on the ground that the deferral's concern is **discharged by register, not by closure**. The §1 tier statement and the §7 κ firewall were both cited in that ratification and are therefore load-bearing: neither may be softened at integration, and §1 does not move to a closing caveat.
+
+**Verdicts incorporated since v0.1.** S1 (Jammer, 2026-09-23) — the λ/R_H figures are one relation, and a convention defect in the trigger condition was found and fixed in canonical Part 1 §V. S2 (Jammer, 2026-09-23) — no localised parent structure crosses; §10 rewritten. S3 (Jammer, confirmed by Scratch) — mixing-sector arbitration; C21 makes no mixing claim and §11 records the constraint.
+
+**Open for AC.** One new arithmetic claim in §5 (the mapped-energy identity) is PC's and wants a verification pass. Flagged in place.
+
+---
+
+## §1 Scope and register
+
+This paper specifies the mechanism by which NTE's Janus pair nucleates, and states its relation to Penrose's Conformal Cyclic Cosmology.
+
+Its register, stated first rather than in a closing caveat: **structural speculation**. The mechanism is internally specified — it has a trigger condition with no free parameters, an explicit account of what the conformal map preserves and destroys, a structural answer to where a universe's content comes from, and two internal consistency checks that were not tuned to pass. It is **not derived from NTE's axioms**, and it makes no observational prediction of its own except the one in §10, which cuts against the framework. Discipline §8 applies: no standalone claims a tier above what the corpus grants the underlying scale.
+
+**Nothing in the deposit set may be made to lean on this paper.** §7 states the κ case explicitly.
+
+**Temporal language.** The parent aeon is **causally disconnected** from this one. It has its own e-fold coordinate; we have ours; no shared coordinate relates them. "Before" does not appear in this paper in that sense — not as deference to the standing rule, but because there is no relation for it to name. Where ordering language is unavoidable, the ordering is *within* one aeon's own N.
+
+---
+
+## §2 The end-state, and what does not happen at it
+
+A natural misreading has to be closed first, because the rest of the paper depends on not making it.
+
+As N → ∞ the boundary approaches its de Sitter plateau. Three things approach limits, and **none of them approaches zero**:
+
+- **The field.** |Φ_NTE|² → v_EW²·√Ω_Λ (Part 2 §XII). Finite, constant.
+- **The thickness.** ℓ_dS = 1/H_dS, of order 1.4 × 10²⁶ m — roughly 10⁶¹ Planck lengths. Finite, and enormous.
+- **The equation of state.** w = −1 exactly at the asymptote. No continuing thinning past the plateau.
+
+So when §XV says *geometric tension reaches zero*, that is a statement about **standing-wave structural failure** — the boundary can no longer hold itself together as a coherent two-orientation object — and emphatically **not** about |Φ_NTE|² going to zero. The field does not vanish. The thickness does not collapse to a point. What fails is coherence.
+
+**Timescale, and an open item that is not load-bearing.** The one-photon-per-Hubble-cube crossing sits at roughly 10²²–10²³ years (Adams & Laughlin 1997; Krauss & Scherrer 2007), about 200 e-folds past today — much earlier than the ~10¹⁰⁰-year black-hole-evaporation horizon that anchors Penrose's version. Which moment NTE's foam transition should anchor on is open work (§12).
+
+It is worth saying plainly that this does **not** bear on §10. An earlier draft of this paper argued that the parent's black holes had evaporated by the reset, which is false at the photon-limit anchor and unnecessary at either. §10's argument is **causal isolation**, which holds at any anchor. The anchor question is ordinary open work, not a hidden dependency.
+
+---
+
+## §3 The trigger: one photon per Hubble cube
+
+The physical condition. Matter decays to photons; photon density thins; at one photon per Hubble volume the null-time exchange structure that sustains causal coherence can no longer close.
+
+**Convention, stated because it matters.** The trigger is *one photon per Hubble cube*:
+
+> n_γ · V_H = 1, with **V_H ≡ R_H³ = (c/H_dS)³**, and n_γ = (2ζ(3)/π²)(kT/ħc)³
+
+This is the convention canonical Part 1 §V now carries explicitly (Greg-ratified 2026-09-23), and it is the one the formula below has always used. It is **not** V_H = (4π/3)R_H³; earlier working text carried that definition alongside this formula, which is inconsistent by (4π/3)^(1/3) = 1.612. The factor is a convention, not a derivation — "one photon per Hubble volume" is an order-of-magnitude criterion — but the convention and the formula must match, and here they do.
+
+Solving:
+
+> x ≡ kT_reset·R_H/(ħc) = (π²/2ζ(3))^(1/3) = **1.60121**
+>
+> **kT_reset = ħH_dS(π²/2ζ(3))^(1/3)** → **T_reset = 2.213 × 10⁻²⁹ K**
+
+**Register.** Zero free parameters *given H_dS*. This is an internal consistency result, not a prediction of anything observable. **H_dS carries an Ω_Λ dependency**, and with Λ's value open on the ledger, T_reset is exactly as determinate as Ω_Λ is and no more. That qualification travels with the number wherever it appears.
+
+**A consistency check that passes, and could have failed.** The de Sitter horizon radiates at the Gibbons–Hawking temperature T_GH = ħH/2πk. The trigger temperature sits above it:
+
+> T_reset / T_GH = 2π × 1.601 = **10.06**
+
+and the Gibbons–Hawking bath supplies only about **0.001 photons per Hubble cube** — three orders below the trigger. Had T_reset fallen below T_GH, the horizon's own thermal floor would have kept the volume permanently above one photon and the trigger could never have been reached. It does not. The bath is thermal and featureless, so it also carries no information about anything beyond the horizon. Register: internal consistency, same tier as the trigger itself. *(New; not in the archive. Jammer, S2 verdict §3.)*
+
+**What is not derived.** That one photon per Hubble cube is the *right* criterion, rather than a natural-looking one, is not established. §12 carries it.
+
+---
+
+## §4 The first halving: a transaction that cannot complete
+
+The physical content of the trigger is that the last photons have no absorbers. A photon emitted into a de Sitter universe late enough has no absorber within its future light cone; its worldline runs to future conformal infinity without closing. **Half a transaction: an emission with no absorption.**
+
+In an accelerating universe this is the generic late-time fate of radiation, not a contrivance. The corpus reads it as a physical condition rather than an accounting artefact: when photons can no longer complete exchanges across the Hubble radius, the null-time exchange structure that sustains causal coherence fragments.
+
+**Crediting.** The framing *a photon with no possible absorber is a transaction that cannot complete* is **Cramer's transactional interpretation of quantum mechanics**, and behind it **Wheeler–Feynman absorber theory**. A search of the full historical archive (341 text files, 67 .docx, 14 .pdf) returned **zero** occurrences of either; the framework has used the criterion since the NTFN era without citing it. Both are credited here.
+
+- J. G. Cramer, *The transactional interpretation of quantum mechanics*, Rev. Mod. Phys. **58**, 647 (1986).
+- J. A. Wheeler & R. P. Feynman, *Interaction with the absorber as the mechanism of radiation*, Rev. Mod. Phys. **17**, 157 (1945).
+
+**What NTE takes and what it does not.** NTE takes the **incomplete-transaction criterion** as a physical condition on the boundary: an emission with no available absorber is a structure that has not closed, and at the one-photon limit that failure is universal. NTE does **not** adopt Cramer's handshake account of measurement, and **nothing in NTE's Born-rule treatment depends on it**. That last clause is not decoration: Part 1 §II.0 already grades the Born rule a *reformulation* rather than an earned simplification, and an uncredited borrowing sitting beside it would read as a second undeclared import.
+
+*(Cursor's deposit-set sweep found zero substantive uses of the phrasing elsewhere — six incidental word hits, none carrying the idea. So this crediting is C21's alone; no other paper needs the line.)*
+
+---
+
+## §5 The conformal step
+
+Across the spacelike conformal boundary I⁺:
+
+> ĝ_μν = Ω² g_μν
+
+**Preserved:** dimensionless ratios; the trigger condition itself; S³ topology; null structure (ds² = 0 → ds² = 0); the quantum phase of the photon's wavefunction (conformally invariant for massless spin-1); helicity and polarisation.
+
+**Destroyed:** every absolute scale. R_H ~ 10²⁶ m maps to ℓ_P ~ 10⁻³⁵ m. De Sitter is conformally flat, so the Weyl tensor vanishes and no conformal curvature information survives.
+
+The reason the map works is the reason the whole paper exists: ds² = 0 is preserved under Ω² multiplication. A universe of purely massless content has no scale to lose.
+
+### The seed's wavelength is of order R_H, and the ratio is universal
+
+The corpus has carried two figures, λ/R_H = 0.625 and λ = 3.92 R_H. **They are one relation**, reduced and unreduced: ħc/(kT_reset·R_H) = 1/x = 0.62453, and hc/(kT_reset·R_H) = 2π/x = 3.92402. Neither is a mistake; what was missing was a label.
+
+Neither is the wavelength of a typical photon either — at T_reset the Wien peak sits at 0.790 R_H and a mean-energy photon at 1.453 R_H. **The defensible statement is λ ∼ R_H**, which is what canonical Part 1 §V says and what holds under any convention. Where a number is wanted it travels with its label: *the reduced thermal wavelength ħc/kT_reset is 0.62 R_H under the n_γR_H³ = 1 convention.*
+
+What survives intact is the **universality**: x = (π²/2ζ(3))^(1/3) is a pure number, so the ratio is the same for every parent aeon whatever its β_NTE. That was the structurally interesting claim, and it is untouched.
+
+### The mapped seed lands at the Planck scale — and not by luck
+
+Take the conformal factor at its geometric value, Ω ≡ R_H/ℓ_P ≈ 10⁶¹. The reset photon at kT_reset ≈ 1.9 × 10⁻³³ eV maps to
+
+> E′ = kT_reset × Ω = (x ħc/R_H)(R_H/ℓ_P) = **x · ħc/ℓ_P = x · E_Pl ≈ 1.95 × 10²⁸ eV**
+
+against E_Pl = 1.22 × 10²⁸ eV.
+
+The point is sharper than numerical agreement. The R_H cancels identically, so the mapped energy is **exactly x times the Planck energy**, with x the same pure number the trigger condition produced in §3. The "factor of about 1.6" is not a near-miss; it is x, and it is the only thing it could have been.
+
+This matters because §6 asserts that compression halts at Planck density and sets T_initial = T_Pl. The trigger condition and the Planck-density halt were fixed independently and were not tuned to meet. That they land on the same scale, with a coefficient that is the trigger's own constant, is an unforced internal consistency and one of the stronger things in this paper. Register: structural consistency — an internal relation, not a measurement.
+
+> **For AC's verification pass.** The identity E′ = x·E_Pl given Ω ≡ R_H/ℓ_P is PC's, not taken from any prior document. It is elementary, but it is load-bearing for the §5/§6 join and should be checked rather than taken. The earlier framing — that the mapped energy is awkwardly "super-Planckian" — is withdrawn.
+
+---
+
+## §6 The seed photon: information, not energy
+
+The obvious objection is that one photon cannot become a universe. It does not have to.
+
+At reset the trigger photon's wavelength is of order the Hubble radius. It is therefore **not a localised particle** but the boundary's last electromagnetic mode — a single standing wave on S³. Evaluated along its own null line, the entire e-fold history of the parent occupies no accumulated proper time at all.
+
+What crosses the interface is not energy but **the parent's fingerprint**: the conformal class of the metric, S³ topology, the quantum phase, and the conformal factor Ω. The nucleation reads that fingerprint into the daughter's constants.
+
+Two facts close the energy question:
+
+1. **Compression halts at Planck density.** The reset energy cannot compress further, which sets T_initial = T_Pl = 1.417 × 10³² K — hot enough for baryogenesis, with no free parameters. §5 shows the mapped seed arrives at exactly that scale.
+2. **The content nets to zero.** Summed across both CPN-conjugate orientations, energy, charge and baryon number are exactly zero at N = 0 (Part 2 §8.4.1). A universe's worth of matter does not have to come from anywhere, because counted properly the pair carries none.
+
+The photon supplies the information. The bilateral split supplies the content, at zero net cost.
+
+---
+
+## §7 The second halving: one quantum, two orientations
+
+CPN(γ) = γ. The trigger photon is self-conjugate, so the single quantum sits on the N = 0 surface **visible from both e-fold directions**. One quantum seeds two orientations; each has half of it.
+
+> **The photon is the Janus point.**
+
+This is where the nucleation account meets ratified structure rather than standing alone. The two orientations are the two sides of one N-thickness (Part 1 §VI); the Pin⁻ spin structure is the topological twist between them; the cross-thickness coupling carries κ. The mechanism and the dark-matter derivation share one geometry.
+
+**κ does not depend on this paper.** The κ derivation runs on S³ topology and CPN self-consistency whether or not the conformal reset is the right account of how the pair came to exist. No cross-reference added at integration may create an apparent dependency in the other direction. *(This firewall was cited in the deposit ratification and is not discretionary.)*
+
+---
+
+## §8 The fractal foam, and a candidate structural simplification
+
+The boundary does not reset as one event. Every point carrying the last local photon is simultaneously a new N = 0 nucleation seed, so the boundary fragments into an uncountable foam of Janus pairs, each causally disconnected from all the others. Our cross-thickness coupling is strictly bilateral — our own twin orientation, nothing else.
+
+A structural reading, carried at **candidate register**:
+
+| Description | Operational content | Domain |
+|---|---|---|
+| Lone-photon causal severance | Last photon per Hubble cube; null-time exchange structure fragments | Null-time / entanglement geometry |
+| Effective causal N-thickness collapse | The unresolved-neutrino bridge loses coherence-length support at standing-wave failure | Cross-thickness coupling |
+| Janus-pair termination | The CPN pair loses its coherent two-orientation manifold structure | Surface ontology |
+
+The proposal is that these are **three descriptions of one geometric event**. Under §II.0 that would be a genuine structural simplification — several separate-seeming endings of cosmic structure resolving into one.
+
+**It is not forced.** The corpus is compatible with the identification and does not make it. Promotion would require showing it follows from deeper structure rather than from mutual consistency, and the likeliest route is that each fragment's starting scale is the parent's ℓ_dS not by accident but because that is the largest coherent scale the parent could still support at termination.
+
+*"Effective causal N-thickness" is a **proposed concept, not corpus-canonical**. It is introduced here because §8 is where it does work; it appears nowhere else, so that a later promotion comes from this paper rather than from coherence-by-association.*
+
+---
+
+## §9 Departure from Conformal Cyclic Cosmology
+
+Penrose is credited first and fully. CCC supplies the central insight: a universe of purely massless content has lost its scale, and its remote future is conformally equivalent to a hot dense initial surface.
+
+NTE modifies CCC in two ways:
+
+1. **Discrete.** The transformation is per-photon. Each photon undergoes it individually once it is effectively isolated in its own Hubble volume — rather than one universal boundary mapping one aeon onto the next.
+2. **Local.** The reset is not global. Each isolated photon seeds its own independent Janus pair, and the boundary fragments into uncountably many independent nucleation events.
+
+This is what "fractal" meant in the framework's older name, and it is a structural difference rather than a relabelling. NTE also supplies what CCC leaves schematic: a concrete boundary field with a definite end-state value (|Φ_NTE|²_∞ = v_EW²√Ω_Λ) and a microphysics for the seeds. A worked nucleation map would be a contribution *to* CCC, not only to NTE.
+
+**Also credited:** Barbour–Koslowski–Mercati on the Janus point, and Boyle–Finn–Turok on the CPT-symmetric universe. The distinction already held elsewhere in the corpus applies: NTE's trigger is a mechanism, not a boundary condition imposed by hand.
+
+---
+
+## §10 The one observational discriminator, and it cuts against NTE
+
+Penrose's CCC makes a claim about the microwave sky that NTE's variant cannot make: **Hawking points**, anomalous features imprinted by supermassive black holes evaporating in the previous aeon.
+
+**The reason NTE cannot produce them is the modification in §9, not any fact about when black holes evaporate.** Penrose's crossover is a *single global surface*, so every evaporation event anywhere in the parent has somewhere on it to imprint. NTE's crossover is *per-Hubble-volume*, and each volume inherits exactly one mode. The discrete-and-local modification **is** the no-Hawking-points result.
+
+Three supports, in descending order of strength.
+
+**1. Causal severance — decisive, and in principle rather than in practice.** At the trigger the photon is alone in its observable universe. In de Sitter, anything beyond the event horizon at ~c/H is *permanently* causally disconnected: not distant, but unreachable for the remainder of that aeon. A supermassive black hole immediately outside the Hubble boundary has no channel to the photon and none to the daughter. How many black holes the parent contains is therefore irrelevant to what a causally severed patch inherits. This is the CCC mechanism applied per-volume, which is the premise of the paper.
+
+The one qualification, stated so a referee does not find it first: what left the horizon earlier leaves static Weyl curvature behind, and cosmic no-hair (Wald 1983) erases it as roughly e^(−3Ht) rather than exactly. At the trigger epoch Ht ≈ 5.7 × 10¹¹, so the residue is of order one part in 10^(10¹¹). **Erased, not zero** — and in-principle unobservable, which is what blocks the objection that "effectively" is not "actually". This is a completeness remark: in CCC the Hawking-point channel is concentrated Hawking radiation, not Weyl curvature.
+
+**2. The trigger condition excludes black holes from the patch.** A black hole radiates at T_H ≈ 6.2 × 10⁻⁸ K × (M_☉/M). Setting T_H = T_reset ≈ 2.2 × 10⁻²⁹ K gives M ≈ 3 × 10²¹ M_☉. Any black hole lighter than that is *hotter than the reset bath* and would flood its Hubble volume with photons, violating n_γ·V_H = 1. **A volume containing a black hole cannot satisfy the trigger.** The condition enforces the isolation rather than coinciding with it. Register: internal consistency, same tier as §3. *(New; not in the archive.)*
+
+**3. The seed carries no localisation.** Whatever lay in the reset event's causal past has already been diluted to one photon — that is what the trigger states. A Hawking point is a *localised* feature requiring concentrated energy at a point on the crossover surface. NTE's seed is a single standing wave of Hubble-radius wavelength (§6). A one-mode, horizon-scale inheritance has no localisation to give.
+
+**Precision on what crosses.** It is too strong to say nothing crosses. Exactly one thing does, by construction: the seed mode, carrying the global conformal data of §6. The accurate statement is **nothing localised crosses; the only inheritance is one horizon-scale mode** — and that phrase is itself the argument.
+
+### The falsifier
+
+**A confirmed Hawking-point detection would support Penrose's global crossover and disfavour NTE's local variant.** This is the only near-term empirical handle the mechanism has, and it points away from the framework. It belongs in the falsifiability register and in the Open Ledger at the same volume as the DESI tension.
+
+The claim is contested and this paper takes no side. An, Meissner, Nurowski and Penrose report an excess of anomalous circular spots in Planck and WMAP data at around 99.98% significance against ΛCDM simulations (*MNRAS* **495**, 3403, 2020; arXiv:1808.01740). Jow and Scott repeated the analysis, found the signal consistent with ΛCDM with no significant excess, and noted the significance depends on analysis choices (*JCAP* **03** (2020) 021; arXiv:1909.09672). Unconfirmed as of last reading. **The falsifier is conditional on confirmation and must not be framed as currently favouring either side.**
+
+*(Literature currency to be re-checked for post-2020 work before deposit.)*
+
+---
+
+## §11 Scope boundary — what this paper does not cover
+
+**The α fixed-point programme.** Whether β_NTE is inherited or is the unique fixed point of a cosmological self-consistency condition has its own exploratory paper (`Working\Paper_Alpha_Cosmological_FixedPoint_CCC_Exploratory_v0_1_Scratch_20260603.md`). That paper sets the discipline governing it: the programme has content **only if F is constructed independently of the §2.4.2 characterisation**, because a circular fit and a self-consistency fixed point are the same equation read in opposite directions. It distinguishes sub-case A (bare geometric seed; fixed point trivial; the constant confirmed irreducible) from sub-case B (genuine recursion — the only case constituting new physics), and it needs the foam-nucleation map C21 also lacks.
+
+C21 states only that the constant is **inherited, not derived** — established negatively and firmly: the boundary tension μ(N) is well-behaved across nine orders of magnitude, so self-consistency does not select it. That is a real result at that register. The recursion is cited, not developed.
+
+Two cautions carried forward. The ratified framing is that CCC is *"the one route not yet closed"* — status, not prospects, with both sub-cases visible and the circularity trap explicit; this paper does not warm that up. And the √6/π coincidence belongs to the **withdrawn** β_NTE characterisation; it stays withdrawn and does not re-enter here.
+
+**The virtual-pair reading.** Greg's reading of the Janus pair as analogous to a virtual particle pair remains with the deferred proposal (`Working\Proposal_Future_Companion_CCC_Recursion_Janus_Virtual_Pair_Deferred_20260523.md`), which stays in Working as the provenance of this paper's deposit ruling and is **not** retired. C21 uses only its three-descriptions table, at candidate register.
+
+**The mixing sector.** C21 makes no claim about neutrino mixing. Per the S3 arbitration (2026-09-23): the framework fixes θ₂₃ = π/4 and |δ| = π/2 and **does not determine the solar angle**; the TM1/TM2 fork is one free breaking ratio the algebra does not pin. Nothing in this paper should be read as bearing on it.
+
+---
+
+## §12 Open work and falsifiability register
+
+**Open — mechanism:**
+- Derivation of the mechanism from NTE's axioms. Absent.
+- Whether one-photon-per-Hubble-cube is *forced* as the criterion or merely natural.
+- A first-principles derivation of foam fragmentation — converting "geometric tension reaches zero" from descriptive to derived.
+- Whether "unclosed" admits a sharp covariant definition.
+- Which moment the foam transition anchors on (§2). Ordinary open work; **not** load-bearing for §10.
+
+**Open — transfer:**
+- Entropy bookkeeping across the transition. Do daughter seeds inherit the parent's de Sitter horizon entropy? Is there a discontinuity? Connects to Bekenstein–Hawking area scaling and the open boundary-only Ryu–Takayanagi item.
+- Whether each daughter inherits ℓ_dS as its initial scale — so whether the recursion is scale-self-similar or involves a jump.
+- Whether CPN's B_total = 0 holds per-fragment or globally across all daughters. Corpus default appears to be per-fragment; not explicit.
+
+**Dependencies inherited, not owned:**
+- T_reset's Ω_Λ dependency (§3), with Λ's value open on the ledger.
+
+**Falsifiers:**
+- Confirmed Hawking points (§10) — disfavours the fractal variant. Conditional on confirmation.
+- Any demonstration that the conformal map fails to preserve what §5 claims.
+- Internal inconsistency between the discrete trigger and the ratified pre-temporal structure.
+
+**Explicitly not claimed:** that the mechanism is tested, testable soon, or load-bearing for anything in the deposit set.
+
+---
+
+## References
+
+**NTE corpus.** Part 1 §V (conformal reset; V_H ≡ R_H³ convention), §VI (Janus, N-thickness, CPN, Pin⁻), §2.4 (β_NTE inherited); Part 2 §XII (geometric unloading, asymptote, w = −1), §XV (fractal foam), §XVI (boundary-only ontology), §8.4.1 (CPN sorting, B_total = 0); Part 3 (honest-scope tiers, falsifiability register).
+
+**External.**
+- R. Penrose, *Cycles of Time: An Extraordinary New View of the Universe* (Bodley Head, 2010).
+- D. An, K. A. Meissner, P. Nurowski & R. Penrose, *Apparent evidence for Hawking points in the CMB sky*, MNRAS **495**, 3403 (2020); arXiv:1808.01740.
+- D. Jow & D. Scott, *Re-evaluating evidence for Hawking points in the CMB*, JCAP **03** (2020) 021; arXiv:1909.09672.
+- J. G. Cramer, *The transactional interpretation of quantum mechanics*, Rev. Mod. Phys. **58**, 647 (1986).
+- J. A. Wheeler & R. P. Feynman, *Interaction with the absorber as the mechanism of radiation*, Rev. Mod. Phys. **17**, 157 (1945).
+- R. M. Wald, *Asymptotic behavior of homogeneous cosmological models in the presence of a positive cosmological constant*, Phys. Rev. D **28**, 2118 (1983).
+- J. Barbour, T. Koslowski & F. Mercati, *Identification of a gravitational arrow of time*, Phys. Rev. Lett. **113**, 181101 (2014).
+- L. Boyle, K. Finn & N. Turok, *CPT-symmetric universe*, Phys. Rev. Lett. **121**, 251301 (2018).
+- A. Strominger, *The dS/CFT correspondence*, JHEP **0110**, 034 (2001).
+- F. C. Adams & G. Laughlin, *A dying universe: the long-term fate and evolution of astrophysical objects*, Rev. Mod. Phys. **69**, 337 (1997).
+- L. M. Krauss & R. J. Scherrer, *The return of a static universe and the end of cosmology*, Gen. Rel. Grav. **39**, 1545 (2007).
+
+---
+
+*Draft v0.2 — PC, 2026-09-23. Deposits as Companion 21 at structural-speculation register (Greg-ratified 2026-09-23). §5 mapped-energy identity awaits AC verification. §10 literature currency to be re-checked before deposit.*

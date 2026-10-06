@@ -1,0 +1,327 @@
+NTE Master Corpus
+
+
+
+
+        Non-Temporal Emergence — Part 1 of 3: Foundations and Method
+                                 Greg White (Gregory Lyndon White)
+                                     2026-06 (NTE Corpus v10.18.0)
+
+
+     A boundary-only extension to the Standard Model from CPN-symmetric nucleation on S³
+
+Independent researcher, Auckland, New Zealand · gregwhite00@gmail.com · ORCID 0009-0003-3680-2363
+[Working draft — complete clean rebuild of Part 1. Decontaminated of all version/process metadata; audit
+honest-scope corrections applied; positioning frame embedded. Companion sections (Part 2 Structure, Part 3
+Accounting) referenced minimally.]
+
+
+
+Abstract
+A photon accumulates zero proper time between emission and absorption (𝑑𝑠 2 = 0) and carries no rest
+energy; every massive entity accumulates nonzero proper time and carries rest energy (Higgs-generated
+for fundamental fermions, QCD confinement for hadrons). Non-Temporal Emergence (NTE) takes this
+correlation as structural and adopts the proportionality relation 𝐻 (𝑁 ) = 𝛽NTE |ΦNTE (𝑁 )|2 as a load-bearing
+constraint — not a causal claim that the field “generates” time. The boundary expansion field ΦNTE is a
+scalar on the 𝑆 3 boundary, distinct from the Standard Model Higgs.
+The universe is not set in a pre-existing temporal background. The 𝑆 3 boundary of a 4-dimensional
+hypersphere expands through e-folds 𝑁 = ln 𝑎, parameterised by 𝑁 alone — a geometric quantity requiring
+no clock. Proper time is emergent: for Yukawa-coupled entities, once temporal locking completes,
+𝑡(𝑁 ) = ∫ 𝑑𝑁 /(𝛽NTE |ΦNTE |2 ). Three coupling regimes follow — null-time (zero Higgs coupling: photons,
+gluons), minimal (neutrinos), and strong (massive matter) — all post-temporal.
+The cosmological coupling 𝛽NTE is treated as a fundamental input constant, not derived; once it is fixed,
+            2 ≈ 67.6 km/s/Mpc follows by construction, not as an independent prediction. (A closed-form
+𝐻0 = 𝛽NTE 𝑣EW
+“characterisation” of 𝛽NTE from measured parameters, circulated in earlier drafts, is withdrawn: assembling
+a constant to match an observed value, with a residual coincidence, is number-fitting, which this
+framework does not do — see §2.4.)
+Genuine, honestly-scoped results: a dark-matter-to-baryon ratio ΩDM /Ω𝑏 = 𝜅0 /(1 − 𝜅0 ) ≈ 5.50 from a
+cross-sector coupling fixed point (Planck 5.38 ± 0.15, 0.83σ); a maximal CP phase magnitude |𝛿𝐽 | = 𝜋/2
+from the bilateral (CPN) geometry (magnitude only; the sign is a within-sector CP-parity NTE does not
+fix, the absolute sign being a gauge-redundant label of the CPN pair); a baryon asymmetry consistent
+(structurally, not zero-parameter) with a geometric heavy-neutrino scale; maximal atmospheric mixing
+𝜃23 = 𝜋/4 (inherited from the established 𝜇–𝜏 symmetry literature). The octonionic gauge group and
+three-generation species count adopt the established division-algebra programme (Günaydin–Gürsey;
+Furey; Todorov–Dubois-Violette) and are not new. The spectral index 𝑛𝑠 and tensor ratio 𝑟 are conditional
+
+
+                                                      1
+NTE Master Corpus
+
+
+on an open kinetic normalisation 𝐾 (Φ) and are not claimed as fixed predictions. Standard BBN is recovered
+(not NTE-distinguishing).
+Positioning. NTE belongs to the family in which time and spacetime are emergent and the Standard
+Model arises from division-algebra / noncommutative-geometric structure (Page–Wootters; Rovelli;
+Connes–Rovelli; Chamseddine–Connes; the octonionic programme; and, as the closest architectural
+relative, T. P. Singh’s octonionic theory). On the emergent-time axis specifically, the closest
+external relative is the null-hypersurface quantisation programme of Ciambelli, Freidel and Leigh (Null
+Raychaudhuri: canonical structure and the dressing time, 2024; Quantum null geometry and gravity, 2024),
+in which time emerges as a quantum (central-charge) effect and the area form must be treated as a
+discrete operator. The resemblance is a convergence, not a confirmation: that construction operates on
+an already-Lorentzian null hypersurface and yields a preferred clock and vacuum — a resolution of the
+clock-ambiguity form of the problem of time — downstream of NTE’s 𝑁lock , whereas NTE concerns the
+birth of the time dimension itself at the Euclidean→Lorentzian signature change (the pre-temporal epoch
+𝑁 < 𝑁lock has no 𝑡). The two are stacked layers, not competitors. NTE is a distinct, leaner implementation
+— its own commitments are the fundamental count coordinate 𝑁 with 𝑡 = 𝑖 Δ𝑁 , the 𝑆 3 × 𝑆 1 Hopf substrate,
+and the bilateral CPN cosmology — and adheres to an explicit discipline of no number-fitting: every
+quantity is structural or honestly scoped as conditional, cross-check, or open.
+
+
+
+I. The photon paradox: why ds² = 0 demands a new ontology
+For a photon, the spacetime interval vanishes: 𝑑𝑠 2 = 𝑐 2 𝑑𝑡 2 − 𝑑 x2 = 0. A photon accumulates zero proper
+time between emission and absorption. This is standard relativity, but it raises a question standard physics
+leaves unanswered: what distinguishes entities that accumulate proper time from those that do not?
+The Standard Model answers in two steps. For fundamental particles the correlation is clean: those
+accumulating zero proper time are exactly the massless ones (photons, gluons), and for fundamental
+fermions rest mass is Higgs (Yukawa) coupling — so among them proper-time accumulation tracks Higgs
+coupling (neutrinos barely, with 𝑦𝜈 ∼ 10−12 ). But the exception-free statement is the relativistic one:
+an entity accumulates proper time if and only if it carries rest energy and moves sub-luminally. That
+covers the composite case a Higgs-only framing would miss — a proton accumulates proper time although
+$∼$99% of its mass is the QCD binding energy of massless gluons (§III). NTE takes this correlation as
+structural: proper-time accumulation is e-fold embedding depth (§VII), sourced by rest energy from
+whatever mechanism — Higgs coupling for fundamental fermions, confinement for hadrons — while
+entities with no rest energy (photons, gluons) do not embed and accumulate zero proper time (null-time).
+This reframes the standard picture without asserting that the field dynamically creates time: 𝑁 is the
+geometric coordinate, 𝑡 is derived once locking completes, and Standard-Model mass generation remains
+the Standard-Model Higgs sector (§2.3).
+
+II.0 On method
+The working discipline of this framework is to seek simplification before mechanism: where multiple
+formalisms agree on a phenomenon, treat them as descriptions of one structure and look for that structure;
+where a modification reduces the count of independent postulates, prefer it; where a phenomenon seems to
+require new mechanism, seek the viewpoint from which it does not, before adopting one. This is a working
+bet, not a law, and it is applied symmetrically — a framework that counts its successful simplifications while
+passing over its failed ones in silence is doing advocacy, not science.
+
+
+
+                                                      2
+NTE Master Corpus
+
+
+NTE’s record therefore includes both. Simplifications that earned their place: the gauge group from 𝐺2 ,
+and the dark-matter coupling from 𝑆 3 topology. Two items earlier listed as earned simplifications are,
+by the test just stated, better classed as reformulations: the Born rule as a Hopf projection on 𝑆 3 (§IV)
+is Gleason’s theorem read on an imported qubit geometry — a coherent geometric restatement, but not
+a reduction in independent postulates unless it yields a consequence Gleason does not; and 𝑡 = 𝑖 Δ𝑁 as
+the Euclidean saddle (§2.1.2) is Wick rotation plus the Hartle–Hawking no-boundary condition in NTE
+vocabulary, wholly within the unobservable pre-temporal regime. Both are kept for the coherence they
+supply, not counted as postulate reductions — and either is upgraded the moment it makes a distinguishing
+prediction. Proposals withdrawn because they did not: an early Klein-bottle topology (abandoned for 𝑆 3
+when parallelisability, Lie-group structure, and boundary parity all converged on 𝑆 3 ); a “single manifold
+without thickness” reading (superseded by the N-thickness reading); an ontological rebuild that would have
+withdrawn the dark-matter derivation (withdrawn after audit showed the corpus had already committed
+to the relevant structure). A modification that merely re-describes phenomena already covered, without
+simplifying or making a distinguishing prediction, fails the test.
+Graded honest-scope. The framework reports every result against three explicit gradations rather
+than a binary “predicted / not”: - Derivation status — derived (from NTE’s geometric structure),
+inherited/passthrough (from underlying structure with no NTE freedom), conditional/observational
+(constrained by observation pending derivation), or imported (an established external result NTE
+adopts and credits). - Force of a structural claim — forced by deeper structure vs consistent with the
+framework’s commitments without being uniquely forced. - Explanatory uniqueness — explains uniquely
+vs re-describes something already explained at the level observed.
+This discipline, together with the explicit no-number-fitting rule, is what the framework offers in place of
+foundational depth it does not claim (see Positioning).
+
+II. Core axioms
+2.1 The e-fold count as the fundamental parameter. 𝑁 = ln 𝑎 counts geometric expansion — how many
+times the 𝑆 3 boundary has doubled — and requires no clock. All dynamics live in how |ΦNTE (𝑁 )| evolves
+with 𝑁 . The core relation is
+
+
+                                         𝐻 (𝑁 ) = 𝛽NTE |ΦNTE (𝑁 )|2 ,
+
+a constraint between boundary expansion rate and |ΦNTE |2 (dimensions: 𝐻 ∼ [time]−1 , |Φ| ∼ [energy],
+so 𝛽NTE ∼ [GeV−1 ]). Proper time is an output, not a parameter: 𝑑𝑡/𝑑𝑁 = 1/(𝛽NTE |Φ|2 ), so 𝑡(𝑁 ) =
+ 𝑁
+∫0 𝑑𝑁 ′ /(𝛽NTE |Φ(𝑁 ′ )|2 ). A single value of 𝑁 carries no duration; only the increment 𝑑𝑁 does. Where
+|Φ|2 is reduced (a gravitational well), less proper time accrues per e-fold — gravitational time dilation as
+|ΦNTE |2 variation, recovering the Schwarzschild factor 𝜏 (𝑥)/𝜏 (∞) = 1 − 𝐺𝑀/𝑟𝑐 2 to first post-Newtonian
+order.
+2.1.1 Two regimes. Pre-temporal (𝑁 < 𝑁lock ): only 𝑁 is meaningful; the 𝑑𝑡/𝑑𝑁 map has not stabilised;
+processes must be formulated over e-fold intervals. Post-temporal (𝑁 > 𝑁lock ): 𝑑𝑡/𝑑𝑁 has stabilised, 𝑡 is a
+valid local coordinate, and standard time-parameterised physics (BBN, recombination) proceeds normally.
+The relationship is that of General Relativity to Newtonian gravity — the emergent description is complete
+within its domain.
+2.1.2 The pre-temporal epoch is the Hartle–Hawking Euclidean section. The identification 𝑡 = 𝑖 Δ𝑁
+maps onto the no-boundary condition: the pre-temporal epoch is the Euclidean (bulk-dominated) section,
+
+
+                                                      3
+NTE Master Corpus
+
+
+gauge birth is the signature-change saddle, and the post-temporal epoch is the Lorentzian 𝑆 3 cosmology.
+Operationally, 𝑡 at (𝑥, 𝑁 ) is the metric distance, along the direction perpendicular to the Lorentzian
+one, between the two CPN-conjugate orientations of the N-thickness; the “𝑖” encodes that orthogonality.
+“Surface-only” is accordingly a statement about the spatial ontology: the N-thickness is not a spatial bulk
+dimension but the emergent temporal extent — the accumulated proper time toward the CPN mirror —
+which is why it runs to ℓ(𝑁 ) = 1/𝐻 (𝑁 ) without contradicting the boundary-only spatial picture. This
+makes the no-boundary condition a consequence of the NTE axioms rather than a separate postulate.
+2.2 c as the boundary expansion velocity. The 𝑆 3 boundary expands at exactly 𝑐 — this is the definition of 𝑐
+in NTE, a geometric property of the wavefront, not of photons. A photon sits on the boundary (zero Higgs
+coupling, zero e-fold depth), co-moving at 𝑐. Exceeding 𝑐 is not forbidden but geometrically undefined:
+there is no manifold ahead of the boundary.
+2.3 Two scalar fields, disclosed. NTE adds one scalar — the boundary expansion field |ΦNTE | — to the
+Standard Model and leaves the SM Higgs untouched (constant VEV 𝑣EW = 246 GeV, the 125 GeV resonance,
+all Yukawa mass generation). In the cosmological (FRW) sector this addition introduces no independent
+dynamics: adopting |ΦNTE (𝑁 )|2 = 𝑣EW 2 (𝐻 (𝑁 )/𝐻 ) makes 𝐻 = 𝛽           2                                2
+                                                   0               NTE |Φ| an identity with 𝛽NTE = 𝐻0 /𝑣EW ,
+so there ΦNTE is a relabelling of the expansion history — consistent with Part 3 carrying 𝐻0 , 𝑤, and
+Ω𝑘 as construction/inherited rather than as new FRW dynamics. What the added scalar contributes is
+structural, not cosmological-dynamical: it ties the boundary-expansion sector to the electroweak scale
+𝑣EW and, through the 𝑆 3 Hopf geometry, to the sectors where the framework’s results actually live — the
+cross-thickness coupling 𝜅 and gauge birth. Its profile still runs from 𝑣EW today to ∼ 108.5 𝑣EW at BBN, a
+range the SM Higgs — stiff against such variation by its potential curvature — could not supply; but that
+range is read off the expansion history, not predicted by it. |ΦNTE | does not Yukawa-couple to fermions —
+that is the SM Higgs’s role. The two fields take the same value only today (𝐻 = 𝐻0 ), a trajectory coincidence,
+not an identification. This places NTE squarely in the SM-extension family (cf. quintessence, scalar-tensor,
+Higgs-portal), distinguished by the geometric origin of the added scalar. The field carries a Φ → −Φ
+𝑍2 symmetry (the constraint uses |Φ|2 throughout), which also fixes the leading allowed Higgs-portal
+coupling.
+2.4 𝛽NTE is a fundamental input — and is not number-fitted. A boundary-tension analysis shows the
+constraint 𝐻 = 𝛽NTE |Φ|2 is self-consistent for any 𝛽NTE across nine orders of magnitude: self-consistency
+does not select its value. 𝛽NTE is therefore inherited (a fundamental constant of this universe, potentially
+set by the parent-universe conformal reset), not derived. A closed-form “characterisation” of 𝛽NTE in
+terms of 𝑣EW , 𝑔eff , 𝛼em , and the total e-fold count — which reproduced 𝛽NTE and hence 𝐻0 , and rested
+on a numerical coincidence 𝑔eff 𝛼em ≈ √6/𝜋 — is withdrawn. It assembled a constant from measured
+inputs to match an observed output; under the framework’s no-number-fitting discipline it cannot be
+load-bearing, and it is not used. Consequently 𝐻0 = 𝛽NTE 𝑣EW    2 holds by construction once 𝛽
+                                                                                                  NTE is fixed,
+and is not advanced as an independent prediction. (Earlier drafts also presented 𝑛𝑠 = 1 − 2/𝑁𝑒 with
+𝑁𝑒 = − ln(𝛽NTE 𝑀Pl ) as a “genuine test”; that reading is conditional — it imports a slow-roll relation whose
+applicability in the Euclidean regime is unestablished and depends on the open kinetic normalisation 𝐾 (Φ)
+— and is not claimed here as a passed test. See Part 2.)
+
+III. Three coupling regimes
+The Higgs coupling sets a particle’s geometric relationship to the expanding boundary; the three regimes
+are post-temporal.
+Zero coupling — null-time. Photons and gluons (𝑦 = 0) accumulate zero e-fold depth and do not enter
+the 𝑑𝑡 map. For the photon, 𝑑𝑠 2 = 0: it sits on the boundary, not within the manifold. “Null-time” is null
+
+
+                                                      4
+NTE Master Corpus
+
+
+from time (a saturated value of an existing proper-time measure), not existence in the absence of time.
+Strong coupling — embedded matter. Quarks, charged leptons, W/Z, Higgs (𝑦 ≫ 0) are deeply embedded,
+accumulate substantial proper time per e-fold, and lock to one e-fold direction (§VII). Particles are
+standing-wave patterns in the boundary, not objects moving through a pre-existing space; coupling sets
+embedding depth. (99% of proton mass is gluon binding energy — massless gluons, but the confined energy
+still contributes to embedding: same geometric effect, different mechanism.)
+Minimal coupling — the unresolved neutrino. Neutrinos (𝑦𝜈 ∼ 10−12 ) are barely embedded and not locked
+to one direction. NTE reads the Majorana character geometrically: the neutrino has not undergone the
+topological resolution (the Hopf projection 𝑆 3 → 𝑆 2 , requiring engagement with the 𝑆 1 fibre) that creates
+the particle/antiparticle binary. It is neither particle nor antiparticle but an unresolved configuration,
+smeared across the fibre, with bilateral support across both CPN-conjugate orientations of the N-thickness.
+This bilateral support — not a mediating role — is the geometric structure on which the dark-matter
+cross-thickness coupling acts (§VI, and Part 2). The “Majorana bridge” label from earlier drafts should be
+read in this light: the bridge is geometric, not a particle mechanism. What this ontology forces is symmetry
+structure, and that is where its clean content sits: the Majorana character (a falsifier at neutrinoless
+double-beta decay) and, from the antilinear 𝜇–𝜏 reflection on 𝐽3 (𝕆) (Jordan Hermiticity), the maximal
+atmospheric angle 𝜃23 = 𝜋/4, a naturally nonzero reactor angle 𝜃13 (consistent with the measured ≈ 8.6∘
+— the reflection’s advantage over a 𝜇–𝜏 permutation, which would force 𝜃13 = 0), and the maximal phase
+|𝛿𝐽 | = 𝜋/2 (matching observation). That reflection fixes 𝜃23 and the magnitude of 𝛿, and makes 𝜃13 naturally
+nonzero — but not the solar angle: sin2 𝜃12 = 1/3 is a separate leading-order value from a distinct, still-open
+route (currently 2.9𝜎 ). The two are not one structure; the 𝜇–𝜏 results do not depend on 𝜃12 , and its tension
+does not undercut them. Both are carried at their honest register (Part 3).
+
+IV. Entanglement as null-time exchange geometry
+NTE’s additional structural claim: quantum correlations are the geometry of the null-time exchange
+connecting particles — the virtual-photon/gluon structure at zero e-fold depth — not a property carried
+through the manifold. This geometry sits outside the e-fold structure, where manifold notions (separation,
+ordering, locality) do not apply. The claim is post-temporal (it presupposes an emerged temporal structure
+to be null from) and is consistent with all Bell-test, decoherence, and quantum-information results while
+making a stronger ontological commitment than standard QM.
+Two consequences follow without new mechanism. Bell violations arise not from signalling but
+from the non-applicability of manifold-locality to the null-time exchange structure that carries the
+correlation: the entangled state lives at zero e-fold depth, where spatial separation is undefined,
+while the massive detectors are e-fold-embedded. The no-communication theorem is preserved —
+there is no gap across which information travels, because there is no gap in the exchange structure.
+Distance-independence of entanglement (versus the 1/𝑟 2 Coulomb law) follows because 1/𝑟 2 is geometric
+dilution of undirected exchange over 4𝜋𝑟 2 absorbers, whereas a directed singlet connects two definite
+endpoints with a conserved quantum number and is not diluted; distance-dependence enters only through
+decoherence (more intervening matter). The cross-basis correlation reduces to the Hopf-projected
+overlap cos2 (𝜃/2) — the Born rule, which the framework obtains as the unique smooth, 𝑈 (1)-invariant,
+𝑆𝑈 (2)-equivariant probability map on the 𝑆 3 Hopf structure once gauge symmetry activates at gauge birth
+(developed in the companion Born-rule treatment; the Hopf–qubit geometry it uses is itself established,
+cf. Mosseri–Dandoloff).
+
+
+
+
+                                                      5
+NTE Master Corpus
+
+
+V. The conformal reset
+As 𝑁 → the de Sitter limit, matter decays to photons and photon density thins; when the universe reaches
+one photon per Hubble volume (𝑛𝛾 𝑉𝐻 = 1), the boundary becomes topologically unstable. This fixes a
+reset temperature 𝑇reset = ℏ𝐻dS (𝜋 2 /2𝜁 (3))1/3 with no free parameters. Following Penrose’s Conformal
+Cyclic Cosmology, a universe of only massless content loses its scale and is conformally equivalent to a
+small dense point; the rescaling 𝑔̂ 𝜇𝜈 = Ω2 𝑔𝜇𝜈 preserves 𝑑𝑠 2 = 0, dimensionless ratios, 𝑆 3 topology, and the
+photon phase, while not preserving absolute scales. NTE departs from Penrose in two ways: the trigger is
+discrete (each photon resets once isolated in its own Hubble volume) and local (each seeds its own Janus
+pair), giving the framework its fractal character. The seed photon, wavelength ∼ 𝑅𝐻 , is not a localised
+particle but the universe’s last electromagnetic mode — pure geometric information (conformal class, 𝑆 3
+topology, phase, Ω) that the nucleation reads into the daughter’s constants.
+
+VI. The Janus boundary: N-thickness and CPN structure
+One manifold, two orientations. The Janus pair is one manifold viewed from two CPN-conjugate
+orientations related by the symmetry at the boundary; each orientation looks complete, the other
+appearing CPN-conjugate. What makes this structural rather than a relabelling is the N-thickness:
+the manifold has extent along 𝑁 , captured by the existing 𝑁 -coordinate, with thickness at 𝑥 given by
+∫ 𝑑𝑁 /(𝛽NTE |Φ(𝑥, 𝑁 )|2 ) — the same integral that yields proper time. The thickness varies pointwise with
+local |ΦNTE |: gravitational time dilation is the time-side measure of N-thickness variation. (A structural
+identification, ℓ(𝑁 ) = 1/(𝛽NTE |Φ|2 ) = 1/𝐻 (𝑁 ), makes the boundary’s proper-length thickness and the
+Hubble radius the same object; the apparent “trans-Planckian” field value at high 𝐻 is the dimensional
+artefact of inverse-thickness parameterisation, ℓGB ≈ 6 ℓPl .)
+Cross-thickness coupling. Matter in one orientation sources curvature that registers in the other at
+strength 𝜅0 , set by 𝑆 3 topology rather than a free parameter; the two-metric equations are the metrics
+on the two orientations of one thickness, not independent manifolds, and follow from a single bilateral
+action. The dark-matter result (Part 2) is the geometric self-consistency of these two metrics.
+CPN and its topological origin. The boundary symmetry is CPN (charge, parity, e-fold-direction
+reversal); summed over both orientations, energy, charge, and baryon number vanish at 𝑁 = 0. CPN
+reduces to CPT post-locking (CPT is the emergent description; CPN the deeper structure). The Janus
+pair admits a 𝑍2 -orbifold description whose spinor bundle has exactly two spin structures; the twisted
+one (Pin⁻) produces baryogenesis and matches observation, so “why CPN?” is answered by “Pin⁻ is the
+topological twist of the manifold’s N-thickness.” (This bilateral construction is shared in spirit with the
+Barbour–Koslowski–Mercati and Boyle–Finn–Turok CPT-symmetric-universe proposals; NTE differs in
+the conformal-reset trigger and the local, fractal nucleation.)
+
+VII. Temporal locking and the arrow of time
+A species locks — commits to one e-fold direction — when it accumulates more than one Higgs interaction
+             2 /(𝛽
+per e-fold, 𝑦eff   NTE |Φ|) ≥ 1. Equivalently, in dimensionless form, embedding depth 𝛿 ≥ 𝑁𝐼 (the
+imaginary extent); the Yukawa coupling 𝑦 is the post-locking realisation of the pre-temporal embedding
+depth 𝛿. Heavier species lock first, producing a hierarchy over a small fraction of the ∼ 140 total e-folds:
+quarks by 𝑁 ∼ 10−3 , leptons by ∼ 10−2 , completion by 𝑁 ∼ 10−1 . The effective coupling 𝑦eff (𝑁 ) → 0
+at Planck density (a UV-completion result on which several quantum-gravity approaches converge; the
+specific form is an open input). Neutrinos formally exceed the locking threshold but their unresolved
+configuration prevents full locking — the non-resolution of the particle/antiparticle binary maintains the
+cross-orientation bridge regardless of coupling strength.
+
+                                                      6
+NTE Master Corpus
+
+
+The arrow of time is the physical consequence of massive particles irreversibly committing to one e-fold
+direction at locking — real and emergent, not a convention. NTE does not derive specific Yukawa values;
+it supplies the ontology of where they come from, and leaves the embedding-depth distribution as an open
+question (Part 2 / Part 3).
+
+
+End of Part 1 (Foundations and Method). Part 2 (Structure) develops the gauge sector, the dark-matter
+and neutrino results, and the κ derivation; Part 3 (Accounting) carries the parameter ledger, falsifiability
+register, and honest-scope tiers. — Clean rebuild v0.1; physics faithful to canonical v10.17.7, decontaminated
+and audit-corrected (β_NTE characterisation withdrawn; n_s/r conditional; octonion gauge group credited as
+imported; κ as single derivation + closure; positioning + no-numerology embedded).
+
+
+
+
+                                                      7
+

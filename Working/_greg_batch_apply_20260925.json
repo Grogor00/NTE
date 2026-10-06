@@ -1,0 +1,115 @@
+[
+  {
+    "label": "AQ1-AQ3",
+    "src": "Chapter_08_The_Unresolved_Particle_v6.md",
+    "dst": "Chapter_08_The_Unresolved_Particle_v7.md",
+    "ok": [
+      1,
+      2,
+      3
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 35898
+  },
+  {
+    "label": "AS1",
+    "src": "Chapter_11_What_the_Universe_Sounds_Like_v4.md",
+    "dst": "Chapter_11_What_the_Universe_Sounds_Like_v5.md",
+    "ok": [
+      1
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 22082
+  },
+  {
+    "label": "AT1-AT4+AU3_rename",
+    "src": "Chapter_14_Strange_Geometries_and_Structural_Rhymes_v2_2_DRAFT_PC_20260705.md",
+    "dst": "Chapter_14_Strange_Geometries_and_Structural_Rhymes_v2_3.md",
+    "ok": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 22964
+  },
+  {
+    "label": "T1-T2",
+    "src": "Chapter_09_The_Number_That_Could_Have_Failed_v5.md",
+    "dst": "Chapter_09_The_Number_That_Could_Have_Failed_v6.md",
+    "ok": [
+      1,
+      2
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 42558
+  },
+  {
+    "label": "AF3+AU3_AppC_rename",
+    "src": "Appendix_C_The_Open_Ledger_v1_6_DRAFT_PC_20260925.md",
+    "dst": "Appendix_C_The_Open_Ledger_v1_7.md",
+    "ok": [
+      1
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 26206
+  },
+  {
+    "label": "AG1-AG6",
+    "src": "Chapter_17_The_Working_Bet_v3.md",
+    "dst": "Chapter_17_The_Working_Bet_v4.md",
+    "ok": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 6704
+  },
+  {
+    "label": "AD1-AD2",
+    "src": "Chapter_16_Stranger_and_Stranger_v2.md",
+    "dst": "Chapter_16_Stranger_and_Stranger_v3.md",
+    "ok": [
+      1,
+      2
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 38408
+  },
+  {
+    "label": "AC1-AC3_coherence_mass",
+    "src": "Chapter_10_The_Silvered_Boundary_v9.md",
+    "dst": "Chapter_10_The_Silvered_Boundary_v10.md",
+    "ok": [
+      "coherence length x8",
+      "forty megaparsecs x1"
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 32834
+  },
+  {
+    "label": "Q1-Q4partial",
+    "src": "Chapter_13_The_Strange_Silence_of_the_Cosmological_Constant_v6.md",
+    "dst": "Chapter_13_The_Strange_Silence_of_the_Cosmological_Constant_v7.md",
+    "ok": [
+      1,
+      2
+    ],
+    "miss": [],
+    "multi": [],
+    "bytes": 26663
+  }
+]

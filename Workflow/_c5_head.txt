@@ -1,0 +1,28 @@
+---
+title: "The state space is the surface"
+subtitle: "Quantum mechanics and cosmology as the geometry of a single S³ manifold"
+author: "Gregory Lyndon White"
+date: "2026-06 (v10.19.0)"
+---
+
+*Part of NTE Corpus v10.19.0 (deposited 2026-06). Companion 5.*
+
+*Independent researcher, Auckland, New Zealand · gregwhite00@gmail.com · ORCID 0009-0003-3680-2363*
+
+*This companion makes the identification the four preceding foundational papers each pointed to: that the S³ they treat as a state space is the physical universe. It is the boundary-only ontology, and it grounds the cosmological results — temporal emergence, the Hubble relation, flatness, the dark-matter coupling — on the same geometry that produces the Born rule and quantisation.*
+
+---
+
+## Abstract
+
+Four preceding papers establish that the state space of quantum mechanics is the 3-sphere S³, producing the Born rule (the Hopf projection), energy quantisation (the Laplacian spectrum on a compact manifold), the electroweak scale (the geometric resonance of the Higgs-Laplacian), and entanglement (the projection of zero-proper-time objects). Each ends with the same question: why is the state space S³?
+
+This paper answers it. S³ is not a mathematical abstraction housing quantum states; it is the physical geometry of the universe — a 3-sphere expanding through e-folds N, with an intrinsic imaginary differential thickness iΔN through which proper time accumulates for entities engaged with the boundary expansion field |Φ_NTE| (NTE's geometric scalar on S³, distinct from the Standard Model Higgs). There is no 4D interior. The topological fact ∂B⁴ = S³ identifies the boundary as S³; it does not posit a bulk to inhabit. The "radial direction" of the 4-ball is the accumulated e-fold history N, not a spatial dimension.
+
+From this identification, five results follow. Time emerges as the accumulated expansion registered by |Φ_NTE|: dt = dN/(β_NTE|Φ_NTE(N)|²). The Hubble relation H(N) = β_NTE|Φ_NTE(N)|² is a geometric constraint between two properties of the same surface. Flatness (Ω_k = 0) is required by the Euler closure condition on S³. The CPN symmetry of the Janus boundary is the antipodal map on S³, with the parity rule (−1)^l governing cross-boundary coupling. Dark matter is the gravitational effect of CPN-conjugate matter on the bilaterally-supported unresolved-neutrino geometry — a geometric coupling, not a particle mediator. The dark-matter coupling has a single structural form: the Hopf monopole projection on S³ gives the bare coupling κ₀ = 3/√(4π) ≈ 0.846 (a state-independent normalisation through Y₀₀, with the su(2) structure setting the count of three), and a CPN-symmetric self-consistency then closes κ₀ to κ = κ₀/(1 − κ₀) = 5.50 by algebraic resummation. This is one structural derivation followed by one algebraic closure — not two independent confirmations — and it matches the observed 5.38 ± 0.15 with no free parameters. No new physics is introduced; the results follow from established mathematics applied to one identification.
+
+---
+
+## 1. Why S³
+
+Companion 3 establishes that S³ is the unique compact manifold satisfying four conditions at once: it is a Lie group (SU(2) ≅ S³), it is parallelisable (admitting a global spinor field), it is associative (sequential measurements compose correctly), and it is three-dimensional (the minimum supporting non-trivial superposition). Companions 2 and 3 use this to derive the Born rule and quantisation; Companion 4 places the Higgs on S³ and derives 

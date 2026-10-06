@@ -1,0 +1,18 @@
+A5 snippet: "Charged-lepton flavour violation.** A conditional signature of a distinctive kind: if CLFV is ever observed at all, the framework fixes the amplitude ratio between channels — |A(μ→eγ)|²/|A(τ→eγ)|² = tan²θ₂₃ — even though the framework's own heavy scale makes observation unlikely. It is worth writing that ratio out, because the trigonometry disguises how sharp it is. The framework does not leave θ₂₃ free: it predicts exactly π/4, at which tan²θ₂₃ "
+*equal* amplitude count: 1
+residual Time as Expansion @ 10373: 'on this chapter is called *Time and Expansion* rather than *Time as Expansion*.\n\n## Two Coordinates, One Process\n\nA reader trained in physic'
+LINE: # The Shape of Time
+LINE: # Chapter 4 — Time and Expansion
+LINE: *Non-Temporal Emergence (NTE): the Null-Time Extension to the Standard Model*
+LINE: ## *Was → Now → Next*
+LINE: A word on that binding, because the chapter's title turns on it. It would be easy to say that time emerges from expansion, and the framework said so for years. It is not quite right, and the imprecision costs something. Emergence is a one-way word: it puts expansion underneath and time on top, as though one were the cause and the other the product. The framework's actual position is flatter and stranger. Time and expansion are not two phenomena, one of which generates the other. They are one structure, and duration and growth are what it looks like read from two directions. Nothing here derives time from expansion; what the chapter derives is the *rate* — how much duration one e-fold of growth is worth, and for what.
+LINE: This is the chapter where the book's title earns its keep. *The Shape of Time* is not a metaphor. Time has a shape — a specific geometric relationship to the expanding manifold — and that shape is what we are about to draw.
+LINE: ## What Time Is Not
+LINE: Before describing what time is in the framework, be clear about what time is not. The standard textbook picture treats time as a background dimension. Space has three of them; time has one. They form a four-dimensional spacetime, and the universe sits in this spacetime, with events occurring at definite spatial-and-temporal coordinates. Time, in this picture, is a pre-existing parameter that ticks regardless of what is happening. The universe could be empty, full, expanding, contracting, or stationary — time still passes.
+LINE: ## What Time Is
+D10 curvature italic: True
+V_NTE: 'd as a geometric scalar without the dynamics that V_NTE imposes post-locking. After the gauge birth, |Φ_NTE| i'
+V_NTE: ' does the field come from? Why does its potential V_NTE have the form it has, with the specific dynamics the t'
+C1 OLD: '# Chapter 4 — Time as Expansion\n'
+C1 NEW: '\n**NEW**\n\n'
+C1 NEW in file: False

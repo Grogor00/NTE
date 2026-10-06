@@ -1,0 +1,806 @@
+filename,rule,destination
+wagenveld_sprint_mask_catwise_nside16.fits,D default (not P/K),Working\Retired\
+wagenveld_sprint_mask_quaia_nside16.fits,D default (not P/K),Working\Retired\
+wagenveld_sprint_mask_singal_nside16.fits,D default (not P/K),Working\Retired\
+wagenveld_sprint_mask_wagenveld_nside16.fits,D default (not P/K),Working\Retired\
+alpha_to_beta_audit_log.json,D7 registries/queues/ledgers,Working\Retired\
+alpha_to_beta_PC_resolutions_20260604.json,D7 registries/queues/ledgers,Working\Retired\
+alpha_to_beta_tier2_log.json,D7 registries/queues/ledgers,Working\Retired\
+clfv_cartan_ratio_numerical_results.json,K3 reproducibility,Working\
+cursor_task_ledger.json,D7 (K6 no — lane uses watch_state),Working\Retired\
+NTE_CR2_Execution_Queue.json,D7 registries/queues/ledgers,Working\Retired\
+NTE_CR2_Open_Work_Registry.json,D7 registries/queues/ledgers,Working\Retired\
+NTE_CR2_Registry_Waves.json,D7 registries/queues/ledgers,Working\Retired\
+pc_pass_two_verification.json,D default (not P/K),Working\Retired\
+pc03_ambiguity_resolution_summary.json,D4 spent numerics,Working\Retired\
+pdf_sight_config.json,D default (not P/K),Working\Retired\
+wagenveld_sprint_footprints_nside8.json,D default (not P/K),Working\Retired\
+wagenveld_sprint_footprints_nside16.json,D default (not P/K),Working\Retired\
+wagenveld_sprint_surveys.json,D default (not P/K),Working\Retired\
+NTE_Octonionic_Spine_Neutrino_Mixing_Sector_v0_2_DRAFT_White_20260626.tex,K5 octonionic standalone keep,Working\
+_p5_prepare_test.md,K2 M_R numeric trace content,Working\
+_popular_fixed_preview.md,D default (not P/K),Working\Retired\
+AC_Bulk_Boundary_Proposal_Status_Update_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+AC_Full_Corpus_Reading_Register_20260614.md,D1 closed May–June process,Working\Retired\
+AC_Full_Corpus_Reading_Register_v2_20260614.md,D1 closed May–June process,Working\Retired\
+AC_HON~1.MD,D tilde-identified default retire,Working\Retired\
+AC_HON~2.MD,D tilde-identified default retire,Working\Retired\
+AC_Lambda_Pathways_After_a4_Zero_Options_Map_v0_1_20260601.md,D1 closed May–June process,Working\Retired\
+AC_Part1_Corrections_From_CPN_T1_PassConditional_C1_ClockProse_C2_OutwardArrow_DerivedLeg_C3_EvennessConditional_GregGated_20260623.md,D default (not P/K),Working\Retired\
+AC_Patch_17_5_18_Lambda_Closure_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+AC_Patch_Sprint_D_Chord_D5_M2_J1_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+AC_RAT~1.MD,D tilde-identified default retire,Working\Retired\
+AC_Tier2g_Patch_Bundle_v0_2_20260524.md,D1 closed May–June process,Working\Retired\
+AC_Wagenveld_Sprint_Architectural_Scoping_v0_1_20260528.md,D1 closed May–June process,Working\Retired\
+AC_Wagenveld_Sprint_Phase_IV_Integration_Framework_v0_1_20260530.md,D1 closed May–June process,Working\Retired\
+ADVERS~1.MD,D tilde-identified default retire,Working\Retired\
+Assessment_Lam_Wuthrich_Laws_Beyond_Spacetime_NTE_v0_1_20260616.md,D2 concluded/dormant research,Working\Retired\
+Assessment_Lam_Wuthrich_Laws_Beyond_Spacetime_NTE_v0_2_20260616.md,D2 concluded/dormant research,Working\Retired\
+Assessment_Lam_Wuthrich_Laws_Beyond_Spacetime_NTE_v0_3_20260616.md,D2 concluded/dormant research,Working\Retired\
+Assessment_Lam_Wuthrich_Laws_Beyond_Spacetime_NTE_v0_4_20260616.md,D2 concluded/dormant research,Working\Retired\
+Assessment_Lam_Wuthrich_Laws_Beyond_Spacetime_NTE_v0_5_20260616.md,D2 concluded/dormant research,Working\Retired\
+Assessment_Lam_Wuthrich_Laws_Beyond_Spacetime_NTE_v0_6_20260616.md,D2 concluded/dormant research,Working\Retired\
+Assessment_Lam_Wuthrich_Laws_Beyond_Spacetime_NTE_v0_7_20260617.md,D2 concluded/dormant research,Working\Retired\
+Assessment_Lam_Wuthrich_Laws_Beyond_Spacetime_NTE_v0_8_20260617.md,D2 concluded/dormant research,Working\Retired\
+ATTACK~1.MD,D tilde-identified default retire,Working\Retired\
+BH_Nthickness_Shell_v0_1_20260523.md,D2 concluded/dormant research,Working\Retired\
+BMV_Gravitationally_Induced_Entanglement_Axiom_Filter_Pass_Scratch_v0_1_20260527.md,D2 concluded/dormant research,Working\Retired\
+BR5_Nlock_Ne_Prose_Patch_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Candidate_Pathway_Neutrino_Atmospheric_ChiralitySuperposition_KillingSpinor_Scratch_Claude_20260601 (1).md,K2 M_R numeric trace content,Working\
+Candidate_Pathway_Neutrino_Atmospheric_ChiralitySuperposition_KillingSpinor_Scratch_Claude_20260601.md,K2 M_R numeric trace content,Working\
+Chapter_NEW_The_Shape_of_Time_PC_Audit_GregVoice_20260603_late.md,D1 closed May–June process,Working\Retired\
+Chapter_NEW_The_Shape_of_Time_Scaffolding_Photon_Existence_PC_20260603.md,D1 closed May–June process,Working\Retired\
+CHARTER_FS_Force_vs_Permit_Antilinear_Theta23_Z2_Reflection_deltaCP_HalfPi_Forced_or_Permitted_Scratch_Lead_Gated_20260624.md,D2 concluded/dormant research,Working\Retired\
+CHARTER_GATE1_Sigma_Triple_vs_J3O_Generation_Identification_VERDICT_Inequivalent_Reps_Gauge_Adjoint_vs_Jordan_Slots_Real_Tension_Operative_Content_Regroundable_Scratch_20260625.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+CHARTER_P4D_Sequel_Rec1_Generation_Swap_vs_Bilateral_CPN_Literal_Operator_Identity_Scratch_Lead_Gated_20260624.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+CLFV_Cartan_Ratio_Numerical_Results_20260613.md,K2 M_R numeric trace content,Working\
+CO00A2~1.MD,K2 M_R numeric trace content,Working\
+CO6C86~1.MD,D tilde-identified default retire,Working\Retired\
+CO21D3~1.MD,D tilde-identified default retire,Working\Retired\
+CO36DE~1.MD,D tilde-identified default retire,Working\Retired\
+CO82EA~1.MD,D tilde-identified default retire,Working\Retired\
+CO516C~1.MD,D tilde-identified default retire,Working\Retired\
+CO4419~1.MD,D tilde-identified default retire,Working\Retired\
+CO6356~1.MD,D tilde-identified default retire,Working\Retired\
+COD347~1.MD,K2 M_R numeric trace content,Working\
+COE381~1.MD,K2 M_R numeric trace content,Working\
+COEFB4~1.MD,K2 M_R numeric trace content,Working\
+Companion_11_v10_17_2_Scratch_CR_Verification_v0_1.md,D1 closed May–June process,Working\Retired\
+Companion_12_v10_17_2_Scratch_CR_Verification_v0_1.md,K2 M_R numeric trace content,Working\
+Companion_13_v10_17_2_Scratch_CR_Verification_v0_1.md,K2 M_R numeric trace content,Working\
+Companion_Paper_7a_Neutrino_as_Chirality_Superposition_v1_1.md,D3 withdrawn/retired content carriers,Working\Retired\
+Companion_Paper_7a_Neutrino_as_Chirality_Superposition_v1_draft.md,D3 withdrawn/retired content carriers,Working\Retired\
+Companion_v10_8_Patch_Application_Log_20260523.md,D1 closed May–June process,Working\Retired\
+compass_artifact_wf-33a80f80-743c-4d6e-95d7-aa4d4aeebc58_text_markdown.md,D2 concluded/dormant research,Working\Retired\
+compass_artifact_wf-bf0951f0-ebf3-404f-a830-0aeed3c4a111_text_markdown.md,D2 concluded/dormant research,Working\Retired\
+Compatibility_Catalogue_Cursor_v0_1_20260527.md,D1 closed May–June process,Working\Retired\
+Compatibility_Catalogue_External_Empirical_Surface_Consolidated_v0_1_20260527.md,D1 closed May–June process,Working\Retired\
+Compatibility_Catalogue_Scratch_Half_v0_1_20260527.md,D1 closed May–June process,Working\Retired\
+Comprehensive_Status_Update_2026_05_30_Afternoon_All_Streams.md,D1 closed May–June process,Working\Retired\
+Connes_Programme_Charter_v1.md,K1 cited,Working\
+Connes_Programme_Launch_Plan_v1.md,K2 fibre-modulus / β_GB content,Working\
+Corpus_Gap_Tension_Report_v0_2_20260523.md,D1 closed May–June process,Working\Retired\
+Corpus_Sunshine_Path_Audit_Results_Cursor_P0_20260525.md,D1 closed May–June process,Working\Retired\
+Corpus_Sunshine_Path_Audit_Results_Scratch_P0_20260525.md,K2 M_R numeric trace content,Working\
+Corpus_Sunshine_Path_Audit_Scaffold_v0_1_20260525.md,D1 closed May–June process,Working\Retired\
+CPN_Universe_Pair_S1_Gibbons_Hartle_Conserved_Charge_Audit_Concession_Path_Likely_Hopf_Charge_Open_Claude_Jammer_20260617.md,K2 M_R numeric trace content,Working\
+CPN_Universe_Pair_T1_Jammer_Side_Parity_Computation_PASS_DERIVED_Claude_Jammer_20260617.md,K2 M_R numeric trace content,Working\
+CR_Question_B_CPN_J_Modular_Conjugation_Scratch_v1.md,D1 closed May–June process,Working\Retired\
+CR2_AJ15_AC_Poll_Sustain_Cursor_AC_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_Alpha_Beta_NTE_Corpus_Scan_20260613.md,D1 closed May–June process,Working\Retired\
+CR2_B1_Cursor_Scratch_Verify_Memo_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_B1_Killing2_Adversarial_Cursor_Scratch_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_B1_Killing2_Derivation_Memo_Cursor_Jammer_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_B1_Killing2_vs_Adjoint3_Neutrino_Pathway_Scratch_Claude_20260601.md,K2 M_R numeric trace content,Working\
+CR2_B1_PMNS_MR_Seesaw_Convention_Verdict_Claude_Jammer_20260601.md,K2 M_R figure / seesaw convention,Working\
+CR2_B1_Scratch_Arithmetic_Verify_Memo_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_B3_kappa0_RepTheory_Verdict_Claude_Jammer_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_Campaign_B1_Sustain_Grep_Cursor_Scratch_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_Campaign_B1_Sustain_Grep_Cursor_Scratch_20260603.md,D1 closed May–June process,Working\Retired\
+CR2_CR_V1_Part1_2_Body_Delta_List_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR_V1_Sustain_Log_Cursor_Main_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR2_Central_Equation_Adversarial_Cursor_Scratch_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR2_Central_Equation_Audit_Opener_Cursor_Jammer_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR2_Central_Equation_Audit_Opener_Cursor_Main_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR2_F7_Part12_Drift_Sustain_Cursor_Scratch_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_CR2_F7_Part12_Grep_Cursor_Scratch_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR3_H_GB_Adversarial_Grep_Cursor_Scratch_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR3_H_GB_AlphaChain_Bound_Cursor_Jammer_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_CR3_H_GB_Bound_Memo_Cursor_Jammer_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR3_H_GB_Scale_Bridge_Opener_Cursor_Main_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_CR4_Closed_at_S1_Sustain_Cursor_Main_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_CR-H2_C11_Verify_Memo_Cursor_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_Extension_Scorecard_Sustain_Cursor_Scratch_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_JPhi7_Competing_Cosmologies_Primary_Source_Verification_Cursor_Main_20260613.md,D1 closed May–June process,Working\Retired\
+CR2_MAIN21_F7_Part12_Disclosure_Patch_Memo_Cursor_Main_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_Master_Trilogy_Sync_Note_Cursor_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_OctExt_J3_Status_Sustain_Cursor_Jammer_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_PDF_Rebuild_Manifest_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_PhiNTE_AsymptoticSafety_RelevantDirection_Verification_Scratch_20260604.md,D1 closed May–June process,Working\Retired\
+CR2_PhiNTE_JPhi5_Pathway_Exhaustion_H_alpha_PhiSq_Scratch_20260603.md,D1 closed May–June process,Working\Retired\
+CR2_PhiNTE_JPhi7_Competing_Cosmologies_Survey_Scratch_20260604.md,D1 closed May–June process,Working\Retired\
+CR2_PhiNTE_Necessity_Audit_Pass1_Scratch_20260603.md,D1 closed May–June process,Working\Retired\
+CR2_PhiNTE_Necessity_Audit_Pass2_AllLines_Scratch_20260603.md,D1 closed May–June process,Working\Retired\
+CR2_Programme_S_Adversarial_Sustain_Cursor_Scratch_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_Programme_S_DF_Close_Retry_Cursor_Jammer_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_Programme_S_F6_Collateral_Scan_Cursor_Jammer_20260601.md,K2 M_R numeric trace content,Working\
+CR2_Programme_S_Sigma3_Adversarial_Cursor_Scratch_20260601.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+CR2_Programme_S_Sigma3_Y3_Derivation_Memo_Cursor_Jammer_20260601.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+CR2_Programme_S_Status_Sustain_Cursor_Jammer_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_Programme_S_Y3_Killing_DF_Close_Cursor_Jammer_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_PS18_Extension_Scorecard_Drift_Grep_Cursor_Scratch_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_S2_a4_External_Gauge_Omega_Check_Scratch_Claude_20260601 (1).md,D1 closed May–June process,Working\Retired\
+CR2_S2_a4_External_Gauge_Omega_Check_Scratch_Claude_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_S2_a4_Gilkey_Recompute_Memo_Cursor_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_S2_a4_Scratch_Adversarial_Verify_Memo_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_D1_Cluster_Test_Cursor_Jammer_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_D1_GHZ_Cluster_Rescue_Scratch_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_D1_GHZ_Rescue_plus_Corpus_Verification_Scratch_v0_2_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_J_Convergence_Cursor_Jammer_20260603.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_J_SymmetricState_Independent_Verdict_Scratch_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_Mirror_Adversarial_v0_2_Cursor_Scratch_20260602.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_Mirror_Adversarial_Verify_Cursor_Scratch_20260601.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_Rename_Report_Cursor_Scratch_20260603.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_S1_GHZ_Correlator_Cursor_Scratch_20260603.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_S2_CPN_Grep_Cursor_Scratch_20260603.md,D1 closed May–June process,Working\Retired\
+CR2_Susskind_S2_Divergence_Resolved_CPN_Antiunitary_v0_3_Defeater_Scratch_20260603.md,D1 closed May–June process,Working\Retired\
+CR4_Closed_at_S1_Register_Audit_Cursor_AC_20260601.md,D1 closed May–June process,Working\Retired\
+CRITICAL_UPDATE_2026_05_31_Morning_Cursor_Rearmed_Jammer_Unblocked_Phase_IV_Staged.md,D1 closed May–June process,Working\Retired\
+Cursor_BranchI_8_RGate_Assessment_v0_1_20260528.md,D2 concluded/dormant research,Working\Retired\
+Cursor_Heat_Kernel_M_R_Critical_Review_v0_2_20260525.md,K2 M_R figure / seesaw convention,Working\
+Cursor_LCDM_Void_Bias_BranchI_v0_3_Pass_20260528.md,D3 withdrawn/retired content carriers,Working\Retired\
+Cursor_NTE_Unique_Predictions_Catalogue_v0_1_20260527.md,D default (not P/K),Working\Retired\
+Cursor_P4_FM_Audit_20260527.md,D1 Cursor_* audits/reviews,Working\Retired\
+Cursor_Paper_S6_v0_4_Adversarial_Review_v0_5_20260526.md,D1 Cursor_* audits/reviews,Working\Retired\
+Cursor_Paper_S6_v1_0_CR2_Adversarial_Review_20260526.md,D1 Cursor_* audits/reviews,Working\Retired\
+Cursor_Phase_IV_Test_A_C_Run_nside16_20260531.md,D default (not P/K),Working\Retired\
+Cursor_Sunshine_S22_Absolute_Scale_Probe_20260527.md,D default (not P/K),Working\Retired\
+Derivation_Y3_2_3_KillingSpinor_CurvatureShare_v0_3_Scratch_Claude_20260601.md,D3 withdrawn/retired content carriers,Working\Retired\
+Derivation_Y3_squared_2_3_Atmospheric_Neutrino_BaseProjection_Scratch_Claude_20260601.md,D3 withdrawn/retired content carriers,Working\Retired\
+DRAFT_CatchUp_MB_Stamp_AND_ProjectState_Refresh_Block_0614_to_0623_Tiered_CPN_Farnsworth_Sunshine_Kappa_P5_Provenance_CleanRebuild_GregGated_AC_20260623.md,D1 closed May–June process,Working\Retired\
+Draft_Outreach_Email_Susskind_v0_2_Simplified_Cursor_20260601.md,D2 concluded/dormant research,Working\Retired\
+Drive_Sync_Manifest_v10_17_1_20260523.md,D1 closed May–June process,Working\Retired\
+EMERGE~1.MD,D tilde-identified default retire,Working\Retired\
+Eta_Asymmetry_Magnitude_Reframing_Audit_v2.md,K2 M_R numeric trace content,Working\
+Exploration_Graviton_vs_PhiNTE_v2.md,D2 concluded/dormant research,Working\Retired\
+FOLDED_INTO_v0_3_Susskind_v0_2_Thesis_Spine_Proposal_EmergentTime_CPN_Chirality_Claude_20260602.md,D default (not P/K),Working\Retired\
+FS_Geometry_Finding_Theta23_Z2_Should_Be_MuTau_REFLECTION_Not_Exchange_Predicts_deltaCP_PlusMinus_HalfPi_Fixes_Theta13_Antilinear_Is_CPN_Scratch_20260624.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+GATE2_VERDICT_PASS_Regroundable_J3O_SlotSwap_Carries_Generation_Z2_And_Connector_Conjugation_Is_P4D_Antilinear_Reflection_Sigma2_Odd_Automatic_From_Hermiticity_Scratch_20260626.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+GATE3_VERDICT_PASS_ParameterFree_Colour_Singlet_ImO_1Dim_e1_Forces_Connector_Direction_DeepDive_CLOSED_Regroundable_P4_P4D_onto_J3O_Spine_Scratch_20260626.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+GATE4_VERDICT_PARTIAL_PMNS_from_J3O_th23_delta_forced_th12_sumrule_TM1_favoured_th13_input_Scratch_20260626.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+GATE4B_VERDICT_TM2_is_J3O_natural_branch_solar_residual_structural_NOT_TM1_charged_lepton_subcheck_Scratch_20260626.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+GATE4C_VERDICT_EMPTY_no_generation1_mechanism_in_J3O_TM1_not_delivered_solar_prediction_TM2_0p341_2p8sigma_Scratch_20260626.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+GATE5_VERDICT_NEGATIVE_RG_running_CANNOT_explain_solar_2p8sigma_SM_regime_short_by_100x_th12_0p341_scale_stable_JUNO_decisive_Scratch_20260626.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+GATE6_VERDICT_GLIMPSE_TM1_is_timelike_branch_of_Lorentzian_generation_metric_HartleHawking_selector_open_NOT_closed_Scratch_20260626.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+GATE6b_VERDICT_FirstApprox_NEGATIVE_corpus_CPN_is_NOT_T_arrow_preserving_cannot_select_arrow_flipping_TM1_HartleHawking_route_largely_closed_Scratch_20260626.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+Greg_Tier1_Standalone_Upload_and_Outreach_Prep_v0_1_20260528.md,D1 closed May–June process,Working\Retired\
+H_GB_Bridge_Attack_Route_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+H_GB_Disambiguation_Note_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+II_0_Graded_Criteria_Discipline_AC_Audit.md,D1 closed May–June process,Working\Retired\
+INDEX_NTE_Canonical_Drive_IDs_AC_SessionStart_Reference_20260616.md,D6 ID caches,Working\Retired\
+Investigation_P4D_Sequel_VERDICT_PARALLEL_NOT_DESCENDED_Wolfram_Independent_GenSwap_IntraSector_CPN_InterSector_Associator_Intracopy_No_4pi_to_8pi_Promotion_TripleConvergent_Scratch_20260624.md,K2 open-item (GATE/P4D/FS/CR2_Programme_S),Working\
+J6_HH_Saddle_Scope_Memo_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_BR2d_J3_Action_Derive_v1_0_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_BR2d_J3_Bulk_Crystallisation_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_Bulk_No_Boundary_PreTemporal_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_Charged_Lepton_GUT_RGE_Check_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_D1_VNTE_Projection_Memo_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_D5_BPS_Prefactor_Derive_v0_2_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_D5_Factor_112_Numerics_v0_3_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_Formal_Backlog_Package_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_Ghost_Scan_Unified_Action_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_Ghost_Scan_Unified_Action_v0_2_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J1_G2_2PN_Metric_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J1_G3_P_BH4_StrongField_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J1_G4_PaperS2_Unified_Action_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J2_P0_10_Scope_Memo_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J2_P0_10ab_Attack_Route_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J2_P0_10c_Full_Algebra_Spec_v0_1_20260524.md,K2 fibre-modulus / β_GB content,Working\
+Jammer_J3_Born_Formal_Lemmas_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J4_BH_g_ell_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J6_D1_D2_Bulk_ODE_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J6_HESS_Full_Saddle_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_J6_HH_Saddle_First_Pass_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_J6_n1_E3_Saddle_Numerics_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_J6_n3_Hessian_TGB_Derivation_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_J6_n4_BR2d_Locking_Junction_Memo_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_Lambda_Hopf_Janus_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_Lambda_Proof_Activation_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_LB1_Exhaustive_Resolution_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_M2_Z2_Split_Derive_v0_1_20260524.md,K2 M_R numeric trace content,Working\
+Jammer_Mu_xN_S1_Signoff_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_P0_10a_Functorial_GNS_Reduction_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_P0_10b_Crossed_Product_Operator_Realisation_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_Paper_S3_Full_Sweep_Closure_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_Paper_S5_PMNS_DF_Charged_Lepton_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_R4_Z2_Projection_Lemma_v1_0_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_S2_NF1_g_eff_Thermal_Map_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S3_f2_fk_Moments_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_S3_f3_dmu_V_from_PhiN_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_S3_f3_dmu_V_Refinement_v0_2_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_S3_f4_a6_Tail_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1_Y_Nu2_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1b_Y_Nu1_Bracket_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1c_Y_Nu1_Zero_Param_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1d_Charged_Lepton_Yukawa_Attack_Route_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1e_Charged_Lepton_Embedding_Depth_L2_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1f_DF_Heat_Kernel_Delta_L4_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1i_Bulk_Surface_Embedding_Depth_Sunshine_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1k_Sunshine_Exit_Closure_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1l_Common_Y0_Absolute_Scale_v0_1_20260525.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_1m_Absolute_Scale_D5_Interface_v0_1_20260525.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_5_Yeff_Stage3_Chart_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_S22_19_Nlock_Holographic_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_Tier2g_Local_vs_AC_Sync_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_VNTE_Session5_D1_Bulk_Boundary_Derive_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_Branch_III_Phi_NTE_Rest_Frame_Scoping_v0_1_20260529.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_Candidate_2_3_Phase_III_v0_1_Discrimination_Test_Results.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_Candidate_2_3_Phase_III_v0_1_Scoping_Derivation_Outline_20260529.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_Candidate_2_7_Phase_III_v0_1_Calculation_Framework_Ready.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_Candidate_2_7_Phase_III_v0_1_Numerical_Results_Geometry_Vector_20260531.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_Candidate_2_7_Phase_III_v0_1_Scoping_Derivation_Outline_20260529.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_Phase_II_5_Input_v0_1_20260529.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_Phase_III_Readiness_Matrix_20260529.md,D1 closed May–June process,Working\Retired\
+Jammer_Wagenveld_Sprint_z_scale_decomposition_v0_1_20260529.md,D1 closed May–June process,Working\Retired\
+KAPPA_CLOSURE_G1_Adversarial_Result_Cursor_Jammer_20260620.md,K3 reproducibility,Working\
+KAPPA_CLOSURE_G1_Jammer_Physics_Sight_Cursor_Jammer_20260620.md,K3 reproducibility,Working\
+KAPPA_CLOSURE_P2eqP_Check_Result_Cursor_Main_20260620.md,K3 reproducibility,Working\
+KSIP_E_Causality_Audit_Cursor_Scratch_20260613.md,D2 concluded/dormant research,Working\Retired\
+LB5_Part3_Prose_Patch_Applied_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+LB6_Part1_2_1_3_Bulk_Boundary_Prose_Patch_v0_1_20260524.md,D1 closed May–June process,Working\Retired\
+LCDM_BAO_Homogeneous_Comparison_Worksheet_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_BAO_Homogeneous_Comparison_Worksheet_v0_2_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_BAO_NTE_DESI_Reconciliation_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Chi2_Falsifier_Catalogue_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_CMB_Kappa_Test_Jammer_Analytical_Execution_v0_1_20260527.md,D1 closed May–June process,Working\Retired\
+LCDM_CMB_Kappa_Test_Worksheet_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Epoch_Friedmann_Check_Worksheet_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Epoch_Friedmann_Check_Worksheet_v0_2_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Growth_Sigma8_Worksheet_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Growth_Sigma8_Worksheet_v0_2_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_P1_P2_Jammer_Review_BAO_Numerics_Output_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Reduction_Appendix_Scaffold_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Reduction_Appendix_Scaffold_v0_2_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Reduction_Appendix_Scaffold_v0_3_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Reduction_Appendix_Scaffold_v0_4_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Reduction_Appendix_Scaffold_v0_5_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Reduction_Appendix_Scaffold_v0_6_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_VNTE_Rho_Eff_Genuine_Test_Worksheet_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+LCDM_Void_Bias_BAO_Worksheet_Branch_I_Directional_Jammer_v0_2_20260527.md,D1 closed May–June process,Working\Retired\
+LCDM_Void_Bias_BAO_Worksheet_Jammer_v0_1_20260527.md,D1 closed May–June process,Working\Retired\
+LCDM_Void_Bias_BAO_Worksheet_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Load_Bearing_Blocks_Attack_Index_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+M1_From_Geometry_E_search.md,K2 M_R numeric trace content,Working\
+M1_Sigma3_Cartan_Mode_Derivation_v1.md,K2 open-item (exact),Working\
+MA8073~1.MD,D tilde-identified default retire,Working\Retired\
+MA9462~1.MD,D tilde-identified default retire,Working\Retired\
+MAA27E~1.MD,D tilde-identified default retire,Working\Retired\
+Master_Part_3_v10_8_to_v10_8_v2_Patch_Instructions_A5_BornRule_ScopeAlignment_20260523.md,D1 closed May–June process,Working\Retired\
+MASTER_REBUILD_Part1_Foundations_Clean_FrontMatter_Abstract_Audit_Corrected_Beta_NTE_Numerology_Retired_Octonion_Imported_ns_r_Conditional_Positioning_Embedded_RebuildPlan_BodyReadPath_Blocker_AC_20260623.md,D1 closed May–June process,Working\Retired\
+Master_v10_8_to_v10_9_Patch_Instructions_A6_FalsifiabilityCatalogue_Consolidation_20260523.md,K2 M_R numeric trace content,Working\
+Master_v10_9_to_v10_10_Patch_Instructions_Tier0_Integration_20260523.md,D1 closed May–June process,Working\Retired\
+Master_v10_10_Tier1_Patch_Instructions_Programme_S_Spine_20260523.md,K2 fibre-modulus / β_GB content,Working\
+Master_v10_11_Tier2_Patch_Instructions_LCDM_17_5_9_20260523.md,D1 closed May–June process,Working\Retired\
+Master_v10_12_Tier2b_Patch_Instructions_NLock_17_5_4_20260523.md,D1 closed May–June process,Working\Retired\
+Master_v10_13_Section_17_5_14_F1_Weyl_Euler_Integration_Patch_Instructions_20260523.md,D1 closed May–June process,Working\Retired\
+Master_v10_13_Tier2c_Patch_Instructions_LCDM_Worksheets_17_5_9_20260523.md,D1 closed May–June process,Working\Retired\
+Master_v10_14_Tier2d_Patch_Instructions_PaperS2_S2C_20260523.md,K2 fibre-modulus / β_GB content,Working\
+Master_v10_15_Tier2e_Patch_Instructions_PaperS2_S2E_20260523 (1).md,K2 M_R numeric trace content,Working\
+Master_v10_15_Tier2e_Patch_Instructions_PaperS2_S2E_20260523.md,K2 M_R numeric trace content,Working\
+Master_v10_16_Tier2f_Patch_Instructions_Corpus_Integrity_20260523.md,D1 closed May–June process,Working\Retired\
+Master_v10_17_1_Tier2g_Patch_Instructions_R6_LB6_C13_S22_1_20260524.md,D1 closed May–June process,Working\Retired\
+Mu_xN_Local_Lagrange_Action_Worksheet_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+Mu_xN_Local_Lagrange_Action_Worksheet_v0_2_20260523.md,D1 closed May–June process,Working\Retired\
+Mu_xN_Local_Lagrange_Action_Worksheet_v0_3_20260523.md,D1 closed May–June process,Working\Retired\
+n_s_Wick_Rotation_Recalculation_Bprime.md,D3 withdrawn/retired content carriers,Working\Retired\
+NTE_Acronym_Naming_Discipline_v0_1_20260526.md,K4 standing guidance,Working\
+NTE_Book_Appendix_and_Corpus_Links_Discipline_v0_1_20260526.md,K4 standing guidance,Working\
+NTE_Book_DeAI_Voice_Pass_20260526.md,K4 standing guidance,Working\
+NTE_Book_Open_Future_Chapter_Brief_v0_2_20260531.md,D1 closed May–June process,Working\Retired\
+NTE_Book_Open_Future_Chapter_Queue_v0_1_20260531.md,D1 closed May–June process,Working\Retired\
+NTE_Book_Popular_Voice_Register.md,K4 standing guidance,Working\
+NTE_Book_Title_and_Pratchett_Discipline_v0_1_20260526.md,K4 standing guidance,Working\
+NTE_Corpus_Critical_Review_Cursor_v0_1_20260531.md,D1 closed May–June process,Working\Retired\
+NTE_Corpus_Sitrep_20260529.md,D1 closed May–June process,Working\Retired\
+NTE_CR2_Sunshine_Rabbit_Hole_Programme_v0_1_20260601.md,D1 closed May–June process,Working\Retired\
+NTE_Extension_Scorecard_20260601.md,D1 closed May–June process,Working\Retired\
+NTE_FA~1 - Copy.MD,D tilde-identified default retire,Working\Retired\
+NTE_FAQ_Supplement_DRAFT_v0_2_Grown_From_Companions_And_Recent_Work_Clusters_Neutrino_Time_QuantumFoundations_CP_DarkMatter_Lambda_GaugeOctonions_Methodology_Three_PaperWorthy_Flagged_GregGated_AC_20260625.md,K4 standing guidance,Working\
+NTE_HA~1.MD,D tilde-identified default retire,Working\Retired\
+NTE_IN~1 - Copy.MD,D tilde-identified default retire,Working\Retired\
+NTE_IN~3.MD,D tilde-identified default retire,Working\Retired\
+NTE_Ontological_Bridge_Programme_v0_1_20260601.md,D1 closed May–June process,Working\Retired\
+NTE_Pedagogical_Pivot_Audit_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_Pedagogical_Pivot_Companions_Register.md,K1 cited,Working\
+NTE_PP_Audit_AppendixA_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch1_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch2_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch3_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch4_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch5_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch6_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch7_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch8_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch9_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch10_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch11_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch12_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch13_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch14_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch15_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch16_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_PP_Audit_Ch17_PC_20260603.md,D1 closed May–June process,Working\Retired\
+NTE_Provenance_Audit_CHECK_Resolution_Companion1_Entanglement_PriorArt_VanRaamsdonk_EREPR_RyuTakayanagi_Swingle_BroadThesis_Crowded_SurfaceOnly_NullTimeExchange_Distinct_Tier2_HeavyCredit_AC_20260623.md,D2 concluded/dormant research,Working\Retired\
+NTE_Provenance_Audit_New_vs_ReDerived_vs_Imported_First_Pass_AC_20260622.md,K2 M_R numeric trace content,Working\
+NTE_Reader_Glossary_Companion_v1_0.md,K1 cited,Working\
+NTE_Recording_Gap_Audit_FIRST_PASS_MB_Stale_0527_ProjectState_Stale_0613_Working_Backlog_CPN_Farnsworth_Kappa_Sunshine_P5_Provenance_CleanRebuild_Inventory_Remediation_AC_20260623.md,D1 closed May–June process,Working\Retired\
+NTE_Session_Writeup_PC_20260603_evening.md,D1 closed May–June process,Working\Retired\
+NTE_Standalone_Claims_Inventory_v0_1_20260524.md,K2 M_R numeric trace content,Working\
+NTE_Standalone_Claims_Inventory_v0_2_20260524.md,K2 M_R numeric trace content,Working\
+NTE_Standalone_Claims_Inventory_v0_3_20260524.md,D1 closed May–June process,Working\Retired\
+NTE_Unified_Corpus_Network_Map_20260601.md,D1 closed May–June process,Working\Retired\
+NTE_Visualisation_N_iN_Janus_Orientations_Intuition_v0_1_20260531.md,D2 concluded/dormant research,Working\Retired\
+NTE_vs_Singh_Octonionic_Theory_Precise_Overlap_Differentiation_Map_Stronger_Simpler_Verdict_Parsimony_Edge_Singh_Derives_QM_Alpha_AC_20260622.md,K2 fibre-modulus / β_GB content,Working\
+Open_Gaps_Derivation_Pathways_Sunshine_Map_v0_1_20260524.md,D default (not P/K),Working\Retired\
+Option_c_Track_2_Chirality_as_Tendency_Refinement_Scratch_v1.md,D default (not P/K),Working\Retired\
+Outreach_Researcher_Engagement_Emails_Draft_v0_1_Shaposhnikov_Kusenko_Chacko_Zurek_Profumo_20260601.md,D default (not P/K),Working\Retired\
+P_BH1b_Area_Law_Check_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_BH2_Boundary_Info_Carrier_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_BH2b_Horizon_NullTime_Junction_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_Born_P1_Complex_Structure_Gauge_Birth_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_Born_P2_Hopf_Bilinearity_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_Born_P3_Zurek_Scope_Pairing_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_dS1_Dirac_Spectrum_S3_Worksheet_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_dS1_Dirac_Spectrum_S3_Worksheet_v0_2_20260523.md,D default (not P/K),Working\Retired\
+P_dS2_Nthickness_GH_Entropy_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_dS3_Tomita_Takesaki_Modular_Flow_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P_dS4_Observational_Anchor_v0_1_20260523.md,D default (not P/K),Working\Retired\
+P0_7_Associativity_Dependency_Analysis_Jammer_v1.md,D default (not P/K),Working\Retired\
+P1_Kappa_FM5_Audit_Cursor_20260526.md,D2 concluded/dormant research,Working\Retired\
+P5_Flux_Dial_Worksheet_FractionalJAdmixture_Primary_BareFluxClosedForm_NullControl_Cursor_Jammer_20260621.md,D4 spent numerics,Working\Retired\
+Package_E8a_S2_Pivot_KPhi_RootA_TellsExcise_Replacement_Prose_Draft_PC_20260618.md,D default (not P/K),Working\Retired\
+Package_E8b_P4_Pivot_CLFV_Sister_Prediction_Replacement_Prose_Draft_PC_20260618.md,K2 M_R numeric trace content,Working\
+Package_E8c_Octonion_Pivot_TellsExcise_RootD_Replacement_Prose_Draft_PC_20260618.md,D default (not P/K),Working\Retired\
+Package_E8d_Hopf_Pivot_RootA_a4_to_a2_Replacement_Prose_Draft_PC_20260618.md,D default (not P/K),Working\Retired\
+Paper_A1_Berry_AB_Casher_Axiom_Filter_Pass_Cursor_v0_1_20260527.md,D2 concluded/dormant research,Working\Retired\
+Paper_A2_Neutron_4pi_Spinor_Axiom_Filter_Pass_Cursor_v0_1_20260527.md,D2 concluded/dormant research,Working\Retired\
+Paper_Alpha_Cosmological_FixedPoint_CCC_Exploratory_v0_1_Scratch_20260603.md,D default (not P/K),Working\Retired\
+Paper_DD_Surface_Ontology_Dimension_Three_Measure_Floor_Gleason_LeastAction_Ceiling_Hopf_Bridge_Open_v0_1_DRAFT_Scratch_20260624.md,D default (not P/K),Working\Retired\
+Paper_DD_Surface_Ontology_TwoSector_Necessity_Measure_Floor_LeastAction_Ceiling_Octonionic_Origin_CrossConfirmed_v0_2_DRAFT_Scratch_20260625.md,D default (not P/K),Working\Retired\
+Paper_E1_v0_1_Scratch_CR_Verification_v0_1.md,D default (not P/K),Working\Retired\
+Paper_Kappa_delta_2_Bound_Re_Derivation_Non_FLRW_Jammer_v0_1_20260527.md,D default (not P/K),Working\Retired\
+Paper_Kappa_PathwayB_Alignment_Audit_v10_6_1.md,D default (not P/K),Working\Retired\
+Paper_Mirror_of_Susskind_dS_T_Breaking_NTE_Bilateral_Z2_Gauge_Duality_v0_2_Simplified_Cursor_20260601.md,D default (not P/K),Working\Retired\
+Paper_NTE_Methodology_What_A_Framework_May_Claim_Provenance_Tiers_Evidential_Grades_NoFitting_And_Discipline_Of_Withdrawal_v0_1_DRAFT_AC_20260625.md,D default (not P/K),Working\Retired\
+Paper_NTE_Methodology_What_A_Framework_May_Claim_Provenance_Tiers_Evidential_Grades_NoFitting_And_Discipline_Of_Withdrawal_v0_2_MethodsNote_F1_Bullet_Corrected_AC_20260625.md,D default (not P/K),Working\Retired\
+Paper_P4D_Antilinear_Theta23_MuTau_Reflection_Unifies_Maximal_Mixing_With_CPN_Phase_v0_1_DRAFT_Scratch_20260624.md,D default (not P/K),Working\Retired\
+Paper_PhiNTE_Necessity_and_Irreducibility_v0_1_Scratch_20260603.md,D2 concluded/dormant research,Working\Retired\
+Paper_PhiNTE_Necessity_and_Irreducibility_v0_2_ACcalibrated_Scratch_20260604.md,D2 concluded/dormant research,Working\Retired\
+Paper_PhiNTE_Necessity_and_Irreducibility_v0_3_betaNTE_Scratch_20260610.md,D2 concluded/dormant research,Working\Retired\
+Paper_PhiNTE_Necessity_PedagogicalPivot_v0_1_PC_20260604.md,D2 concluded/dormant research,Working\Retired\
+Paper_PhiNTE_Necessity_PedagogicalPivot_v0_2_PC_20260604.md,D2 concluded/dormant research,Working\Retired\
+Paper_Popular_Two_Slits_in_Time_v0_1_Scratch_20260527.md,D default (not P/K),Working\Retired\
+Paper_S1_v0_4.md,D default (not P/K),Working\Retired\
+Paper_S1_v1_0_Attack_Route_Scoping_v1.md,D default (not P/K),Working\Retired\
+Paper_S1_v1_0_master_v1.md,D default (not P/K),Working\Retired\
+Paper_S1_v1_0_section_0_1_Abstract_Introduction_v2_Scratch.md,D default (not P/K),Working\Retired\
+Paper_S1_v1_0_section_2_v2_Scratch.md,D default (not P/K),Working\Retired\
+Paper_S2_BR2d_J3_Heat_Kernel_Upgrade_v1_0_20260523.md,D default (not P/K),Working\Retired\
+Paper_S2_Chord_Closure_Synthesis_v1_0_20260524.md,K2 M_R numeric trace content,Working\
+Paper_S2_HeatKernel_Arc_Scoping_Scratch_v0_1_20260527.md,D default (not P/K),Working\Retired\
+Paper_S2_HeatKernel_Phase_I_Item_1_D_Operator_Jammer_v0_1_20260528.md,D default (not P/K),Working\Retired\
+Paper_S2_HeatKernel_Phase_I_Item_2_D_F_Yukawa_Structure_Jammer_v0_2_20260529.md,K2 M_R numeric trace content,Working\
+Paper_S2_S2A_Operator_Setup_v0_1.md,K2 fibre-modulus / β_GB content,Working\
+Paper_S2_S2B_Coefficients_Plus_Kappa0_v0_1.md,K2 fibre-modulus / β_GB content,Working\
+Paper_S2_S2CA_KPhi_Closure_v0_1.md,D default (not P/K),Working\Retired\
+Paper_S2_S2CB_a4_Weyl_Euler_v0_1.md,K2 fibre-modulus / β_GB content,Working\
+Paper_S2_S2CC_DF_Subleading_v0_1.md,K2 fibre-modulus / β_GB content,Working\
+Paper_S2_S2D_Lambda_M1_MR_Scaffold_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Paper_S2_S2D_Lambda_NTE_M1_MR_v0_1.md,K2 M_R numeric trace content,Working\
+Paper_S2_S2E_AC_Integration_Checklist_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Paper_S2_S2E_AC_Integration_Package_v0_1.md,K2 M_R numeric trace content,Working\
+Paper_S2_S3_D5_BPS_Prefactor_Uniqueness_v0_1.md,D default (not P/K),Working\Retired\
+Paper_S2_S3_D5_v0_2_Full_Lagrangian_Closure.md,D default (not P/K),Working\Retired\
+Paper_S2_Scope_and_Attack_Route_v0_1_20260523.md,K2 fibre-modulus / β_GB content,Working\
+Paper_S2_Scope_and_Attack_Route_v0_2_20260523.md,D default (not P/K),Working\Retired\
+Paper_S2_Scope_and_Attack_Route_v0_3_20260523.md,D default (not P/K),Working\Retired\
+Paper_S2_Scope_and_Attack_Route_v0_4_20260524.md,D default (not P/K),Working\Retired\
+Paper_S2_v1_0_Scratch_CR_Verification_v0_1.md,K2 M_R numeric trace content,Working\
+Paper_S3_Lambda_M1_M2_Worksheet_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Paper_S3_Lambda_M3_Beta_GB_Boundary_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Paper_S3_Lambda_NTE_Numerical_Scaffold_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Paper_S3_Scratch_CR_Proof_Layer_v0_1.md,D default (not P/K),Working\Retired\
+Paper_S3_Scratch_Proof_Layer_v0_2.md,D default (not P/K),Working\Retired\
+Paper_S3_Scratch_Proof_Layer_v0_3.md,D default (not P/K),Working\Retired\
+Paper_S3_Structural_f_Attack_Route_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Paper_S4_Lambda_Unimodular_Density_Proof_v0_1.md,D default (not P/K),Working\Retired\
+Paper_Scope_Alignment_Sweep_Results.md,D1 closed May–June process,Working\Retired\
+Paper_Susskind_v0_3_Reframe_EmergentTime_CPN_Arrow_Preserving_Greg_20260602.md,D default (not P/K),Working\Retired\
+Paper_Susskind_v0_4_AntiunitaryCPN_ModularConjugation_Greg_20260603.md,D default (not P/K),Working\Retired\
+PC_Audit_Repairs_Batch1_Verification_Cursor_PC_20260603.md,D1 closed May–June process,Working\Retired\
+PC_Book_Chapter_Audit_Ontology_Pivot_v0_1_20260523.md,D1 closed May–June process,Working\Retired\
+PC_Book_Pedagogical_Pivot_Pass_20260526.md,D1 closed May–June process,Working\Retired\
+PC_Phrase_Candidate_everything_everywhere_all_at_once_2026_05_16.md,D1 closed May–June process,Working\Retired\
+PC_Scoping_Memo_Corpus_State_and_Pedagogical_Opportunities_20260613.md,K2 M_R numeric trace content,Working\
+Penrose_Palatial_Twistors_Axiom_Filter_Pass_Jammer_v1.md,D default (not P/K),Working\Retired\
+Phi_N_Trajectory_BR2_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Phi_N_Trajectory_BR2c_Attack_Route_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Popular_Paper_Spectral_Action_v1.md,K1 cited,Working\
+Priority_IV_Pathway_Programmes_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Programme_S_Paper_S6_v1_0_Canonical_Synthesis_Post_Cursor_20260526.md,K2 M_R numeric trace content,Working\
+Proposal_Future_Companion_CCC_Recursion_Janus_Virtual_Pair_Deferred_20260523.md,D default (not P/K),Working\Retired\
+Proposal_Future_Pretemporal_Bulk_Boundary_Ontology_Deferred_20260524.md,D default (not P/K),Working\Retired\
+Publication_Title_Block_Standard_20260528.md,K4 standing guidance,Working\
+R3_Phase_A_Reframing_Investigation_Scratch_v1.md,D default (not P/K),Working\Retired\
+R3_Phase_B_BF2020_NTE_Identification_Map_under_Track2_Jammer_v1.md,D default (not P/K),Working\Retired\
+R3_Phase_B_v1_1_Supplement_Intrinsic_Uniformity_Reading_Jammer.md,D default (not P/K),Working\Retired\
+R3_Phase_B_v1_2_Supplement_Prediction_Mapping_Verification_Jammer.md,D default (not P/K),Working\Retired\
+RETIREMENT_Y3_2_3_Pathway_Operator_Refuted_Scratch_Claude_20260601.md,D default (not P/K),Working\Retired\
+Route_A_Spectral_Zeta_Pursuit_Final_Verdict_Jammer_v1.md,D default (not P/K),Working\Retired\
+Route_A_Spectral_Zeta_Pursuit_First_Pass_Jammer_v1.md,D default (not P/K),Working\Retired\
+Scouting_P4D_Sequel_Gate1_NotBlocked_Farnsworth_Exposes_Nu2_Block_Gate2_EQUALS_Stalled_4pi_vs_8pi_Associator_Envelope_Same_Question_Scratch_Offers_Operator_Route_20260624.md,D default (not P/K),Working\Retired\
+Scratch_Adversarial_Review_AC_Wagenveld_Sprint_v0_1_20260528.md,K2 fibre-modulus / β_GB content,Working\
+Scratch_Adversarial_Review_Cursor_BranchI_v0_3_Pass_20260527.md,D default (not P/K),Working\Retired\
+Scratch_Adversarial_Review_Jammer_Phase_I_Item_1_v0_1_20260528.md,D default (not P/K),Working\Retired\
+Scratch_Attribution_Correction_2026-05-10.md,D default (not P/K),Working\Retired\
+Scratch_CC2008_Full_Read_Supplement_2026-05-10.md,D default (not P/K),Working\Retired\
+Scratch_Heat_Kernel_Cross_Check_M_R_Scoping_v0_1.md,K2 M_R numeric trace content,Working\
+Scratch_Item2_GateRatification_and_2ab_Lane_Assignment_v0_1_20260529.md,D default (not P/K),Working\Retired\
+Scratch_Jammer_Wagenveld_Sprint_Phase_II_5_Adversarial_Review_v0_1.md,D default (not P/K),Working\Retired\
+Scratch_Kappa0_to_XiV_Rename_Routing_Report_v0_1_20260528.md,K2 fibre-modulus / β_GB content,Working\
+Scratch_M_R_BPS_Anchored_Cross_Check_v0_1.md,K2 M_R numeric trace content,Working\
+Scratch_M_R_BPS_Anchored_Cross_Check_v0_2_Full_Lagrangian_Closure.md,K2 M_R numeric trace content,Working\
+Scratch_M_R_BPS_Anchored_Cross_Check_v0_3_Honest_Scope_Retreat.md,D default (not P/K),Working\Retired\
+Scratch_M_R_Cross_Check_v0_4_Reconciliation_with_Cursor_Review.md,K2 M_R numeric trace content,Working\
+Scratch_NCG_Folder_Findings_2026-05-10.md,D default (not P/K),Working\Retired\
+Scratch_State_Priorities_Reassessment_post_S2_S3_D5_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Scratch_Wagenveld_Sprint_Candidate_2_5_Anisotropic_Kappa_v0_1.md,D default (not P/K),Working\Retired\
+Scratch_Wagenveld_Sprint_Candidate_2_5_Phase_III_5_1_Seed_Amplitude_v0_1.md,K2 fibre-modulus / β_GB content,Working\
+Scratch_Wagenveld_Sprint_Candidate_2_5_Phase_III_5_2_Closure_Linearisation_v0_1.md,D default (not P/K),Working\Retired\
+Scratch_Wagenveld_Sprint_Candidate_2_5_Phase_III_5_3_Hopf_Fibre_Mapping_v0_1.md,D default (not P/K),Working\Retired\
+Scratch_Wagenveld_Sprint_Candidate_2_5_Phase_III_5_4_Sky_Coverage_Integrals_v0_1.md,D default (not P/K),Working\Retired\
+Scratch_Wagenveld_Sprint_Candidate_2_5_Phase_III_5_4_v0_2_Catalogue_Refresh_Verification.md,D default (not P/K),Working\Retired\
+Scratch_Wagenveld_Sprint_Phase_II_5_Input_v0_1.md,D default (not P/K),Working\Retired\
+Scratch_Wagenveld_Sprint_Phase_II_Adversarial_Review_v0_1.md,D default (not P/K),Working\Retired\
+Session_State_Summary_Jammer_Priority_Tasks_Wagenveld_Sprint_2026_05_29_Afternoon.md,D default (not P/K),Working\Retired\
+Session_Status_Update_Wagenveld_Sprint_2026_05_30_Morning_HEALPix_Unblock_5_2_Correction.md,D default (not P/K),Working\Retired\
+Sigma_PhiNTE_Confluence_Verdict_v1.md,D default (not P/K),Working\Retired\
+Sigma_t_Phi_NTE_Investigation_Direction_1_TopDown_Scratch_v1.md,D default (not P/K),Working\Retired\
+Sigma_t_Phi_NTE_Investigation_Direction_2_BottomUp_Jammer_v1.md,K2 fibre-modulus / β_GB content,Working\
+Sigma_t_TOA_Correspondence_Articulation_Scratch_v0_1_20260527.md,D default (not P/K),Working\Retired\
+SonnerTong_BPS_CP1_kappa0_Derivation_v1.md,D default (not P/K),Working\Retired\
+Sqrt2Pi_Traceability_Hopf_Fibre_v1.md,D default (not P/K),Working\Retired\
+Standalone_Papers_Accessibility_Tiering_Framework_v0_1_20260526.md,K4 standing guidance,Working\
+Sunshine_4pi_vs_8pi_Stream2_Jammer_Adversarial_Read_Of_Scratch_S2_HOLDS_With_G2xG2_Sub_Flag_Ratio_Subquestion_Resolved_Awaits_Cursor_Stream1_For_AC_Convergence_Claude_Jammer_20260621.md,D default (not P/K),Working\Retired\
+Sunshine_Greg_Question_Discrete_Hopf_Flux_Quanta_Neutrino_Sector_2pi_4pi_8pi_12pi_16pi_Core_Axiom_Filter_No_Numerology_Discipline_Emergence_Map_Localisation_Claude_Jammer_20260623.md,D default (not P/K),Working\Retired\
+Sunshine_Greg_Question_Imaginary_Axis_Deeper_Structure_N_Axis_Locus_Hopf_Charge_Hypothesis_Coherent_Not_Canonical_EmergenceMap_Live_Probe_No_Numerology_Binding_Claude_Jammer_20260623.md,D default (not P/K),Working\Retired\
+Sunshine_P4_Theta23_Verdict_REWRITE_With_CLFV_Ratio_Headline_Structural_Locked_C3_C5_Pending_Claude_Jammer_20260618.md,D default (not P/K),Working\Retired\
+Sunshine_P5_Solar_Sunshine_Verdict_REFRAME_Structural_Locked_C2_Pending_Lagrangian_8pi_negativethird_Open_Claude_Jammer_20260618.md,K2 M_R numeric trace content,Working\
+Sunshine_S3xS1_TraceAnomaly_V0_1_Jammer_Verification_ALL_PASS_Six_Items_Plus_Three_Adversarial_Cursor_Symbolic_Routed_Claude_Jammer_20260621.md,D default (not P/K),Working\Retired\
+Sunshine_Stage3_DF_Jammer_Side_Artifact_Scaffold_PASS_Yukawa_Question_OPEN_For_AC_Sight_Claude_Jammer_20260621.md,D default (not P/K),Working\Retired\
+Task_2_CR_Sec_3_2_Simplification_Wick_to_KMS_for_PaperS1_Sec_2_Scratch_v1.md,D default (not P/K),Working\Retired\
+Task_3_Twistor_Questions_A_C_Marcolli_Penrose_2021_Scratch_v1.md,D default (not P/K),Working\Retired\
+Task_4_Route_A_Spectral_Zeta_Arc_Scoping_Scratch_v1.md,D default (not P/K),Working\Retired\
+Task_4_Session_2_Functional_Determinant_Scratch_v1.md,D default (not P/K),Working\Retired\
+Task_4_Session_3_Eta_Invariant_ZetaMinus1_Scratch_v1.md,D default (not P/K),Working\Retired\
+Tier_2_Reframing_Pass_Four_Papers_under_Canonical_Sigma_t_Phi_NTE_Framing_Jammer_v1.md,D default (not P/K),Working\Retired\
+Time_Crystals_Axiom_Filter_Pass_Scratch_v0_1_20260527.md,D default (not P/K),Working\Retired\
+Top_5_Impact_Attack_Index_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Twistor_Theory_Axiom_Filter_Pass_Jammer_v1.md,K2 fibre-modulus / β_GB content,Working\
+Unimodular_Gravity_Verification_CC2008_v1.md,K2 fibre-modulus / β_GB content,Working\
+V_NTE_Session5_D1_rho_eff_Trajectory_Check_Jammer_v0_1_20260526.md,D default (not P/K),Working\Retired\
+Void_dw_z_Attack_Route_v0_1_20260523.md,D default (not P/K),Working\Retired\
+Wagenveld_Sprint_Phase_I_5_Angular_Axis_v0_1.md,D2 concluded/dormant research,Working\Retired\
+Working_Class2_SelectionRules_Opening_Scoping_Claude_Jammer_20260611.md,D default (not P/K),Working\Retired\
+Working_ColdReferee_Sunshine_RabbitHole_Opening_Scoping_FourPaper_Standalone_Hardening_Claude_Jammer_20260618.md,D default (not P/K),Working\Retired\
+Working_CPN_Universe_Pair_SameT_Mirror_Adversarial_StressTest_Opening_Scoping_Claude_Jammer_20260617.md,D default (not P/K),Working\Retired\
+Working_FalsifierSearch_Unitary_CPN_TwoLayer_Opening_Scoping_Claude_Jammer_20260610.md,K2 M_R numeric trace content,Working\
+Working_KPhi_BREAK1_Physics_Call_Stays_Open_ns_r_Conditional_Survivors_Sync_Six_S2_Sites_Plus_Part3_22_14b_22_22_Claude_Jammer_20260616.md,D default (not P/K),Working\Retired\
+NTE_Octonionic_Spine_Neutrino_Mixing_Sector_v0_2_DRAFT_White.pdf,K5/R1 New folder has same/later,Working\Retired\
+_discover_bytes.py,D5 spent tooling,Working\Retired\
+_discover_bytes2.py,D5 spent tooling,Working\Retired\
+_discover_unicode.py,D5 spent tooling,Working\Retired\
+_find_bad_chars.py,D5 spent tooling,Working\Retired\
+_find_remaining.py,D5 spent tooling,Working\Retired\
+_run_ftfy_popular.py,D5 spent tooling,Working\Retired\
+_test_mojibake.py,D5 spent tooling,Working\Retired\
+ac_pdf_sight_check.py,D5 spent tooling,Working\Retired\
+ac_readable_split_corpus.py,D5 spent tooling,Working\Retired\
+alpha_beta_nte_corpus_fix_pass.py,D4 spent numerics,Working\Retired\
+alpha_to_beta_nte_audit.py,D7 registries/queues/ledgers,Working\Retired\
+apply_book_headers.py,D5 spent tooling,Working\Retired\
+apply_companion_v10_17_2.py,K2 M_R numeric trace content,Working\
+apply_it_is_contractions.py,D5 spent tooling,Working\Retired\
+apply_master_v10_9.py,D5 spent tooling,Working\Retired\
+apply_part3_patches.py,D5 spent tooling,Working\Retired\
+apply_pc_package_e2_e3.py,D5 spent tooling,Working\Retired\
+apply_tier0_v10_10.py,D5 spent tooling,Working\Retired\
+apply_tier1_v10_11.py,D5 spent tooling,Working\Retired\
+apply_tier2_v10_12.py,D5 spent tooling,Working\Retired\
+apply_tier2b_v10_13.py,D5 spent tooling,Working\Retired\
+apply_tier2c_v10_14.py,D5 spent tooling,Working\Retired\
+apply_tier2d_v10_15.py,D5 spent tooling,Working\Retired\
+apply_tier2e_v10_16.py,D5 spent tooling,Working\Retired\
+batch_verify_ledger_20260618.py,D5 spent tooling,Working\Retired\
+bh_area_law_check.py,D4 spent numerics,Working\Retired\
+bh_nthickness_shell.py,D4 spent numerics,Working\Retired\
+br2d_j3_action_derive_numerics.py,D4 spent numerics,Working\Retired\
+build_ac_file_reference_index.py,D5 spent tooling,Working\Retired\
+build_book_appendix_a.py,D5 spent tooling,Working\Retired\
+build_depreciated_appendix_v6_archive.py,D5 spent tooling,Working\Retired\
+clfv_cartan_ratio_numerical.py,K2 M_R numeric trace content,Working\
+codepoint_probe.py,D5 spent tooling,Working\Retired\
+cr2_s2_a4_gilkey_check.py,D4 spent numerics,Working\Retired\
+cursor_grep_gates.py,D5 spent tooling,Working\Retired\
+eta_precondition_check_worksheet.py,K2 M_R numeric trace content,Working\
+farnsworth_stage1_octonion.py,K2 Route-B farnsworth_stage*.py,Working\
+farnsworth_stage2_bimodule.py,K2 Route-B farnsworth_stage*.py,Working\
+farnsworth_stage3_neutrino_block.py,K2 Route-B farnsworth_stage*.py,Working\
+farnsworth_stage4_hopf_overlap.py,K2 Route-B farnsworth_stage*.py,Working\
+farnsworth_stage4full_associator_envelope.py,K2 Route-B farnsworth_stage*.py,Working\
+farnsworth_stage5_assemble.py,K2 Route-B farnsworth_stage*.py,Working\
+fix_book_rename_versions.py,D5 spent tooling,Working\Retired\
+fix_popular_mojibake.py,D5 spent tooling,Working\Retired\
+gap1_pathwayA_session2_worksheet.py,K2 M_R numeric trace content,Working\
+grep_eta_zero_param_gate.py,D5 spent tooling,Working\Retired\
+h_gb_bridge_numerics.py,D4 spent numerics,Working\Retired\
+healpix_ring.py,D4 spent numerics,Working\Retired\
+housekeeping_dryrun_manifest.py,D5 spent tooling,Working\Retired\
+housekeeping_execute_phase2.py,D5 spent tooling,Working\Retired\
+j1_g2_2pn_metric_numerics.py,D4 spent numerics,Working\Retired\
+j1_g3_pbh4_strongfield_numerics.py,D4 spent numerics,Working\Retired\
+j1_g4_unified_action_numerics.py,D4 spent numerics,Working\Retired\
+j1_ghost_scan_numerics.py,D4 spent numerics,Working\Retired\
+j1_ghost_scan_offshell_numerics.py,D4 spent numerics,Working\Retired\
+j4_bh_g_ell_derive_numerics.py,D4 spent numerics,Working\Retired\
+j6_d1_bulk_ode_numerics.py,D4 spent numerics,Working\Retired\
+j6_e3_saddle_numerics.py,D4 spent numerics,Working\Retired\
+j6_hess_full_numerics.py,D4 spent numerics,Working\Retired\
+j6_n1b_bulk_boundary_numerics.py,D4 spent numerics,Working\Retired\
+j6_n3_hessian_numerics.py,D4 spent numerics,Working\Retired\
+j6_n4_yN_junction_numerics.py,D4 spent numerics,Working\Retired\
+kappa_closure_g1_adversarial_jammer.py,K3 reproducibility,Working\
+kappa_closure_p2eqp_check.py,K3 reproducibility,Working\
+lambda_hopf_janus_numerics.py,D4 spent numerics,Working\Retired\
+lb1_exhaustive_resolution_numerics.py,D4 spent numerics,Working\Retired\
+lcdm_bao_numerics.py,D4 spent numerics,Working\Retired\
+lcdm_bao_void_bias.py,D3 withdrawn/retired content carriers,Working\Retired\
+lcdm_epoch_numerics.py,D4 spent numerics,Working\Retired\
+lcdm_growth_numerics.py,D4 spent numerics,Working\Retired\
+lcdm_vnte_rho_eff_numerics.py,D4 spent numerics,Working\Retired\
+m1_geometric_search.py,D4 spent numerics,Working\Retired\
+mu_xN_ppn_check.py,D4 spent numerics,Working\Retired\
+open_gaps_pathway_probe_numerics.py,D5 spent tooling,Working\Retired\
+p_ds1_gh_entropy_check.py,D5 spent tooling,Working\Retired\
+p_ds2_nthickness_gh_link.py,D5 spent tooling,Working\Retired\
+p_ds3_modular_ds_link.py,D5 spent tooling,Working\Retired\
+p_ds4_observational_anchor.py,D5 spent tooling,Working\Retired\
+p0_10a_functorial_gns_numerics.py,D5 spent tooling,Working\Retired\
+p0_10ab_z2_crossed_product_numerics.py,D5 spent tooling,Working\Retired\
+p0_10b_crossed_product_numerics.py,D5 spent tooling,Working\Retired\
+p0_10c_product_state_numerics.py,D5 spent tooling,Working\Retired\
+p5_flux_dial_worksheet.py,D4 spent numerics,Working\Retired\
+paper_S1_worksheet_v0_2.py,D5 spent tooling,Working\Retired\
+paper_s2_br2d_j3_heat_kernel_numerics.py,D5 spent tooling,Working\Retired\
+paper_s2_chord_closure_numerics.py,K2 M_R numeric trace content,Working\
+paper_s2_d5_bps_prefactor_numerics.py,D5 spent tooling,Working\Retired\
+paper_s2_d5_factor_112_numerics.py,K2 M_R numeric trace content,Working\
+paper_s2_m2_z2_split_numerics.py,K2 M_R numeric trace content,Working\
+paper_s3_lambda_nte_numerics.py,D5 spent tooling,Working\Retired\
+paper_s3_m1_m2_numerics.py,D5 spent tooling,Working\Retired\
+paper_s3_m3_beta_gb_numerics.py,D5 spent tooling,Working\Retired\
+paper_s3_structural_f_numerics.py,D5 spent tooling,Working\Retired\
+paper_s4_lambda_proof_numerics.py,D5 spent tooling,Working\Retired\
+paper_s22_1_y_nu2_numerics.py,K2 M_R numeric trace content,Working\
+paper_s22_1b_y_nu1_bracket_numerics.py,K2 M_R numeric trace content,Working\
+paper_s22_1c_y_nu1_zero_param_numerics.py,K2 M_R numeric trace content,Working\
+paper_s22_1d_charged_lepton_yukawa_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1e_charged_lepton_gut_rge_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1f_embedding_depth_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1g_df_heat_kernel_delta_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1h_pmns_df_delta_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1i_bulk_surface_delta_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1j_yeff_stage3_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1k_sunshine_exit_closure_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1k_sunshine_exit_hunt_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1l_absolute_y0_numerics.py,D4 spent numerics,Working\Retired\
+paper_s22_1m_absolute_scale_d5_interface_numerics.py,D4 spent numerics,Working\Retired\
+pc_package_e5_scan.py,D5 spent tooling,Working\Retired\
+pc_pass_two_beta_apply.py,D5 spent tooling,Working\Retired\
+pc03_tier2_beta_audit.py,D4 spent numerics,Working\Retired\
+pdf_artifact_gate.py,D5 spent tooling,Working\Retired\
+phi_n_trajectory_br2.py,D5 spent tooling,Working\Retired\
+phi_n_trajectory_br2c.py,D5 spent tooling,Working\Retired\
+prepare_book_pdf.py,D5 spent tooling,Working\Retired\
+r4_z2_projection_numerics.py,D5 spent tooling,Working\Retired\
+rename_book_files.py,D5 spent tooling,Working\Retired\
+reopen_mojibake_pdf_gate_20260618.py,D5 spent tooling,Working\Retired\
+repair_astral_mojibake_corpus.py,D5 spent tooling,Working\Retired\
+s2_nf1_g_eff_numerics.py,D5 spent tooling,Working\Retired\
+s3_f2_fk_moments_numerics.py,D5 spent tooling,Working\Retired\
+s3_f3_dmu_refinement_numerics.py,D5 spent tooling,Working\Retired\
+s3_f3_dmu_trajectory_numerics.py,D5 spent tooling,Working\Retired\
+s3_f4_a6_tail_numerics.py,D5 spent tooling,Working\Retired\
+s3_full_suppression_sweep.py,D5 spent tooling,Working\Retired\
+s3_lambda_closure_check.py,D5 spent tooling,Working\Retired\
+scan_all_pdfs_mojibake.py,D5 spent tooling,Working\Retired\
+scan_pdf_scratch_heads.py,D5 spent tooling,Working\Retired\
+seed_ac_jammer_ledger_20260620.py,D5 spent tooling,Working\Retired\
+seed_kappa_closure_ledger_20260620.py,D5 spent tooling,Working\Retired\
+seed_ledger_ac_20260618.py,D5 spent tooling,Working\Retired\
+seed_ledger_book_lane_20260620.py,D5 spent tooling,Working\Retired\
+seed_ledger_hold_tranche_20260619.py,D5 spent tooling,Working\Retired\
+seed_pc_scratch_e8_ledger_20260620.py,D5 spent tooling,Working\Retired\
+Stage2_VNTE_Worksheet_v10_6.py,D5 spent tooling,Working\Retired\
+strip_book_workshop_dna.py,D5 spent tooling,Working\Retired\
+supervisor_corpus_grep_gates.py,D5 spent tooling,Working\Retired\
+supervisor_pdf_staleness.py,D5 spent tooling,Working\Retired\
+update_ledger_greg_signoff_20260619.py,D5 spent tooling,Working\Retired\
+update_ledger_task.py,D5 spent tooling,Working\Retired\
+v_nte_stage2_HH_perturbations_worksheet.py,D5 spent tooling,Working\Retired\
+verify_f1_self_correct_20260620.py,D5 spent tooling,Working\Retired\
+verify_popular_pdf.py,D5 spent tooling,Working\Retired\
+vnte_d1_bulk_boundary_numerics.py,D5 spent tooling,Working\Retired\
+void_dw_z_diagnostics.py,D5 spent tooling,Working\Retired\
+wagenveld_sprint_footprint_weights.py,D5 spent tooling,Working\Retired\
+write_mojibake_sweep_report.py,D5 spent tooling,Working\Retired\
+eta_Calculation.txt,K2 M_R numeric trace content,Working\
+HH_Calculation.txt,D4 spent numerics,Working\Retired\
+Kletetschka_2025_extracted.txt,D2 concluded/dormant research,Working\Retired\
+M1_Calculation.txt,D4 spent numerics,Working\Retired\
+reader_sync_diff.txt,D default (not P/K),Working\Retired\
+.cursor_handoff_poll.ps1,D default (not P/K),Working\Retired\
+apply_references_triage.py,D default (not P/K),Working\Retired\
+Companion13_deltaJ_Sign_Section_DRAFT_plus_Apply_Instructions_20260709.md,D default (not P/K),Working\Retired\
+the Arrow of Time.md,D default (not P/K),Working\Retired\
+Farnsworth_Stage0_Yukawa_Fixed_vs_Free_Cursor_Jammer_20260620.md,D default (not P/K),Working\Retired\
+Farnsworth_Stage1_Octonion_Algebra_LeftMult_Cursor_Jammer_20260620.md,D default (not P/K),Working\Retired\
+Farnsworth_Stage2_OO_Bimodule_Scaffold_Cursor_Jammer_20260620.md,D default (not P/K),Working\Retired\
+Farnsworth_Stage3_Neutrino_Block_Scaffold_Cursor_Jammer_20260620.md,D default (not P/K),Working\Retired\
+Farnsworth_Stage4Full_Associator_Envelope_Cursor_Jammer_20260621.md,D default (not P/K),Working\Retired\
+Farnsworth_Stage4_Hopf_Overlap_Scaffold_Cursor_Jammer_20260620.md,D default (not P/K),Working\Retired\
+Farnsworth_Stage5_Assemble_Compare_Cursor_Jammer_20260621.md,D default (not P/K),Working\Retired\
+Handoff_Scratch_Farnsworth_Stage5_Interpretation_Magnitude_FREE_OperatorTheory_Expects_4pi_Both_Legs_of_8pi_Undercut_Confirms_DF_Finding_20260621.md,D default (not P/K),Working\Retired\
+Handoff_Scratch_to_Cursor_AC_BUILD_SPEC_Farnsworth_Triple_nu2_Yukawa_HopfS3_Octonion_Octonion_Staged_DecisiveTests_20260619.md,D default (not P/K),Working\Retired\
+Octonionic_Spectral_Triple_Read_Farnsworth_BF_v1.md,D default (not P/K),Working\Retired\
+PATCHSET_CR_response_completion_v10_18_0.md,D default (not P/K),Working\Retired\
+PATCHSET_CR_response_ontology_v10_18_0.md,D default (not P/K),Working\Retired\
+PATCH_KappaNote_appendix_coefficient_survives_variation_v10_18_0.md,D default (not P/K),Working\Retired\
+PATCH_Part2_IX_cite_Boyle_Finn_Turok_v10_18_0.md,D default (not P/K),Working\Retired\
+The Physics of the Arrow of Time and Its Emergence_ A Grounded M.md,D default (not P/K),Working\Retired\
+Working_Cursor_Main_Exploration_Temporal_S3_Compactness_Dissolves_Emergence_Regress_NON_CANONICAL_20260707.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_Consolidated_Three_AC_Tasks_Mnu_star_vs_CPN_CPN_carries_more_Quaternionic_Time_DECORATIVE_Algebraic_Gap_H_plus_H_vs_H_tensor_H_Temporal_S3_PERMITTED_ONLY_sigma_H_Pivot_Fails_20260707.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_delta_J_Sign_Resolution_VERDICT_MAGNITUDE_ONLY_Three_Convention_Flips_Sign_Convention_Artifact_Not_Predicted_Scratch_Paper_Sec4_2_And_Sec8_Confirm_Sign_Neutral_Retreat_To_Magnitude_Recommended_20260706.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_N_t_Tilt_Map_Rest_Energy_To_Angle_Two_Poles_VERDICT_PENDING_CONSTRUCTIVE_Three_Adversarial_Pressure_Tests_Filed_SR_Reparameterisation_Risk_Infty_Mass_Claim_Candidate_Not_Forced_Pure_t_Pole_At_Risk_20260708.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_PUSH_FOR_SIGN_NO_SMUGGLED_CONVENTION_FOUND_Direct_Route_Shared_e1_Airtight_Piece_A_Constructible_With_Mass_Ordering_As_Legit_Experimental_Input_Sign_Stands_If_Scratch_Piece_A_Yields_Definite_Value_20260706.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_RETASK_delta_J_signJ_NO_FREE_FLIP_Under_Fixed_Matter_Lens_Prior_MAGNITUDE_ONLY_Verdict_WITHDRAWN_All_Three_Prior_Flips_Fail_Four_Additional_Candidates_All_Broken_Sign_Likely_FORCED_20260706.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_StressTest_and_CrossSector_Probe_on_Scratch_FORCED_UNCOMPUTED_VERDICT_CONVERGENT_Prior_No_Smuggled_Convention_Verdict_Owned_As_Insufficient_Cross_Sector_J3O_Probe_Cannot_Fix_CP_Parity_Endorse_Scratch_Sec6_Wording_20260706.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_StressTest_of_Scratch_FORCED_UNCOMPUTED_Verdict_CONVERGENT_e1_Orientation_IS_Matter_Orientation_Survives_Four_Probes_My_Sec4_4_Chirality_Complex_Structure_Conflation_Owned_As_Real_Error_20260706.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_Task_B_K_Phi_Predictive_Test_VERDICT_SCAFFOLDING_at_K_Phi_to_ns_r_Level_All_Three_Failure_Modes_Fire_Q2_Resolves_as_Complexification_via_N_t_Tilt_Wick_Verdict_Two_Tier_Honest_Positioning_20260708.md,D default (not P/K),Working\Retired\
+Working_Jammer_Adversarial_Verification_of_Scratch_Two_Constructive_Derivations_Mnu_star_vs_CPN_CONVERGENT_Endorse_Sec6_Refined_Wording_N_t_Tilt_Map_CONVERGENT_soft_DISTINCTIVE_EXPLANATION_Three_Pressure_Tests_Pass_20260708.md,D default (not P/K),Working\Retired\
+Working_Scratch_Constructive_delta_J_signJ_FORCED_not_free_locked_to_matter_orientation_via_e1_complex_structure_value_uncomputed_diverges_from_magnitude_only_20260706.md,D default (not P/K),Working\Retired\
+Working_Scratch_Constructive_Mnu_star_vs_CPN_P0_10b_VERDICT_CPN_supsetneq_CP_signflip_is_CP_not_CPN_absolute_sign_gauge_redundant_relative_sign_free_deposit_wording_20260707.md,D default (not P/K),Working\Retired\
+Working_Scratch_Constructive_Nt_Tilt_Map_RestEnergy_to_Angle_Wick_not_2T_no_ghost_pure_t_pole_m_to_infinity_unreachable_no_tachyon_DISTINCTIVE_EXPLANATION_20260708.md,D default (not P/K),Working\Retired\
+Working_Scratch_Constructive_PUSH_FOR_SIGN_delta_J_FORCED_UNCOMPUTED_CPparity_free_spectral_data_proven_not_fixed_by_mass_ordering_or_B_diverges_from_sign_stands_20260706.md,D default (not P/K),Working\Retired\
+Working_Scratch_Eval_Boyle_Finn_Turok_CPT_Symmetric_Universe_vs_NTE_v10_18_0_20260705.md,D default (not P/K),Working\Retired\
+Working_Scratch_Eval_Ciambelli_Freidel_Leigh_QuantumNullGeometry_vs_NTE_v10_18_0_20260705.md,D default (not P/K),Working\Retired\
+Working_Scratch_Eval_Grady_Chishtie_PhaseBoundary_EmergentTime_Relatives_vs_NTE_v10_18_0_20260705.md,D default (not P/K),Working\Retired\
+Working_Scratch_Jammer_CPN_Involution_FixedLocus_CLEAN_NEGATIVE_CONVERGENT_Constructive_Leg_Sigma_H_Is_The_Z2_That_Fixes_S3_Not_CPN_Task_Withdrawn_Filed_As_OnRecord_DualStream_Closure_20260706.md,D default (not P/K),Working\Retired\
+Working_Scratch_Jammer_delta_J_PUSH_FOR_SIGN_Compute_Two_Missing_Pieces_COMPLETE_20260707.md,D default (not P/K),Working\Retired\
+_triage_working_candidates_20260922.py,D5 spent tooling (pass1 triage),Working\Retired\
+Working_Candidates_Triage_Report_20260922.md,Pass2: retire Pass1 report,Working\Retired\
+AC_Assessment_Scratch_FS_Geometry_Theta23_Reflection_Paths_Endorsed_RealContent_deltaCP_HalfPi_And_Natural_Theta13_Hinge_On_ForceVsPermit_AC_Adds_deltaJ_HalfPi_Coherence_Check_To_GateC_D_20260624.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+AC_Foundations_Probe_Black_Hole_Octonionic_Decomposition_Scoping_v0_1_20260530.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Assessment_Parattu_Padmanabhan_Boundary_Counterterm_NTE_v0_1_20260616.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+BF2020_Bridge_Commitment_Preservation_Analysis_Jammer_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+C3_Anisotropic_Extension_Dipolar_Chirality_Wagenveld_Direction_Forward_Research_Scoping_Claude_Jammer_20260613.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CLFV_2A_Extension_mbb_From_R_Frozen_Sigma12_Degeneracy_Forward_Research_Scoping_Claude_Jammer_20260613.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Connes_Rovelli_1994_Thermal_Time_Hypothesis_Axiom_Filter_Pass_Jammer_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Cosmic_Dipole_Anomaly_Axiom_Filter_Pass_Scratch_v0_1_20260527.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_Primordial_Unification_Conjecture_Assessment_20260618.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_S1_Hopf_Orientation_under_N_Scratch_Determination_20260618.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_S1_S22_17_Theta_Sign_Verification_20260618.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_S3_Literature_RabbitHole_Cursor_20260617.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_S3_Literature_RabbitHole_Cursor_20260618.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_T1_SameT_EvenPhi_Leg_Determination_20260618.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_T1_Symbolic_Parity_Cursor_20260617.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_T2_PreScoping_Under_S1_Concession_Path_P5_Dissolved_Primordial_Unification_Salvage_Claude_Jammer_20260617.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CPN_Universe_Pair_T2_Toy_Junction_Cursor_20260617.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Cross_Fertilization_Verlinde_Zurek_Task4_Session1_Q1_Q4_Jammer_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+CRUNCH_DD_Hopf_Descent_RESOLVED_COINCIDENCE_NOT_FORCING_No_Manifold_Both_Stable_And_Gleason_Forced_Two_Sector_Split_Forced_Scratch_20260625.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+EXTERNAL_ColdReferee_Review_Four_Standalones_P5_kappa0_F1_P4_GregSupplied_20260618.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+External_Empirical_Surface_Strange_Quantum_Experiments_Scoping_Scratch_v0_1_20260527.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+External_Paper_Reframing_Paths_Catalogue_Jammer_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+External_Paper_Reframing_Susskind_3PDFs_NTE_Axioms_Claude_Jammer_20260601.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+External_Paper_Sunshine_Kletetschka_3DTime_NTE_Reframing_Programme_Launch_Claude_Jammer_20260610.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Filter_Report_NCG_New_Folder_Thermal_Time_NC_Cluster_Jammer_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Gate0_Worksheet_Generation_Equals_HopfCharge_n_Quantitative_Fit_LOOSE_FAILS_4pi_n1_Already_Canonical_Sequence_Worsens_n0_Massless_Hook_Survives_Scratch_20260623.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Investigation_FS_Force_vs_Permit_Antilinear_Z2_Scratch_GateB_CONDITIONAL_FORCED_Sigma2_Odd_Majorana_Phase_PiHalf_Forces_Reflection_deltaCP_HalfPi_GateC_CPN_Decisive_20260624.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Investigation_FS_Force_vs_Permit_Antilinear_Z2_Scratch_v1_GateA_PASS_Det_Minus1_Obstruction_Basis_Independent_Antiunitary_Only_GateB_Decisive_20260624.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+KSIP_A_Kletetschka_Primary_Source_Verification_Cursor_Main_20260613.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Connes_Programme_BF2020_Bridge_Investigation_Scoping_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Connes_Programme_BF2020_Bridge_Investigation_Scratch_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Connes_Programme_P0_6_5_Full_Closure_BF2020_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Connes_Programme_P0_7_Scratch_BF2013_Direct_Read_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Connes_Programme_P0_8_OctonionExtension_Farnsworth2025_Crosscheck_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Connes_Programme_P0_9_Marcolli_VE_Convention_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Connes_Programme_P0_External_Literature_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_External_Positioning_Frame_Related_Work_Honest_Scope_Spine_Class_Neighbours_Singh_Distinct_Implementation_No_Numerology_Stance_NotNewWork_Clause_Template_AC_20260622.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Governance_Note_NoNumerology_Scope_Clarification_Ratified_Additions_Only_Investigation_Pathways_Open_Offset_Pattern_Thread_Flagged_Greg_20260623.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Investigation_Note_Pattern_In_Required_Offsets_FirstPass_Neutrino_Sector_Cluster_1p55_Li7_1p58_mnu3_1p49_Solar_1p58_Shared_Normalization_Hypothesis_Discriminator_AC_20260624.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Note_CPN_T1_PassConditional_Findings_Recorded_Crux3_Derived_Crux1_Contingent_Part1_Implications_EvenProfile_Lever_AC_20260623.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Note_CPN_T1_SameT_CORRECTED_EvenPhi_Established_KPhi_ExactMetricOnly_S1_OneThickness_Coupled_GH_Inapplicable_Part1_C1_C4_Supersedes_Morning_AC_20260623.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Provenance_Audit_ARCHITECTURE_Prior_Art_Singh_Octonionic_Theory_Same_Class_Emergent_Time_Octonion_NCG_Differentiators_N_Coordinate_S3xS1_Hopf_AC_20260622.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Provenance_Audit_CHECK_Resolutions_Associativity_Prior_Art_Gogberashvili_Koplinger_CoreThesis_Crowded_EmergentTime_Kappa0_Inconclusive_AC_20260622.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Time_Dimension_Count_Chirality_Retraction_Complex_N_Plane_Proposal_PENDING_FACT_CHECK_Claude_Jammer_20260610.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_Time_Dimension_Count_Clarification_KSIP_Reframe_Susskind_Primary_Outreach_Posture_Claude_Jammer_20260610.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_vs_Singh_Octonionic_Theory_Overlap_Differentiation_Map_Stronger_Simpler_Verdict_Simpler_Yes_Stronger_No_Singh_Derives_QM_Measurement_Alpha_NTE_Assumes_More_Agnostic_AC_20260622.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+NTE_x_Singh_Synthesis_Potential_Alpha_137_Honest_Read_Weakest_Claim_Numerology_NotPeerReviewed_Base_Incommensurable_Trade_Candidates_NCoordinate_Export_MassRatio_Inspiration_Work_Retains_Value_AC_20260622.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+P5_v0_3_Zenodo_Changelog_20260601.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Programme_S_Status_v1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Wagenveld_Sprint_Coordination_Register_v0_1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Wagenveld_Sprint_Joint_Fit_DOF_Accounting_v0_1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Wagenveld_Sprint_Phase_I_Pattern_Characterisation_v0_1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+Wagenveld_Sprint_Phase_I_S8_Correction_Supplement_v0_1.md,D2 (Pass2 cleanup; loose guard retracted),Working\Retired\
+prepare_master_pdf.py,D5 candidate twin of live P1 Working script,Working\Retired\
+prepare_paper_pdf.py,D5 candidate twin of live P1 Working script,Working\Retired\
+strip_publication_tail.py,D5 candidate twin of live P1 Working script,Working\Retired\
+_p5_prepare_test.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+apply_companion_v10_17_2.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Candidate_Pathway_Neutrino_Atmospheric_ChiralitySuperposition_KillingSpinor_Scratch_Claude_20260601 (1).md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Candidate_Pathway_Neutrino_Atmospheric_ChiralitySuperposition_KillingSpinor_Scratch_Claude_20260601.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+CO00A2~1.MD,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+COD347~1.MD,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+COE381~1.MD,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+COEFB4~1.MD,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Companion_12_v10_17_2_Scratch_CR_Verification_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Companion_13_v10_17_2_Scratch_CR_Verification_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Connes_Programme_Charter_v1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Connes_Programme_Launch_Plan_v1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Corpus_Sunshine_Path_Audit_Results_Scratch_P0_20260525.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+CPN_Universe_Pair_S1_Gibbons_Hartle_Conserved_Charge_Audit_Concession_Path_Likely_Hopf_Charge_Open_Claude_Jammer_20260617.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+CPN_Universe_Pair_T1_Jammer_Side_Parity_Computation_PASS_DERIVED_Claude_Jammer_20260617.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+CR2_B1_Killing2_vs_Adjoint3_Neutrino_Pathway_Scratch_Claude_20260601.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+CR2_Programme_S_F6_Collateral_Scan_Cursor_Jammer_20260601.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Eta_Asymmetry_Magnitude_Reframing_Audit_v2.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+eta_Calculation.txt,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+eta_precondition_check_worksheet.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+gap1_pathwayA_session2_worksheet.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Jammer_J2_P0_10c_Full_Algebra_Spec_v0_1_20260524.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Jammer_M2_Z2_Split_Derive_v0_1_20260524.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+M1_From_Geometry_E_search.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Master_v10_10_Tier1_Patch_Instructions_Programme_S_Spine_20260523.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Master_v10_14_Tier2d_Patch_Instructions_PaperS2_S2C_20260523.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Master_v10_15_Tier2e_Patch_Instructions_PaperS2_S2E_20260523 (1).md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Master_v10_15_Tier2e_Patch_Instructions_PaperS2_S2E_20260523.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Master_v10_8_to_v10_9_Patch_Instructions_A6_FalsifiabilityCatalogue_Consolidation_20260523.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+NTE_Pedagogical_Pivot_Companions_Register.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+NTE_Provenance_Audit_New_vs_ReDerived_vs_Imported_First_Pass_AC_20260622.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+NTE_Standalone_Claims_Inventory_v0_1_20260524.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+NTE_Standalone_Claims_Inventory_v0_2_20260524.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+NTE_vs_Singh_Octonionic_Theory_Precise_Overlap_Differentiation_Map_Stronger_Simpler_Verdict_Parsimony_Edge_Singh_Derives_QM_Alpha_AC_20260622.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Package_E8b_P4_Pivot_CLFV_Sister_Prediction_Replacement_Prose_Draft_PC_20260618.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+paper_s22_1_y_nu2_numerics.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+paper_s22_1b_y_nu1_bracket_numerics.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+paper_s22_1c_y_nu1_zero_param_numerics.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+paper_s2_chord_closure_numerics.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_Chord_Closure_Synthesis_v1_0_20260524.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+paper_s2_d5_factor_112_numerics.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+paper_s2_m2_z2_split_numerics.py,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_HeatKernel_Phase_I_Item_2_D_F_Yukawa_Structure_Jammer_v0_2_20260529.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_S2A_Operator_Setup_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_S2B_Coefficients_Plus_Kappa0_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_S2CB_a4_Weyl_Euler_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_S2CC_DF_Subleading_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_S2E_AC_Integration_Package_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_Scope_and_Attack_Route_v0_1_20260523.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Paper_S2_v1_0_Scratch_CR_Verification_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+PC_Scoping_Memo_Corpus_State_and_Pedagogical_Opportunities_20260613.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Popular_Paper_Spectral_Action_v1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Programme_S_Paper_S6_v1_0_Canonical_Synthesis_Post_Cursor_20260526.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Scratch_Adversarial_Review_AC_Wagenveld_Sprint_v0_1_20260528.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Scratch_Kappa0_to_XiV_Rename_Routing_Report_v0_1_20260528.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Scratch_Wagenveld_Sprint_Candidate_2_5_Phase_III_5_1_Seed_Amplitude_v0_1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Sigma_t_Phi_NTE_Investigation_Direction_2_BottomUp_Jammer_v1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Twistor_Theory_Axiom_Filter_Pass_Jammer_v1.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\
+Working_FalsifierSearch_Unitary_CPN_TwoLayer_Opening_Scoping_Claude_Jammer_20260610.md,Pass3 list A (K2-MR overkeep withdrawn),Working\Retired\

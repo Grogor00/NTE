@@ -1,0 +1,21 @@
+{
+    "enabled":  true,
+    "streams":  {
+                    "main":  {
+                                 "enabled":  true,
+                                 "tick_minutes":  3
+                             },
+                    "ac_jammer":  {
+                                      "enabled":  true,
+                                      "tick_minutes":  5
+                                  },
+                    "pc_scratch":  {
+                                       "enabled":  true,
+                                       "tick_minutes":  7
+                                   },
+                    "supervisor":  {
+                                       "enabled":  true,
+                                       "tick_minutes":  60
+                                   }
+                }
+}
