@@ -35,3 +35,9 @@ Handoffs/_scratch_*
 potential/
 **/*.pdf
 !Core_Papers/.gitkeep
+
+# Historical archaeology tree — track binaries so the Desktop copy can be retired
+!NTE_historical_archive/
+!NTE_historical_archive/**
+NTE_historical_archive/.tmp.drivedownload/
+NTE_historical_archive/.tmp.driveupload/
