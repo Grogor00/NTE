@@ -1,0 +1,18 @@
+{
+  "status": "DIVERGED",
+  "round": 1,
+  "converged": false,
+  "history": [
+    {
+      "round": 1,
+      "agree": false,
+      "note": "tag-agree 2/12"
+    },
+    {
+      "round": 1,
+      "agree": false,
+      "note": "tag-agree 9/12"
+    }
+  ],
+  "updated_utc": "2026-10-06T22:10:55Z"
+}

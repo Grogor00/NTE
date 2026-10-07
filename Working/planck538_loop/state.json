@@ -1,0 +1,395 @@
+{
+  "programme": "planck538_comparable_recovery",
+  "status": "EXHAUSTED",
+  "created_utc": "2026-10-06T14:00:00Z",
+  "updated_utc": "2026-10-06T14:21:46Z",
+  "target_band": [
+    5.23,
+    5.53
+  ],
+  "planck_central": 5.38,
+  "planck_sigma": 0.15,
+  "note": "V alone is insufficient; C (cold/collisionless/colocated) required. kappa=5.50 already in V band.",
+  "round": 13,
+  "active_path_ids": [],
+  "converged": false,
+  "stop_requested": true,
+  "path_queue": [
+    {
+      "id": "P01",
+      "title": "Ghost-free C2 amplifier without hand S_cons",
+      "status": "failed",
+      "v_hope": "r_bg~5.50 in band",
+      "c_risk": "high \u2014 CPN hot twin / location-blind"
+    },
+    {
+      "id": "P02",
+      "title": "Hassan-Rosen healthy branch structural beta_n",
+      "status": "failed",
+      "v_hope": "branch-dependent r_bg",
+      "c_risk": "medium \u2014 may be DE-like not CDM"
+    },
+    {
+      "id": "P03",
+      "title": "Action-level Hopf C1 + separate structural cold CDM",
+      "status": "failed",
+      "v_hope": "cold sector abundance in band",
+      "c_risk": "medium \u2014 must stay NTE-allowed no-f"
+    },
+    {
+      "id": "P04",
+      "title": "Scale-split location lock + structural abundance",
+      "status": "failed",
+      "v_hope": "co-location restore + ratio",
+      "c_risk": "high \u2014 ell_c was adopted not derived"
+    },
+    {
+      "id": "P05",
+      "title": "Rest-energy bridge + deposited cold mechanism",
+      "status": "failed",
+      "v_hope": "ratio from rest-mass coupling",
+      "c_risk": "high \u2014 prior Hkappa cold paths failed"
+    },
+    {
+      "id": "P06",
+      "title": "P-newDM / foam structural abundance in band",
+      "status": "failed",
+      "v_hope": "new component Omega ratio",
+      "c_risk": "medium \u2014 ontology permit required"
+    },
+    {
+      "id": "P07",
+      "title": "Heavy shared Majorana M>>T_CMB structural abundance",
+      "status": "failed",
+      "v_hope": "cold nu relic structural",
+      "c_risk": "medium \u2014 abundance must not be fitted"
+    },
+    {
+      "id": "P08",
+      "title": "Single-metric matter + HR massive graviton as dark component",
+      "status": "failed",
+      "v_hope": "graviton/DM branch ratio",
+      "c_risk": "high \u2014 CPN twin bookkeeping break"
+    },
+    {
+      "id": "P09",
+      "title": "Forced monopole F2+ source law + ell_c derived or fail",
+      "status": "failed",
+      "v_hope": "monopole filter + ratio",
+      "c_risk": "high \u2014 F2+ was M2 not forced"
+    },
+    {
+      "id": "P10",
+      "title": "Janus heat-kernel Seeley-DeWitt structural rho_extra/rho_b",
+      "status": "failed",
+      "v_hope": "a2/kappa0 spine abundance",
+      "c_risk": "medium \u2014 may only recover kappa0 not CDM"
+    },
+    {
+      "id": "P11",
+      "title": "Parity (-1)^l filter + O1* rest-energy (character-first)",
+      "status": "failed",
+      "v_hope": "filtered twin stress",
+      "c_risk": "high \u2014 may still be hot"
+    },
+    {
+      "id": "P12",
+      "title": "Bilateral GHY / boundary-impedance dust structural coefficient",
+      "status": "failed",
+      "v_hope": "Door B bookkeeping dust",
+      "c_risk": "high \u2014 may not be CDM"
+    },
+    {
+      "id": "P13",
+      "title": "Derive twin x=T'/T from Janus/N-thickness then character-test",
+      "status": "failed",
+      "v_hope": "x-driven effective ratio",
+      "c_risk": "high \u2014 cold x forbids kappa CPN"
+    },
+    {
+      "id": "P14",
+      "title": "HR matter-branch graviton structural m from fibre/MR bilateral matter kept",
+      "status": "failed",
+      "v_hope": "graviton Omega structural",
+      "c_risk": "medium \u2014 DE vs CDM branch"
+    },
+    {
+      "id": "P15",
+      "title": "Janus N-thickness bilateral Casimir gap rho_gap/rho_b",
+      "status": "failed",
+      "v_hope": "structural Casimir dust",
+      "c_risk": "high \u2014 may be DE/Lambda-like"
+    },
+    {
+      "id": "P16",
+      "title": "Hopf-fibre KK tower relic from fibre radius alone",
+      "status": "failed",
+      "v_hope": "KK relic structural",
+      "c_risk": "medium \u2014 sterile/KK ontology conflict"
+    },
+    {
+      "id": "P17",
+      "title": "CPN nucleation defect network structural tension mu",
+      "status": "failed",
+      "v_hope": "defect Omega structural",
+      "c_risk": "high \u2014 topological defects vs CDM"
+    },
+    {
+      "id": "P18",
+      "title": "Euclidean to Lorentzian locking relic cold residue",
+      "status": "failed",
+      "v_hope": "locking-era relic",
+      "c_risk": "high \u2014 may be hot or undeposited"
+    },
+    {
+      "id": "P19",
+      "title": "PBH relics from Janus nucleation/locking spectrum",
+      "status": "failed",
+      "v_hope": "PBH Omega structural",
+      "c_risk": "high \u2014 spectrum may not be deposited"
+    },
+    {
+      "id": "P20",
+      "title": "Hopf S1 geometric axion/theta structural fa misalignment",
+      "status": "failed",
+      "v_hope": "axion misalignment structural",
+      "c_risk": "medium \u2014 may need dial theta_i"
+    },
+    {
+      "id": "P21",
+      "title": "Gauge-birth/locking bubble-wall network from T_GB scales",
+      "status": "failed",
+      "v_hope": "wall network Omega",
+      "c_risk": "high \u2014 walls vs CDM"
+    },
+    {
+      "id": "P22",
+      "title": "CPN Israel thin-shell dust branch not GHY/Casimir DE",
+      "status": "failed",
+      "v_hope": "thin-shell dust ratio",
+      "c_risk": "high \u2014 may not be cold CDM"
+    },
+    {
+      "id": "P23",
+      "title": "G2 to SU3 vacuum-selection defect/texture geometric",
+      "status": "failed",
+      "v_hope": "texture Omega structural",
+      "c_risk": "high \u2014 defects vs CDM"
+    },
+    {
+      "id": "P24",
+      "title": "Shared-nu bilateral stress independent CDM packet not kappa amplifier",
+      "status": "failed",
+      "v_hope": "nu stress as CDM",
+      "c_risk": "high \u2014 hot/N1 closed as CDM"
+    },
+    {
+      "id": "P25",
+      "title": "Unresolved-nu fibre Fourier condensate",
+      "status": "failed",
+      "v_hope": "fibre condensate Omega",
+      "c_risk": "high \u2014 may be hot or N1 rename"
+    },
+    {
+      "id": "P26",
+      "title": "Companion-4 beta to 1 geometric-resonance leftover not relaxion",
+      "status": "failed",
+      "v_hope": "resonance leftover Omega",
+      "c_risk": "medium \u2014 may lack abundance lemma"
+    }
+  ],
+  "history": [
+    {
+      "round": 1,
+      "paths": [
+        "P01",
+        "P02"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:05:23Z"
+    },
+    {
+      "round": 2,
+      "paths": [
+        "P03",
+        "P04"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:06:50Z"
+    },
+    {
+      "round": 3,
+      "paths": [
+        "P05",
+        "P06"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:08:07Z"
+    },
+    {
+      "round": 4,
+      "paths": [
+        "P07",
+        "P08"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:09:22Z"
+    },
+    {
+      "round": 5,
+      "paths": [
+        "P09",
+        "P10"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:10:40Z"
+    },
+    {
+      "round": 6,
+      "paths": [
+        "P11",
+        "P12"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:12:04Z"
+    },
+    {
+      "round": 7,
+      "paths": [
+        "P13",
+        "P14"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:13:23Z"
+    },
+    {
+      "round": 8,
+      "paths": [
+        "P15",
+        "P16"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:14:56Z"
+    },
+    {
+      "round": 9,
+      "paths": [
+        "P17",
+        "P18"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:16:30Z"
+    },
+    {
+      "round": 10,
+      "paths": [
+        "P19",
+        "P20"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:17:44Z"
+    },
+    {
+      "round": 11,
+      "paths": [
+        "P21",
+        "P22"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:19:16Z"
+    },
+    {
+      "round": 12,
+      "paths": [
+        "P23",
+        "P24"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:20:34Z"
+    },
+    {
+      "round": 13,
+      "paths": [
+        "P25",
+        "P26"
+      ],
+      "V": "FAIL",
+      "C": "FAIL",
+      "A": "FAIL",
+      "L": "FAIL",
+      "note": "gates {'V': 'FAIL', 'C': 'FAIL', 'A': 'FAIL', 'L': 'FAIL'}",
+      "scored_utc": "2026-10-06T14:21:36Z"
+    }
+  ],
+  "closed_negative": [
+    {
+      "id": "N1_bilkinetic",
+      "reason": "hot / DeltaN_eff; kappa0 absent; not CDM (BL-1 dual-lane 2026-10-07)"
+    },
+    {
+      "id": "R12_P23",
+      "reason": "failed or not sustained in round R12 score"
+    },
+    {
+      "id": "R12_P24",
+      "reason": "failed or not sustained in round R12 score"
+    },
+    {
+      "id": "R13_P25",
+      "reason": "failed or not sustained in round R13 score"
+    },
+    {
+      "id": "R13_P26",
+      "reason": "failed or not sustained in round R13 score"
+    }
+  ],
+  "final_ruling": "EXHAUSTED: R01-R13 killed P01-P26; no V+C+A+L survivor under deposited ontology; kappa~5.50 is V-only"
+}

@@ -1,0 +1,154 @@
+{
+  "generated_utc": "2026-10-06T21:55:43Z",
+  "programme": "nu_single_kinetic_cost",
+  "n_readings": 6,
+  "drop_ids": [
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5"
+  ],
+  "amendment_ids": [
+    "R1",
+    "R2",
+    "R3",
+    "R5"
+  ],
+  "fatal_ids": [
+    "R4"
+  ],
+  "keep_kappa0_bilateral_z2_ids": [
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "suggested_fork_hint": "K3",
+  "claims": {
+    "D_both_EOM_stress": "Part 2: \u03bd stress-energy appears in both Einstein equations",
+    "D_bound_both_curvature": "Part 2 / C7: unresolved \u03bd bound to curvature of both orientations",
+    "D_bilateral_support": "C5/C7: bilateral support across CPN orientations (geometry)",
+    "D_bridge_kappa0": "\u03ba\u2080 from Hopf Y\u2080\u2080 overlap (C7 \u00a74) \u2014 coupling strength",
+    "D_shared_backbone": "Part 2: mirror matter couples through neutrino backbone",
+    "D_z2_even": "Unresolved \u03bd is Z\u2082-even (not locked to one orientation)",
+    "D_bilateral_action": "Part 2 \u00a7IX: shared neutrino sector in single bilateral action",
+    "D_amplifier": "Mirror feedback \u03ba\u2080/(1\u2212\u03ba\u2080) \u2014 already withdrawn as actionless (ratified)"
+  },
+  "readings": [
+    {
+      "id": "R0",
+      "name": "Keep dual-kinetic \u03bd (status quo deposit reading)",
+      "drops_second_kinetic": false,
+      "claim_fate": {
+        "D_both_EOM_stress": "survive",
+        "D_bound_both_curvature": "survive",
+        "D_bilateral_support": "survive",
+        "D_bridge_kappa0": "survive",
+        "D_shared_backbone": "survive",
+        "D_z2_even": "survive",
+        "D_bilateral_action": "survive",
+        "D_amplifier": "withdrawn"
+      },
+      "ghost_outlook": "generally_ghost_1408",
+      "ontology_cost": "none",
+      "suggested_k": "n_a_baseline",
+      "notes": "Preserves literal Part 2 both-EOM stress; blocked by 1408 for HR completion."
+    },
+    {
+      "id": "R1",
+      "name": "Single kinetic on g\u207a; bilateral = geometric overlap only",
+      "drops_second_kinetic": true,
+      "claim_fate": {
+        "D_both_EOM_stress": "re_read",
+        "D_bound_both_curvature": "re_read",
+        "D_bilateral_support": "survive",
+        "D_bridge_kappa0": "survive",
+        "D_shared_backbone": "re_read",
+        "D_z2_even": "survive",
+        "D_bilateral_action": "re_read",
+        "D_amplifier": "withdrawn"
+      },
+      "ghost_outlook": "hr_viable_if_potential_ok",
+      "ontology_cost": "amendment",
+      "suggested_k": "K1",
+      "notes": "Claims 'bound to both' as geometry/\u03ba\u2080, not second kinetic. Needs deposit re-read of 'appears in both EOMs'."
+    },
+    {
+      "id": "R2",
+      "name": "Single kinetic + explicit deposit amendment of both-EOM stress",
+      "drops_second_kinetic": true,
+      "claim_fate": {
+        "D_both_EOM_stress": "die",
+        "D_bound_both_curvature": "re_read",
+        "D_bilateral_support": "survive",
+        "D_bridge_kappa0": "survive",
+        "D_shared_backbone": "re_read",
+        "D_z2_even": "survive",
+        "D_bilateral_action": "re_read",
+        "D_amplifier": "withdrawn"
+      },
+      "ghost_outlook": "hr_viable_if_potential_ok",
+      "ontology_cost": "amendment",
+      "suggested_k": "K2",
+      "notes": "Honest: rewrite Part 2 sentence on both-EOM \u03bd stress. Not a free re-read."
+    },
+    {
+      "id": "R3",
+      "name": "Split: \u03ba\u2080 + Z\u2082-even geometry survive; dual T_\u03bd dies",
+      "drops_second_kinetic": true,
+      "claim_fate": {
+        "D_both_EOM_stress": "die",
+        "D_bound_both_curvature": "survive",
+        "D_bilateral_support": "survive",
+        "D_bridge_kappa0": "survive",
+        "D_shared_backbone": "re_read",
+        "D_z2_even": "survive",
+        "D_bilateral_action": "re_read",
+        "D_amplifier": "withdrawn"
+      },
+      "ghost_outlook": "hr_viable_if_potential_ok",
+      "ontology_cost": "amendment",
+      "suggested_k": "K3",
+      "notes": "Sharpest split: C7 \u03ba\u2080/bilateral geometry \u2260 Part 2 dual kinetic stress sentence."
+    },
+    {
+      "id": "R4",
+      "name": "Single kinetic kills backbone (no cross-orientation coupling left)",
+      "drops_second_kinetic": true,
+      "claim_fate": {
+        "D_both_EOM_stress": "die",
+        "D_bound_both_curvature": "die",
+        "D_bilateral_support": "die",
+        "D_bridge_kappa0": "die",
+        "D_shared_backbone": "die",
+        "D_z2_even": "re_read",
+        "D_bilateral_action": "die",
+        "D_amplifier": "withdrawn"
+      },
+      "ghost_outlook": "standard_gr_one_sided",
+      "ontology_cost": "fatal",
+      "suggested_k": "K4",
+      "notes": "Only if bilateral work required dual kinetic with no HR/overlap substitute."
+    },
+    {
+      "id": "R5",
+      "name": "Single kinetic + P\u0303(\u03d5)-style potential couple to g\u207b (1408 \u00a7IV)",
+      "drops_second_kinetic": true,
+      "claim_fate": {
+        "D_both_EOM_stress": "re_read",
+        "D_bound_both_curvature": "re_read",
+        "D_bilateral_support": "survive",
+        "D_bridge_kappa0": "re_read",
+        "D_shared_backbone": "re_read",
+        "D_z2_even": "survive",
+        "D_bilateral_action": "re_read",
+        "D_amplifier": "withdrawn"
+      },
+      "ghost_outlook": "1408_safe_subclass",
+      "ontology_cost": "amendment",
+      "suggested_k": "K3",
+      "notes": "Literature-safe double *potential* couple \u2260 dual kinetic. \u03ba\u2080 identity not automatic."
+    }
+  ],
+  "prior": "G2 corridor from cpn_gravity R01"
+}

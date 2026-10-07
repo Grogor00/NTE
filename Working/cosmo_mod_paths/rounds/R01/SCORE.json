@@ -1,0 +1,35 @@
+{
+  "round": 1,
+  "Scratch": {
+    "P01": "KEEP",
+    "P02": "KEEP",
+    "P03": "KEEP",
+    "P04": "KEEP",
+    "P05": "COST",
+    "P06": "COST",
+    "P07": "KEEP",
+    "P08": "PRES",
+    "P09": "KEEP",
+    "P10": "KILL",
+    "P11": "KILL",
+    "P12": "COST"
+  },
+  "Jammer": {
+    "P01": "KEEP",
+    "P02": "COST",
+    "P03": "KEEP",
+    "P04": "KEEP",
+    "P05": "COST",
+    "P06": "COST",
+    "P07": "KEEP",
+    "P08": "PRES",
+    "P09": "COST",
+    "P10": "KILL",
+    "P11": "KILL",
+    "P12": "KILL"
+  },
+  "n_compared": 12,
+  "n_agree": 9,
+  "agree_all": false,
+  "scored_utc": "2026-10-06T22:10:55Z"
+}

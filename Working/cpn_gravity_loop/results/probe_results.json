@@ -1,0 +1,347 @@
+{
+  "generated_utc": "2026-10-06T21:49:22Z",
+  "programme": "CPN relation + gravity completion",
+  "cpn": {
+    "n_candidates": 8,
+    "full_work_ids": [
+      "M5"
+    ],
+    "deposited_full_work_ids": [],
+    "partial_survivor_ids": [
+      "M1",
+      "M2",
+      "M3",
+      "M4",
+      "M6"
+    ],
+    "m0_fails_work": true,
+    "suggested_fork_hint": "P2",
+    "requirements": {
+      "R_baryon_sort": "Can implement \u00a78.4 matter\u2192+N / antimatter\u2192\u2212N sorting",
+      "R_not_gauge": "Not merely unobservable fibre phase on resolved matter (C7)",
+      "R_su2r": "Can underwrite SU(2)_R \u2192 mirror (\u00a78.5\u20138.6)",
+      "R_MA_MB": "Can underwrite M_A = M_B (C5 \u00a76 apparatus)",
+      "R_acts_on_N": "Acts on N-thickness / e-fold orientation (Part 1 \u00a72.1.2)",
+      "R_deposited": "Explicitly deposited as a formula or operator locus",
+      "R_free_symmetry": "Compatible with antipodal as free symmetry (not RP\u00b3 quotient)"
+    },
+    "maps": [
+      {
+        "id": "M0",
+        "name": "Deposited fibre half-turn z\u2192\u2212z = e^{i\u03c0}",
+        "geometric_content": "Hopf U(1) fibre rotation by \u03c0; identity on S\u00b2 base",
+        "scores": {
+          "R_baryon_sort": false,
+          "R_not_gauge": false,
+          "R_su2r": false,
+          "R_MA_MB": false,
+          "R_acts_on_N": false,
+          "R_deposited": true,
+          "R_free_symmetry": true
+        },
+        "full_work": false,
+        "deposited": true,
+        "notes": "O2 C-3 object. Deposit formula; fails deposit-work.",
+        "o2_relation": "C-3 confirmed if scores hold"
+      },
+      {
+        "id": "M1",
+        "name": "N-reversal only: (x,N) \u2192 (x,\u2212N) on thickness",
+        "geometric_content": "Orientation flip of N-thickness; orthogonal to S\u00b3 fibre",
+        "scores": {
+          "R_baryon_sort": true,
+          "R_not_gauge": true,
+          "R_su2r": false,
+          "R_MA_MB": true,
+          "R_acts_on_N": true,
+          "R_deposited": false,
+          "R_free_symmetry": true
+        },
+        "full_work": false,
+        "deposited": false,
+        "notes": "Does sorting + equal sheets; does NOT by itself assign SU(2)_R. Not a deposited formula.",
+        "o2_relation": "Partial survivor; not full CPN"
+      },
+      {
+        "id": "M2",
+        "name": "Field charge conjugation C alone",
+        "geometric_content": "\u03c8 \u2192 \u03c8^c on spinors; deposit links to antipodal points",
+        "scores": {
+          "R_baryon_sort": false,
+          "R_not_gauge": true,
+          "R_su2r": false,
+          "R_MA_MB": false,
+          "R_acts_on_N": false,
+          "R_deposited": true,
+          "R_free_symmetry": true
+        },
+        "full_work": false,
+        "deposited": true,
+        "notes": "Physical on resolved matter, but without N-sorting does not place antimatter on \u2212N.",
+        "o2_relation": "Necessary piece; insufficient alone"
+      },
+      {
+        "id": "M3",
+        "name": "Spatial parity / harmonic rule (\u22121)^\u2113",
+        "geometric_content": "Mode coupling selection under antipodal map",
+        "scores": {
+          "R_baryon_sort": false,
+          "R_not_gauge": true,
+          "R_su2r": false,
+          "R_MA_MB": false,
+          "R_acts_on_N": false,
+          "R_deposited": true,
+          "R_free_symmetry": true
+        },
+        "full_work": false,
+        "deposited": true,
+        "notes": "Governs cross-boundary mode coupling; not baryon sorting.",
+        "o2_relation": "P-piece only"
+      },
+      {
+        "id": "M4",
+        "name": "Pin\u207b spin structure on Z\u2082 orbifold",
+        "geometric_content": "Topological twist of N-thickness; two spin structures",
+        "scores": {
+          "R_baryon_sort": true,
+          "R_not_gauge": true,
+          "R_su2r": false,
+          "R_MA_MB": false,
+          "R_acts_on_N": true,
+          "R_deposited": true,
+          "R_free_symmetry": true
+        },
+        "full_work": false,
+        "deposited": true,
+        "notes": "Answers 'why CPN?' topologically; not an explicit field map \u03c8\u208a\u2192\u2026.",
+        "o2_relation": "Topology, not operator"
+      },
+      {
+        "id": "M5",
+        "name": "Research composite: C \u2218 P \u2218 N on fields + thickness",
+        "geometric_content": "\u03c8\u208a(x,N) \u21a6 (CP \u03c8)\u208b(P\u00b7x, \u2212N) with Pin\u207b sector choice",
+        "scores": {
+          "R_baryon_sort": true,
+          "R_not_gauge": true,
+          "R_su2r": true,
+          "R_MA_MB": true,
+          "R_acts_on_N": true,
+          "R_deposited": false,
+          "R_free_symmetry": true
+        },
+        "full_work": true,
+        "deposited": false,
+        "notes": "Would score full work IF defined. Not deposited. Research object only (P2 candidate).",
+        "o2_relation": "P2 if clone endorses; else P3"
+      },
+      {
+        "id": "M6",
+        "name": "CPT = \u0398\u2218CPN with constructed \u0398",
+        "geometric_content": "C5 names \u0398 reconciling N-flip with common proper time",
+        "scores": {
+          "R_baryon_sort": true,
+          "R_not_gauge": true,
+          "R_su2r": false,
+          "R_MA_MB": true,
+          "R_acts_on_N": true,
+          "R_deposited": false,
+          "R_free_symmetry": true
+        },
+        "full_work": false,
+        "deposited": false,
+        "notes": "\u0398 is a label without a formula. Does not rescue M0.",
+        "o2_relation": "Named gap inside C5"
+      },
+      {
+        "id": "M7",
+        "name": "Elliptic / RP\u00b3 quotient (antipodes identified)",
+        "geometric_content": "S\u00b3/\u2124\u2082 or dS/\u2124\u2082 single-metric identification",
+        "scores": {
+          "R_baryon_sort": false,
+          "R_not_gauge": true,
+          "R_su2r": false,
+          "R_MA_MB": false,
+          "R_acts_on_N": false,
+          "R_deposited": false,
+          "R_free_symmetry": false
+        },
+        "full_work": false,
+        "deposited": false,
+        "notes": "Kills second budget; conflicts with \u00a78.4 sorting. Not NTE's reading.",
+        "o2_relation": "Rejected by deposit + Scratch G1"
+      }
+    ]
+  },
+  "gravity": {
+    "n_candidates": 8,
+    "healthy_full_ontology_ids": [],
+    "healthy_two_metric_ids": [
+      "H0",
+      "H1"
+    ],
+    "nte_ghost_status": "generally_ghost",
+    "nte_ontology_fit": "full",
+    "shared_nu_kinetic_blocked_by_1408": true,
+    "suggested_fork_hint": "G2",
+    "criteria": {
+      "C_ghost_free_known": "Known ghost-free in literature (or proven subclass)",
+      "C_two_orientation_metrics": "Carries two dynamical orientation-metrics",
+      "C_one_manifold": "Compatible with one-manifold ontology (Part 1 \u00a7VI)",
+      "C_shared_nu_both_EOM": "Allows Z\u2082-even \u03bd stress in BOTH Einstein equations",
+      "C_kinetic_double_ok": "Kinetic double-coupling of matter allowed without BD revival",
+      "C_constraint_complete": "Off g\u207a\u2260g\u207b constraint/conservation structure known",
+      "C_deposited_nte": "Matches NTE deposited bilateral action as written",
+      "C_no_hand_constraint": "Needs no hand-imposed self-consistency constraint"
+    },
+    "completions": [
+      {
+        "id": "H0",
+        "name": "Hassan\u2013Rosen + matter on one metric",
+        "literature": "HR 2011/2012; 1408.0487 \u00a7 intro",
+        "scores": {
+          "C_ghost_free_known": true,
+          "C_two_orientation_metrics": true,
+          "C_one_manifold": false,
+          "C_shared_nu_both_EOM": false,
+          "C_kinetic_double_ok": false,
+          "C_constraint_complete": true,
+          "C_deposited_nte": false,
+          "C_no_hand_constraint": true
+        },
+        "ontology_fit": "partial",
+        "ghost_status": "free",
+        "notes": "Healthy. Does not host shared \u03bd in both EOMs. W-2 content gap."
+      },
+      {
+        "id": "H1",
+        "name": "HR + P\u0303=P\u0303(\u03d5) potential-only second-metric couple",
+        "literature": "1408.0487 \u00a7IV safe subclass",
+        "scores": {
+          "C_ghost_free_known": true,
+          "C_two_orientation_metrics": true,
+          "C_one_manifold": false,
+          "C_shared_nu_both_EOM": false,
+          "C_kinetic_double_ok": false,
+          "C_constraint_complete": true,
+          "C_deposited_nte": false,
+          "C_no_hand_constraint": true
+        },
+        "ontology_fit": "partial",
+        "ghost_status": "free",
+        "notes": "Safe double *potential* couple; not kinetic shared \u03bd backbone."
+      },
+      {
+        "id": "H2",
+        "name": "HR + kinetic doubly coupled matter (two kinetic terms)",
+        "literature": "1408.0487 \u00a7\u00a7III\u2013IV \u2014 BD generally revives",
+        "scores": {
+          "C_ghost_free_known": false,
+          "C_two_orientation_metrics": true,
+          "C_one_manifold": false,
+          "C_shared_nu_both_EOM": true,
+          "C_kinetic_double_ok": false,
+          "C_constraint_complete": false,
+          "C_deposited_nte": false,
+          "C_no_hand_constraint": true
+        },
+        "ontology_fit": "conflict",
+        "ghost_status": "generally_ghost",
+        "notes": "Closest naive home for shared \u03bd kinetics; literature says ghost."
+      },
+      {
+        "id": "N0",
+        "name": "NTE deposited bilateral action (as written)",
+        "literature": "Part 2 \u00a7IX; Part 3 OPEN; O1 W-2",
+        "scores": {
+          "C_ghost_free_known": false,
+          "C_two_orientation_metrics": true,
+          "C_one_manifold": true,
+          "C_shared_nu_both_EOM": true,
+          "C_kinetic_double_ok": false,
+          "C_constraint_complete": false,
+          "C_deposited_nte": true,
+          "C_no_hand_constraint": false
+        },
+        "ontology_fit": "full",
+        "ghost_status": "generally_ghost",
+        "notes": "Ontology fit by construction; ghost/constraint unfinished; hand S_cons."
+      },
+      {
+        "id": "E0",
+        "name": "Elliptic de Sitter dS/\u2124\u2082 (antipodal quotient)",
+        "literature": "hep-th/0209120; 1509.05890",
+        "scores": {
+          "C_ghost_free_known": true,
+          "C_two_orientation_metrics": false,
+          "C_one_manifold": true,
+          "C_shared_nu_both_EOM": false,
+          "C_kinetic_double_ok": false,
+          "C_constraint_complete": true,
+          "C_deposited_nte": false,
+          "C_no_hand_constraint": true
+        },
+        "ontology_fit": "other",
+        "ghost_status": "n_a",
+        "notes": "Single metric. Not two orientation-metrics. Conflicts with free-symmetry sorting."
+      },
+      {
+        "id": "B0",
+        "name": "BFT CPT two-sheeted universe (a\u2192\u2212a isometry)",
+        "literature": "1803.08928; 2109.06204",
+        "scores": {
+          "C_ghost_free_known": true,
+          "C_two_orientation_metrics": false,
+          "C_one_manifold": true,
+          "C_shared_nu_both_EOM": false,
+          "C_kinetic_double_ok": false,
+          "C_constraint_complete": true,
+          "C_deposited_nte": false,
+          "C_no_hand_constraint": true
+        },
+        "ontology_fit": "other",
+        "ghost_status": "n_a",
+        "notes": "One metric + CPT image; DM = sterile RH \u03bd particle, not \u03ba\u2080 bridge."
+      },
+      {
+        "id": "S0",
+        "name": "Strict one-metric (all matter sources one g)",
+        "literature": "standard GR",
+        "scores": {
+          "C_ghost_free_known": true,
+          "C_two_orientation_metrics": false,
+          "C_one_manifold": true,
+          "C_shared_nu_both_EOM": false,
+          "C_kinetic_double_ok": false,
+          "C_constraint_complete": true,
+          "C_deposited_nte": false,
+          "C_no_hand_constraint": true
+        },
+        "ontology_fit": "conflict",
+        "ghost_status": "free",
+        "notes": "Deletes dark sector / \u03ba\u2080 bridge. Forbidden by settled ontology."
+      },
+      {
+        "id": "H3",
+        "name": "Research: HR on two orientation-metrics + \u03bd single-kinetic + \u03ba\u2080 from overlap",
+        "literature": "not constructed; O1 W-2 missing content",
+        "scores": {
+          "C_ghost_free_known": false,
+          "C_two_orientation_metrics": true,
+          "C_one_manifold": true,
+          "C_shared_nu_both_EOM": false,
+          "C_kinetic_double_ok": false,
+          "C_constraint_complete": false,
+          "C_deposited_nte": false,
+          "C_no_hand_constraint": true
+        },
+        "ontology_fit": "partial",
+        "ghost_status": "unknown",
+        "notes": "Would need: derive HR potential from NTE; drop dual-kinetic \u03bd; keep \u03ba\u2080 as overlap. Ontology cost = G2."
+      }
+    ]
+  },
+  "mechanical_fork_hints": {
+    "P": "P2",
+    "G": "G2"
+  }
+}

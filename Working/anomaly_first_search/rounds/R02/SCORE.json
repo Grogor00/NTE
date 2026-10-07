@@ -1,0 +1,21 @@
+{
+  "round": 2,
+  "mode": "hybrid_AC_plus_R01",
+  "Main": {
+    "AC": "A-3",
+    "O1_feed": "A-4",
+    "elliptic": "E3"
+  },
+  "Scratch": {
+    "AC": "A-3 (+ A-4 on O1)",
+    "elliptic": "E3",
+    "gate": "PASS"
+  },
+  "Jammer": {
+    "AC": "A-3 (+ A-4 on action)",
+    "elliptic": "E3",
+    "gate": "PASS"
+  },
+  "agree": true,
+  "note": "Both gates PASS Main A-3 / E3 / O1 empty"
+}

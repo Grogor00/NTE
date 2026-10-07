@@ -1,0 +1,6 @@
+{
+  "round": 2,
+  "mode": "hybrid_AC_plus_R01",
+  "main_landing": "A-3",
+  "roles": "Main=literature; Scratch/Jammer=gate"
+}

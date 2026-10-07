@@ -1,0 +1,14 @@
+{
+  "status": "DIVERGED",
+  "round": 1,
+  "converged": false,
+  "history": [
+    {
+      "round": 1,
+      "K": "K3/K2",
+      "agree": false,
+      "note": "Scratch K3; Jammer K2"
+    }
+  ],
+  "updated_utc": "2026-10-06T21:57:12Z"
+}

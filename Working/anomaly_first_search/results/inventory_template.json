@@ -1,0 +1,84 @@
+{
+  "generated_utc": "2026-10-07T03:30:34Z",
+  "guard": "anomaly-first; no predict-then-hunt; no 4th light sterile CONTACT",
+  "slots": [
+    {
+      "id": "E0",
+      "tier": 1,
+      "name": "Elliptic de Sitter (antipodal dS/Z2)",
+      "fork_field": "E1-E4",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "N1",
+      "tier": 2,
+      "name": "Reactor antineutrino anomaly",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "N2",
+      "tier": 2,
+      "name": "Gallium anomaly (SAGE/GALLEX/BEST)",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "N3",
+      "tier": 2,
+      "name": "LSND / MiniBooNE appearance excess",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "N4",
+      "tier": 2,
+      "name": "SBL vs LBL appearance tension",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "G1",
+      "tier": 2,
+      "name": "NANOGrav / PTA stochastic background",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "C1",
+      "tier": 2,
+      "name": "CMB low-\u2113 alignments",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "C2",
+      "tier": 2,
+      "name": "CMB hemispherical power asymmetry",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "C3",
+      "tier": 2,
+      "name": "Parity-odd / mirror-odd CMB claims",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "L1",
+      "tier": 3,
+      "name": "Barbour\u2013Koslowski\u2013Mercati shape dynamics",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    },
+    {
+      "id": "L2",
+      "tier": 3,
+      "name": "ABL two-state / two-vector formalism",
+      "tag": "PENDING",
+      "notes": "Clone fills after sourced read"
+    }
+  ]
+}

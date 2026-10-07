@@ -1,0 +1,22 @@
+{
+  "status": "CONVERGED",
+  "round": 1,
+  "converged": true,
+  "history": [
+    {
+      "round": 1,
+      "P": "P3/P3",
+      "G": "G2/G2",
+      "agree": "G2",
+      "note": "Scratch P=P3 G=G2; Jammer P=P3 G=G2"
+    },
+    {
+      "round": 1,
+      "P": "P3/P3",
+      "G": "G2/G2",
+      "agree": true,
+      "note": "Scratch P=P3 G=G2; Jammer P=P3 G=G2"
+    }
+  ],
+  "updated_utc": "2026-10-06T21:50:48Z"
+}

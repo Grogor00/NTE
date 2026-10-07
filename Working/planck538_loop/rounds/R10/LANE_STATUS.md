@@ -1,0 +1,3 @@
+# R10 — CLOSED
+
+Score FAIL. P19/P20 KILL. R11 = P21+P22 running. R01–R10 all FAIL.
