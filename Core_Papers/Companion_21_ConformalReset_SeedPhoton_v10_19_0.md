@@ -1,14 +1,14 @@
 ---
 title: "Companion 21 — The Conformal Reset and the Seed Photon: NTE's Nucleation Mechanism and its Relation to Conformal Cyclic Cosmology"
 author: "Greg White (Gregory Lyndon White)"
-date: "2026-10-06 (v10.19.0) — Companion 21; SPECULATIVE / NON-LOADBEARING"
-status: "v0.7 — SPECULATIVE and NON-LOADBEARING (Greg's ratified label, 2026-09-24). PC drafts; AC integrates and owns register, crediting and cross-references."
+date: "2026-10-07 (v10.19.0) — Companion 21; SPECULATIVE / NON-LOADBEARING"
+status: "v0.8 — SPECULATIVE and NON-LOADBEARING (Greg's ratified label, 2026-09-24). PC drafts; AC integrates and owns register, crediting and cross-references."
 ---
 
 > **Status.** Corpus v10.19.0 · last ratified change 2026-09-23 · §7 ratification; v0.7 cut 2026-10-03; AC cleared v0.7 2026-10-06 on v0.6→v0.7 diff
 > Canonical source: `Core_Papers\`. Open items affecting this paper: **[SPECULATIVE and NON-LOADBEARING]** — deposit may not lean on this paper; §10 post-2020 Hawking-point literature currency (open since v0.4).
 
-**STATUS HEADER.** Live version **v0.7**, 2026-10-03. Register: **[SPECULATIVE and NON-LOADBEARING]**, Companion 21, live in `Core_Papers\` at **[SPECULATIVE and NON-LOADBEARING]** register. Last ratified label: Greg, 2026-09-24 (v0.4). v0.6 authorised by Greg 2026-09-29 and **verified PASS by AC 2026-09-29** — all five currency items correctly applied, retractions recorded in place, arithmetic independently re-checked. v0.6 verified by AC 2026-09-29 (full read, arithmetic re-checked). v0.7 cleared by AC 2026-10-06 on a v0.6→v0.7 diff: three named deltas confirmed, no argument changed. **Open before deposit:** §10's post-2020 Hawking-point literature currency — **not blocking**.
+**STATUS HEADER.** Live version **v0.8**, 2026-10-07 (Greg GO 2026-10-07, 17:49 NZDT). Register: **[SPECULATIVE and NON-LOADBEARING]**, Companion 21, live in `Core_Papers\` at **[SPECULATIVE and NON-LOADBEARING]** register. Last ratified label: Greg, 2026-09-24 (v0.4). v0.6 authorised by Greg 2026-09-29 and **verified PASS by AC 2026-09-29** — all five currency items correctly applied, retractions recorded in place, arithmetic independently re-checked. v0.6 verified by AC 2026-09-29 (full read, arithmetic re-checked). v0.7 cleared by AC 2026-10-06 on a v0.6→v0.7 diff: three named deltas confirmed, no argument changed. v0.8 applied by PC on Greg's GO 2026-10-07, after Jammer's boundary answer and AC's final brief of the same day; **eight blocks, five of them revised after the GO against evidence that arrived between drafting and application** (see front matter). **Open before deposit:** §10's post-2020 Hawking-point literature currency — **not blocking**; and §5's absolute-scale question (§12.2), **new in v0.8 and the mechanism's sharpest open difficulty**.
 
 *Independent researcher, Auckland, New Zealand · gregwhite00@gmail.com · ORCID 0009-0003-3680-2363*
 
@@ -27,6 +27,26 @@ status: "v0.7 — SPECULATIVE and NON-LOADBEARING (Greg's ratified label, 2026-0
 1. **§12.1's substrate question is resolved**, and the resolution strengthens §10 rather than qualifying it. Rebuilt on **Part 2 §IX axis (iii)**, which carries the whole scoping in one deposited sentence — a better citation than the three previously assembled, and verified against Part 2 directly rather than by relay.
 2. **The §8.4.1 pointer is corrected to §8.4**, in the body and in the references. Part 2's section VIII runs 8.1, 8.2–8.3, 8.4, 8.5–8.6; baryogenesis is §8.4 and there is no §8.4.1. Confirmed phantom by Cursor's citation sweep, with Companion 13's §8.4 citation as control.
 3. **§8's retraction block gains the corpus's own precedent** — Part 2 §IX's withdrawal of the "two pathways" framing. That is a sharper reason for the strike than redundancy, and it is recorded as the operative one.
+
+**Changes in v0.8 — Greg's relic-neutrino repair, a timescale wrong in three places, and one difficulty that got sharper rather than smaller.**
+
+1. **§3's global premise *"matter decays to photons"* is withdrawn.** The framework's three massive Majorana neutrinos falsify it, and the criterion below it never used it — it counts photons and nothing else. The trigger is restated as what §9's nucleation always assumed: the **first** Hubble volume to satisfy n_γ·V_H = 1. Two sentences close it, both resting on arguments the paper already makes — the conformal step acts on the photon's causal patch by the same severance §10 uses, and the trigger is the absence of **absorbers** in that patch, so neutral relics are no obstruction.
+
+2. **The whole-boundary reading is excluded by the paper's own §10**, and §3 now says so: if massive content elsewhere on S³ could spoil the conformal step, black holes elsewhere would too, and §10's decisive support would fail. The paper is committed to patch-locality.
+
+3. **§2's *10²²–10²³ years / about 200 e-folds* and §10's *Ht ≈ 5.7 × 10¹¹* are withdrawn and replaced.** From this paper's own T_reset the nominal crossing is **67 e-folds ≈ 10¹² years**; the 200 is the logarithm of the photon-**density** ratio, which goes as T³, mistaken for the e-fold count. First occurrence is estimated near **65** e-folds — only about 1.5 e-folds early, because the relic photon bath is uniform to parts in 10⁵ and voids are empty of matter rather than photons. **The spread of reset times lies in the tail, from cubes holding bound charged matter, not at the front.**
+
+4. **The no-hair residue moves from 10^(−10¹¹) to of order 10⁻⁸⁷ at the nominal crossing and 10⁻⁸⁵ at first occurrence** — some 10¹¹ orders of magnitude. **§10's conclusion is unaffected**, because it rests on causal severance, which is in-principle and anchor-independent; the earlier wording let it lean partly on the residue's magnitude and no longer does.
+
+5. **§5's *"a universe of purely massless content has no scale to lose"* is withdrawn as stated, and the replacement is a difficulty rather than a repair.** Penrose's step needs no scale present in the *physics*, not merely no massive particles in a region, and this paper commits to a finite |Φ_∞| (§2), to three massive neutrino masses, and to a Planck length inside the definition of Ω (§5). **Locality does not touch it.** It is recorded in §12.2 as the mechanism's sharpest open item rather than reconciled away.
+
+6. **§7's firewall note loses *"κ … is demonstrated".*** κ's identification with the observed dark-matter ratio was withdrawn 2026-10-06 and the observed cold dark matter deposited OPEN, so κ is derived and zero-parameter with no established observational referent. The endorsement had been live in the one section whose purpose is to say what this paper does **not** claim about κ.
+
+7. **"Uncountably many" is corrected to finite** in §8 and §9. One event per Hubble cube on a closed S³ is large, growing and finite.
+
+> **Provenance, recorded in full because the failure is instructive.** The 10²²-year figure was **PC's**, entered at v0.2. **AC verified Ht ≈ 5.7 × 10¹¹ at v0.6 and again at v0.7 by checking 10²² yr × H without checking whether 10²² yr was right**, and has stated so. **Claude Jammer** found all three figures on an adversarial read with forks pre-registered, answered the boundary question, supplied the 65-e-fold estimate (his own, unreviewed, not pre-registered; PC reproduced it to order of magnitude), and **corrected AC twice** — on *"long before"* and on *"uncountably many"*. **Greg** supplied the repair. The error survived two verifications because both checked the step and neither checked the premise.
+
+> **And PC's own, in this pass.** PC's first draft of the v0.8 register declared C21 clean of the κ withdrawal on a seven-term sweep that returned zero hits. The terms were the match claim's vocabulary; a withdrawal also removes an **endorsement**, and a second sweep on grading language — *demonstrated, handle, channel, observational* — found item 6 at once. A withdrawal sweep needs both vocabularies.
 
 **Checked and kept across v0.6 and v0.7:** §3's T_reset (independent of whether Φ_NTE inflates); §10's matched-circles argument (topological, and deliberately not an argument from curvature radius — it survives the Ω_k → 0 correction and the withdrawal of the flatness explanation untouched); §2's end-state field value (H = β_NTE|Φ|² survives Door B as a Part 1 / C8 identity); §7's κ firewall (untouched, and more load-bearing than when written). T_GB does not appear in this paper and the regrade does not reach it.
 
@@ -69,7 +89,9 @@ As N → ∞ the boundary approaches its de Sitter plateau. Three things approac
 
 So when §XV says *geometric tension reaches zero*, that is a statement about **standing-wave structural failure** — the boundary can no longer hold itself together as a coherent two-orientation object — and emphatically **not** about |Φ_NTE|² going to zero. The field does not vanish. The Hubble length does not collapse to a point. What fails is coherence.
 
-**Timescale, and an open item that is not load-bearing.** The one-photon-per-Hubble-cube crossing sits at roughly 10²²–10²³ years (Adams & Laughlin 1997; Krauss & Scherrer 2007), about 200 e-folds past today — much earlier than the ~10¹⁰⁰-year black-hole-evaporation horizon that anchors Penrose's version. Which moment NTE's foam transition should anchor on is open work (§12.2).
+**Timescale — three published figures withdrawn, and what replaces them.** Earlier versions gave the crossing as *"roughly 10²²–10²³ years, about 200 e-folds past today"*, and §10 carried *Ht ≈ 5.7 × 10¹¹* downstream of it. **All three are withdrawn (2026-10-07).** From this paper's own T_reset = 2.213 × 10⁻²⁹ K against 2.725 K today, the temperature ratio is 1.23 × 10²⁹ and the e-fold count is its logarithm, **67**, not 200 — the 200 is the logarithm of the *photon-density* ratio, which goes as T³, mistaken for the e-fold count. At ℓ_dS = 1.4 × 10²⁶ m that is **≈ 1 × 10¹² years**, and Ht at that epoch is **67**, since Ht = N identically in de Sitter.
+
+**And under §3's local criterion the nominal crossing is not the trigger.** 67 e-folds is when the *homogeneous* photon density reaches one per Hubble volume; the trigger is the first volume to reach it, which an order-of-magnitude estimate puts near **65 e-folds** (§3, with its provenance). The two figures are close, and deliberately so: the photon bath's uniformity to parts in 10⁵ means inhomogeneity does not bring the trigger forward far. **The honest statement is a first occurrence at roughly 65 e-folds, the bulk of empty-space cubes within an e-fold or two of 67, and cubes holding bound matter much later with a long tail.** Either way it is far earlier than the ~10¹⁰⁰-year black-hole-evaporation horizon that anchors Penrose's version, which is the only use this paper makes of the comparison. Which moment NTE's foam transition should anchor on remains open work (§12.2).
 
 This does **not** bear on §10. An earlier draft argued that the parent's black holes had evaporated by the reset, which is false at the photon-limit anchor and unnecessary at either. §10's argument is **causal isolation**, which holds at any anchor.
 
@@ -77,7 +99,9 @@ This does **not** bear on §10. An earlier draft argued that the parent's black 
 
 ## §3 The trigger: one photon per Hubble cube
 
-Matter decays to photons; photon density thins; at one photon per Hubble volume the null-time exchange structure that sustains causal coherence can no longer close.
+Photon density thins as the boundary expands; where a Hubble volume holds one photon and no absorber for it, the null-time exchange structure that sustains causal coherence can no longer close there. The criterion is **local and per-volume**, which is what §9's discrete per-photon nucleation already assumes: it is satisfied by the **first** Hubble cube to reach it, not by the universe as a whole.
+
+Earlier versions opened this section *"matter decays to photons"*. That clause is **withdrawn (2026-10-07).** It was never part of the criterion below — which counts photons and nothing else — and as a global statement it is false: the three massive Majorana neutrinos the framework requires do not decay, and of order one relic neutrino per Hubble volume persists at every epoch under discussion. Two features of this paper make the clause unnecessary as well as false. **§4 gives the trigger's physical content as the absence of absorbers**, and a relic neutrino is electrically neutral and absorbs no photons, so it does not block the trigger; charged matter does. And **§10 excludes black holes from the trigger patch through their photon output**, not through their mass — any hole below ~3 × 10²¹ M_☉ radiates hotter than the reset bath and floods the volume. The paper's treatment of massive content has always run through photons and absorbers rather than through mass itself.
 
 **Convention, stated because it matters.** The trigger is *one photon per Hubble cube*:
 
@@ -98,6 +122,14 @@ Solving:
 > T_reset / T_GH = 2π × 1.601 = **10.06**
 
 and the Gibbons–Hawking bath supplies only about **0.001 photons per Hubble cube** — three orders below the trigger. Had T_reset fallen below T_GH, the horizon's own thermal floor would have kept the volume permanently above one photon and the trigger could never have been reached. It does not. The bath is thermal and featureless, so it carries no information about anything beyond the horizon. Register: internal consistency.
+
+**Locality, and why the trigger is a first occurrence rather than an epoch.** Nothing in n_γ·V_H = 1 is a statement about the universe. It is a statement about a volume, so the trigger is the **first** Hubble cube to satisfy it. Two sentences settle what that locality requires, and they follow from arguments this paper already makes: **the conformal step acts on the photon's causal patch, by the same severance §10 uses**; and **the trigger is the absence of absorbers in that patch, so neutral relics are no obstruction.** A stronger reading — that the whole S³ must be free of massive content — is **not available to this paper**: §10's decisive support is that content beyond the de Sitter horizon is permanently causally disconnected, so that *how many black holes the parent contains is irrelevant to what a causally severed patch inherits.* If massive content elsewhere on S³ could spoil the conformal step, black holes elsewhere would spoil it too, and §10 would fail. The paper is committed to patch-locality and §9 says so.
+
+**When the first cube arrives, and where the spread actually lives.** It is tempting to expect inhomogeneity to bring the trigger forward sharply. It does not: **the relic photon bath is uniform to parts in 10⁵**, and voids are empty of matter rather than of photons, so the photon condition is met at nearly the same time everywhere. What brings the first occurrence forward is instead the sheer number of Hubble cubes and the chance that one of them holds no relic neutrino. On a rough estimate the first qualifying cube appears at **N ≈ 65 e-folds**, about **1.5 e-folds** — a few × 10¹⁰ years — before the nominal crossing at 67, and a much larger S³ moves that only logarithmically. At the nominal epoch itself roughly **45%** of cubes already hold no relic neutrino.
+
+So the distribution of reset times is real, and **it lies in the tail rather than at the front**: empty-space cubes trigger within an e-fold or two of each other, while cubes containing bound charged matter keep producing both photons and absorbers and trigger much later, with a long tail. **That distribution is not a cost of the mechanism; it is the mechanism.** §9's nucleation is already discrete and per-photon, and §8's foam is what a distribution of trigger times looks like. A single reset epoch was never this paper's claim, and where earlier versions implied one, the implication came from the withdrawn global premise rather than from the mechanism.
+
+> **Provenance of the 65-e-fold figure.** The estimate is Claude Jammer's, 2026-10-07 — **his own, explicitly unreviewed and not pre-registered.** PC reproduced it independently to order of magnitude (at N = 65.4 the expected number of qualifying cubes is of order unity; at N = 67 the probability a cube holds no relic neutrino is 0.46). It is carried here as an **order-of-magnitude estimate with a named author**, not as a result of this paper, and §12.2 keeps it as open work.
 
 **What is not derived.** That one photon per Hubble cube is the *right* criterion, rather than a natural-looking one, is not established. §12.2 carries it.
 
@@ -130,7 +162,13 @@ Across the spacelike conformal boundary I⁺:
 
 **Destroyed:** every absolute scale. R_H ~ 10²⁶ m maps to ℓ_P ~ 10⁻³⁵ m. De Sitter is conformally flat, so the Weyl tensor vanishes and no conformal curvature information survives.
 
-The reason the map works is the reason the whole paper exists: ds² = 0 is preserved under Ω² multiplication. A universe of purely massless content has no scale to lose.
+The reason the map works is the reason the whole paper exists: ds² = 0 is preserved under Ω² multiplication. The sentence that followed in earlier versions — *"a universe of purely massless content has no scale to lose"* — is **withdrawn as stated (2026-10-07)**, and what replaces it is a difficulty rather than a repair.
+
+**What is true.** A massless worldline has no proper time, so its dynamics is a statement about the metric's conformal class alone and absolute scales drop out of it. A massive worldline does carry proper time, which Ω² multiplication does not preserve. That much supports the step for **the content that crosses**, which by §7 is a photon's scalar and topological datum.
+
+**What the old sentence claimed and the paper cannot.** Penrose's conformal step needs not that massive particles are *absent from a region* but that **no scale is present in the physics.** This paper's own commitments supply three. §2 insists on a finite |Φ_NTE|² → v_EW²√Ω_Λ at the plateau, and insists on it because the rest of §2 depends on the field not vanishing. The framework requires three massive neutrinos, whose masses are scales in the laws the patch sits under whether or not any neutrino is inside the patch. And the map's conformal factor is *defined* as a ratio of two scales, Ω ≡ R_H/ℓ_P, so the construction uses a Planck length to say what it means. **Locality does not touch this.** A patch holding one photon still sits under laws carrying a neutrino mass, a finite |Φ_∞| and a Planck length; relic neutrinos elsewhere on S³ add nothing to the problem and removing them would not solve it.
+
+**So this is recorded as an open item and not reconciled away** (§12.2). It is, on the present reading, the sharpest difficulty the mechanism faces — sharper than the locality question that prompted the examination, which §3 and §10 settle. The paper does not currently know whether a conformal step of this kind is available in a theory whose laws carry absolute scales, and it says so here rather than in a closing caveat.
 
 ### The seed's wavelength is of order R_H, and the ratio is universal
 
@@ -187,19 +225,19 @@ The reading this paper proposes is that **one datum seeds both**: each orientati
 
 **A framing correction, recorded because it forecloses a wrong dissolution.** It is tempting to ask whether the seed *survives* the transition. That question has no referent: "survives", like "continues" and "persists", is a temporal predicate, and at N < N_lock nothing has a duration to endure through. Nor does a trigger owe anything to endurance — a boundary condition does its work by being the condition. But the exclusion the recast escapes was never about persistence; it was about whether a datum of a given type can exist on the locus at all. Persistence was never what was at issue, and the recast succeeds on type rather than on temporal reasoning.
 
-**The rest stands.** The two orientations are the two sides of one N-thickness (Part 1 §VI); the Pin⁻ spin structure is the topological twist between them; the **bilateral coupling** carries κ.
+**The rest stands.** The two orientations are the two sides of one N-thickness (Part 1 §VI); the Pin⁻ spin structure is the topological twist between them; the **bilateral coupling** carries $\kappa_0$.
 
 > **Vocabulary correction, recorded.** Earlier drafts said *"the cross-thickness coupling carries κ."* The N-thickness arbitration (2026-09-27) finds κ's derivation topological and algebraic end to end with **zero thickness-magnitude input**, and rules that *"cross-thickness" overstates it — the coupling transmits magnitude, not location.* The mechanism needs bilaterality, not separation. The term is retired here and the sentence says only what the derivation uses. **Part 2 §IX has since been patched the same way**, so the paper and the deposit now agree.
 
-**κ does not depend on this paper.** The κ derivation runs on S³ topology and CPN self-consistency whether or not the conformal reset is the right account of how the pair came to exist. No cross-reference added at integration may create an apparent dependency in the other direction. *(Cited in the deposit ratification; not discretionary.)*
+**κ₀ does not depend on this paper.** The bare-coupling derivation runs on S³ topology whether or not the conformal reset is the right account of how the pair came to exist. No cross-reference added at integration may create an apparent dependency in the other direction, nor restore the withdrawn amplifier. *(Cited in the deposit ratification; not discretionary.)*
 
-*A note on why that firewall now matters more than when it was written.* The same arbitration found that κ **survives and is demonstrated**, but that its **ontological support has migrated** — from the N-thickness to the bilateral two-metric action, whose completion Part 3 lists as open. A speculative paper standing next to a handle whose grounding has just moved is exactly the configuration in which an apparent dependency does damage. The firewall is the thing preventing it.
+*A note on why that firewall now matters more than when it was written.* The N-thickness arbitration (2026-09-27) found that κ's **ontological support migrated** — from the N-thickness to the bilateral two-metric action, whose completion Part 3 lists as open. That note originally read *"κ survives and is demonstrated"*; **"demonstrated" is withdrawn**, and under the **broad ruling (2026-10-09)** the amplifier $\kappa=\kappa_0/(1-\kappa_0)\approx 5.50$ is **not a framework quantity at all** — only the bare coupling $\kappa_0=3/\sqrt{4\pi}$ is deposited. A speculative paper standing next to an open bilateral-gravity programme must not appear to supply a referent or a closure. The firewall prevents an apparent dependency in either direction, and **nothing in this paper may be read as restoring 5.50 or supplying observed CDM.**
 
 ---
 
 ## §8 The fractal foam, and a candidate structural simplification
 
-The boundary does not reset as one event. Every point carrying the last local photon is simultaneously a new N = 0 nucleation seed, so the boundary fragments into an uncountable foam of Janus pairs, each causally disconnected from all the others. Our bilateral coupling is strictly to our own twin orientation, nothing else.
+The boundary does not reset as one event. Every point carrying the last local photon is simultaneously a new N = 0 nucleation seed, so the boundary fragments into a foam of Janus pairs — a number that is large and growing but **finite**, one per Hubble cube on a closed S³ — each causally disconnected from all the others. Our bilateral coupling is strictly to our own twin orientation, nothing else.
 
 A structural reading, carried at **candidate register**:
 
@@ -227,7 +265,7 @@ Penrose is credited first and fully. CCC supplies the central insight: a univers
 NTE modifies CCC in two ways:
 
 1. **Discrete.** The transformation is per-photon. Each photon undergoes it individually once it is effectively isolated in its own Hubble volume — rather than one universal boundary mapping one aeon onto the next.
-2. **Local.** The reset is not global. Each isolated photon seeds its own independent Janus pair, and the boundary fragments into uncountably many independent nucleation events.
+2. **Local.** The reset is not global. Each isolated photon seeds its own independent Janus pair, and the boundary fragments into **finitely many** independent nucleation events — large and growing, but finite at any time, since a closed S³ holds a finite number of Hubble cubes. *(Earlier versions said "uncountably many" here and in §8; corrected 2026-10-07.)*
 
 This is what "fractal" meant in the framework's older name, and it is a structural difference rather than a relabelling. NTE also supplies what CCC leaves schematic: a concrete boundary field with a definite end-state value (|Φ_NTE|²_∞ = v_EW²√Ω_Λ) and a microphysics for the seeds. A worked nucleation map would be a contribution *to* CCC, not only to NTE.
 
@@ -245,7 +283,9 @@ Three supports, in descending order of strength.
 
 **1. Causal severance — decisive, and in principle rather than in practice.** At the trigger the photon is alone in its observable universe. In de Sitter, anything beyond the event horizon at ~c/H is *permanently* causally disconnected: not distant, but unreachable for the remainder of that aeon. A supermassive black hole immediately outside the Hubble boundary has no channel to the photon and none to the daughter. How many black holes the parent contains is therefore irrelevant to what a causally severed patch inherits.
 
-One qualification, stated so a referee does not find it first: what left the horizon earlier leaves static Weyl curvature behind, and cosmic no-hair (Wald 1983) erases it as roughly e^(−3Ht) rather than exactly. At the trigger epoch Ht ≈ 5.7 × 10¹¹, so the residue is of order one part in 10^(10¹¹). **Erased, not zero** — and in-principle unobservable, which blocks the objection that "effectively" is not "actually". A completeness remark only: in CCC the Hawking-point channel is concentrated Hawking radiation, not Weyl curvature.
+One qualification, stated so a referee does not find it first: what left the horizon earlier leaves static Weyl curvature behind, and cosmic no-hair (Wald 1983) erases it as roughly e^(−3Ht) rather than exactly. **The figure this paper previously gave here is withdrawn (2026-10-07).** It read *Ht ≈ 5.7 × 10¹¹*, residue of order 10^(−10¹¹), and it was inherited from §2's withdrawn 10²²-year timescale. At the corrected nominal crossing Ht = 67 and the residue is of order **10⁻⁸⁷**; at the first-occurrence trigger near 65 e-folds it is of order **10⁻⁸⁵**. **A correction of some 10¹¹ orders of magnitude in a figure this paper published twice, and it is recorded rather than quietly replaced.**
+
+**§10's conclusion is unaffected, and it is worth saying why rather than asserting it.** The decisive support is **causal severance** — content beyond the de Sitter event horizon is *permanently* disconnected from the photon and from the daughter, not faintly connected — and that is an in-principle statement which holds at every anchor, which is why §2's open anchor question does not reach this section. The no-hair residue is the *qualification*, not the argument. The earlier wording let the in-principle claim lean partly on the residue being unimaginably small; at 10⁻⁸⁵ that lean is no longer needed and is no longer taken. **Erased, not zero.** A completeness remark only: in CCC the Hawking-point channel is concentrated Hawking radiation, not Weyl curvature.
 
 **2. The trigger condition excludes black holes from the patch.** A black hole radiates at T_H ≈ 6.2 × 10⁻⁸ K × (M_☉/M). Setting T_H = T_reset ≈ 2.2 × 10⁻²⁹ K gives M ≈ 3 × 10²¹ M_☉. Any black hole lighter than that is *hotter than the reset bath* and would flood its Hubble volume with photons, violating n_γ·V_H = 1. **A volume containing a black hole cannot satisfy the trigger.** The condition enforces the isolation rather than coinciding with it. Register: internal consistency.
 
@@ -337,6 +377,8 @@ The bulk is real and it is **pre-temporal**; the surface-only ontology governs e
 - Whether "unclosed" admits a sharp covariant definition.
 - Whether S³ boundary data of the type §12.1 commits to is consistent with the no-boundary construction.
 - Which moment the foam transition anchors on (§2). Ordinary open work; **not** load-bearing for §10.
+- **Whether a conformal step is available at all in a theory whose laws carry absolute scales (§5).** Penrose's step requires no scale in the physics, not merely no massive particles in a region. This paper commits to a finite |Φ_∞| (§2), to three massive neutrinos, and to a Planck length inside the definition of Ω (§5). **This is the mechanism's sharpest open difficulty on the present reading, and it is not a locality question** — §3 and §10 settle locality. *Identified by AC on Claude Jammer's read, 2026-10-07.*
+- **The first-occurrence time of the trigger (§§2–3).** The nominal homogeneous crossing is at 67 e-folds; an order-of-magnitude estimate puts the first qualifying Hubble cube near 65. The estimate is Jammer's, unreviewed, and no derivation of it from the framework is offered. §10's no-hair residue inherits the same looseness.
 
 ### 12.3 Open — transfer, and one item now closed
 
@@ -382,5 +424,7 @@ The bulk is real and it is **pre-temporal**; the surface-only ontology governs e
 - L. M. Krauss & R. J. Scherrer, *The return of a static universe and the end of cosmology*, Gen. Rel. Grav. **39**, 1545 (2007).
 
 ---
+
+*Draft v0.8 — PC, 2026-10-07, applied on Greg's GO. Eight blocks: §3's global decay premise withdrawn and the trigger restated as a local first occurrence on absorbers; the whole-boundary reading excluded by §10's own severance argument; §2's and §10's three timescale figures withdrawn and replaced at 67 e-folds nominal with first occurrence near 65; the no-hair residue corrected from 10^(−10¹¹) to of order 10⁻⁸⁵–10⁻⁸⁷ with §10's conclusion rested squarely on causal severance; §5's "no scale to lose" withdrawn as stated and re-filed as §12.2's sharpest open item; §7's "κ … is demonstrated" withdrawn against the 2026-10-06 κ withdrawal; "uncountably many" corrected to finite in §§8–9. Five of the eight were revised after the GO, against Jammer's boundary answer and AC's final brief, both filed between drafting and application. **The v0.6 and v0.7 verification of Ht ≈ 5.7 × 10¹¹ was false** — the multiplication was checked and its input was not; that figure is now withdrawn. The other three re-checked quantities stand: M ≈ 3 × 10²¹ M_☉, x·E_Pl = 1.95 × 10²⁸ eV, T_reset/T_GH = 10.06.*
 
 *Draft v0.7 — PC, 2026-10-03. Three items on AC's clearance of the same date: §12.1's substrate question resolved on Part 2 §IX axis (iii), with the pre-temporal bulk scoped apart from the post-birth container and §10's severance argument strengthened rather than qualified; the §8.4.1 → §8.4 pointer corrected in body and references; §8's retraction block given the corpus's own precedent, Part 2 §IX's withdrawal of the "two pathways" framing, as the operative reason the struck row stays struck. v0.6 verified PASS by AC 2026-09-29, including independent re-check of Ht ≈ 5.7 × 10¹¹, M ≈ 3 × 10²¹ M_☉, x·E_Pl = 1.95 × 10²⁸ eV and T_reset/T_GH = 10.06; the §7 departure confirmed rather than reverted. Literature currency for post-2020 Hawking-point work still open and not blocking.*

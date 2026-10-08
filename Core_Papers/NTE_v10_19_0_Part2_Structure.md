@@ -4,8 +4,8 @@ author: "Greg White (Gregory Lyndon White)"
 date: "2026-10-06 (v10.19.0)"
 ---
 
-> **Status.** Corpus v10.19.0 · last ratified change 2026-10-06 · κ-as-CDM withdrawal loci 2,4,7,8; Planck match withdrawn
-> Canonical source: `Core_Papers\`. Open items affecting this paper: observed-CDM open; κ referent open; cosmological origin sector open; bilateral two-metric completion open.
+> **Status.** Corpus v10.19.0 · last ratified change 2026-10-09 · **Broad κ:** amplifier / 5.50 **withdrawn**; κ₀ **retained** · κ-as-CDM withdrawn 2026-10-06
+> Canonical source: `Core_Papers\`. Open items affecting this paper: observed-CDM open; cosmological origin sector open; bilateral two-metric completion open.
 
 *Independent researcher, Auckland, New Zealand · gregwhite00@gmail.com · ORCID 0009-0003-3680-2363*
 
@@ -37,13 +37,9 @@ Resolved fermions are confined to one orientation ($\mathbb{Z}_2$-odd); the unre
 
 $$\kappa_0 = 3/\sqrt{4\pi} \approx 0.846.$$
 
-(This is an NTE identification built from standard ingredients — the Wu–Yang monopole normalisation $\sqrt{4\pi}$ and the $SU(2)$-adjoint count 3 — not a newly-named constant.) The two-orientation Einstein equations, coupled at $\kappa_0$, have the unique fixed point $T^{\mathrm{total}} = T^{b}/(1-\kappa_0)$, the resummed geometric series, giving
+(This is an NTE identification built from standard ingredients — the Wu–Yang monopole normalisation $\sqrt{4\pi}$ and the $SU(2)$-adjoint count 3 — not a newly-named constant.) **What is deposited is $\kappa_0$.** An earlier algebraic closure — the mirror-feedback resummation $G_A = M + \kappa_0 G_B$ giving $\kappa = \kappa_0/(1-\kappa_0) \approx 5.50$ — is **withdrawn (2026-10-09, broad)**: the amplifier has **no deposited action** behind it, and **5.50 is not a framework quantity**. (The earlier "two pathways" framing and the $\kappa=\Omega_{\mathrm{DM}}/\Omega_b$ identification were already withdrawn.) The two-metric equations follow from a single bilateral action (bi-Einstein–Hilbert + shared neutrino sector + Hopf–$Y_{00}$ bridge); the full nonlinear bimetric completion (Hassan–Rosen-class) is open refinement. The convergence condition $\kappa_0 < 1$ requires *exactly three* eigenmodes (a fourth gives $\kappa_0 > 1$, divergent), and on the $\mathbb{Z}_2$ orbifold Dirac neutrinos would give $\kappa_0 = 6/\sqrt{4\pi} > 1$ — so the Majorana condition is topologically forced, not assumed.
 
-$$\kappa = \kappa_0/(1-\kappa_0) \approx 5.50.$$
-
-This is **one structural derivation followed by one algebraic closure** — not two independent confirmations (the earlier "two pathways" framing was overstated and is withdrawn). The two-metric equations follow from a single bilateral action (bi-Einstein–Hilbert + shared neutrino sector + Hopf–$Y_{00}$ bridge + self-consistency constraint), Bianchi-consistent in the averaged sector used for the comparison; the full nonlinear bimetric completion (Hassan–Rosen-class) is open refinement. Planck's $\Omega_{\mathrm{DM}}/\Omega_b = 5.38 \pm 0.15$ is measured against a cold collisionless component and **is not comparable to $\kappa$**; the earlier 0.83σ agreement is withdrawn. The convergence condition $\kappa_0 < 1$ requires *exactly three* eigenmodes (a fourth gives $\kappa_0 > 1$, divergent), and on the $\mathbb{Z}_2$ orbifold Dirac neutrinos would give $\kappa_0 = 6/\sqrt{4\pi} > 1$ — so the Majorana condition is topologically forced, not assumed.
-
-**Falsifiable prediction.** A mass-dependent DM:baryon variance $\sigma(M) \propto M^{-1/2}$ above the neutrino free-streaming coherence mass $M_c \sim 4\times10^{14}\,M_\odot$ — **a function of the neutrino mass, not a fixed number**: the archive relation is $R_c \sim 40\,\mathrm{Mpc}\times(0.1\,\mathrm{eV}/m_\nu)$, from which $M_c$ follows, so the threshold in this falsifiable prediction moves with $m_\nu$ — with large scatter below it (naturally accommodating DM-rich and DM-poor dwarfs). The $M^{-1/2}$ scaling is a generic CLT consequence; the NTE-specific content is its combination with the mean $\kappa \approx 5.50$ and the coherence scale $M_c$. Testable with DESI/SDSS. (The amplitude within one coherence volume is open.)
+**Variance scaling — regraded (2026-10-06; amplifier withdrawn 2026-10-09).** A mass-dependent scatter $\sigma(M) \propto M^{-1/2}$ above a neutrino free-streaming coherence mass $M_c \sim 4\times10^{14}\,M_\odot$ was previously listed as a falsifiable prediction. The $M^{-1/2}$ scaling is a generic CLT consequence; its former NTE-specific content combined it with the withdrawn mean $5.50$ and an adopted $M_c$. **Only the bare CLT leg remains — insufficient alone.** Not graded as a standalone prediction.
 
 ## X. CP violation and baryon asymmetry
 

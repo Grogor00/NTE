@@ -46,7 +46,7 @@ The vanishing is exact and is a clean result of the computation: the Dirac trace
 
   κ₀ = 3 / √(4π) ≈ 0.846,
 
-where the factor 3 is the dimension of the adjoint of SU(2) — three gauge-field components on the base, not three Killing-spinor polarisations (the fixed-sign Killing-spinor space on round S³ is two-dimensional). The heat-kernel route and the direct Hopf-projection route agree on this value. The closure to the physical coupling, κ = κ₀/(1 − κ₀) ≈ 5.50, is a separate architectural step (the Janus resummation), not a bare-heat-kernel output, and is not claimed as such here.
+where the factor 3 is the dimension of the adjoint of SU(2) — three gauge-field components on the base, not three Killing-spinor polarisations (the fixed-sign Killing-spinor space on round S³ is two-dimensional). The heat-kernel route and the direct Hopf-projection route agree on this value. **An algebraic amplifier κ = κ₀/(1 − κ₀) ≈ 5.50 is withdrawn (2026-10-09, broad)** — it was already only an architectural step, not a bare-heat-kernel output, and is **not a framework quantity**.
 
 **T_GB — the gauge-birth temperature.** The fibre modulus relation gives
 
