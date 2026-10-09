@@ -1,0 +1,16 @@
+# Minimal pandoc defaults for Book_Cursor_Suggested chapter markdown → PDF
+from: markdown+pipe_tables+tex_math_dollars+tex_math_single_backslash
+to: pdf
+standalone: true
+pdf-engine: pdflatex
+
+variables:
+  documentclass: article
+  fontsize: 11pt
+  geometry: margin=1in
+  linkcolor: blue
+  urlcolor: blue
+  colorlinks: true
+
+include-in-header:
+  - header-book.tex

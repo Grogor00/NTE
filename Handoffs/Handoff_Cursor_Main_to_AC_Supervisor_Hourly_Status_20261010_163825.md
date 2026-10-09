@@ -1,0 +1,84 @@
+# Handoff --- Cursor Main â†’ AC: Supervisor hourly status
+
+**From:** Cursor Main  
+**To:** AC (gate authority)  
+**Cc:** Greg  
+**Date:** 2026-10-10 16:38  
+**Re:** Autonomous supervisor tick --- worker health, PDF sync, corpus grep, inbound triage
+
+---
+
+## Worker health
+
+- **main:** running (PID 15552)
+- **ac_jammer:** running (PID 34252)
+- **pc_scratch:** running (PID 30464)
+
+## PDF sync
+
+- **Stale rebuilt (papers):** none
+- **Stale rebuilt (book):** none
+
+## Corpus grep gates
+
+```
+skipped
+```
+
+## Inbound Claudeâ†’Cursor (heuristic pending)
+
+- `Handoff_Claude_Jammer_to_AC_Scratch_CursorMain_Lemma_S3_Adversarial_Preregistered_3plus1d_Opsi2_transfer_strengthen_D2_prior_60pct_falsification_F1_F9_armed_awaiting_Scratch_20261010.md`
+- `Directive_Cursor_Main_to_Scratch_Jammer_Lemma_S3_3plus1d_Opsi2_Bigravity_Dirac_GO_Original_Work_20261010.md`
+- `Handoff_Claude_Jammer_to_AC_Scratch_CursorMain_Lemma_S2_Phase2_Review_on_Scratch_D2_converge_W3_eligible_earned_transfer_press_F1_F8_pass_20261009.md`
+- `Handoff_Claude_Jammer_to_AC_Scratch_CursorMain_Lemma_S2_Adversarial_Preregistered_2plus1d_B4_pi_live_D2_prior_55pct_falsification_F1_F8_armed_awaiting_Scratch_20261009.md`
+- `Directive_Cursor_Main_to_Scratch_Jammer_Lemma_S2_2plus1d_Bigravity_Dirac_GO_Original_Work_20261009.md`
+- `Handoff_Claude_Jammer_to_AC_Scratch_CursorMain_Lemma_S1_Phase2_Review_on_Scratch_D4_converge_setting_too_simple_TermIII_healthy_overclaim_pressed_3plus1d_D2_prior_unchanged_20261009.md`
+- `Handoff_Claude_Jammer_to_AC_Scratch_CursorMain_Lemma_S1_Adversarial_Review_on_Scratch_D4_converge_setting_too_simple_3plus1d_prior_unchanged_Main_filed_after_lane_block_20261009.md`
+- `Handoff_Claude_Jammer_to_AC_Scratch_CursorMain_Lemma_S1_Attack_Preregistered_Polynomial_Mismatch_Evaporates_1plus1d_Armed_Awaiting_Scratch_20261009.md`
+- `Directive_Cursor_Main_to_Scratch_Jammer_Lemma_S1_1plus1d_Bigravity_Dirac_GO_Original_Work_20261009.md`
+- `Handoff_Claude_Jammer_to_AC_Scratch_CursorMain_Gate0_Secondary_Constraint_Attack_on_Scratch_D4_lean_D2_converge_on_D2_but_press_understated_structural_force_K1_K3_unmet_S1_not_a_stall_20261009.md`
+- `Handoff_Claude_Jammer_to_AC_Scratch_CursorMain_Gate0_Secondary_Constraint_Attack_Preregistered_Four_Openings_Armed_Awaiting_Scratch_Verdict_20261009.md`
+- `Directive_Cursor_Main_to_Scratch_Jammer_Gate0_Secondary_Constraint_Algebra_GO_Original_Work_D1_vs_D2_20261009.md`
+- `Handoff_Claude_Jammer_to_AC_Cursor_Main_Scratch_Attack_On_Conformal_Literature_Verdict_Cf2_Is_Analogy_Not_Support_And_The_1408_Two_Lapse_Mechanism_Looks_Specific_To_Second_Order_Fields_Spinor_Case_Open_Against_My_Own_Prior_20261008.md`
+- `Directive_AC_to_Cursor_Conformal_Matter_BD_Ghost_Literature_Check_Jammers_Request_Routed_Late_20261008.md`
+- `Handoff_Claude_Jammer_to_AC_Cursor_Main_Scratch_Conformal_Neutrino_Lead_Preregistered_At_Gregs_Instruction_Literature_Check_Requested_Does_Doubly_Coupled_Ghost_Survive_For_Conformal_Matter_Jammer_To_Attack_Not_Build_20261008.md`
+- `Directive_Cursor_Main_Hybrid_Anomaly_Search_AC_Plus_R01_Gate_Scratch_Jammer_20261007.md`
+- `Directive_Cursor_Main_Anomaly_First_Search_Elliptic_dS_Lead_No_Sterile_Scratch_Jammer_Clones_20261007.md`
+- `Directive_AC_Anomaly_Search_Anomaly_First_Never_Prediction_First_Elliptic_dS_Neutrinos_Parity_20261007.md`
+- `Directive_Cursor_Main_P09_Rebuild_Programme_Gated_O1_Then_P02_Majorana_20261007.md`
+- `Directive_Cursor_Main_Cosmology_Mod_Paths_Keep_Particle_Locks_Scratch_Jammer_Clones_20261007.md`
+- `Directive_Cursor_Main_Drop_Shared_Nu_Second_Kinetic_Ontology_Cost_Scratch_Jammer_Clones_20261007.md`
+- `Directive_Cursor_Main_CPN_Relation_And_Gravity_Completion_Programme_Scratch_Jammer_Clones_20261007.md`
+- `Directive_AC_to_Cursor_Two_Investigations_CPN_Action_First_Then_Ghost_Free_Completion_20261007.md`
+- `Directive_AC_One_Geometry_Or_Two_Metrics_Foundational_Gap_Prerequisite_To_Any_Rebuild_20261007.md`
+- `Directive_AC_to_Claude_Lanes_Two_Programmes_Monopole_F2plus_And_Bridge_Law_BL1_Cross_Family_Check_20261007.md`
+- `Directive_Cursor_Main_Planck538_Comparable_Recovery_Loop_20261007.md`
+- `Directive_Cursor_Main_Bridge_Law_From_Snu_Or_Bigravity_Research_Programme_20261007.md`
+- `Directive_Cursor_Main_Monopole_F2plus_Forced_Or_Selected_Scratch_Jammer_20261007.md`
+- `Directive_AC_to_Jammer_Dark_Sector_v0_2_Adversarial_Review_Claim_Set_Moved_Mid_Rework_20261007.md`
+- `Directive_AC_to_Scratch_Dark_Sector_Companion_v0_2_Eight_Items_Draft_Predates_Everything_20261006.md`
+- `Directive_AC_CDM_Candidate_Inventory_G2_Singlet_Seesaw_PBH_Nothing_Is_Permitted_20261006.md`
+- `Directive_AC_Section_8p6_Reread_Is_Hkappa_The_Cold_Lemma_Renamed_Four_Forks_20261006.md`
+- `Directive_AC_Independent_Assessment_Cold_Conjugate_Lemma_Hot_Outcome_Must_Stay_Available_20261006.md`
+- `Directive_AC_Perturbation_Level_Check_Does_Conjugate_Sector_Supply_What_Planck_Measures_Four_Forks_20261006.md`
+- `Directive_Scratch_to_Cursor_Dark_Sector_DS1_adversarial_check_quarter_bilateral_factor_DS2_pin_Phi_infinity_via_Ntotal_CosMIn_Greg_authorized_resources_20260929.md`
+- `Directive_Scratch_to_Cursor_Grok_ADVERSARIAL_Z2_orbifold_factor_on_HH_S4_horizon_entropy_quarter_or_eighth_20260928.md`
+
+## Cursor actions this tick
+
+- Restarted any stopped poll workers
+- Rebuilt stale PDFs when detected
+- **When ANY grep hit or tier doubt:** AC sight required before external deposit --- do not self-ratify
+
+## Pipeline health
+
+- **PIPELINE STUCK** --- heuristic-pending count=36; same-list age ~15.6h. This is NOT healthy. Promote/drain repair required; do not hand-carry forever.
+
+## Suggested AC actions
+
+1. Ratify or redirect any flagged grep hits above
+2. Close or re-queue stale inbound handoffs if already done
+3. Reply via `Handoff_AC_to_Cursor_*` for any supervisor-flagged corpus fix
+4. If pipeline health says STUCK: do not treat this tick as green --- promote/drain repair owed
+
+--- Cursor Main, 2026-10-10 16:38.

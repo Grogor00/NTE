@@ -45,7 +45,7 @@ All files are on the book's Zenodo record (concept DOI above). Titles as deposit
 | Chapter 6 | Why Quantum Mechanics is Geometry |
 | Chapter 7 | The Gauge Birth |
 | Chapter 8 | The Unresolved Particle |
-| Chapter 9 | The Number That Could Have Failed |
+| Chapter 9 | The Coupling That Closed Over Itself *(suggested retitle; published deposit still carries "The Number That Could Have Failed")* |
 | Chapter 10 | The Silvered Boundary |
 | Chapter 11 | What the Universe Sounds Like |
 | Chapter 12 | The Chord |
@@ -107,7 +107,7 @@ Eleven lay notes (~2,000 words each), each unpacking one derivation or one piece
 
 | Note | Topic |
 |------|-------|
-| *Paper_Kappa_AB_Pedagogical_Note_v10_18_0* | The dark-matter ratio: from the bare coupling to 5.50 |
+| *Paper_Kappa_AB_Pedagogical_Note_v10_18_0* | Bilateral coupling κ₀ (historical note: amplifier / 5.50 withdrawn 2026-10-09) |
 | *Paper_Hopf_Bundle_Bare_Coupling_Pedagogical_Note_v10_18_0* | The bare coupling κ₀ as a state-independent normalisation |
 | *Paper_P4_Pedagogical_Note_v10_18_0* | Maximal atmospheric mixing from μ–τ reflection symmetry |
 | *Paper_S6_M_R_Heat_Kernel_Pedagogical_Note_v10_18_0* | The heavy seesaw scale: pathway identified, not derived |
