@@ -89,11 +89,11 @@ That bilateral support makes the neutrino the backbone for cross-thickness gravi
 
 ---
 
-## Dark Matter as Cross-Thickness Gravity
+## Bilateral Gravity — and an Open Question
 
-Matter in the conjugate orientation is invisible electromagnetically but should gravitate into ours through the neutrino bridge. **Dark matter is that gravitational signature**, not a new particle hiding in underground tanks.
+Matter in the conjugate orientation gravitates into ours through the neutrino bridge. That bilateral footprint is real in the framework's equations. **Whether it is the cold dark matter inferred from the microwave background is open** — not settled, and not claimed.
 
-**κ ≈ 5.50** — the dark-to-ordinary matter ratio — comes from one structural derivation in two steps: a bare coupling κ₀ = 3/√(4π) from the unresolved neutrino's geometry on the three-sphere, then a self-consistent resummation κ = κ₀/(1 − κ₀). Planck measures 5.38 ± 0.15 (within ~0.8σ). Direct-detection null results are predicted, not embarrassing failures. Dwarf galaxies should show scatter in dark-matter fractions; large clusters should converge to 5.50 — set by neutrino free-streaming coherence (~40 Mpc).
+**κ₀ = 3/√(4π) ≈ 0.846** is the deposited bilateral coupling — bare, from the unresolved neutrino's geometry on the three-sphere. **An algebraic amplifier that once produced κ ≈ 5.50 is withdrawn (2026-10-09):** it had no action behind it, and depositing 5.50 would invite the sky-match the corpus already disowned. Direct-detection nulls neither confirm nor refute the framework on the observed-CDM question, which remains open. A mass-dependent scatter pattern was once listed as a sharp test; with the mean withdrawn, only a bare averaging fall-off remains — not enough to stand alone.
 
 ---
 
@@ -101,7 +101,7 @@ Matter in the conjugate orientation is invisible electromagnetically but should 
 
 Fundamental equations are time-symmetric; experience is not. Boltzmann's entropy story explains direction only after assuming an extraordinarily special initial state.
 
-NTE locates the arrow in geometry: at **N_lock**, when gauge symmetry switched on, massive matter committed irreversibly to one orientation of the manifold's thickness. The past is expanded e-fold structure; the future is what has not yet expanded. Entropy still rises, but the deeper asymmetry is geometric commitment at birth — **was** written in the geometry, **next** still open — not merely the statistical story alone.
+NTE locates the arrow in geometry: at **N_lock**, when gauge symmetry switched on, massive matter committed irreversibly to one orientation of the manifold's thickness. The past is expanded e-fold structure whose **effects** are settled; the future is what has not yet expanded. Entropy still rises, but the deeper asymmetry is geometric commitment at birth — **was** settled in effects, **next** still open — not merely the statistical story alone.
 
 ---
 
@@ -139,8 +139,8 @@ Dark energy is a different story. The framework predicts *w* = −1 exactly — 
 
 | Claim | NTE | Observation / test | Tier |
 |-------|-----|-------------------|------|
-| Dark matter ratio κ | 5.50 | 5.38 ± 0.15 (Planck) | Zero-parameter (one derivation + one closure) |
-| Direct DM detection | Null forever | XENON, LUX, PandaX nulls | Falsifiable |
+| Bare bilateral coupling κ₀ | ≈ 0.846 | Deposited | Amplifier / 5.50 withdrawn (2026-10-09) |
+| Observed cold dark matter | — | No deposit account | Open sector |
 | Neutrino nature | Majorana (no completed Hopf lock) | Neutrinoless double beta decay | Falsifiable |
 | Neutrino generations | Exactly 3 | No sterile fourth | Structural |
 | m_{ν₂} (solar leg, 8π branch) | ~0.00860 eV | √(Δm²_solar) ~0.00866 eV | Branch-contingent, not zero-parameter — 8π fits the solar level, 4π fits the ratio; no single M_R fits both |
@@ -155,7 +155,7 @@ Dark energy is a different story. The framework predicts *w* = −1 exactly — 
 | W_R boson | None | LHC nulls continue | Distinguishing |
 | Quark/lepton mass ratios | Not derived | Inherited like SM | Open |
 
-**The chord.** One heat-kernel reading on the universe-instrument's spectral triple yields a coherent set of structural results that stand or fall together: the bare coupling κ₀ → κ, the gauge-birth temperature, the Majorana and leptogenesis scales, the comoving-volume audit, and the structural cosmological-constant result — the fourth heat-kernel coefficient vanishes on this geometry, a₄ = 0, which is why Λ's suppression is structural rather than numeric. The framework makes no claim to a fixed tally of "notes"; the content is the coherence, not the count. Because a₄ = 0, an a₄-based derivation of the inflation tilt is *not* available — so n_s and r are treated separately (as consistent-with rather than derived-from the framework), not as outputs of the chord. Chapter 12 develops the coherence; Appendix B carries the technical derivations.
+**The chord.** One heat-kernel reading on the universe-instrument's spectral triple yields a coherent set of structural results that stand or fall together: the bare coupling κ₀ (the amplifier that once produced κ ≈ 5.50 is withdrawn), the gauge-birth temperature, the Majorana and leptogenesis scales, the comoving-volume audit, and the structural cosmological-constant result — the fourth heat-kernel coefficient vanishes on this geometry, a₄ = 0, which is why Λ's suppression is structural rather than numeric. The framework makes no claim to a fixed tally of "notes"; the content is the coherence, not the count. Because a₄ = 0, an a₄-based derivation of the inflation tilt is *not* available — and native (n_s, r) are **withdrawn** anyway (|Φ_NTE| is not an inflaton; the origin sector is open). Chapter 12 develops the coherence; Appendix B carries the technical derivations.
 
 For the Λ note in lay terms: the framework first removes the catastrophic vacuum term by the volume constraint, then keeps the small spectral leftover. The structural-quietness account — the catastrophe is forbidden by the instrument's geometry — is what the framework holds. A specific numerical value for the residual at independent precision is open work; the calculation requires deriving the framework's coupling β_NTE from geometry alone, and that derivation is among the framework's open structural items.
 
@@ -163,11 +163,11 @@ For the Λ note in lay terms: the framework first removes the catastrophic vacuu
 
 ## Two Registers Before Physics Switched On
 
-The CMB tilt **n_s ≈ 0.9685** comes from a long pre-birth count (~63 e-folds) in the *ripple register*. The lock to gauge birth uses a separate *constraint register* connecting Planck-scale configuration to field strength at locking. The *holographic width* at birth (~0.1 e-fold) is a third coordinate — horizon entropy at the transition, not the same as either count above.
+An older presentation derived a CMB tilt **n_s ≈ 0.9685** from a long pre-birth count (~63 e-folds) treated as an inflationary depth. That native reading is **withdrawn**: |Φ_NTE| is expansion-history identity, not an inflaton, and the ~63-e-fold figure is an energy-scale ratio, not a pivot depth. The lock to gauge birth uses a separate *constraint register* connecting Planck-scale configuration to field strength at locking. The *holographic width* at birth (~0.1 e-fold) is a third coordinate — horizon entropy at the transition, not the same as either count above.
 
-The universe counted its earliest ripples in one register and locked its physics in another — conflating the two was where the apparent tension came from. The value n_s ≈ 0.9685 sits comfortably inside the Planck band, but it is *consistent with* the framework's slow-roll reading rather than *forced by* the geometry: the pre-birth boundary condition does not by itself fix the tilt, so n_s is an honest consistency, not a derived number.
+The universe counted its earliest structures in one register and locked its physics in another — conflating the two helped manufacture the withdrawn native (n_s, r) pair. Those numbers are historical audit trail only; the early-universe origin sector is open (Option D).
 
-At birth itself, three clocks must not be mixed: thermal Friedmann scale at ~10³² K; slow constraint Hubble at locking; and inflation-depth N_e for the CMB. Same event, different projections.
+At birth itself, clocks must not be mixed: thermal Friedmann scale at ~10³² K; slow constraint Hubble at locking; and whatever expansion history the open origin sector eventually selects. Same event, different projections.
 
 ---
 
@@ -175,12 +175,12 @@ At birth itself, three clocks must not be mixed: thermal Friedmann scale at ~10�
 
 Several foundations have tightened without withdrawing the headline predictions:
 
-- Cross-thickness gravity now follows from a single action (Janus action), reproducing κ = κ₀/(1 − κ₀).
+- Bilateral gravity aims at a single action (Janus action); deposited coupling is κ₀; amplifier / 5.50 withdrawn.
 - A coherent set of structural results reads from one heat-kernel computation on the same geometric object — the bare coupling, the gauge-birth temperature, the Majorana scales, the volume audit, and the structural cosmological-constant result (a₄ = 0) — with no fixed tally claimed.
 - Λ's structural quietness stands: the loud vacuum term is removed by the volume constraint, and the universe-instrument's geometry forbids the catastrophe at the structural level. A specific numerical value for the residual is open work — the calculation requires deriving the framework's coupling β_NTE from geometry alone.
 - The Majorana–Dirac duality fixes the *shape* of the neutrino mass ratio. The sub-percent solar-leg figure (~0.7%) holds only on the 8π branch of an open normalisation choice — it is branch-contingent, not parameter-free — and the same single mass scale overshoots the atmospheric leg by ≈1.5×. One M_R cannot fit both legs at sub-1%; the ratio shape and the trade-off are the genuine content.
 
-Still open: the full SM mass hierarchy, first-generation neutrino Yukawa, M_R on the heat-kernel route, the derivation of n_s (consistent with observation but not yet forced by the geometry), strong-field gravity near horizons, and deriving β_NTE without observational anchoring.
+Still open: the full SM mass hierarchy, first-generation neutrino Yukawa, M_R on the heat-kernel route, the cosmological origin sector (native n_s, r withdrawn), observed cold dark matter, strong-field gravity near horizons, and deriving β_NTE without observational anchoring.
 
 ---
 
@@ -198,7 +198,7 @@ The list is shorter than a year ago; it's not empty.
 
 ## The Short Version
 
-Photons experience zero proper time; massive particles do not. NTE reads that correlation through a **boundary expansion field** |Φ_NTE| distinct from the SM Higgs, both set at **gauge birth**. The universe is an expanding S³ boundary; *c* is expansion rate; we are embedded behind the photon wavefront. Bilateral structure is two orientations of one thickened manifold. Incomplete neutrino locking bridges orientations; **dark matter is their cross-thickness gravity** with **κ ≈ 5.50**. Time's arrow is geometric commitment at locking. Quantum probabilities are sphere geometry after Hopf quotient. Octonions without time become quaternions with time → **SU(3)×SU(2)×U(1)**. Hubble tension still reads through void enhancement of |Φ_NTE|²; dark energy (*w* = −1) stands naked at ~3σ from DESI — voids do not rescue it. Solar mixing sin²θ₁₂ = 1/3 is withdrawn under JUNO. Core predictions: no direct DM; Majorana neutrinos; three generations; the neutrino mass-ratio shape (the solar-leg figure branch-contingent, not zero-parameter), θ₂₃ at structural precision; n_s consistent (not derived); H₀ as cosmic mean with void-enhancement reading; Λ as structural quietness with the specific numerical calculation open.
+Photons experience zero proper time; massive particles do not. NTE reads that correlation through a **boundary expansion field** |Φ_NTE| distinct from the SM Higgs, both set at **gauge birth**. The universe is an expanding S³ boundary; *c* is expansion rate; we are embedded behind the photon wavefront. Bilateral structure is two orientations of one thickened manifold. Incomplete neutrino locking bridges orientations and yields a bare bilateral coupling **κ₀ ≈ 0.846**; the amplifier that once closed to **5.50** is **withdrawn** — observed CDM remains open. Time's arrow is geometric commitment at locking. Quantum probabilities are sphere geometry after Hopf quotient. Octonions without time become quaternions with time → **SU(3)×SU(2)×U(1)**. Hubble tension still reads through void enhancement of |Φ_NTE|²; dark energy (*w* = −1) is retained; DESI status is mixed (BAO alone ≈ ΛCDM; frequentist DESI+CMB tension remains open) — voids do not mitigate. Solar mixing sin²θ₁₂ = 1/3 is withdrawn under JUNO. Core commitments: Majorana neutrinos; three generations; the neutrino mass-ratio shape (the solar-leg figure branch-contingent, not zero-parameter), θ₂₃ at structural precision; n_s consistent (not derived); H₀ as cosmic mean with void-enhancement reading; Λ as structural quietness with the specific numerical calculation open.
 
 ---
 

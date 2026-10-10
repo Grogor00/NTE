@@ -1,10 +1,12 @@
-# The Shape of Time
+﻿# The Shape of Time
 
 # Chapter 1 — The Photon's Journey
 
 *Non-Temporal Emergence (NTE): the Null-Time Extension to the Standard Model*
 
 G. White
+
+**(P08)** Primary register **(A)** particle/geometry. See `REGISTER_P08_Two_Register_Map_v1.md`.
 
 ---
 
@@ -177,12 +179,12 @@ And it will pay off the phrase this chapter has been careful about. *The line ha
 
 From there the book works out what the boundary expansion field is and where its values come from, what quantum mechanics looks like on the manifold's surface, what happened at the moment in cosmic history when the Standard Model gauge structure emerged, and what the neutrino's unresolved status means for the framework's bilateral structure.
 
-A chapter in the middle of the book then makes the framework's first sharp empirical commitment. The framework's structural account of dark matter produces a ratio whose value is calculated, not fitted, and which can be compared directly to what the Planck satellite measures. The framework's number is κ = 5.50, and it is exact in the sense that the algebra leaves nowhere to hide an adjustment — which is not the same as saying the universe must come out at 5.50, only that the framework has no way to move if it does not. Planck's measurement gives 5.38, with about 0.15 of uncertainty. The agreement at present is within a fraction of one standard deviation; tighter data will either confirm the prediction or break it. The framework lives or dies on numbers of this kind.
+A chapter in the middle of the book then deposits the framework's cleanest geometric number: the bare bilateral coupling κ₀ = 3/√(4π), forced with no dial anywhere in its chain, and still strong enough to force Majorana neutrinos. An older edition closed that coupling to κ = 5.50 and matched it to Planck's dark-matter ratio; **both the amplifier and the match are withdrawn**. Observed cold dark matter remains open. The framework lives or dies on the commitments it still makes — w = −1, forced Majorana, the two zero-parameter mixing predictions — not on a sky-match it no longer claims.
 
-The chapters after that explore the consequences of the structural picture — where dark matter sits in the manifold's geometry, what the universe sounds like when read as a single coherent geometric object, and where the cosmological constant's strange smallness comes from. A chapter on the mathematical company the framework keeps lays out the structural rhymes between the framework and some of the deepest currents of mathematical physics.
+The chapters after that explore the consequences of the structural picture — what bilateral gravity can and cannot say about the dark sector, what the universe sounds like when read as a single coherent geometric object, and where the cosmological constant's strange smallness comes from. A chapter on the mathematical company the framework keeps lays out the structural rhymes between the framework and some of the deepest currents of mathematical physics.
 
-The book then closes with two chapters that bring the picture and the predictions together. The first catalogues the framework's empirical commitments in full — each at the register the framework has earned for it, from the three predictions made with no adjustable input anywhere in their chains, through the conditional and cross-checked tiers, to the bets on absence — and the book asks to be assessed against the lot, with the open ledger of what remains unfinished kept in an appendix at full volume. The final chapter states the working bet: what it would mean if the framework holds, and what it would mean if it does not.
+The book then closes with two chapters that bring the picture and the predictions together. The first catalogues the framework's empirical commitments in full — each at the register the framework has earned for it, from the two predictions made with no adjustable input anywhere in their chains, through cross-checks and open sectors, to the bets on absence — and the book asks to be assessed against the lot, with the open ledger of what remains unfinished kept in an appendix at full volume. The final chapter states the working bet: what it would mean if the framework holds, and what it would mean if it does not.
 
 Each chapter inherits the structural picture established here. The framework's claims are interdependent; introducing them serially would mean each sat incomplete until the others arrived. By loading them up front, the book can spend the rest of its time showing how each piece does its specific work, rather than rebuilding the picture each time.
 
-The shape of time, in this framework, is the shape of the expansion. The boundary expansion field sets the rate. Massive particles accumulate *t* as the expansion proceeds. The photon does not. The photon is the connection between the events the expansion draws apart — and that is what null-time is, geometrically. **Was** is written in the geometry the expansion has already traced; **next** is what has not yet unfolded — because the manifold's expansion is the record of what has occurred, and the geometry remembers.
+The shape of time, in this framework, is the shape of the expansion. The boundary expansion field sets the rate. Massive particles accumulate *t* as the expansion proceeds. The photon does not. The photon is the connection between the events the expansion draws apart — and that is what null-time is, geometrically. **Was** is settled in the effects of expansion already traced; **next** is what has not yet unfolded — because the manifold's expansion commits structure without storing the past as a second present.

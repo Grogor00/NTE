@@ -15,6 +15,18 @@
 
 ---
 
+## Working-tree note (2026-10-11) — NOT a published DOI update
+
+| Item | Status |
+|---|---|
+| **Ch 9 arc** | Greg **Option A** ratified — retitle + reframe |
+| **Live tip** | `Book\Chapter_09_The_Coupling_That_Closed_Over_Itself_v7.md` |
+| **Old tip** | `Chapter_09_The_Number_That_Could_Have_Failed_v6.md` → pointer only |
+| **Broad κ** | Amplifier / 5.50 withdrawn; **κ₀** retained |
+| **Zenodo record** | Unchanged — still carries *The Number That Could Have Failed* until next deposit cycle |
+
+---
+
 ## Deposit contents — 21 files (as published)
 
 | # | Slot | Version | File on record | This cycle's changes |

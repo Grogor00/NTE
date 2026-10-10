@@ -1,10 +1,12 @@
-# The Shape of Time
+﻿# The Shape of Time
 
 # Prelude — *The Forty-Million-Year Instant*
 
 *Non-Temporal Emergence (NTE): the Null-Time Extension to the Standard Model*
 
 G. White
+
+**(P08)** Registers **(A)** core + **(B)** open named. See `REGISTER_P08_Two_Register_Map_v1.md`.
 
 ---
 
@@ -42,7 +44,7 @@ The universe is the closed three-dimensional surface of an expanding four-dimens
 
 H(N) = β_NTE|Φ_NTE(N)|²
 
-where *H* is the Hubble parameter, |Φ_NTE| is the boundary expansion field strength at e-fold *N*, and β_NTE is a coupling constant that sets the overall scale. The relationship rearranges to give the rate at which cosmic time accumulates per unit expansion. From this single equation, with care, the framework develops accounts of gravitational time dilation, the geometry of quantum mechanics, the origin of the Standard Model gauge structure, dark matter as a feature of the universe's bilateral structure, and the moment in cosmic history when physics itself came into being.
+where *H* is the Hubble parameter, |Φ_NTE| is the boundary expansion field strength at e-fold *N*, and β_NTE is a coupling constant that sets the overall scale. The relationship rearranges to give the rate at which cosmic time accumulates per unit expansion. From this single equation, with care, the framework develops accounts of gravitational time dilation, the geometry of quantum mechanics, the origin of the Standard Model gauge structure, a bare bilateral coupling that forces Majorana neutrinos, and the moment in cosmic history when physics itself came into being — while leaving observed cold dark matter and the early-universe origin sector openly unresolved.
 
 The Standard Model Higgs continues to do what the Standard Model says it does — gives the fundamental fermions their mass through Yukawa coupling, sits locked at 246 GeV everywhere by its own potential. The framework adds *one* further scalar — |Φ_NTE|, geometric in character, doing the cosmological work the Standard Model never had to address — and from that one addition develops the long list of structural consequences the rest of the book unpacks.
 

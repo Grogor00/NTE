@@ -1,10 +1,12 @@
-# The Shape of Time
+﻿# The Shape of Time
 
 # Chapter 8 — The Unresolved Particle
 
 *Non-Temporal Emergence (NTE): the Null-Time Extension to the Standard Model*
 
 G. White
+
+**(P08)** Primary register **(A)** particle/geometry. See `REGISTER_P08_Two_Register_Map_v1.md`.
 
 ---
 
@@ -21,11 +23,11 @@ One species barely made it. Its embedding depth was so small that the locking tr
 
 It's the neutrino.
 
-This chapter is about what the framework's structural reading lets us say about a species that almost wasn't. The textbook description of the neutrino — what every physics graduate has learnt — is correct as far as it goes, but it falls short in a specific way that the framework's geometric account fixes. And the fix is what the next chapter, on dark matter, will turn on.
+This chapter is about what the framework's structural reading lets us say about a species that almost wasn't. The textbook description of the neutrino — what every physics graduate has learnt — is correct as far as it goes, but it falls short in a specific way that the framework's geometric account fixes. And the fix is what the next chapter — on the bare coupling and what bilateral gravity can no longer claim about dark matter — will turn on.
 
-Chapter 1 gave us the photon at the pure null-time limit — no frame, no ruler along its own length, no mass, riding the expansion boundary. The neutrino is its companion at that edge: a species that *almost* escapes time, engages with both fields by the smallest amount any locked particle can, and still counts as massive. That near-miss is not a footnote. It's the structural bridge to dark matter.
+Chapter 1 gave us the photon at the pure null-time limit — no frame, no ruler along its own length, no mass, riding the expansion boundary. The neutrino is its companion at that edge: a species that *almost* escapes time, engages with both fields by the smallest amount any locked particle can, and still counts as massive. That near-miss is not a footnote. It's the structural bridge to bilateral gravity — and to the bare coupling Chapter 9 deposits.
 
-The epigraph's mood fits what comes next. Chapter 9 will derive a specific number — the dark-matter-to-baryon ratio — from geometry that only makes sense once the neutrino's unfinished identity is in view. This chapter puts that identity in place.
+The epigraph's mood fits what comes next. Chapter 9 will derive a specific number — the bare bilateral coupling **κ₀ = 3/√(4π)** — from geometry that only makes sense once the neutrino's unfinished identity is in view, and will retire the amplifier that once closed that coupling to a dark-matter ratio. This chapter puts that identity in place.
 
 ## The Textbook Neutrino
 
@@ -101,7 +103,7 @@ Recall from Chapter 7 the bilateral structure of the framework's manifold: the u
 
 The neutrino's confinement never happened, because the projection that would have confined it never finished. Its near-uniform configuration remains spread across the S³ structure that both orientations share — which means its wavefunction extends across the manifold's N-thickness, with genuine support in both orientations at once. The neutrino is partly in ours. It is partly in the other. That is *bilateral support*, and its origin is the non-resolution itself: not the neutrino's handedness, not a hidden half of it living elsewhere — simply a configuration that was never collapsed onto one face and therefore straddles both.
 
-There is one more structural fact here, and it is the bridge the next chapter crosses. Gravity, in the framework, is a property of the full S³ boundary geometry — not of the projected S² physics that gauge interactions live on. The neutrino, uniquely, never reached the S². It couples to the shared geometry through the plainest channel available: the perfectly even, isotropic pattern on the base sphere — the same maximally plain vibration the reader will meet in the chord chapter as the seed of the number 0.846. Through that channel, and through the neutrino's bilateral extent, gravitational curvature on the other orientation can register in ours. The neutrino is the unresolved structure that cross-thickness gravity operates on. Without an unprojected species, there would be no bilateral support, no cross-thickness register — and no dark matter in the framework's specific sense.
+There is one more structural fact here, and it is the bridge the next chapter crosses. Gravity, in the framework, is a property of the full S³ boundary geometry — not of the projected S² physics that gauge interactions live on. The neutrino, uniquely, never reached the S². It couples to the shared geometry through the plainest channel available: the perfectly even, isotropic pattern on the base sphere — the same maximally plain vibration the reader will meet in the chord chapter as the seed of the bare coupling κ₀ ≈ 0.846. Through that channel, and through the neutrino's bilateral extent, gravitational curvature on the other orientation can register in ours. The neutrino is the unresolved structure that bilateral gravity operates on. Without an unprojected species, there would be no bilateral support and no bilateral gravitational register — whatever relation that register eventually bears to the cold dark matter astronomers measure.
 
 A small disambiguation before moving on, because the careful reader will notice the number three appearing twice in this chapter and should not conflate the appearances. The three *eigenmodes* of the oscillation story and the factor of three in the dark-matter coupling of the next chapter both trace to the same algebraic fact — su(2) has three generators — but they are different roles of that fact: the eigenmodes live on the flavour axis, while the coupling's three counts gauge-field components. Same algebra, two jobs. The framework's papers keep the two threes explicitly separated, and so will this book.
 
@@ -155,10 +157,10 @@ The seventy-year handedness confusion was dissolved rather than answered: chiral
 
 And bilateral support — the framework's distinctive structural claim, invisible to the Standard Model because the bilateral structure itself is — is now correctly grounded: the unresolved configuration was never collapsed onto one orientation of the manifold's thickness, so it straddles both, and it couples to the shared boundary geometry through the plainest isotropic channel. The neutrino is the one species through which the other orientation's gravity can register in ours.
 
-The next chapter takes this up. Given a species with bilateral support across the manifold's two orientations, and given a cross-thickness gravitational coupling that operates on whatever has bilateral support, what is the strength of the resulting effect? How much of our orientation's gravitational signal comes from matter on the other side, registered through the neutrino's bilateral support?
+The next chapter takes this up. Given a species with bilateral support across the manifold's two orientations, and given a bilateral gravitational coupling that operates on whatever has bilateral support, what is the strength of the resulting effect?
 
-The framework's answer is a specific number with no dial anywhere in its chain — a bare coupling read off the geometry, closed by the architecture into a ratio of 5.50, set against the measured dark-matter-to-baryon ratio of 5.38 ± 0.15. The next chapter walks the derivation, the honest register of each step, and the measurement that will tighten the test.
+The framework's deposited answer is a specific number with no dial anywhere in its chain — the bare coupling **κ₀ = 3/√(4π)** ≈ 0.846, read off the Hopf geometry. An algebraic amplifier that once closed that coupling into a ratio of 5.50, and set it against Planck's dark-matter-to-baryon ratio, is **withdrawn**: 5.50 is not a framework quantity, and observed cold dark matter remains **open**. The next chapter walks the κ₀ derivation, treats the amplifier as a completed case study in overreach, and ends where the deposit actually sits — a Hopf number that still forces Majorana, and no claim that geometry has calculated the sky's dark-matter ratio.
 
-The epigraph at the head of this chapter has earned its place. The photon, with no engagement on either side, has no ruler along its own length and rides the wavefront of expansion. The neutrino, with the smallest engagement of any species that locked, almost shares the photon's privilege but not quite. The edge case the epigraph names is not the photon's null-time alone — there is another, slightly less extreme, that has been with us all along, accompanying every photon, almost imperceptibly, almost-but-not-quite null. And what we have come to call dark matter is what the framework's reading reveals: the gravitational shadow of matter on the other side of the manifold's thickness, registering in our orientation through the species that almost wasn't.
+The epigraph at the head of this chapter has earned its place. The photon, with no engagement on either side, has no ruler along its own length and rides the wavefront of expansion. The neutrino, with the smallest engagement of any species that locked, almost shares the photon's privilege but not quite. The edge case the epigraph names is not the photon's null-time alone — there is another, slightly less extreme, that has been with us all along, accompanying every photon, almost imperceptibly, almost-but-not-quite null. What bilateral gravity *can* still say is that the other orientation's matter registers through this species; what it can *no longer* say is that this registration is the cold dark matter astronomers measure.
 
 That is the next chapter's job.

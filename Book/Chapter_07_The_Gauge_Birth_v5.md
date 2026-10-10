@@ -1,10 +1,12 @@
-# The Shape of Time
+﻿# The Shape of Time
 
 # Chapter 7 — The Gauge Birth
 
 *Non-Temporal Emergence (NTE): the Null-Time Extension to the Standard Model*
 
 G. White
+
+**(P08)** Primary register **(A)**; origin bath = **(B)** open. See `REGISTER_P08_Two_Register_Map_v1.md`.
 
 ---
 
@@ -78,13 +80,22 @@ Several identities crystallise at the **same** e-fold. That is why the framework
 
 
 A word about **embedding depth**, because the term has two jobs and the difference matters later. At the gauge birth it names a property of a fundamental mode — how strongly that mode engages |Φ_NTE|, which is what fixes its place in the locking order and becomes its Yukawa coupling. That is the sense this chapter and the next one use. But what embeds a **thing** in the expansion, now, is its rest energy, and for anything composite the rest energy is mostly not Yukawa at all: a proton's mass is about ninety-nine per cent the binding energy of massless gluons. Chapter 1 made that point and it stands — rest energy is what embeds, wherever the rest energy came from. The two readings coincide for a fundamental fermion and part company for everything built out of them.
+
 **4. The bang.** Pre-temporal matter sat at enormous density **without** gauge forces to thermalise it. When strong, weak, and electromagnetic interactions switch on, that matter is violently out of equilibrium, and the reorganisation releases an enormous amount of energy.
 
 So: the Big Bang, on this reading, was **not** the beginning of time. It was the **thermal scream** when time and the Standard Model arrived — the energy already there, locked in pre-temporal matter, released when the rules changed.
 
+The **SM Higgs** and **\|Φ_NTE\|** acquire their distinct post-locking identities here too — same moment, different jobs forever after.
+
+---
+
+## Where the Bang's Account Stops
+
+Four things arrived together at N_lock. A fifth did not: a continuous story from that scream to the microwave sky we actually measure. The gap is easy to miss if the open question stays buried inside item 4, so this section lifts it out and says plainly where the chapter's claim ends.
+
 How that scream connects to the hot radiation bath we later see as the cosmic microwave background is a question the framework leaves open, and it is worth saying why rather than passing over it. The gauge birth happens at a temperature the geometry sets near the Planck scale. The radiation era that nucleosynthesis and the microwave background sit on top of begins far cooler. **If** the framework's early history contains an epoch of accelerated expansion between the two, energy conservation alone caps the temperature at the end of it some two thousand times below the gauge birth's, and the two cannot be the same event. **If** it contains no such epoch, they may connect directly. **The framework does not currently select between those histories.** What drove early acceleration, or whether anything did, is open work — Chapter 15 and the Open Ledger carry it as open, and this book will not pick a side it has not earned. So the thermal scream is the framework's account of **where the energy came from**. It is not yet its account of **how that energy became the particular bath we observe**.
 
-The **SM Higgs** and **\|Φ_NTE\|** acquire their distinct post-locking identities here too — same moment, different jobs forever after.
+That is a boundary on the chapter, not a fifth crystallisation. The four-at-once list earns its keep without pretending the radiation history is settled. A reader who wants the open cosmological-origin sector in full should go to Chapter 15 and Appendix C; what belongs here is only the honest stop: the bang, on this reading, explains the release of energy when physics switched on — and stops before the bath.
 
 ---
 
@@ -96,7 +107,7 @@ Strong Yukawa coupling pays for that completion. Weak coupling does not.
 
 Almost every species pays comfortably. One species — the **neutrino** — locks with *y* ≈ 10⁻¹², acquires a tiny mass, but the projection **does not finish**. The particle/antiparticle binary is never minted for it; it commits to neither face, and its wavefunction keeps **bilateral support** across both orientations of the manifold's thickness.
 
-That is the fast version, and the next chapter earns the slow one — including the seventy-year-old confusion it untangles about why every neutrino we detect is left-handed (a question, it turns out, about a *different* axis than the one the projection left unresolved). For now, hold only this: one species came out of the birth without a matter-or-antimatter identity, straddling both faces — the geometry Chapter 10 will read as dark matter, Chapter 9 will put a number on.
+That is the fast version, and the next chapter earns the slow one — including the seventy-year-old confusion it untangles about why every neutrino we detect is left-handed (a question, it turns out, about a *different* axis than the one the projection left unresolved). For now, hold only this: one species came out of the birth without a matter-or-antimatter identity, straddling both faces — the geometry Chapter 9 will read as a bare coupling κ₀, and Chapter 10 will ask what bilateral gravity can and cannot claim about the dark sector.
 
 ---
 
@@ -118,6 +129,6 @@ One species almost failed the cascade's finishing move: locked, massive, but **u
 
 That species is the neutrino.
 
-Chapter 8 is its portrait: oscillation, Majorana character, why it almost wasn't. Chapter 9 asks whether geometry can turn that unfinished identity into **κ ≈ 5.50**.
+Chapter 8 is its portrait: oscillation, Majorana character, why it almost wasn't. Chapter 9 asks what bare coupling the unfinished identity forces — **κ₀ = 3/√(4π)** — and why an amplifier that once closed that coupling to 5.50 is no longer a framework quantity.
 
 In the beginning — at smaller N — there was no time, no gauge structure, no mass. And what there was, the moment the rules changed, thermalised — into the universe whose later history the rest of this book describes. One traveller on the way through almost did not finish the crossing.

@@ -1,4 +1,4 @@
-# The Shape of Time
+﻿# The Shape of Time
 
 # Chapter 4 — Time and Expansion
 
@@ -6,12 +6,14 @@
 
 G. White
 
+**(P08)** Primary register **(A)** particle/geometry. See `REGISTER_P08_Two_Register_Map_v1.md`.
+
 ---
 
 
 ## *Was → Now → Next*
 
-> *Was is written in the geometry. Now is where expansion runs. Next is what has not yet unfolded.*
+> *Was is settled in the effects of expansion already traced. Now is where expansion runs. Next is what has not yet unfolded.*
 
 ---
 
@@ -127,13 +129,13 @@ The framework picks its empirical battles deliberately. Time dilation is a readi
 
 The chapter epigraph names three parts of time in the framework — **was**, **now**, and **next** — without treating them as coordinates on a pre-existing timeline.
 
-**Was** is written in the geometry. The events of the universe's history did not occur on a timeline that has now moved on. They occurred at e-folds that the universe has now expanded beyond, but the e-folds themselves are not erased by the expansion. The structure of what happened — every photon emitted, every entanglement formed, every particle locking, every gauge transition — is part of the geometric record of the manifold. The universe has not forgotten any of it.
+**Was** is settled in the effects of expansion already traced. The events of the universe's history did not occur on a timeline that has now moved on. They occurred at e-folds that the universe has now expanded beyond. What remains is not a tape of stored moments still somehow present, but the fixed consequences of that expansion — every photon path already taken, every entanglement already formed, every particle locking and gauge transition already committed. The past is settled in its effects; it is not sitting elsewhere as a second present.
 
-The framework's relationship to the philosophical question of whether time "really flows" is worth stating cleanly. In the *block universe* picture that some interpretations of relativity take seriously, all of spacetime exists at once — past, present, and future are parts of a single four-dimensional structure, and the sense of "now moving forward" is an artefact of conscious experience rather than a feature of physics. The framework is naturally close to this picture for what concerns the **was**: every event that has occurred is geometrically present in the manifold, retained in the structure of how the expansion has unfolded. The past is not somewhere else. It's the geometric record of expansion-already-completed.
+The framework's relationship to the philosophical question of whether time "really flows" is worth stating cleanly. In the *block universe* picture that some interpretations of relativity take seriously, all of spacetime exists at once — past, present, and future are parts of a single four-dimensional structure, and the sense of "now moving forward" is an artefact of conscious experience rather than a feature of physics. The framework is close to that picture only for what concerns **commitment**: once an e-fold is passed, its effects are fixed. It does **not** treat the past as still present on the manifold as a stored reel. The past is settled structure, not a concurrent elsewhere.
 
 But the framework breaks the block-universe symmetry between past and future. **Next**, in the framework, is not a place we are travelling toward through pre-existing spacetime. It's what the manifold has not yet expanded into — and the framework does **not** treat that openness as a hidden track already laid down. *N* is unidirectional — the universe expands, and geometry accumulates as it does — but what has not yet been expanded into has not yet been determined in detail. The past is geometrically present; the future is being generated, not retrieved.
 
-**Now** is where expansion is actively running and proper time accumulates. It is **not** a sharply defined classical "edge of expansion" — no mechanistic frontier where the universe behaves like a clockwork film advancing frame by frame. Quantum superposition, probabilistic collapse, and sensitivity to conditions mean the fine structure of what unfolds is not fixed in advance. How far that openness runs — through chaos, through the fuzz of infinite waveforms collapsing into outcomes, through whatever room remains for agency and an unpredictable future — is honest open work in the framework. This chapter establishes the **was / now / next** asymmetry at the level expansion and geometry can honestly support; a fuller account of open **next** is queued for development elsewhere in the book's arc.
+**Now** is where expansion is actively running and proper time accumulates. It is **not** a sharply defined classical "edge of expansion" — no mechanistic frontier where the universe behaves like a clockwork film advancing frame by frame. Quantum superposition, probabilistic collapse, and sensitivity to conditions mean the fine structure of what unfolds is not fixed in advance. How far that openness runs — through chaos, through a dense fuzz of quantum outcomes still collapsing into macroscopic records, through whatever room remains for an unpredictable future — is honest open work in the framework. This chapter establishes the **was / now / next** asymmetry at the level expansion and geometry can honestly support; a fuller account of open **next** is queued for development elsewhere in the book's arc.
 
 The asymmetry between was and next is structural, built into the fact that *N* increases — but the epigraph's **next** should not be read as a deterministic script.
 

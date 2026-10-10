@@ -1,4 +1,4 @@
-﻿CR2 ac_jammer handoff received: Handoff_AC_to_Cursor_GO_C21_Cleared_Integration_With_Status_Header_Correction_20261006.md
+﻿CR2 ac_jammer handoff received: Handoff_Scratch_to_AC_Jammer_CursorMain_SolA_MOD_MSCALE_RETRY_P4_refuse_OF_SCALE_AX_no_nonbanned_selector_B4_residual_EXHAUSTED_no_Core_20261011.md
 
 **Corpus identity:** Sign all handoffs, memos, and stream-note entries as **Cursor AC or Cursor Jammer (AC/CR inbound -> Cursor AC; Jammer inbound -> Cursor Jammer)**. Never bare Cursor or bare specialist names without the Cursor prefix. Standard: Workflow/NTE_Cursor_Agent_Identity_Standard_v0_1_20260601.md
 
@@ -6,56 +6,99 @@ Execute this handoff now.
 
 ---
 
-# Handoff â€” AC â†’ Cursor Main: **C21 CLEARED. GO on integration**, with one correction applied before the move.
+# Handoff â€” Scratch (SA-MSCALE RETRY) â†’ AC / Jammer-MSCALE / Cursor Main
 
-**From:** AC (Claude) Â· **To:** Cursor Main Â· **Cc:** Greg, PC, Jammer, Scratch Â· **Date:** 2026-10-06
-**Greg: GO, 2026-10-06 23:20 NZDT.**
-**Clears:** `Handoffs\CURSOR_GATE_C21_v06_v07_Diff_Plus_Kappa_Grep_Awaiting_AC_Clear_20261006.md`
-
----
-
-## 1. **AC clears v0.7**
-
-**The grep is the result that mattered and it is clean.** No `dark matter`, `5.50`, `5.38` or `Î©_DM` hits. **Îº appears only in Â§7's firewall as a bilateral ratio, with no Planck-match and no "is CDM" claim.** So C21 does not import a stale claim into canon â€” which was the actual risk in integrating a paper cut three days before the Îº withdrawal.
-
-**The extra deltas need no section-read.** Versioning, changelog, the Â§7 "confirmed" note and the one-word bridge are bookkeeping and cosmetic; none touches an argument. **AC's v0.6 verification carries to v0.7.**
-
-## 2. **The one correction â€” apply BEFORE the move**
-
-**C21's status header claims: *"v0.7 cleared by AC 2026-10-03."* That is false.**
-
-AC verified **v0.6** on **2026-09-29**. **PC had no clearance from AC for v0.7 at all** â€” AC's verification handoff reached her only on **2026-10-03**, four days after AC wrote it, **because AC filed it as a reply to Greg instead of routing it to PC.** The line records a clearance that did not exist, and papers over **AC's routing failure**, not PC's.
-
-```
-OLD: v0.7 cleared by AC 2026-10-03
-NEW: v0.6 verified by AC 2026-09-29 (full read, arithmetic re-checked). v0.7 cleared by AC 2026-10-06 on a v0.6â†’v0.7 diff: three named deltas confirmed, no argument changed.
-```
-
-**OLD is AC's reconstruction of your report, not a verbatim quote â€” match-or-report, and report the actual line if it differs.**
-
-**This matters beyond tidiness: it carries the real verification basis into canon.** Anyone reconstructing the record from the deposited file would otherwise see a clearance date that never happened.
-
-## 3. GO â€” integration steps
-
-**(a) Move** â†’ `Core_Papers\Companion_21_ConformalReset_SeedPhoton_v10_19_0.md`. **Name confirmed against the 01â€“20 pattern â€” proceed.**
-
-**(b) Speculative banner** â€” **[SPECULATIVE and NON-LOADBEARING]** must read as strongly in `Core_Papers\` as in `Working\`. **Report its text after the move.** Integration must not quietly promote the register.
-
-**(c) Status header** â€” spec Â§2 format, in the common pass. Last ratified change **2026-09-23** (Â§7), with the v0.7 cut and Â§2's corrected clearance line. **Open items must include Â§10's post-2020 Hawking-point literature currency**, open since v0.4.
-
-**(d) Render** to `paper-build\pdf-out\` â€” clears the NO_PDF half of blocker 3.
-
-**(e) Manifest Â§3** â€” add at speculative register; report the current entry format first.
-
-**(f) Cross-references** â€” **no Core paper cites C21 yet, per your report.** Record that in the integration report. **Worth revisiting once it is in canon: a companion nothing references is either new or orphaned, and the deposit should know which.** Not a blocker.
-
-## 4. Standing
-
-**Dark Sector stays out** â€” findings A and B outstanding, Â§4.1 recast pending, grounding moved from C11 to C12's aâ‚„ = 0. **Separate gate with Greg and PC.**
-
-**Sequence unchanged:** loci 1â€“4 + finals â†’ C21 integration â†’ version/status-header pass across **24** artefacts â†’ before/after report â†’ whole-set render.
+**From:** Cursor Scratch (Discipline 14) Â· **Lane:** **SA-MSCALE** (RETRY wave)  
+**To:** AC, Jammer-MSCALE (Phase 2), Cursor Main Â· **Cc:** Greg, PC  
+**Date:** 2026-10-11  
+**Authority:** RETRY GO + RETRY Directive + EXPLORE Modify TopTier Â· META SYN Â§6 **M-SCALE-AX** Â· Optional SCALE EXHAUSTED Â· AMP+RBIG+OMT EXHAUSTED  
+**Status:** Scratch SA-MSCALE RETRY **filed** â€” prereg + verdict. Awaits Jammer-MSCALE Phase 2. **No Core apply.** Îº/amp **quarantined**. Banned closers Î©/Bullet/amp **held**.
 
 ---
 
-â€” AC, 2026-10-06.
+## Landing (one line)
+
+**P4** â€” OF-SCALE-AX **REFUSE earn** / shelf **EXHAUSTED**; fresh RETRY survey finds **no** non-banned scale selector; B4 dial_named residual **held**; solution-candidate **No**; provisional SYN SA-MSCALE row **confirmed**; no Core.
+
+---
+
+## Chair / fence / costs (return block)
+
+| Item | Value |
+|---|---|
+| **Chair** | **P4** |
+| **Disposition** | **REFUSE** earn Â· lane **EXHAUSTED** on shelf |
+| **Non-banned selector exhibited?** | **No** |
+| **B4 SCALE-DIAL** | **OPEN** (Î»_int Â· leftover Î² Â· Î± dial_named) |
+| **G2 zero-param** | **Still killed** |
+| **Solution-candidate?** | **No** |
+| **PROV-SYN SA-MSCALE** | **CONFIRMED** |
+| **Exhausted?** | OF-SCALE-AX earn-path: **YES** under present materials |
+| **Core / Amp deposit** | **None** Â· amp **quarantined** |
+| **Banned closers** | Î© / Bullet / amp **unavailable** |
+
+### Flex disposition (compact)
+
+| Id | Sublabel |
+|---|---|
+| **OF-SCALE-AX** | **refuse_shelf_exhausted** (no_nonbanned_selector; B4_residual; no_Core) |
+
+### Costs (compact)
+
+C-EMPTY-SHELF Â· C-RES-B4 Â· C-NO-INVENT Â· C-STACK-SCALE-LEG-EMPTY Â· C-BLAST-HIGH-IF-WRONG.
+
+### Paths
+
+| Path | Status |
+|---|---|
+| SA-MSCALE earn NEXT | **None** |
+| OF-SCALE-AX deposit content | **Absent** |
+| Structure stack Scale leg | **Empty** â†’ SA-MSTACK |
+| Sol-A viable_research | **held** |
+| Îº / amp | **quarantined** |
+
+---
+
+## Artefacts
+
+| Role | Path |
+|---|---|
+| Prereg | `Working/SolA_MOD_MSCALE_RETRY_PREREGISTRATION_Scratch_forks_P1_P2_P4_method_original_work_20261011.md` |
+| Verdict | `Working/SolA_MOD_MSCALE_RETRY_VERDICT_Scratch_P4_refuse_OF_SCALE_AX_no_nonbanned_selector_on_shelf_B4_residual_EXHAUSTED_no_Core_original_work_20261011.md` |
+| This handoff | `Handoffs/Handoff_Scratch_to_AC_Jammer_CursorMain_SolA_MOD_MSCALE_RETRY_P4_refuse_OF_SCALE_AX_no_nonbanned_selector_B4_residual_EXHAUSTED_no_Core_20261011.md` |
+| Index | `Working/SolA_Modify_TopTier_PROGRAMME_INDEX_CursorMain_Greg_GO_Investigation_Only_20261011.md` |
+| Inventory | `Working/EXPLORE_SolA_Modify_TopTier_BAR_CITE_AxPR_Ghost_Scale_CursorMain_20261011.md` |
+
+**Supersedes for this RETRY wave:** Prior Main-cover / stub MSCALE verdicts  
+`Working/SolA_MOD_MSCALE_VERDICT_Scratch_P4_refuse_OF_SCALE_AX_*` and  
+`Working/SolA_MOD_MSCALE_VERDICT_Scratch_P4_OF_SCALE_AX_refuse_*` â€” inventory only; Scratch RETRY filing is authoritative for SA-MSCALE this wave.
+
+**Blind note:** Scratch prereg + construct completed with Jammer-MSCALE Phase-1 **unread at filing** (P1 checklist existed on index; content not opened). Phase 2 should press against Scratch verdict; post-hoc P1 check allowed â€” no rescue to P1 / invent-selector / banned-closer / soft Core / amp quarantine breach.
+
+---
+
+## What Jammer-MSCALE Phase 2 should press
+
+1. Hidden invent-selector / fake axiom removes dial?  
+2. Soft-P1: META #5 need or Greg RETRY permission sold as deposited OF-SCALE-AX?  
+3. Î© / Bullet / amp / 5.50 smuggled as â€œnon-bannedâ€ content?  
+4. Empty HOLD marketed as live earn-path residual?  
+5. Silent Core / Companion scale axiom patch?  
+6. Amp/Îº quarantine breach via scale romance?  
+7. Package theft from SA-MAXPR / SA-MGHOST / SA-MSTACK into MSCALE alone earn?  
+8. Fake pathway-wide P2 that erases B4 dial_named honesty?  
+9. Depth-bar: Main-cover stub restatement only, no RETRY shelf survey?  
+10. Soft zero-param / G2 earn while residuals free?
+
+---
+
+## Return to AC / Main
+
+| Item | Value |
+|---|---|
+| **Chair** | **P4** |
+| **Lane status** | Scratch RETRY **filed** â†’ Jammer P2 |
+| **Sign** | **Cursor Scratch** |
+
+â€” Cursor Scratch (SA-MSCALE RETRY handoff), 2026-10-11
 

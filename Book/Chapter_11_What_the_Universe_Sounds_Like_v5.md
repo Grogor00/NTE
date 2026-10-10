@@ -112,7 +112,7 @@ What remains is to listen to the sounds. The framework's structural results, tak
 
 A brief preview, because the chord's shape is what makes the unification reading more than a metaphor. The loudest notes the framework currently finds in the universe-instrument's sound are these:
 
-- **The bare dark-matter coupling.** The plainest, most even vibration on the instrument's base sphere, sounded once for each of the algebra's three gauge directions — the number 0.846 that Chapter 9 derived, whose closure through the instrument's own architecture produces the five-to-one ratio of dark to ordinary matter that the sky shows.
+- **The bare bilateral coupling κ₀.** The plainest, most even vibration on the instrument's base sphere, sounded once for each of the algebra's three gauge directions — the number **0.846** that Chapter 9 deposits. An older closure that amplified κ₀ into a five-to-one sky ratio is **withdrawn**; observed cold dark matter remains open.
 
 - **The gauge-birth temperature.** The pitch at which the instrument's temporal circle tunes — on the reading that the relation fixing the circle's size is the one the framework has identified, which is the open grounding here rather than a settled one — producing the temperature at which the universe's Standard Model physics first switched on. Chapter 12 grades it. Chapter 7 developed the cascade this temperature anchors.
 
