@@ -1,0 +1,7 @@
+W_equals_hg_hf_minus_2G = True
+excess_equals_W_minus_hf_times_p = True
+excess_equals_hg_I_minus_2X_times_p = True
+K1_excess_vanishes_at_X_I = False
+dirac_det = "bSC^2 + aSC*cSS"
+dirac_det_if_c_0 = "bSC^2"
+excess_vector_InputForm = "{hgS[1]*pS[1]*(1 - 2*xS[1]), hgS[2]*pS[2]*(1 - 2*xS[2]), hgS[3]*pS[3]*(1 - 2*xS[3])}"

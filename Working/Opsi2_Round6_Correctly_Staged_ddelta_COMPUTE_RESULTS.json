@@ -1,0 +1,212 @@
+{
+  "engine": "numpy+sympy; wolfram=not installed",
+  "prereg": "Opsi2_Round6_Correctly_Staged_ddelta_PREREGISTRATION_CursorMain_Filed_Before_Compute_20261020.md",
+  "sympy_k0_structural": {
+    "engine": "sympy",
+    "statement": "ADM/HR skeleton: \u2202\u03b4 coefficient from R_i \u03be^i channel is R-weighted; vanishes on-shell R_i=0 at generic \u03be=Dn\u22600 (n\u22600 allowed).",
+    "on_shell_vanishes": true,
+    "off_shell_coeff_rank": 3,
+    "xi_can_be_nonzero_when_R_on_shell": true,
+    "n0_reduction_used": false,
+    "pass": true
+  },
+  "sympy_rank_diagnostic": {
+    "engine": "sympy",
+    "unweighted_rank_symbolic": 1,
+    "theta_toy_rank_symbolic": 3,
+    "note": "Unweighted rank 1 on diag(1,1,\u03bb); \u03b8-form generically rank 3 \u2014 do not use rank-1 kill on \u03b8 target."
+  },
+  "k0_numeric_generic_n": {
+    "n_trials_kept": 20,
+    "fraction_n_nonzero": 1.0,
+    "fraction_xi_nonzero": 1.0,
+    "fraction_D_equals_X": 0.0,
+    "median_D_vs_X_rel": 0.1883024267177939,
+    "pass_generic_n": true,
+    "samples_head": [
+      {
+        "n_norm": 0.5565393665222776,
+        "xi_norm": 0.3109193163820764,
+        "R_norm": 1.14678946285229,
+        "D_equals_X": false,
+        "D_vs_X_rel": 0.15569950651895764,
+        "x": 0.8758631786097858
+      },
+      {
+        "n_norm": 0.048813949881275305,
+        "xi_norm": 0.10487194953967889,
+        "R_norm": 0.7201032386109126,
+        "D_equals_X": false,
+        "D_vs_X_rel": 0.12185711011819367,
+        "x": 0.9945270472063416
+      },
+      {
+        "n_norm": 0.051868463230463555,
+        "xi_norm": 0.05530770247771688,
+        "R_norm": 0.9833514504737456,
+        "D_equals_X": false,
+        "D_vs_X_rel": 0.29281206640313945,
+        "x": 0.9967177786824963
+      },
+      {
+        "n_norm": 0.07479291900841453,
+        "xi_norm": 0.12366006364083988,
+        "R_norm": 0.3731994361889999,
+        "D_equals_X": false,
+        "D_vs_X_rel": 0.2024302232462133,
+        "x": 0.992020249115883
+      },
+      {
+        "n_norm": 0.3589555256141632,
+        "xi_norm": 0.15345883349353132,
+        "R_norm": 0.8355351336328416,
+        "D_equals_X": false,
+        "D_vs_X_rel": 0.039538900308839414,
+        "x": 0.9235707057871032
+      }
+    ]
+  },
+  "k0_pass": true,
+  "cancel_1_vs_2": {
+    "n_trials_kept": 52,
+    "fraction_cancel_with_free_alpha": 0.0,
+    "fraction_cancel_alpha1": 0.0,
+    "median_rel_err_alpha_fit": 0.9494067335082534,
+    "median_rel_err_alpha1": 0.989547259279121,
+    "median_rel_err_D_dn_alpha1": 0.9918513801126173,
+    "median_mean_ang_deg": 62.37373336528264,
+    "fraction_n_gt_1e-2": 0.9807692307692307,
+    "median_rank_Rth": 3.0,
+    "K1_X_I": {
+      "n": 20,
+      "fraction_Rth_vanishes": 1.0,
+      "max_Rth_norm": 6.844264063533014e-30
+    },
+    "samples_head": [
+      {
+        "n_norm": 0.8048714840311215,
+        "xi_norm": 0.8857613161610587,
+        "X_aniso": 1.008302467066134,
+        "rank_Rth": 3,
+        "alpha_lstsq": 0.2195707839752932,
+        "rel_err_alpha_fit": 0.8807662511219883,
+        "rel_err_alpha1_dDn": 0.8808216956062647,
+        "rel_err_alpha1_D_dn": 0.9006094204206351,
+        "mean_ang_deg": 43.995164383771396,
+        "cancel_fit_eps": false,
+        "cancel_unit_eps": false
+      },
+      {
+        "n_norm": 0.04624504007931228,
+        "xi_norm": 0.020292169576149464,
+        "X_aniso": 1.0428507929392488,
+        "rank_Rth": 3,
+        "alpha_lstsq": 22.729919444550536,
+        "rel_err_alpha_fit": 0.983621335654209,
+        "rel_err_alpha1_dDn": 0.9986011111112011,
+        "rel_err_alpha1_D_dn": 0.998602130348959,
+        "mean_ang_deg": 72.92636923177248,
+        "cancel_fit_eps": false,
+        "cancel_unit_eps": false
+      },
+      {
+        "n_norm": 0.03960153602343732,
+        "xi_norm": 0.04039901788010443,
+        "X_aniso": 1.6405221886409964,
+        "rank_Rth": 3,
+        "alpha_lstsq": 4.438636246355552,
+        "rel_err_alpha_fit": 0.9711539191827163,
+        "rel_err_alpha1_dDn": 0.9885674320940555,
+        "rel_err_alpha1_D_dn": 0.9885246119362201,
+        "mean_ang_deg": 61.48646820374137,
+        "cancel_fit_eps": false,
+        "cancel_unit_eps": false
+      },
+      {
+        "n_norm": 0.4080305795593938,
+        "xi_norm": 0.20746052800202186,
+        "X_aniso": 1.6234270203201753,
+        "rank_Rth": 3,
+        "alpha_lstsq": 1.0406326386570137,
+        "rel_err_alpha_fit": 0.5882790062141059,
+        "rel_err_alpha1_dDn": 0.5891257639689722,
+        "rel_err_alpha1_D_dn": 0.6088012253965672,
+        "mean_ang_deg": 41.63754985278771,
+        "cancel_fit_eps": false,
+        "cancel_unit_eps": false
+      },
+      {
+        "n_norm": 0.04582773905491869,
+        "xi_norm": 0.045046584302652216,
+        "X_aniso": 0.5656805796505483,
+        "rank_Rth": 3,
+        "alpha_lstsq": 1.034492977007417,
+        "rel_err_alpha_fit": 0.9265979154183391,
+        "rel_err_alpha1_dDn": 0.9266827483644943,
+        "rel_err_alpha1_D_dn": 0.9267968256087679,
+        "mean_ang_deg": 64.02437395967416,
+        "cancel_fit_eps": false,
+        "cancel_unit_eps": false
+      },
+      {
+        "n_norm": 1.0085819877062345,
+        "xi_norm": 1.1562603202474728,
+        "X_aniso": 1.2710043346335982,
+        "rank_Rth": 3,
+        "alpha_lstsq": 0.6732012965232638,
+        "rel_err_alpha_fit": 0.9071991487316644,
+        "rel_err_alpha1_dDn": 0.9299022733604855,
+        "rel_err_alpha1_D_dn": 1.0598429520744053,
+        "mean_ang_deg": 46.99860855663261,
+        "cancel_fit_eps": false,
+        "cancel_unit_eps": false
+      },
+      {
+        "n_norm": 0.04598836337479703,
+        "xi_norm": 0.05191482856752618,
+        "X_aniso": 1.198855318733141,
+        "rank_Rth": 3,
+        "alpha_lstsq": 0.37767374566038847,
+        "rel_err_alpha_fit": 0.9839543637805942,
+        "rel_err_alpha1_dDn": 1.026937931989392,
+        "rel_err_alpha1_D_dn": 1.02871637585228,
+        "mean_ang_deg": 69.42469200129206,
+        "cancel_fit_eps": false,
+        "cancel_unit_eps": false
+      },
+      {
+        "n_norm": 0.9626585664595164,
+        "xi_norm": 1.0248091972716522,
+        "X_aniso": 1.0943833550885442,
+        "rank_Rth": 3,
+        "alpha_lstsq": 0.7061234716080448,
+        "rel_err_alpha_fit": 0.8134026749759811,
+        "rel_err_alpha1_dDn": 0.8486656777733319,
+        "rel_err_alpha1_D_dn": 0.9346446904837499,
+        "mean_ang_deg": 45.30497093161491,
+        "cancel_fit_eps": false,
+        "cancel_unit_eps": false
+      }
+    ]
+  },
+  "contribution_3_chi": {
+    "status": "uncomputed",
+    "earned_structure_only": "R2: shared-\u03c0_\u03c8 \u03c7 \u21d2 Dirac B1/B2 generically nonzero; no closed-form O(\u03c8\u00b2) coefficient in this script.",
+    "numeric_cancel_test": null
+  },
+  "struck": [
+    "R5_90_90_transfer",
+    "n0_linearisation_as_decisive_locus"
+  ],
+  "conclusion": {
+    "landing": "G-4",
+    "reason": "(2) vector channel \u03b4(Dn) does NOT cancel \u03b8-residual (1) on generic n\u22600 (median rel err \u03b1=1: 0.990; free-\u03b1 fit median: 0.949). (3) \u03c7-cross uncomputed \u2014 free schematic (3) could still cancel remainder, so K3 for G-2 not met. Blocker correctly staged: compute (3) or prove \u03c7 cannot supply the missing \u2202\u03b4 covector. 90/90 not used. Free-\u03b1 fit also fails (median rel err > 0.1) \u2192 (2) not a scalar multiple of \u2212R_\u03b8.",
+    "N_status": "undetermined",
+    "posteriors_held": {
+      "G1": 0.2,
+      "G2": 0.35,
+      "G3": 0.1,
+      "G4": 0.35
+    }
+  }
+}

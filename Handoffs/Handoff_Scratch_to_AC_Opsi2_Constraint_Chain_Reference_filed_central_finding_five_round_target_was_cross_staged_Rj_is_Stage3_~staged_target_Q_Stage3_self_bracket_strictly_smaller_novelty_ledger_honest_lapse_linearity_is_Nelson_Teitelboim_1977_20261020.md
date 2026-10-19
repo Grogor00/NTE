@@ -1,0 +1,21 @@
+# HANDOFF — Scratch → AC (Cc Greg, Cursor Main, Jammer, PC): constraint-chain reference document filed. Central finding: the five-round target was **cross-staged**, and the correctly-staged next object is strictly smaller.
+
+**Deliverable:** `Working/Opsi2_Constraint_Chain_REFERENCE_action_N_..._remaining_distance_is_Q_Stage3_self_bracket_Scratch_20261020.md`
+
+**What it is:** the full Dirac–Bergmann chain for action (N) written once, every round-1–5 object placed at its stage, with a bracket ledger (computed/partial/not), a pure-HR reference column (K0′ as reference, generic n), and the corrected record folded in. No new computation.
+
+**Central finding — the staging error diagnosed exactly.** R_j = h_g(I−X)² p_j is a **Stage-3 object: the ∂δ covector coefficient in the C_SC self-bracket {C_SC, C_SC}.** The D-matrix absorption channel L(Dn)^i ∂_i ð® is a **Stage-4 object: a scalar in the secondary preservation {ð®, H}.** The Round-4/5 question "does the D-matrix channel cancel R_j" compares them **across two preservation equations** — Cursor's "scalar-vs-covector type mismatch" (R5 Kill 2) is the *symptom* of that cross-staging, not an independent kill. R_j's effect can reach Stage 4 only via ð®'s definition (ð® is generated from {C_SC,H}), and that propagation is an uncomputed bracket; the rounds compared the two objects directly as if co-staged.
+
+**The correctly-staged target (for the tractability decision):** **Q-Stage3 — does R_j make {C_SC, C_SC} fail to close *beyond what the pure-HR C_SC/ð® second-class pair already absorbs*?** This is a **self-bracket**; it needs {C_SC,C_SC} at O(ψ²) + the pure-HR absorption reference — **not** the full Stage-4 D-matrix preservation Rounds 4–5 attempted. Strictly smaller. (R_j ∝ total C_i only if h_g(I−X)² ∝ identity — false for X≠I — so {C_SC,C_SC} is generically not weakly zero in the matter sector; whether that removes a constraint is the uncomputed question. Note per the pure-HR column: {C_SC,C_SC}≠0 is healthy/expected in pure HR — F12 — so the matter question is the *excess* over the pair's absorption, not mere non-vanishing.)
+
+**Corrections recorded in the document (not left in handoffs):** R_j = h_g(I−X)² (not I−X²); residual 3-dim; φ₀=0/n=0 special loci; D2/D2′ not premises; 90/90 struck; and **my X-only-identity framing withdrawn** — the multiplier is n^i = n^i(γ,π) (HR eq 24), not n(X), so the absorption object was never a pure-X identity (π-dependence sits at Stage-2 n-fixing). This is the recognition-gate correction, now on the permanent record.
+
+**For Greg's two decisions:**
+1. **Tractable?** Q-Stage3 (a self-bracket) is plausibly tractable and is strictly smaller than Rounds 4–5; Q-Stage4 (full preservation with HR's n(γ,π)) remains the fallback if the count isn't settled by Q-Stage3. Greg's call from the map.
+2. **Worth continuing?** Honest: the one durable finding (single-metric Dirac lapse-linearity) **= Nelson–Teitelboim 1977, not novel**; the novel content is strictly the doubly-coupled answer, **not yet established** (Cursor's R5 G-2 is cross-staged and under your Jammer attack). Remaining distance to a novel result ≈ one self-bracket (Q-Stage3). If Q-Stage3 too proves intractable at O(ψ²), **"the chain cannot be closed at O(ψ²) with current methods" is the honest terminal statement** and the most useful thing left.
+
+**Bearing on the live Jammer attack:** the document supports that Cursor's R5 Kill 2 is cross-staged (symptom, not independent kill) — Kills 1 (n=n(γ,π), π-dependence) and 3 (rank/anisotropy) may still carry weight, but the type-mismatch kill should be re-read as "the objects are in different stages," which is a reason the R4/R5 *framing* was ill-posed, not a proof of G-2. I did not file a verdict on Cursor's G-2 (your wall; Jammer's lane) — this is the reference only.
+
+**Standing:** no f; no Core; P04 unchanged; not merged with Cursor's parallel computation (separate directive). Routed to AC → Greg.
+
+— Scratch, 2026-10-20. Constraint-chain reference filed; cross-stage error diagnosed (R_j ∈ Stage-3 {C_SC,C_SC} vs D-matrix channel ∈ Stage-4 {ð®,H}); correctly-staged target is Q-Stage3 (self-bracket, strictly smaller); corrections + my X-only withdrawal on record; novelty ledger honest. Routed to AC → Greg.

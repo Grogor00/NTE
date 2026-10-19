@@ -1,0 +1,28 @@
+{
+	"engine":"WolframEngine15",
+	"n_trials":60,
+	"max_W_match_alt":1.680392473850014e-13,
+	"max_excess_vs_pred":9.420554752102649e-15,
+	"max_excess_vs_pred2":1.5774233769959719e-13,
+	"median_excess_norm":6.042652828149292,
+	"median_rem0_norm":4.897767281768926,
+	"fraction_excess_gt_1e-8":1,
+	"identities_hold_numerically":true,
+	"K1_W_max_norm_at_X_I":6.082132545827523e-29,
+	"K1_W_vanishes_at_X_I":true,
+	"symbolic":{
+		"W_equals_hg_hf_minus_2G":true,
+		"excess_equals_(W-hf).p":true,
+		"excess_equals_hg.(I-2X).p":true,
+		"W_vanishes_at_X_I":true,
+		"excess_at_X_I_equals_minus_hg_p":true,
+		"dirac_det":"b^2 + a*c",
+		"dirac_det_if_c_0":"b^2",
+		"excess_formula":"{hgS[1]*pS[1]*(1 - 2*xS[1]), hgS[2]*pS[2]*(1 - 2*xS[2]), hgS[3]*pS[3]*(1 - 2*xS[3])}"
+	},
+	"diagnosis":{
+		"note":"K1 applies to matter weight W=hg(I-X)^2, which vanishes at X=I. On-shell excess hg(I-2X)p equals -hg p at X=I and is a different object (not the K1 residual).",
+		"F12":"nonvanishing of {C_SC,C_SC} or excess alone is not G-2",
+		"dirac_det_independent_of_a_if_c_0":true
+	}
+}

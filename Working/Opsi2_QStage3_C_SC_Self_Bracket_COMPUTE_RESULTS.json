@@ -1,0 +1,92 @@
+{
+  "engines": {
+    "numpy": true,
+    "sympy": true,
+    "wolfram": true,
+    "wolfram_path": "C:\\Program Files\\Wolfram Research\\Wolfram Engine\\15.0\\wolframscript.exe"
+  },
+  "prereg": "Opsi2_QStage3_C_SC_Self_Bracket_PREREGISTRATION_CursorMain_Filed_Before_Compute_20261020.md",
+  "wolfram": {
+    "ran": true,
+    "returncode": 0,
+    "stdout_tail": "{{W_equals_hg_hf_minus_2G, True}, {excess_equals_W_minus_hf_times_p, True}, {excess_equals_hg_I_minus_2X_times_p, True}, {K1_excess_vanishes_at_X_I, False}, {dirac_det, bSC^2 + aSC*cSS}, {dirac_det_if_c_0, bSC^2}, {excess_vector_InputForm, {hgS[1]*pS[1]*(1 - 2*xS[1]), hgS[2]*pS[2]*(1 - 2*xS[2]), hgS[3]*pS[3]*(1 - 2*xS[3])}}}\n",
+    "stderr_tail": "",
+    "parsed": {
+      "W_equals_hg_hf_minus_2G": "True",
+      "excess_equals_W_minus_hf_times_p": "True",
+      "excess_equals_hg_I_minus_2X_times_p": "True",
+      "K1_excess_vanishes_at_X_I": "False",
+      "dirac_det": "\"bSC^2 + aSC*cSS\"",
+      "dirac_det_if_c_0": "\"bSC^2\"",
+      "excess_vector_InputForm": "\"{hgS[1]*pS[1]*(1 - 2*xS[1]), hgS[2]*pS[2]*(1 - 2*xS[2]), hgS[3]*pS[3]*(1 - 2*xS[3])}\""
+    }
+  },
+  "sympy": {
+    "engine": "sympy",
+    "W_equals_hg_hf_minus_2G": true,
+    "excess_equals_(W-hf).p": true,
+    "excess_equals_hg.(I-2X).p": true,
+    "K1_excess_vanishes_at_X_I": false,
+    "dirac_det": "a*c + b**2",
+    "dirac_det_if_c_0": "b**2",
+    "excess_formula": "hg.(I-2X).p  (= (W-hf).p) under Ci: \u03c0g+\u03c0f+p=0"
+  },
+  "numpy_excess": {
+    "n_trials": 60,
+    "max_W_match_alt": 3.1138143943184666e-14,
+    "max_excess_vs_pred": 1.0058400026574543e-14,
+    "max_excess_vs_pred2": 3.284534353140959e-14,
+    "median_excess_norm": 4.719923232097846,
+    "median_rem0_norm": 5.280675596159142,
+    "fraction_excess_gt_1e-8": 1.0,
+    "K1_max_excess_norm": 15.007273734242682,
+    "identities_hold_numerically": true
+  },
+  "wolfram_sympy_agree": {
+    "excess_equals_hg_I_minus_2X_times_p": {
+      "wolfram": "True",
+      "sympy": true,
+      "match": true
+    },
+    "K1_excess_vanishes_at_X_I": {
+      "wolfram": "False",
+      "sympy": false,
+      "match": true
+    },
+    "W_equals_hg_hf_minus_2G": {
+      "wolfram": "True",
+      "sympy": true,
+      "match": true
+    }
+  },
+  "diagnosis": {
+    "pure_HR_pattern_det_independent_of_a": true,
+    "excess_generically_nonzero": true,
+    "K1_pass": false,
+    "b_shift_from_DeltaS": {
+      "status": "uncomputed",
+      "note": "{C_SC, S+\u0394S} at O(\u03c8\u00b2) not evaluated; \u0394S ultralocal (S3) so leading b receives diffeomorphism-of-\u0394S pieces \u2014 not shown to vanish."
+    },
+    "F12": "nonvanishing_alone_not_used_as_G2",
+    "landing": "G-4",
+    "reason": "Partial diagnostics; holding G-4.",
+    "wolfram_used": true
+  },
+  "conclusion": {
+    "landing": "G-4",
+    "N_status": "undetermined",
+    "Q_Stage3": "no_class_loss_earned; excess=hg(I-2X)p; fork\u2192Q-Stage4",
+    "posteriors_held": {
+      "G1": 0.2,
+      "G2": 0.35,
+      "G3": 0.1,
+      "G4": 0.35
+    },
+    "reason": "Partial diagnostics; holding G-4."
+  },
+  "struck": [
+    "R5_90_90",
+    "Stage4_D_channel_comparison",
+    "G2_from_nonvanishing_alone"
+  ]
+}
