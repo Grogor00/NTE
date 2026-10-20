@@ -1,0 +1,12 @@
+{
+	"engine":"WolframEngine15",
+	"n":200,
+	"median_rel_residual":0.39930961312137925,
+	"fraction_rel_gt_1e-3":1,
+	"median_rel_swap":0.4493833039292964,
+	"max_rel_K1_sf0":2.1086715047285507e-16,
+	"median_a_over_b":0.2616937604195241,
+	"monomial":"p_j not (psi.alpha.psi)*pi",
+	"formula":"a=Sigma_g^2\/Sigma, b=Sigma",
+	"pass_Mb":true
+}

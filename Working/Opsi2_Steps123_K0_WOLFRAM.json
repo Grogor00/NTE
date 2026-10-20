@@ -1,0 +1,12 @@
+{
+	"engine":"WolframEngine15",
+	"model":"minimal beta2=beta3=0 beta1=1",
+	"n_kept":38,
+	"fraction_n_nonzero":1,
+	"max_Ci":0.0,
+	"max_C_when_set_0":3.552713678800501e-15,
+	"max_P_when_C0":5.621720378622258e-15,
+	"max_P44_vs_45":5.621720378622258e-15,
+	"min_P_when_C_nonzero":6.814698361999993e-2,
+	"pass":true
+}

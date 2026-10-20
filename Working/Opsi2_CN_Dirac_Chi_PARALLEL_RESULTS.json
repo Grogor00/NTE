@@ -1,0 +1,37 @@
+{
+  "numpy": {
+    "engine": "numpy",
+    "n": 200,
+    "median_rel_residual": 0.4248216708244963,
+    "fraction_rel_gt_1e-3": 1.0,
+    "median_rel_swap": 0.373278025709636,
+    "max_rel_K1_sf0": 0.0,
+    "median_a_over_b": 0.2318540885153986,
+    "monomial": "p_j",
+    "formula": "a=Sigma_g^2/Sigma, b=Sigma",
+    "pass_Mb": true
+  },
+  "wolfram": {
+    "returncode": 0,
+    "stderr_tail": "",
+    "summary": {
+      "engine": "WolframEngine15",
+      "n": 200,
+      "median_rel_residual": 0.39930961312137925,
+      "fraction_rel_gt_1e-3": 1,
+      "median_rel_swap": 0.4493833039292964,
+      "max_rel_K1_sf0": 2.1086715047285507e-16,
+      "median_a_over_b": 0.2616937604195241,
+      "monomial": "p_j not (psi.alpha.psi)*pi",
+      "formula": "a=Sigma_g^2/Sigma, b=Sigma",
+      "pass_Mb": true
+    }
+  },
+  "both_Mb": true,
+  "field_content": {
+    "diagonal_chi_correction": "(Sigma_g^2/Sigma) * p_j",
+    "not": "(psi.alpha.psi)*(pi)",
+    "R3_distinctness_for_diagonal": false,
+    "reason": "both legs are E_g; no pi_f in {chi, E_g}"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "sympy": {
+    "engine": "sympy",
+    "ratio_psi": "sg**2/(sf + sg)**2",
+    "ratio_phi": "sg**2/(sf + sg)**2",
+    "both_(sg/S)**2": true,
+    "A_p_channel": "Sigma_g**2/Sigma unchanged; omega adds an independent bilinear with the same prefactor"
+  },
+  "numpy": {
+    "engine": "numpy",
+    "n": 200,
+    "median_single": 0.4161280912929617,
+    "median_enlarged_with_omega": 0.3617324408469732,
+    "fraction_enlarged_gt_1e-3": 1.0,
+    "max_K1": 7.842508641340196e-16,
+    "median_K5_swap": 0.17057952829585915,
+    "pass_G2": true
+  },
+  "wolfram": {
+    "returncode": 0,
+    "stderr_tail": "",
+    "symbolic": {
+      "ratio_psi": "sg^2/(sf + sg)^2",
+      "ratio_phi": "sg^2/(sf + sg)^2",
+      "ratios_equal": true,
+      "ratio_is_(sg/S)^2": true,
+      "omega_rescales_p_channel": false
+    },
+    "numeric": {
+      "n": 200,
+      "median_single": 0.3784592252914907,
+      "median_enlarged_with_omega": 0.2978958360942138,
+      "fraction_enlarged_gt_1e-3": 1,
+      "max_K1": 6.943595592396505e-16,
+      "median_K5_swap": 0.15352390580643005,
+      "pass_G2": true
+    }
+  },
+  "both_G2": true
+}

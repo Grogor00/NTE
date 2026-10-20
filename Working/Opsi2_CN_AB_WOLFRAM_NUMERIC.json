@@ -1,0 +1,9 @@
+{
+	"n":200,
+	"median_single":0.3784592252914907,
+	"median_enlarged_with_omega":0.2978958360942138,
+	"fraction_enlarged_gt_1e-3":1,
+	"max_K1":6.943595592396505e-16,
+	"median_K5_swap":0.15352390580643005,
+	"pass_G2":true
+}

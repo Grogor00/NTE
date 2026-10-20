@@ -1,0 +1,22 @@
+{
+	"engine":"WolframEngine15",
+	"lane":"G-2",
+	"pass_G2":true,
+	"pass_Ma":false,
+	"pure_n_kept":104,
+	"pure_max_resid":0.0,
+	"pure_min_P_off":6.814698361999993e-2,
+	"pure_pass":true,
+	"median_abs_resid":0.8911608066870087,
+	"matter_fraction":1,
+	"matter_max_analytic_err":2.050158411106494e-15,
+	"matter_median_J_only":0.7228749724610383,
+	"matter_median_theta":0.4961438151277375,
+	"sf0_max":2.5065870932054693e-15,
+	"k5_median":0.7749034479524219,
+	"k5_fraction":1,
+	"ef_median":1.1041253566316502,
+	"ef_median_theta":0.5,
+	"max_total_mom":2.175583928816829e-15,
+	"max_off_minus_on":1.4043657975524245e-15
+}

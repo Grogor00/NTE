@@ -1,0 +1,31 @@
+{
+  "numpy": {
+    "engine": "numpy",
+    "model": "minimal beta2=beta3=0 beta1=1",
+    "n_kept": 28,
+    "max_Ci": 0.0,
+    "max_C_when_set_0": 7.105427357601002e-15,
+    "max_P_when_C0": 4.550560269027492e-15,
+    "max_P44_vs_45": 4.550560269027492e-15,
+    "min_P_when_C_nonzero": 0.11099523271657416,
+    "fraction_n_gt_1e-3": 1.0,
+    "pass": true
+  },
+  "wolfram": {
+    "returncode": 0,
+    "stderr_tail": "",
+    "summary": {
+      "engine": "WolframEngine15",
+      "model": "minimal beta2=beta3=0 beta1=1",
+      "n_kept": 38,
+      "fraction_n_nonzero": 1,
+      "max_Ci": 0.0,
+      "max_C_when_set_0": 3.552713678800501e-15,
+      "max_P_when_C0": 5.621720378622258e-15,
+      "max_P44_vs_45": 5.621720378622258e-15,
+      "min_P_when_C_nonzero": 0.06814698361999993,
+      "pass": true
+    }
+  },
+  "both_pass": true
+}

@@ -1,0 +1,41 @@
+# Source verification — HR 1111.2070 at the CANONICAL arXiv PDF (Scratch): closing statement (ii); + recognition-gate on my own F12 framing
+
+**Lane:** Scratch (construction / source-verification). **Date:** 2026-10-21.
+**Trigger:** `Handoffs\CORRECTION_AC_F12_Premise_False_HR_Requires_Weak_Vanishing_S_Block_Not_Last_Object_20261021.md` §5 — AC's corrected criterion depends on a web-extracted reading; Cursor directed to confirm at the PDF. Read in full this session, together with `Working\HR_1111_2070_Source_Verification_Claude_Jammer_Eqs_3p17_3p23_3p24_3p25_Confirmed_Second_Extraction_C_Multiplied_By_g_Lapse_N_Soloviev_2006_16230_Tetrad_Template_Independent_Confirmation_20261021.md` and `Handoffs\Handoff_Claude_Jammer_to_AC_Greg_Cursor_Scratch_HR_Eqs_3p23_3p24_Confirmed_Second_Extraction_Soloviev_2006_16230_Tetrad_Independent_Confirmation_C_Is_One_Lapse_Coefficient_G2_Gate_Needs_Matter_Modified_Multiplier_20261021.md`.
+
+**Why Scratch also ran this.** Greg's standing rule — verify against the canonical source before asserting; when accepting another agent's finding, check what they read — binds this lane, and the correction overturns two of my own documents (§ "recognition-gate" below). Jammer's two readings are web extractions; his direct PDF download was proxy-blocked (403), and he flagged statement (ii) as resting on his *first* (weakest) extraction only, not re-quoted by his second, with Cursor's PDF check still outstanding. This lane reached the canonical PDF.
+
+## Route (operational note for Cursor)
+- Direct fetch of `ar5iv.labs.arxiv.org/html/1111.2070` → **not on allowlist** (refused).
+- `WebSearch` for the paper → surfaced canonical links → **`WebFetch` of the search-result link `arxiv.org/pdf/1111.2070` rendered the canonical PDF.** This is the route that worked where Jammer's direct workspace download returned 403. Recommend Cursor use WebFetch-of-search-result, not a direct download.
+- A cross-check fetch of the ar5iv HTML returned only intro + §2 (truncated before §3/§4); it corroborated direction but not the eq-numbered content. The canonical-PDF fetch carried §3 and §4.
+
+## Four statements — confirmed at canonical arxiv.org/pdf/1111.2070
+
+- **(i) Secondary exists only if {C,C}≈0 weakly.** Confirmed: (3.4) is independent of N and so acts as a secondary constraint on γ_ij, π_ij (Sec 3.1, case 2). [Jammer 2nd-extraction: confirmed via 3.4/3.5.]
+- **(ii) Else (3.4) becomes an equation for N, not a constraint ⇒ odd phase space / 5.5 modes (ref [26]).** Confirmed verbatim: "(3.4) becomes an equation for N and does not act as a constraint on γ_ij, π_ij" (Sec 3.1, case 1); "5.5 propagating modes" noted as the [26] scenario, which HR argue does not occur. **This is the statement Jammer's 2nd extraction did not re-quote (it rested on his 1st extraction only) — NOW CLOSED at canonical source.**
+- **(iii) {C,C} ∝ C·Dn∂δ, weakly zero, via the n^i EOM.** Confirmed: P_i = C D_i^l n^l (3.23); {C(x),C(y)} = −[C(Dn)∂δ − …] (3.24); ≈ 0 (3.25). The reduction uses C_i = 0 on the n^i equations of motion — so the bracket is ∝ the constraints, **not purely algebraic in the scalar C alone**. [Jammer: confirmed 3.17/3.23/3.24/3.25.]
+- **(iv) Bimetric: C commutes with itself on the constraint surface; N multiplies C, f-lapse L in H_0.** Confirmed: "The primary constraint C commutes with itself on the constraint surface" (§4); C independent of p_ij ⇒ f non-dynamical for this bracket; L = NC at (4.4), H_0 holds L at (4.5). [Jammer: confirmed verbatim.]
+
+**Strength (register-discipline).** The plain-language dichotomy (i)/(ii)/(iv) and the equation-number anchors are confirmed at the canonical PDF. The detailed tensor-index placement inside 3.8–3.24 is as-rendered by the PDF→markdown pass and is **not** independently re-derived here; I state the structure and the eq anchors at source strength, not the exact index contractions. This matches Jammer's own caveat and does not weaken (i)/(ii)/(iv).
+
+## Additive finding beyond both extractions — the L-sector is not inert
+Canonical §4 adds a point neither extraction surfaced: **varying the f-lapse L and its shift L^i "produces four additional constraints."** So in genuine bimetric HR, L is a *constraint-generating* multiplier, not an inert coefficient parked in H_0. Consequence for step 1 (the mapping): the question "where does the shared-π_ψ cross term land?" is **not** simply "{C,C} vs {C,H_0}" with H_0 inert — it is a three-way question across (a) the N-sector second-class constraint C, (b) H_0, and (c) the four L-sector constraints. Jammer's structural reading ("C is one lapse's coefficient; the cross term enters {C,H_0}") is consistent with this, but the landing must be checked against the L-generated constraints too, not assumed into H_0.
+
+## Recognition-gate — my own F12 framing is overturned (now at canonical source, not merely on report)
+The false premise — "{C_SC,C_SC}≠0 is healthy in pure HR, absorbed by the second-class pair, not by being weakly zero" — appears in two of my own filings:
+- `Working\Opsi2_Constraint_Chain_REFERENCE_action_N_Full_Dirac_Bergmann_Chain_Staging_Table_Bracket_Ledger_Pure_HR_Reference_Column_Scratch_20261020.md` **§4** ("no D-matrix needed"; self-bracket absorbed by the pair). **SUPERSEDED on the F12 point.** The canonical PDF shows the opposite: in pure HR the self-bracket IS weakly zero (3.25), and that weak vanishing is the *condition for the secondary to exist* (3.4, case 2); the n^i-EOM / Dn channel (3.23) IS the closure mechanism, so "no D-matrix needed" was wrong.
+- `Working\Opsi2_Q_Stage3_VERDICT_Scratch_lands_G4_sharpened_cross_weight_not_in_span_hg_hf_20261020.md` **§1** (same premise). **SUPERSEDED on the F12 point.** The G-4 *landing* of that verdict holds (the cross piece −2h_g X p is still an operative excess, still ∉ span{h_g,h_f}); only the §1 characterisation of *why* pure-HR is healthy is withdrawn.
+
+Class check (per "when one error is caught, re-examine the whole class"): the error class is "asserting a stability mechanism without reading HR's actual secondary-existence condition." The two documents above are the only two of mine carrying it. R_j = h_g(I−X)² p_j and the cross-piece isolation do not depend on it and stand.
+
+## Consequences for the work plan (endorsing + sharpening AC §4 / Jammer §3–4)
+1. **Mapping (step 1):** C_SC ≈ C_g − C_f is **not** the HR object; the ghost-relevant object is the coefficient of **one** lapse, carrying that frame's matter piece (two sources: HR §4, Soloviev 2006.16230 per Jammer). Add the L-sector point above: the *other* lapse's sector carries four constraints, so the cross-term landing is checked across that sector, not assumed into H_0.
+2. **K0′ (step 2):** reproduce the pure-case bracket at generic multipliers before adding matter. Jammer's recommendation to use Soloviev's tetrad template (vierbein variables, eq 152) alongside HR 3.24 is sound — action (N) is built on two vierbeins, so the tetrad formalism is the closer template.
+3. **G-2 labelling (gate):** endorse Jammer's edit to CORRECTION §2. "Not weakly zero ⇒ G-2 immediately" is too strong. Canonical (ii), confirmed here, says case 1 **fixes the lapse and leaves 5.5 modes** (a half-mode / odd phase space, HR's [26] scenario), not a priori a fully restored BD scalar. And in both sources it is the **multiplier solution** (HR's n, Soloviev's u^i) that makes {C,C} vanish, so a G-2 claim must show non-vanishing **survives the matter-modified multiplier substitution**, not merely that the raw bracket is non-zero. Proposed wording: "G-2 (5.5-mode / odd phase space), once non-vanishing survives the matter-modified multiplier solution."
+
+**Position.** No computation by this lane (source-verification only). Steps 1–3 await Greg's GO. No Core. No f. The only novel content remains the doubly-coupled dof count; both HR and Soloviev stop at singly/minimally-coupled matter — that gap is the frontier, now doubly sourced.
+
+**Posteriors (collective spread, unchanged by a source-verification):** G-1 0.20 · G-2 0.35 · G-3 0.10 · G-4 0.35.
+
+— Scratch

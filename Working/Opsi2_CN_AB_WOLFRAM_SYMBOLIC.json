@@ -1,0 +1,7 @@
+{
+	"ratio_psi":"sg^2\/(sf + sg)^2",
+	"ratio_phi":"sg^2\/(sf + sg)^2",
+	"ratios_equal":true,
+	"ratio_is_(sg\/S)^2":true,
+	"omega_rescales_p_channel":false
+}
