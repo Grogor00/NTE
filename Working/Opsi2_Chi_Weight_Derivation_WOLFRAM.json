@@ -1,0 +1,13 @@
+{
+	"engine":"WolframEngine15",
+	"n":40,
+	"max_abs_err_vs_sg2_over_S":6.661338147750939e-16,
+	"max_C_entry_err":0.0,
+	"min_sep_from_Sigma_g":0.30986953510646165,
+	"min_sep_from_Sigma":0.7525273942681139,
+	"min_sep_from_theta":1.031904305541953e-2,
+	"max_k5_err":4.440892098500626e-16,
+	"max_sf0_err":6.661338147750939e-16,
+	"max_omega_changes_alpha":4.440892098500626e-16,
+	"weight_is_sg2_over_S":true
+}

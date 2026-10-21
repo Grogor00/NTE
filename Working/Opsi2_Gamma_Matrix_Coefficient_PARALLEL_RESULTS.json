@@ -1,0 +1,74 @@
+{
+  "numpy": {
+    "engine": "numpy",
+    "n": 60,
+    "alpha_squared_is_I": true,
+    "aligned_pass": true,
+    "aligned_max_err_vs_sg2_over_S": 2.220446049250313e-16,
+    "aligned_max_alpha_channel": 0.0,
+    "aligned_max_dist_to_I": 0.0,
+    "boost_matches_closed_form": true,
+    "boost_max_err_vs_closed_form": 4.440892098500626e-16,
+    "boost_min_departure_from_sg2_over_S": 0.000133780774072223,
+    "boost_min_alpha_channel": 0.032442711104495585,
+    "boost_median_alpha_channel": 0.22754343560309143,
+    "boost_min_sep_cI_from_Sigma_g": 0.23047092716140496,
+    "boost_changes_weight": false,
+    "sf0_max_err_vs_sg": 2.220446049250313e-16,
+    "sf0_max_alpha_channel": 0.0,
+    "constant_spinor_E": 0.0,
+    "constant_spinor_psi_alpha_psi_real": -0.5271317829457365,
+    "spin_vertex_I_coeff": 0.25,
+    "spin_vertex_frob": 0.5,
+    "gamma01_real": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "current_aligned": "psi_dagger_partial_psi",
+    "not_current": "psi_dagger_alpha_psi"
+  },
+  "wolfram": {
+    "returncode": 0,
+    "stderr_tail": "",
+    "summary": {
+      "engine": "WolframEngine15",
+      "n": 60,
+      "alpha_sq_err": 0,
+      "aligned_pass": true,
+      "aligned_max_err_vs_sg2_over_S": 0.0,
+      "aligned_max_alpha_channel": 0.0,
+      "aligned_max_dist_to_I": 0.0,
+      "boost_max_err_vs_closed_form": 4.440892098500626e-16,
+      "boost_min_departure_from_sg2_over_S": 8.668297639524702e-05,
+      "boost_median_alpha_channel": 0.19350504412719627,
+      "boost_min_sep_cI_from_Sigma_g": 0.2832456680035341,
+      "boost_changes_weight": false,
+      "sf0_max_err_vs_sg": 2.220446049250313e-16,
+      "sf0_max_alpha_channel": 0.0
+    }
+  },
+  "both_aligned_exact": true,
+  "both_boost_changes": false
+}

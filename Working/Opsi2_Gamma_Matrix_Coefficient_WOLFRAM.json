@@ -1,0 +1,16 @@
+{
+	"engine":"WolframEngine15",
+	"n":60,
+	"alpha_sq_err":0,
+	"aligned_pass":true,
+	"aligned_max_err_vs_sg2_over_S":0.0,
+	"aligned_max_alpha_channel":0.0,
+	"aligned_max_dist_to_I":0.0,
+	"boost_max_err_vs_closed_form":4.440892098500626e-16,
+	"boost_min_departure_from_sg2_over_S":8.668297639524702e-5,
+	"boost_median_alpha_channel":0.19350504412719627,
+	"boost_min_sep_cI_from_Sigma_g":0.2832456680035341,
+	"boost_changes_weight":false,
+	"sf0_max_err_vs_sg":2.220446049250313e-16,
+	"sf0_max_alpha_channel":0.0
+}
