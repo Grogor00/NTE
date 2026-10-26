@@ -1,0 +1,72 @@
+{
+  "numpy": {
+    "engine": "numpy",
+    "pure_hr": {
+      "n_kept": 78,
+      "max_resid": 0.0,
+      "max_P_on_C0": 3.041520911564742e-15,
+      "min_P_when_C_nonzero": 0.060440792010958505,
+      "pass": true
+    },
+    "boost": {
+      "label": "boost",
+      "n": 80,
+      "median_resid": 0.7784917243635588,
+      "median_alpha_piece": 0.2912849522778918,
+      "median_I_piece": 0.5867401790507449,
+      "median_orth_frac": 0.8057200034836582,
+      "max_analytic_err": 1.3543469566674573e-15,
+      "max_u_routed_delta": 4.003796507902874,
+      "max_cI_err": 6.661338147750939e-16,
+      "median_alpha_coeff": 0.23037584806056194,
+      "max_rest": 4.440918770829096e-16,
+      "max_fd": 1.8419503734655757e-06,
+      "max_C_on": 1.1060596882828122e-14,
+      "fraction_resid_gt_1e-3": 1.0
+    },
+    "sigma_f_0": {
+      "n": 40,
+      "median_resid": 2.1770499437141044e-16,
+      "median_alpha_coeff": 0.0,
+      "max_cI_err": 2.220446049250313e-16
+    },
+    "k5_swap": {
+      "n": 80,
+      "median_resid": 0.6781366139152922,
+      "median_alpha_piece": 0.3529811081080753,
+      "max_cI_err": 5.551115123125783e-16,
+      "fraction_resid_gt_1e-3": 1.0
+    },
+    "equal_weights": {
+      "median_resid": 0.5899240674476244,
+      "median_abs_cI_minus_sg_over_2": 0.0,
+      "median_alpha_coeff": 0.24764328796923668
+    },
+    "aligned_p0": {
+      "median_resid": 0.6789194365498676,
+      "median_alpha_coeff": 0.0,
+      "max_cI_err": 4.440892098500626e-16
+    },
+    "formula_holds_all_three_directions": true,
+    "matrix_remainder_below_1e-8": true,
+    "controls_pass": false,
+    "residual_survives_boost_nEOM": false,
+    "statistic": "median over draws; no minimum-departure flag"
+  },
+  "wolfram": {
+    "returncode": 0,
+    "stderr_tail": "",
+    "summary": {
+      "engine": "wolfram",
+      "n": 40,
+      "median_resid": 0.8311370639441265,
+      "median_alpha_piece": 0.4310626261557785,
+      "median_I_piece": 0.6584559009670243,
+      "median_orth_frac": 0.9111120306330404,
+      "max_cI_err": 3.885780586188048e-16,
+      "max_rest": 3.591034791892418e-16,
+      "sf0_max_resid": 6.377745716588144e-16,
+      "sf0_max_alpha": 0.0
+    }
+  }
+}

@@ -8,7 +8,7 @@
 | **type** | reconstruction |
 | **assumes** | Operational / GPT framework; each programme’s named axioms (Hardy: incl. continuous reversible transformations + simplicity; CDP: five informational axioms + purification; Masanes–Müller: local tomography, continuous reversibility, etc.). These axioms are **quantum-like / informational**, not pre-quantum geometric ontology. |
 | **establishes** | Complex Hilbert-space QT (density matrices, Born rule, composition) as the theory singled out by those axiom sets. |
-| **does not establish** | Derivation of complex amplitudes from **non-operational** premises (e.g. octonion descent, physical S³ cosmology). That Hardy’s “simplicity” is beyond criticism (later work replaces it). Infinite-dimensional QT. Any NTE-specific claim. |
+| **does not establish** | Derivation of complex amplitudes from non-operational premises. That Hardy’s “simplicity” is beyond criticism. Infinite-dimensional quantum theory. |
 | **status** | established (within each axiom package); programmes differ on which axioms |
 | **verified** | Cursor Main, 2026-10-15/16 — arXiv/HTML fetched in literature leg; `verified: YES` for abstract-level claim; byte-exact axiom lists in primary PDFs as cited. |
 

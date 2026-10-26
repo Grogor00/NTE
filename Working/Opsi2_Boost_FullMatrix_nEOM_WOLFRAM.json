@@ -1,0 +1,12 @@
+{
+	"engine":"wolfram",
+	"n":40,
+	"median_resid":0.8311370639441265,
+	"median_alpha_piece":0.4310626261557785,
+	"median_I_piece":0.6584559009670243,
+	"median_orth_frac":0.9111120306330404,
+	"max_cI_err":3.885780586188048e-16,
+	"max_rest":3.591034791892418e-16,
+	"sf0_max_resid":6.377745716588144e-16,
+	"sf0_max_alpha":0.0
+}

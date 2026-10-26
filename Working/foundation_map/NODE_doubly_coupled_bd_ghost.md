@@ -3,13 +3,14 @@
 | Field | Content |
 |---|---|
 | **id** | `doubly_coupled_bd_ghost` |
-| **claim** | In bimetric / multi-metric gravity, matter coupled to **more than one** metric generically **reintroduces the Boulware–Deser ghost**, with controlled exceptions only under special coupling structures. |
-| **source** | Yamashita, Y., De Felice, A. & Tanaka, T., “Appearance of Boulware–Deser ghost in bigravity with doubly coupled matter,” arXiv:**1408.0487** (YITP-15-37 / KUNS-2508). **Fetched** Cursor Main 2026-10-18 (arXiv abs+body). |
+| **claim** | arXiv:1408.0487: the Boulware–Deser ghost generally revives when matter is doubly coupled, and ghost-freeness strongly restricts kinetically doubly coupled matter. That paper does not discuss a Dirac field. arXiv:1511.01485 treats a Dirac field on one effective vielbein in mini-superspace and finds that only rank-2 couplings are ghost-free for scalar, Yang–Mills, and Dirac fields simultaneously in that analysis. |
+| **source** | Yamashita, De Felice, and Tanaka, arXiv:1408.0487, HTML fetched 2026-10-27. Melville and Noller, arXiv:1511.01485, HTML fetched 2026-10-27, equations (4.16)–(4.21). |
 | **type** | theorem (no-go with stated exceptions) |
 | **assumes** | Ghost-free vacuum bimetric setup; matter stress-energy sourcing more than one metric in the generic way analysed in that paper. |
-| **establishes** | Double coupling of matter is not freely available in Hassan–Rosen-class theories without ghost risk. |
-| **does not establish** | That *all* multi-metric matter couplings are impossible (paper’s exceptions). That geometric bridges without second kinetic metric are covered. Any NTE-specific action. |
-| **status** | established within the paper’s hypotheses |
-| **verified** | Cursor Main, 2026-10-18 — arXiv:1408.0487 fetched; abstract: BD ghost *generally revives* with doubly coupled matter; ghost freeness *strongly restricts* kinetically doubly coupled matter. `verified: YES`. |
+| **establishes** | Double kinetic coupling revives the ghost in the setting of arXiv:1408.0487. In the mini-superspace of arXiv:1511.01485, only rank-2 couplings are ghost-free for a Dirac field together with the other species they treat. |
+| **does not establish** | That every coupling to two metrics revives the ghost. That a Dirac field with two independent kinetic terms, one on each vielbein, has been analysed. That coupling was not found in either fetched paper. It stays open. |
+| **status** | established for arXiv:1408.0487 and for the mini-superspace rank-2 result; the two-kinetic Dirac coupling is open |
+| **established by** | Yamashita–De Felice–Tanaka, arXiv:1408.0487. Melville–Noller, arXiv:1511.01485, for the effective-vielbein mini-superspace. |
+| **verified** | Cursor Main, 2026-10-27 — both HTML primaries fetched. `verified: YES`. |
 
 **Edges:** `excludes` naive doubly-coupled matter in HR bimetric. Constrains `hassan_rosen_bimetric` matter sector.

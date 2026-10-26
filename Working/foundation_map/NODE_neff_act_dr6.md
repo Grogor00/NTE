@@ -3,7 +3,7 @@
 | Field | Content |
 |---|---|
 | **id** | `neff_act_dr6` |
-| **claim** | Current CMB analyses combining ACT DR6 with Planck yield **N_eff ≈ 2.86 ± 0.13** (campaign figure used in Core/Working), consistent with the SM expectation ≈ 3.04 within uncertainties and tightly constraining large extra radiation. |
+| **claim** | ACT DR6 combined with Planck gives \(N_{\mathrm{eff}} = 2.86 \pm 0.13\) (P-ACT-LB). With BBN abundances the same paper gives \(N_{\mathrm{eff}} = 2.89 \pm 0.11\). |
 | **source** | ACT Collaboration, “The Atacama Cosmology Telescope: DR6 constraints on extended cosmological models,” arXiv:**2503.14454** (*JCAP* 2025). Quote (abstract): $N_{\mathrm{eff}} = 2.86 \pm 0.13$ (P-ACT-LB); with BBN abundances $N_{\mathrm{eff}} = 2.89 \pm 0.11$. **Fetched** Cursor Main 2026-10-18. |
 | **type** | experimental result |
 | **assumes** | ΛCDM-like cosmological model class used in those fits; standard neutrino decoupling assumptions for the SM comparison value. |

@@ -3,13 +3,13 @@
 | Field | Content |
 |---|---|
 | **id** | `unimodular_trace_free` |
-| **claim** | Unimodular / trace-free formulations of gravity can be set so that a **constant** vacuum energy does not gravitate in the same way as in ordinary Einstein equations (Λ as an integration constant / constrained volume), offering a structural approach to the cosmological-constant problem. |
-| **source** | Buchmüller, W. & Dragon, N. (1988); Henneaux, M. & Teitelboim, C. (1989), “The cosmological constant and general covariance,” *Phys. Lett. B* **222**, 195–199. Contested modern condition: Jiroušek et al. / related 2023 literature on global four-volume constraints (campaign cite “Jiroušek 2023”). |
+| **claim** | Jiroušek, arXiv:2301.01662: a resolution of the old cosmological-constant problem in unimodular gravity relies on a global constraint on the spacetime four-volume. Setting the initial value of the Lagrange multiplier directly leaves the old problem in place. |
+| **source** | Jiroušek, arXiv:2301.01662, HTML and PDF text fetched 2026-10-27. Buchmüller and Dragon (1988) and Henneaux and Teitelboim, *Phys. Lett. B* 222 (1989) 195: primaries not fetched. `verified: NO` for those two papers. They are not premises. |
 | **type** | framework (contested) |
 | **assumes** | Fixed/total four-volume or trace-free Einstein equations; classical GR setting. |
-| **establishes** | A family of formulations in which vacuum energy’s gravitational role differs from textbook GR. |
-| **does not establish** | A unique solution for the observed Λ. That the formulation is uncontested (Jiroušek-type global conditions are **disputed**). Quantum resolution of the CC problem. Derivation of Λ’s value. |
-| **status** | **contested** — classical idea established; global-volume condition status disputed |
-| **verified** | Cursor Main, 2026-10-16 — Buchmüller–Dragon / Henneaux–Teitelboim at standard citation strength; Jiroušek primary **not** fetched this session (`verified: PARTIAL`). **AC prior:** contested status must stay visible. |
+| **establishes** | In the fetched review, the old cosmological-constant problem is addressed only when the effective cosmological constant is fixed by a global four-volume constraint. |
+| **does not establish** | A unique observed value of \(\Lambda\). The contents of Buchmüller–Dragon 1988 or Henneaux–Teitelboim 1989. Those primaries were not opened. |
+| **status** | established for the distinction drawn in arXiv:2301.01662 |
+| **verified** | Cursor Main, 2026-10-27. `verified: YES` for arXiv:2301.01662. `verified: NO` for Buchmüller–Dragon 1988 and Henneaux–Teitelboim 1989. |
 
 **Edges:** `is-compatible-with` Λ reframing programmes. `gap-between` vs spectral-action cosmological term (`spectral_action_cosmo_term`).

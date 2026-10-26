@@ -6,7 +6,7 @@ date: "2026-10-06 (v10.19.0)"
 ---
 
 > **Status.** Corpus v10.19.0 · last ratified change 2026-10-09 · **Broad κ:** amplifier / 5.50 **withdrawn**; κ₀ **retained** · GO 2026-10-07 abstract/§4/§5
-> Canonical source: `Core_Papers\`. Open items affecting this paper: observed-CDM open; location-blind coupling vs spatially-resolved structure (Bullet Cluster class). **See Companion 22** (dark sector + 2026-10-10 geometric-CDM investigation; Channel L permitted not earned; H2/FS3 honesty).
+> Canonical source: `Core_Papers\`. Open items affecting this paper: observed-CDM open; location-blind coupling vs spatially-resolved structure (Bullet Cluster class). 
 
 *Part of NTE Corpus v10.19.0 (live status header; deposited series v10.19.0). Companion 5.*
 

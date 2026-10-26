@@ -1,6 +1,6 @@
 CURSOR_INBOX_LAST_SCAN
-timestamp_nzdt: 2026-10-26 ~15:07
-tick: manual (update)
-action: AC Phase 0 ruling applied to the step-4 table. General CPN edge struck. NTE-scoped replacement recorded as a closure sentence, not a general edge. Six general edges remain.
-newest: Handoffs\RULING_AC_Phase0_Halts_PaperI_PaperII_Is_Clarification_PaperIII_Rescope_CPN_Edge_Refuted_AC_Error_20261026.md
-status: Paper I halted as a no-go. Paper II is a clarification; Furey-Hughes is Jammer's blocking question. Paper III not drafted. Stage 1 still held for AC. Posteriors held. Bimetric engine not started.
+timestamp_nzdt: 2026-10-27 ~03:21
+tick: manual (closure record v3 amendment)
+action: six amendment spans matched and applied to the closure record. Jammer's adversarial review was not taken. No Core.
+newest: Handoffs\AMENDMENT_AC_Closure_Record_v3_Three_Number_Corrections_Two_Edges_Strengthened_20261027.md
+status: v3 draft contains the six corrections. Ratification waits on Jammer. Posteriors held.

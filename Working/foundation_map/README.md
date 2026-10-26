@@ -21,7 +21,10 @@
 | 13 | `NODE_mirror_baryons_x_le_0p3.md` | seeded |
 | 14 | `NODE_spectral_action_cosmo_term.md` | seeded |
 | 15 | `NODE_bft_cpt_universe.md` | seeded |
+| 16 | `NODE_zhang_additivity_irreducible.md` | step 4, 2026-10-27 |
+
+**Step 4 tested edges (2026-10-27):** see `STEP4_SIX_EDGES_20261027.md`.
 
 **Related (not a map node):** `Working/WHY_COMPLEX_S3_Reconstruction_Literature_LEG_CursorMain_20261015.md` · `Working/G2_SM_LITERATURE_LEG_CursorMain_20261016.md`
 
-— Cursor Main, 2026-10-16
+— Cursor Main, 2026-10-16; step 4 row 2026-10-27
