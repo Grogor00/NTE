@@ -1,0 +1,42 @@
+{
+  "numpy": {
+    "engine": "numpy",
+    "n": 60,
+    "median_rel_resid_dCdp": 0.8618234727030261,
+    "min_rel_resid_dCdp": 0.26907177121150305,
+    "median_rel_resid_onto_C": 0.4347930439197992,
+    "min_rel_resid_onto_C": 0.007565489578836786,
+    "p0_median_rel_dCdp": 1.0,
+    "p0_min_rel_dCdp": 1.0,
+    "sf0_max_abs_Delta": 4.440892098500626e-16,
+    "max_fd_err": 1.4553356047306498e-06,
+    "escape_fails": false
+  },
+  "sympy_factorization": {
+    "dirac_num_degree": 1,
+    "dirac_den_degree": 0,
+    "dirac_linear": true,
+    "scalar_num_degree": 2,
+    "scalar_den_degree": 1,
+    "scalar_linear": false,
+    "p_not_a_multiplier": true,
+    "factorization_holds": true
+  },
+  "wolfram": {
+    "returncode": 0,
+    "stderr_tail": "",
+    "summary": {
+      "engine": "WolframEngine15",
+      "n": 60,
+      "median_rel_resid_dCdp": 0.8450098493824739,
+      "min_rel_resid_dCdp": 0.2566912425066965,
+      "median_rel_resid_onto_C": 0.43296169199191664,
+      "min_rel_resid_onto_C": 0.05668508542859639,
+      "p0_min_rel_dCdp": 0.9999999999999999,
+      "sf0_max_abs_Delta": 4.440892098500626e-16,
+      "max_fd_err": 7.535358962085237e-07,
+      "escape_fails": true
+    }
+  },
+  "both_escape_fails": false
+}

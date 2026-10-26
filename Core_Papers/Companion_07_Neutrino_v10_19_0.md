@@ -28,6 +28,8 @@ Three consequences follow. **Mass:** the neutrino's tiny mass is the geometric t
 
 ## 1. The standard Majorana description, and the deeper statement
 
+**Withdrawn (2026-10-12).** This section previously grounded the neutrino's non-resolution on the smallness of its Higgs coupling. That argument does not hold: the light–light coupling (~m_ν/v) and the Dirac Yukawa (Y_ν₂ ≈ 0.34, Companion 12 §3) are different objects, the deposit does not state which governs, and on either reading the argument fails — the effective coupling is small **because** M_R is a large Majorana mass, which makes the argument circular; and the Dirac Yukawa is not small. **No coupling magnitude sets the particle/antiparticle axis: Dirac-versus-Majorana is a lepton-number-violation fact.**
+
 **What ν = ν̄ says.** A Majorana fermion satisfies ψ = ψ^c: particle and antiparticle are identified, the same state. In earlier framings this licensed the shorthand that a left-handed neutrino in one orientation "is" the right-handed antineutrino in the other, bridging the two CPN-conjugate orientations of the manifold's N-thickness.
 
 **What it presupposes.** The identification ν = ν̄ presupposes that the categories "particle" and "antiparticle" have already been *applied* and then found to coincide. It is a statement within the resolved regime: after gauge birth has assigned quantum numbers and the Hopf projection has created the binary, one particular fermion happens to map to itself under charge conjugation.
@@ -81,7 +83,7 @@ The neutrino enters the framework's cross-thickness coupling κ as the geometric
 
 A clarifying point, because two distinct "threes" both trace to su(2) and were once conflated. The three *flavour eigenmodes* of §3 and the three *adjoint gauge components* in κ₀ are different roles of the same algebraic fact, dim su(2) = 3 — the eigenmodes live on the flavour axis (their splitting gives the mass hierarchy), while the multiplicity in κ₀ is the adjoint gauge-component sum. The eigenmodes are structurally parallel to, but do not *supply*, the κ₀ count. Both rest on there being exactly three su(2) generators.
 
-**The closure, and the fourth-neutrino exclusion.** The bare coupling closes to the physical value by the CPN-symmetric resummation κ = κ₀/(1 − κ₀) = 5.50, an architectural step carried by the κ-closure paper; this companion supplies only the geometric object the bare coupling reads from. The exclusion of a fourth light Majorana neutrino has its cleanest grounding here as a topological fact rather than a numerical accident: SU(2) ≅ S³ has exactly three generators, so the unresolved geometry admits exactly three eigenmodes and the adjoint admits exactly three components. There is no fourth su(2) direction for a fourth mode to occupy. (That a fourth contribution would also push the bare coupling past the convergence threshold κ₀ < 1 is a consistency check on the same fact, not an independent argument.)
+**The bare coupling, and the fourth-neutrino exclusion.** This companion supplies the geometric object the bare coupling κ₀ = 3/√(4π) reads from. **An algebraic amplifier κ = κ₀/(1 − κ₀) ≈ 5.50 is withdrawn (2026-10-09, broad)** — architectural, no deposited action; **not a framework quantity.** The exclusion of a fourth light Majorana neutrino has its cleanest grounding here as a topological fact rather than a numerical accident: SU(2) ≅ S³ has exactly three generators, so the unresolved geometry admits exactly three eigenmodes and the adjoint admits exactly three components. There is no fourth su(2) direction for a fourth mode to occupy. (That a fourth contribution would also push the bare coupling past the convergence threshold κ₀ < 1 is a consistency check on the same fact, not an independent argument.)
 
 ---
 
@@ -105,6 +107,9 @@ The Born-rule companion establishes that the probability rule activates at gauge
 
 ## 7. Falsifiability
 
+**Withdrawn (2026-10-12)**, with §1–2's mechanism. Majorana character is **adopted from the standard type-I seesaw with Majorana M_R** — shared with every such model and **not NTE-distinctive**. It remains a **commitment with a Dirac falsifier at 0νββ**. The "forced" and "topologically forced" characterisations are withdrawn: the Pin⁻/ℤ₂ twist grounds CPN and baryogenesis, but no deposited text ties it to Dirac-versus-Majorana, and the route that did — the κ₀ < 1 convergence counting — fell with the amplifier (2026-10-09).
+
+
 The ontology makes definite, currently-testable commitments.
 
 - **Normal ordering is required.** The three-eigenmode decomposition forces one heavier state and two nearly-degenerate lighter states (m₃ > m₂ ≳ m₁). Confirmed inverted ordering (JUNO, DUNE) falsifies the mechanism. Present data favour normal ordering at modest significance.
@@ -127,4 +132,4 @@ The neutrino is not its own antiparticle; it is a configuration for which the pa
 3. Companion 2 (Born Rule / Hopf) and Companion 6 (gauge birth) — the Hopf fibre and the activation of the Born rule.
 4. The mixing sector — θ₂₃ = π/4 (μ–τ reflection, credited to the μ–τ symmetry literature), θ₁₃ ≠ 0 natural, |δ_CP| = π/2 — built on the σ₁/σ₂/σ₃ ontology of §3 (see Part 3).
 5. Companions 10 (heavy Majorana scale M_R) and 13 (the solar-leg Dirac Yukawa) — the quantitative mass sector: the neutrino mass-ratio, seesaw factorisation, and the honest solar/atmospheric tension.
-6. Paper on κ-closure and Companion 12 (heat-kernel route) — the bare coupling κ₀ = 3/√(4π) and its closure κ = κ₀/(1 − κ₀); J. Sonner and D. Tong, Phys. Rev. Lett. **102**, 191601 (2009) [arXiv:0809.3783] for the SU(2)-adjoint reading of the multiplicity; C. Bär, "Real Killing spinors and holonomy," Commun. Math. Phys. **154**, 509 (1993) for the Killing-spinor dimension.
+6. Companion 12 (heat-kernel route) — the bare coupling κ₀ = 3/√(4π); **amplifier closure withdrawn 2026-10-09**; J. Sonner and D. Tong, Phys. Rev. Lett. **102**, 191601 (2009) [arXiv:0809.3783] for the SU(2)-adjoint reading of the multiplicity; C. Bär, "Real Killing spinors and holonomy," Commun. Math. Phys. **154**, 509 (1993) for the Killing-spinor dimension.

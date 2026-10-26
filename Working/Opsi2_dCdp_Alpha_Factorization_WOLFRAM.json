@@ -1,0 +1,12 @@
+{
+	"engine":"WolframEngine15",
+	"n":60,
+	"median_rel_resid_dCdp":0.8450098493824739,
+	"min_rel_resid_dCdp":0.2566912425066965,
+	"median_rel_resid_onto_C":0.43296169199191664,
+	"min_rel_resid_onto_C":5.668508542859639e-2,
+	"p0_min_rel_dCdp":0.9999999999999999,
+	"sf0_max_abs_Delta":4.440892098500626e-16,
+	"max_fd_err":7.535358962085237e-7,
+	"escape_fails":true
+}
