@@ -1,0 +1,14 @@
+{
+  "n_control": 40,
+  "frozen_g_only_median_defect": 2.3592239273284576e-16,
+  "n_full": 40,
+  "full_median_defect": 0.17213192083195888,
+  "n_identity": 40,
+  "identity_median_rel_residual": 1.057043420910219,
+  "n_live": 40,
+  "live_g_only_median_defect": 0.0013650566187831947,
+  "n_eq10": 40,
+  "fD_asymmetry_median_rel": 0.23477974400100576,
+  "controls_pass": true,
+  "outcome": "survives"
+}
