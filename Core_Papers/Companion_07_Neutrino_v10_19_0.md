@@ -2,11 +2,11 @@
 title: "The neutrino as unresolved geometry: neither particle nor antiparticle"
 subtitle: "Oscillation as geometric sliding on S³"
 author: "Gregory Lyndon White"
-date: "2026-10-06 (v10.19.0) — pre-campaign; read and found clean"
+date: "2026-10-27 (v10.19.0) — neutrino re-grounding, 1.1-a and 1.1-b"
 ---
 
-> **Status.** Corpus v10.19.0 · last ratified change pre-campaign; read and found clean
-> Canonical source: `Core_Papers\`. Open items affecting this paper: κ's closure rests on the bilateral action, whose completion is open.
+> **Status.** Corpus v10.19.0 · last ratified change 2026-10-27 · neutrino re-grounding, 1.1-a and 1.1-b
+> Canonical source: `Core_Papers\`. Open items affecting this paper: Majorana character is a commitment from the standard type-I seesaw, not a topological result.
 
 *Part of NTE Corpus v10.19.0 (live status header; deposited series v10.19.0). Companion 7.*
 

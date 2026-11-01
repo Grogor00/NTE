@@ -2,11 +2,11 @@
 title: "The Born rule activates at the gauge birth"
 subtitle: "cos²(θ/2) from S³ boundary geometry at temporal locking"
 author: "Gregory Lyndon White"
-date: "2026-09-28 (v10.19.0)"
+date: "2026-10-27 (v10.19.0)"
 ---
 
-> **Status.** Corpus v10.19.0 · last ratified change 2026-09-28 · κ-closure repoint to Part 2 §IX
-> Canonical source: `Core_Papers\`. Open items affecting this paper: κ's closure rests on the bilateral action, whose completion is open.
+> **Status.** Corpus v10.19.0 · last ratified change 2026-10-27 · §6 κ withdrawal
+> Canonical source: `Core_Papers\`. Open items affecting this paper: κ₀ retained as a geometric identity with no coupling interpretation.
 
 *Part of NTE Corpus v10.19.0 (live status header; deposited series v10.19.0). Companion 6.*
 

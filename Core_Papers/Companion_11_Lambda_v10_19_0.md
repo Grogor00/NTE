@@ -5,7 +5,7 @@ date: "2026-10-06 (v10.19.0)"
 ---
 
 > **Status.** Corpus v10.19.0 · last ratified change 2026-10-06 · grade adopted 2026-09-30; reference-4 mimetic reword 2026-10-06
-> Canonical source: `Core_Papers\`. Open items affecting this paper: adopted-not-derived; CCM grounding not shown for NTE's algebra; Jiroušek condition.
+> Canonical source: `Core_Papers\`. Open items affecting this paper: adopted-not-derived; Buchmüller–Dragon and Henneaux–Teitelboim are unfetched and are not premises.
 
 *Part of NTE Corpus v10.19.0 (live status header; deposited series v10.19.0). Companion 11.*
 

@@ -1,11 +1,11 @@
 ---
 title: "Non-Temporal Emergence — Part 3 of 3: Accounting, Falsifiability, and Open Work"
 author: "Greg White (Gregory Lyndon White)"
-date: "2026-10-07 (v10.19.0)"
+date: "2026-10-30 (v10.19.0)"
 ---
 
-> **Status.** Corpus v10.19.0 · last ratified change 2026-10-10 · **Broad κ:** amplifier / κ=5.50 **withdrawn**; κ₀ = 3/√(4π) **retained** · **GO 2026-10-07:** Bullet Cluster · **P08** two-register · observational cosmology **adopted ΛCDM (P04)**
-> Canonical source: `Core_Papers\`. Open items affecting this paper: observed-CDM open; cosmological origin sector open; two-orientation gravity completion (O1) open; P09 rebuild programme gated.
+> **Status.** Corpus v10.19.0 · last ratified change 2026-10-30 · bound citation fix
+> Canonical source: `Core_Papers\`. Open items affecting this paper: observed CDM open; cosmological origin sector open; no handle currently distinguishes the framework from SM + ΛCDM; ΛCDM adopted and credited.
 
 *Independent researcher, Auckland, New Zealand · gregwhite00@gmail.com · ORCID 0009-0003-3680-2363*
 
@@ -112,6 +112,8 @@ NTE reframes the $\Lambda$ *problem* structurally: the $10^{120}$ catastrophe is
 
 ## Open work
 
+**Closure record.** The corpus entry point is `Core_Papers\NTE_Corpus_Closure_Record_v4.md`, deposited as the 25th artefact (Greg, 2026-10-31).
+
 **Cosmological origin sector — OPEN (Greg, 2026-09-27, option D).**
 NTE requires an accelerated epoch at the no-boundary junction for the universe to exist: the handover occurs at $\dot{a} = 0$, so content with $\rho + 3p > 0$ recollapses (Companion 9 §3). **The framework does not currently supply that epoch consistently under any single mechanism, and the sector is deposited open rather than closed by selection.**
 
@@ -130,7 +132,7 @@ NTE derives a **bare bilateral coupling** $\kappa_0 = 3/\sqrt{4\pi} \approx 0.84
 
 **What is not established is that this is the cold dark matter inferred from the CMB.** The identification $\kappa = \Omega_{\mathrm{DM}}/\Omega_b$, and its comparison with the measured $5.38 \pm 0.15$, are **withdrawn**. Three findings close it, each independently sufficient:
 
-1. **The conjugate sector is not cold.** CPN symmetry fixes the conjugate sector as the antipodal image with $M_A = M_B$ and coincident field values (Companion 5 §5) — an exact mirror, not a cooled one. At equal temperature it recombines at $z' \approx 1090$, **after** matter–radiation equality at $z \approx 3490$, so its matter is radiation-pressure-supported and acoustically oscillating throughout the epoch in which the dark-matter ratio is fixed. Its density contrast inside the sound horizon is **2–12%** of the cold-collisionless reference and the implied $\sigma_8$ ratio is **$\approx 0.27$**. The mirror-matter literature admits mirror baryons as all the dark matter only for a temperature ratio $x \lesssim 0.3$; here $x = 1$.
+1. **The conjugate sector is not cold.** CPN symmetry fixes the conjugate sector as the antipodal image with $M_A = M_B$ and coincident field values (Companion 5 §5) — an exact mirror, not a cooled one. At equal temperature it recombines at $z' \approx 1090$, **after** matter–radiation equality at $z \approx 3490$, so its matter is radiation-pressure-supported and acoustically oscillating throughout the epoch in which the dark-matter ratio is fixed. Its density contrast inside the sound horizon is **2–12%** of the cold-collisionless reference and the implied $\sigma_8$ ratio is **$\approx 0.27$**. The mirror-matter literature admits mirror baryons as all the dark matter only for a low temperature ratio — $x < 0.297$ (pure) and $x < 0.315$ (mixed) from CMB+LSS (Ciarcelluti–Wallemacq, arXiv:1401.4763), against the weaker BBN bounds $x < 0.64$ (Berezhiani–Comelli–Villante, hep-ph/0008105, eq. 9) and $T' < 0.64\,T$ (Foot, astro-ph/0407623); here $x = 1$.
 
 2. **The equal-temperature reading is refuted by the radiation budget.** A conjugate sector in thermal contact contributes $\Delta N_{\mathrm{eff}} \ge 3.73$ at minimum, and $\approx 41$ on the framework's own fixed-point formula, against the measured $N_{\mathrm{eff}} = 2.86 \pm 0.13$.
 

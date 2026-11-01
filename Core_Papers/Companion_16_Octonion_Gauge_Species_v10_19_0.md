@@ -5,7 +5,7 @@ date: "2026-10-03 (v10.19.0)"
 ---
 
 > **Status.** Corpus v10.19.0 · last ratified change 2026-10-03 · companion pass
-> Canonical source: `Core_Papers\`. Open items affecting this paper: none.
+> Canonical source: `Core_Papers\`. Open items affecting this paper: G₂ gives colour only — rank 2 against rank 4; the ℂ-selection descent presupposes its norm.
 
 *Independent Researcher, Auckland, New Zealand*
 

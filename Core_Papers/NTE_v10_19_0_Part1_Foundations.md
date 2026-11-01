@@ -2,11 +2,11 @@
 title: "Non-Temporal Emergence — Part 1 of 3: Foundations and Method"
 subtitle: "A boundary-only extension to the Standard Model from CPN-symmetric nucleation on S³"
 author: "Greg White (Gregory Lyndon White)"
-date: "2026-10-07 (v10.19.0)"
+date: "2026-10-27 (v10.19.0)"
 ---
 
-> **Status.** Corpus v10.19.0 · last ratified change 2026-10-09 · **Broad κ:** amplifier / 5.50 **withdrawn**; κ₀ **retained** · **GO 2026-10-07:** §III/§VI CDM; ontology §2.1; §V speculative · **P08** · **P04** adopted ΛCDM
-> Canonical source: `Core_Papers\`. Open items affecting this paper: observed-CDM open; cosmological origin sector open; two-orientation gravity (O1) open; §VII locking criterion never recomputed under Door B.
+> **Status.** Corpus v10.19.0 · last ratified change 2026-10-27 · §I seesaw correction · closure record v4 deposits as `Core_Papers\NTE_Corpus_Closure_Record_v4.md`
+> Canonical source: `Core_Papers\`. Open items affecting this paper: observed CDM open; cosmological origin sector open; no handle currently distinguishes the framework from SM + ΛCDM; ΛCDM adopted and credited.
 
 *Independent researcher, Auckland, New Zealand · gregwhite00@gmail.com · ORCID 0009-0003-3680-2363*
 

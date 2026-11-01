@@ -2,11 +2,11 @@
 title: "The state space is the surface"
 subtitle: "Quantum mechanics and cosmology as the geometry of a single S³ manifold"
 author: "Gregory Lyndon White"
-date: "2026-10-06 (v10.19.0)"
+date: "2026-10-27 (v10.19.0)"
 ---
 
-> **Status.** Corpus v10.19.0 · last ratified change 2026-10-09 · **Broad κ:** amplifier / 5.50 **withdrawn**; κ₀ **retained** · GO 2026-10-07 abstract/§4/§5
-> Canonical source: `Core_Papers\`. Open items affecting this paper: observed-CDM open; location-blind coupling vs spatially-resolved structure (Bullet Cluster class). 
+> **Status.** Corpus v10.19.0 · last ratified change 2026-10-27 · C22 citation withdrawal
+> Canonical source: `Core_Papers\`. Open items affecting this paper: observed CDM open; cosmological origin sector open; no handle currently distinguishes the framework from SM + ΛCDM; ΛCDM adopted and credited.
 
 *Part of NTE Corpus v10.19.0 (live status header; deposited series v10.19.0). Companion 5.*
 
